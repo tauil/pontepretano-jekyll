@@ -43,7 +43,7 @@ end
 
   File.open("_posts/#{filename}.markdown", "w+") do |file|
     file.write(body)
-  end
+  end unless File.file?("_posts/#{filename}.markdown")
 end
 
 puts "Done."
