@@ -54,7 +54,11 @@ git_files = `git --work-tree=#{git.dir} --git-dir=#{git.dir}/.git ls-files -z -d
 untracked = git.status.untracked.keys & git_files
 
 if untracked.any?
+  puts "Pulling data..."
+  git.pull
+
   untracked.each do |u|
+    puts "Adding #{u} to repo..."
     git.add(u) if u.match('_posts/')
   end
 
