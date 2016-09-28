@@ -4,6 +4,7 @@ require 'net/http'
 require 'nokogiri'
 require 'ostruct'
 require 'date'
+require 'git'
 
 def sanitize(string)
   string.
@@ -44,6 +45,27 @@ end
   File.open("_posts/#{filename}.markdown", "w+") do |file|
     file.write(body)
   end unless File.file?("_posts/#{filename}.markdown")
+end
+
+git = Git.open('./')
+
+# https://github.com/schacon/ruby-git/issues/136#issuecomment-61843461
+git_files = `git --work-tree=#{git.dir} --git-dir=#{git.dir}/.git ls-files -z -d -m -o -X .gitignore`.split("\x0")
+untracked = git.status.untracked.keys & git_files
+
+if untracked.any?
+  untracked.each do |u|
+    git.add(u) if u.match('_posts/')
+  end
+
+  if git.status.added.any?
+    puts "Commiting"
+    git.commit('Adds a new parsed post')
+    puts "Pushing code..."
+    git.push('origin', 'gh-pages')
+  else
+    puts "Nothing to commit"
+  end
 end
 
 puts "Done."
