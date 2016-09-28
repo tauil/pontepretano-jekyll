@@ -6,10 +6,6 @@ layout: default
 
   <h1 class="page-heading">Posts</h1>
 
-  {% for t in site.data.tests limit:3 %}
-  <p>{{t}}</p>
-  {% endfor %}
-
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
