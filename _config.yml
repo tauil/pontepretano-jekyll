@@ -12,7 +12,7 @@ github_username:  tauil
 markdown: kramdown
 
 sass:
-  sass_dir: css
+  sass_dir: assets
 
 menus:
   - text: 'História'
