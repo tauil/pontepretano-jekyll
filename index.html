@@ -8,7 +8,11 @@ layout: default
     <div class="article left">
       <div class="content-image">
         <div class="content">
-          <a class="post-link" href="{{ post.external_link }}" target="_new">
+          {% if post.external_link != null %}
+            <a class="post-link" href="{{ post.external_link }}" target="_new">
+          {% else %}
+            <a class="post-link" href="{{ post.url }}">
+          {% endif %}
             <h2 class="title">{{ post.title | escape }}</h2>
             {% if post.headline != null %}
             <p class="headline">{{ post.headline }}</p>
