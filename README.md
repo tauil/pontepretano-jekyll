@@ -1,7 +1,8 @@
 # Pontepretano.com.br jekyll version concept with worker
 
 - [X] Test worker in VPS
-- [X] Fix assets path
+- [X] Create static posts
+- [X] List only post with category news
+- [ ] Fix assets path
 - [ ] Fix parsing dates
-- [ ] Create static posts
 - [ ] Adds next game feature

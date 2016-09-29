@@ -5,6 +5,7 @@ layout: default
 <article id="main-content">
   <section class="articles-list">
     {% for post in site.posts %}
+    {% if post.categories contains 'news' %}
     <div class="article left">
       <div class="content-image">
         <div class="content">
@@ -30,6 +31,7 @@ layout: default
         <a class="comments" href="#todo"><i class="icon comment"></i>13</a>
       </nav>
     </div>
+    {% endif %}
     {% endfor %}
 
     {% if site.posts == null %}
