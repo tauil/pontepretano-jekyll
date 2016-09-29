@@ -1,0 +1,24 @@
+<nav id="main-nav">
+  <ul id="main-menu">
+    {% for menu in site.menus %}
+    {% if menu.parents != null %}
+    <li class="sub root">
+      <a href="{{menu.href}}">{{menu.text}}</a>
+      <ul>
+        {% for parent in menu.parents %}
+        <li><a href="{{parent.href}}">{{parent.text}}</a></li>
+        {% endfor %}
+      </ul>
+    </li>
+    {% else %}
+    <li><a href="{{menu.href}}">{{menu.text}}</a></li>
+    {% endif %}
+    {% endfor %}
+  </ul>
+
+  <a id="ad-here" href="/">Anuncie no site www.pontepretano.com.br</a>
+
+  <a href="/" class="ad">
+    <img src="/images/banner_rmr.png" />
+  </a>
+</nav>

@@ -2,22 +2,36 @@
 layout: default
 ---
 
-<div class="home">
-
-  <h1 class="page-heading">Posts</h1>
-
-  <ul class="post-list">
+<article id="main-content">
+  <section class="articles-list">
     {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+    <div class="article left">
+      <div class="content-image">
+        <div class="content">
+          <a class="post-link" href="{{ post.external_link }}" target="_new">
+            <h2 class="title">{{ post.title | escape }}</h2>
+            {% if post.headline != null %}
+            <p class="headline">{{ post.headline }}</p>
+            {% endif %}
+            <p class="date">{{ post.date | date: "%b %-d, %Y" }}</p>
+            <p class="author">globo.com</p>
+          </a>
+        </div>
+      </div>
 
-        <h2>
-          <a class="post-link" href="{{ post.external_link }}" target="_new">{{ post.title | escape }}</a>
-        </h2>
-      </li>
+      <nav class="meta-links">
+        <a class="favorites" href="#todo"><i class="icon star"></i></a>
+        <a class="views" href="#todo"><i class="icon unhide"></i>145</a>
+        <a class="likes" href="#todo"><i class="icon heart"></i>86</a>
+        <a class="comments" href="#todo"><i class="icon comment"></i>13</a>
+      </nav>
+    </div>
     {% endfor %}
-  </ul>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+    {% if site.posts == null %}
+    <p class="empty">Nenhum artigo disponível.</p>
+    {% endif %}
 
-</div>
+    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+  </section>
+</article>

@@ -3,37 +3,432 @@
 ---
 @charset "utf-8";
 
-// Our variables
-$base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-$base-font-size:   16px;
-$base-font-weight: 400;
-$small-font-size:  $base-font-size * 0.875;
-$base-line-height: 1.5;
-
-$spacing-unit:     30px;
-
-$text-color:       #111;
-$background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
+$primary-color: rgba(68, 73, 83, 1);
+$bg-color: rgba(34, 35, 37, 1);
+$link-color: rgba(183, 159, 27, 1);
+$menu-active-detail-color: rgba(183, 159, 27, 1);
+$menu-hover-detail-color: rgba(202, 176, 30, 1);
+$sub-menu-color: rgba(35, 37, 43, 1);
+$sub-menu-border-color: rgba(8, 8, 9, 1);
+$add-background-color: rgba(203, 154, 14, 1);
+$add-background-hover-color: rgba(220, 167, 15, 1);
+$article-bg-color: rgba(68, 73, 83, 0.5);
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
-// Width of the content area
-$content-width:    800px;
+@import url(http://fonts.googleapis.com/css?family=Oswald:400,300,700);
 
-$on-palm:          600px;
-$on-laptop:        800px;
+body {
+  font-family: 'Oswald', sans-serif;
+  letter-spacing: -0.03rem;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 22px;
+  line-height: 1.5;
+  background: $bg-color;
+  color: #fff;
+  margin: 0;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
 
-// Minima also includes a mixin for defining media queries.
-// Use media queries like this:
-// @include media-query($on-palm) {
-//     .wrapper {
-//         padding-right: $spacing-unit / 2;
-//         padding-left: $spacing-unit / 2;
-//     }
-// }
+a {
+  color: $link-color;
+  font-weight: bold;
+}
 
-// Import partials from the `minima` theme.
-@import "minima";
+input, textarea {
+  background: $bg-color;
+  border: 1px solid #000000;
+  padding: 1em;
+  color: #999;
+  display: block;
+  box-sizing: border-box;
+  border-radius: .5em;
+  outline: none;
+}
+
+.wrap {
+  max-width: 1230px;
+  margin: 0 auto;
+}
+
+.ui {
+  &.button {
+    background-color: $primary-color;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 300;
+    font-size: 1rem;
+    text-transform: uppercase;
+    color: #fff;
+  }
+}
+
+#main-header {
+  background: $primary-color;
+  overflow: auto;
+
+  #site-name {
+    background: url("/images/logo-header.png") no-repeat left top;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 600;
+    font-size: 2rem;
+    height: 66px;
+    color: #fff;
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 0 0 0 9rem;
+    margin: 0;
+    line-height: 66px;
+    float: left;
+
+    em {
+      font-style: normal;
+      font-size: 1.2rem;
+      margin-left: -.4rem;
+    }
+  }
+
+  #login-nav {
+    float: right;
+  }
+
+  #main-search {
+    float: right;
+    padding: 12px 0;
+
+    input {
+      width: 30em;
+    }
+  }
+}
+
+#main-nav {
+  float: left;
+  width: 25%;
+}
+
+#main-content {
+  float: left;
+  width: 50%;
+  margin: 1rem 0 0;
+}
+
+#side-nav {
+  float: right;
+  width: 25%;
+
+  #next-game {
+    margin: 1rem;
+
+    h2 {
+      margin: 0 0 .5rem;
+      font-size: 1.6rem;
+    }
+
+    .team {
+      float: left;
+      width: 50%;
+      text-align: center;
+      position: relative;
+
+      img {
+        display: block;
+        margin: 0 auto;
+      }
+
+      &#home-team {
+        &:after {
+          content: 'x';
+          text-transform: uppercase;
+          position: absolute;
+          right: 0;
+        }
+      }
+    }
+
+    #game-info {
+      font-size: 1rem;
+      clear: both;
+      overflow: auto;
+
+      p {
+        margin: 0;
+      }
+
+      #game-datetime {
+        text-align: center;
+        font-size: .9rem;
+        font-family: Arial, sans-serif;
+        margin: .5rem 0;
+      }
+
+      #game-round {
+        float: left;
+      }
+
+      #game-stadium {
+        float: right;
+      }
+    }
+  }
+}
+
+#main-menu {
+  margin: 1rem 4%;
+  padding: 0;
+  font-family: 'Oswald', sans-serif;
+  font-weight: 400;
+  font-size: 1rem;
+  text-transform: uppercase;
+
+  li {
+    list-style-type: none;
+
+    a {
+      background: $primary-color;
+      border-left: 2px solid $primary-color;
+      color: #fff;
+      line-height: 3rem;
+      display: block;
+      text-decoration: none;
+      padding: 0 1rem;
+      position: relative;
+      border-bottom: 1px solid $sub-menu-color;
+
+      &:hover {
+        border-left: 2px solid $menu-hover-detail-color;
+      }
+    }
+
+    &:first-child {
+      a {
+        -webkit-border-top-left-radius: .3rem;
+        -moz-border-radius-topleft: .3rem;
+        border-top-left-radius: .3rem;
+        -webkit-border-top-right-radius: .3rem;
+        -moz-border-radius-topright: .3rem;
+        border-top-right-radius: .3rem;
+      }
+    }
+
+    &:last-child {
+      a {
+        -webkit-border-bottom-left-radius: .3rem;
+        -moz-border-radius-bottomleft: .3rem;
+        border-bottom-left-radius: .3rem;
+        -webkit-border-bottom-right-radius: .3rem;
+        -moz-border-radius-bottomright: .3rem;
+        border-bottom-right-radius: .3rem;
+      }
+    }
+
+    &.sub {
+      a {
+        background: $sub-menu-color;
+        border-left: 2px solid $sub-menu-color;
+        border-bottom: 1px solid $sub-menu-border-color;
+
+        &:hover {
+          border-left: 2px solid $menu-hover-detail-color;
+        }
+      }
+
+      ul {
+        margin: 0;
+        padding: 0;
+      }
+
+      &.root {
+        & > a {
+          background: $primary-color;
+          border-left: 2px solid $primary-color;
+          border-bottom: 2px solid $menu-active-detail-color;
+
+          &:after {
+            content: '';
+            width: 0;
+            height: 0;
+            border-style: solid;
+            border-width: .7rem .7rem 0 .7rem;
+            border-color: $primary-color transparent transparent transparent;
+            position: absolute;
+            bottom: -.7rem;
+            left: 44%;
+            z-index: 1;
+          }
+        }
+      }
+
+      .active {
+        a {
+          border-left: 2px solid $menu-active-detail-color;
+        }
+      }
+    }
+  }
+}
+
+#ad-here {
+  background: $add-background-color;
+  color: #000;
+  border-radius: .3rem;
+  font-weight: 700;
+  text-decoration: none;
+  display: block;
+  font-family: 'Oswald', sans-serif;
+  text-align: center;
+  margin: 1rem;
+  padding: 2rem 0;
+  font-size: 1.2rem;
+
+  &:hover {
+    background: $add-background-hover-color;
+  }
+}
+
+.ad {
+  img {
+    display: block;
+    max-width: 100%;
+    margin: 1rem auto;
+  }
+}
+
+#main-footer {
+  clear: both;
+  text-align: center;
+  color: #616161;
+  font-size: 1rem;
+  font-family: 'Oswald', sans-serif;
+  font-weight: 300;
+  padding: 1rem;
+}
+
+
+.articles-list {
+  overflow: auto;
+  font-family: 'Oswald', sans-serif;
+
+  .article {
+    background-color: $primary-color;
+    width: 48%;
+    border-radius: .3rem;
+    float: left;
+    margin-bottom: 2%;
+
+    &.left {
+      margin-right: 2%;
+    }
+
+    &.right {
+      margin-left: 2%;
+    }
+
+    a {
+      color: #fff;
+      text-decoration: none;
+    }
+
+    .content-image {
+      background-size: 100%;
+      background-position: center;
+      background-repeat: no-repeat;
+      -webkit-border-top-left-radius: .3rem;
+      -moz-border-radius-topleft: .3rem;
+      border-top-left-radius: .3rem;
+      -webkit-border-top-right-radius: .3rem;
+      -moz-border-radius-topright: .3rem;
+      border-top-right-radius: .3rem;
+    }
+
+    .content {
+      background: rgba(0, 0, 0, .8);
+      padding: .5rem 1rem;
+      height: 7em;
+      position: relative;
+      -webkit-border-top-left-radius: .3rem;
+      -moz-border-radius-topleft: .3rem;
+      border-top-left-radius: .3rem;
+      -webkit-border-top-right-radius: .3rem;
+      -moz-border-radius-topright: .3rem;
+      border-top-right-radius: .3rem;
+    }
+
+    .title {
+      font-size: 1.4rem;
+      margin: 0 0 .5rem;
+    }
+
+    .headline {
+      font-size: 1rem;
+      font-weight: 400;
+      margin: 0 0 .5rem;
+    }
+
+    .date {
+      color: #7e7e7e;
+      font-size: .8rem;
+      font-family: Arial, sans-serif;
+      position: absolute;
+      left: 1rem;
+      bottom: 1rem;
+      margin: 1rem 0 0;
+    }
+
+    .author {
+      color: $link-color;
+      font-size: .8rem;
+      font-family: Arial, sans-serif;
+      position: absolute;
+      right: 1rem;
+      bottom: 1rem;
+      margin: 1rem 0 0;
+    }
+
+    .meta-links {
+      text-align: right;
+      font-size: .8rem;
+      font-family: Arial, sans-serif;
+      padding: .5rem;
+
+      a {
+        color: #7c8087;
+        margin: 0 .3rem;
+      }
+
+      .favorites {
+        float: left;
+      }
+
+      .views {
+        .icon {
+          color: #23252b;
+        }
+      }
+
+      .likes {
+        .icon {
+          color: #ee4e10;
+        }
+      }
+
+      .comments {
+        .icon {
+          color: #23252b;
+        }
+      }
+    }
+  }
+}
+
+body[data-route="home#index"] {
+  #articles-archive {
+    float: right;
+  }
+}
+
+@import "articles";

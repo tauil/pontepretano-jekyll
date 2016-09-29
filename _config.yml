@@ -10,4 +10,21 @@ github_username:  tauil
 
 # Build settings
 markdown: kramdown
-theme: minima
+
+sass:
+  sass_dir: css
+
+menus:
+  - text: 'História'
+    href: '/historia'
+  - text: 'Especial'
+    href: '#'
+    parents:
+      - text: 'Campanha de 1969'
+        href: '/campanha-de-1969'
+      - text: 'Familia Burghi'
+        href: '/familia-burghi'
+      - text: 'derbi'
+        href: '/derbi'
+  - text: 'Equipe'
+    href: '/equipe'
