@@ -18,7 +18,7 @@ def sanitize(string)
     gsub(/[ó]/,'o').
     gsub(/[ú]/,'u').
     gsub(' ','-').
-    gsub(/[,:;"]/, '')
+    gsub(/[.,:;"]/, '')
 end
 
 uri = URI('http://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/noticia/plantao.html')
