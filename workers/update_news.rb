@@ -31,8 +31,8 @@ news_list = doc.search('.gui-newsfeed-list .gui-newsfeed-item-wrapper')
 
 news_list.each do |news|
   title = news.search('h3').text
-  image = news.search('.gui-image-full img')
-  image = image.attr('src').value unless image.nil?
+  image = news.at('.gui-image-full img')
+  image = image.attr('src') unless image.nil?
   permalink = news.search('a').attr('href').value
   datetime = DateTime.parse(news.search('.gui-text-datetime').text)
   @news.push OpenStruct.new(title: title, image: image, permalink: permalink, date: datetime)
