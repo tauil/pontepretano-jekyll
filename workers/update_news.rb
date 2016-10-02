@@ -35,7 +35,7 @@ news_list.each do |news|
   image = image.attr('src') unless image.nil?
   permalink = news.search('a').attr('href').value
   datetime = DateTime.parse(news.search('.gui-text-datetime').text)
-  @news.push OpenStruct.new(title: title, image: image, permalink: permalink, date: datetime)
+  @news.push OpenStruct.new(title: title, image: image, permalink: permalink, datetime: datetime)
 end
 
 @news.each do |new|
