@@ -3,6 +3,7 @@ GEM
   specs:
     airbrussh (1.1.1)
       sshkit (>= 1.6.1, != 1.7.0)
+    byebug (9.0.6)
     capistrano (3.6.1)
       airbrussh (>= 1.0.0)
       capistrano-harrow
@@ -10,6 +11,7 @@ GEM
       rake (>= 10.0.0)
       sshkit (>= 1.9.0)
     capistrano-harrow (0.5.3)
+    coderay (1.1.1)
     colorator (1.1.0)
     ffi (1.9.14)
     forwardable-extended (2.6.0)
@@ -35,6 +37,7 @@ GEM
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
     mercenary (0.3.6)
+    method_source (0.8.2)
     mini_portile2 (2.1.0)
     minima (1.2.0)
     net-scp (1.2.1)
@@ -46,6 +49,13 @@ GEM
     pathutil (0.14.0)
       forwardable-extended (~> 2.6)
     pkg-config (1.1.7)
+    pry (0.10.4)
+      coderay (~> 1.1.0)
+      method_source (~> 0.8.1)
+      slop (~> 3.4)
+    pry-byebug (3.4.0)
+      byebug (~> 9.0)
+      pry (~> 0.10)
     rake (10.4.2)
     rb-fsevent (0.9.7)
     rb-inotify (0.9.7)
@@ -53,6 +63,7 @@ GEM
     rouge (1.11.1)
     safe_yaml (1.0.4)
     sass (3.4.22)
+    slop (3.6.0)
     sshkit (1.11.3)
       net-scp (>= 1.1.2)
       net-ssh (>= 2.8.0)
@@ -66,4 +77,11 @@ DEPENDENCIES
   jekyll (= 3.2.1)
   minima
   nokogiri
+  pry-byebug
   rake
+
+RUBY VERSION
+   ruby 2.3.0p0
+
+BUNDLED WITH
+   1.13.1
