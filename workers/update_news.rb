@@ -5,6 +5,7 @@ require 'nokogiri'
 require 'ostruct'
 require 'date'
 require 'git'
+require 'pry-byebug'
 
 def sanitize(string)
   string.
@@ -17,7 +18,7 @@ def sanitize(string)
     gsub(/[ó]/,'o').
     gsub(/[ú]/,'u').
     gsub(' ','-').
-    gsub(/[,:;"]/, '')
+    gsub(/[.,:;"]/, '')
 end
 
 uri = URI('http://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/noticia/plantao.html')
@@ -30,11 +31,11 @@ news_list = doc.search('.gui-newsfeed-list .gui-newsfeed-item-wrapper')
 
 news_list.each do |news|
   title = news.search('h3').text
-  image = news.search('.gui-image-full img')
-  image = image.attr('src').value unless image.nil?
+  image = news.at('.gui-image-full img')
+  image = image.attr('src') unless image.nil?
   permalink = news.search('a').attr('href').value
   datetime = DateTime.parse(news.search('.gui-text-datetime').text)
-  @news.push OpenStruct.new(title: title, image: image, permalink: permalink, date: datetime)
+  @news.push OpenStruct.new(title: title, image: image, permalink: permalink, datetime: datetime)
 end
 
 @news.each do |new|

@@ -3,6 +3,7 @@
 - [X] Test worker in VPS
 - [X] Create static posts
 - [X] List only post with category news
-- [ ] Fix assets path
+- [X] Fix assets path
 - [ ] Fix parsing dates
 - [ ] Adds next game feature
+- [ ] Parse Globo Blog and ESPM blog

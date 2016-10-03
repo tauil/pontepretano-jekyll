@@ -9,3 +9,4 @@ gem "rake"
 gem "nokogiri"
 gem "git"
 gem "capistrano"
+gem 'pry-byebug'
