@@ -328,6 +328,14 @@ input, textarea {
       margin-left: 2%;
     }
 
+    &.full {
+      width: 99%;
+
+      .content {
+        height: 5em;
+      }
+    }
+
     a {
       color: #fff;
       text-decoration: none;

@@ -1,0 +1,25 @@
+<section id="next-game">
+  <h2>Próximo jogo:</h2>
+
+  {% assign site_date = site.time | date: '%s' %}
+
+  {% for game in site.data.games %}
+  {% assign game_date = game.date | date: '%s' %}
+  {% if game_date >= site_date %}
+  <div id="home-team" class="team">
+    <img src="{{game.home_badge}}" />
+    {{game.home}}
+  </div>
+  <div id="vistor-team" class="team">
+    <img src="{{game.visitor_badge}}" />
+    {{game.visitor}}
+  </div>
+  <div id="game-info">
+    <p id="game-datetime">{{game.date | date: '%d/%m/%Y às %H:%M'}}</p>
+    <p id="game-round">{{game.round}} rodada</p>
+    <p id="game-stadium">{{game.stadium}}</p>
+  </div>
+  {% break %}
+  {% endif %}
+  {% endfor %}
+</section>
