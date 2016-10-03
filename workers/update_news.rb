@@ -21,11 +21,13 @@ def sanitize(string)
     gsub(/[.,:;"]/, '')
 end
 
-uri = URI('http://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/noticia/plantao.html')
-response = Net::HTTP.get(uri)
+def parse_page(url)
+  uri = URI(url)
+  response = Net::HTTP.get(uri)
+  Nokogiri::HTML(response, nil, 'iso-8898')
+end
 
-doc = Nokogiri::HTML(response, nil, 'iso-8898')
-news_list = doc.search('.gui-newsfeed-list .gui-newsfeed-item-wrapper')
+news_list = parse_page('http://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/noticia/plantao.html').search('.gui-newsfeed-list .gui-newsfeed-item-wrapper')
 
 @news = []
 
@@ -34,7 +36,9 @@ news_list.each do |news|
   image = news.at('.gui-image-full img')
   image = image.attr('src') unless image.nil?
   permalink = news.search('a').attr('href').value
-  datetime = DateTime.parse(news.search('.gui-text-datetime').text)
+  news_page = parse_page(permalink)
+  news_date = news_page.at('.materia-cabecalho time')
+  datetime = DateTime.parse(news_date)
   @news.push OpenStruct.new(title: title, image: image, permalink: permalink, datetime: datetime)
 end
 
