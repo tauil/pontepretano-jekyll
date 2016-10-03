@@ -1,0 +1,29 @@
+# coding: utf-8
+- home: Ponte Preta
+  home_badge: "/assets/images/team_badges/ponte_preta_60x60.png"
+  visitor: Atlético MG
+  visitor_badge: "/assets/images/team_badges/atletico_mg_60x60.png"
+  date: 2016-10-01 16:30
+  round: 28
+  stadium: Moisés Lucarelli
+- home: Cruzeiro
+  home_badge: "/assets/images/team_badges/cruzeiro_60x60.png"
+  visitor: Ponte Preta
+  visitor_badge: "/assets/images/team_badges/ponte_preta_60x60.png"
+  date: 2016-10-08 21:00
+  round: 29
+  stadium: Mineirão
+- home: Ponte Preta
+  home_badge: "/assets/images/team_badges/ponte_preta_60x60.png"
+  visitor: Vitória
+  visitor_badge: "/assets/images/team_badges/vitoria_60x60.png"
+  date: 2016-10-13 19:30
+  round: 30
+  stadium: Moisés Lucarelli
+- home: Ponte Preta
+  home_badge: "/assets/images/team_badges/ponte_preta_60x60.png"
+  visitor: Santa Cruz
+  visitor_badge: "/assets/images/team_badges/santa_cruz_60x60.png"
+  date: 2016-10-16 18:30
+  round: 31
+  stadium: Moisés Lucarelli

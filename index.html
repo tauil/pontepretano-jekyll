@@ -4,9 +4,10 @@ layout: default
 
 <article id="main-content">
   <section class="articles-list">
-    {% for post in site.posts %}
+    {% assign posts = site.posts | sort: 'datetime' %}
+    {% for post in posts %}
     {% if post.categories contains 'news' %}
-    <div class="article left">
+    <div class="article full">
       <div class="content-image">
         <div class="content">
           {% if post.external_link != null %}
@@ -18,7 +19,7 @@ layout: default
             {% if post.headline != null %}
             <p class="headline">{{ post.headline }}</p>
             {% endif %}
-            <p class="date">{{ post.date | date: "%b %-d, %Y" }}</p>
+            <p class="date">{{ post.date | date: "%b %-d, %Y às %H:%M" }}</p>
             <p class="author">globo.com</p>
           </a>
         </div>
