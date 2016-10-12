@@ -18,11 +18,17 @@ sources = [
 ]
 
 sources.each do |source|
-  puts "Looking for news in: #{source.name}..."
+  puts "#{Time.now} Looking for news in: #{source.name}..."
   news = NewsParser.parse(source.url, source.loop_node, source.name)
+  puts "#{Time.now} Parsed #{news.size} news from #{source.name}."
   NewsManager.generate_files(news)
+  puts "#{Time.now} Generated files."
 end
 
-GitManager.manage
+if GitManager.manage
+  puts "#{Time.now} Pushed code."
+else
+  puts "#{Time.now} Nothing to commit."
+end
 
-puts "Done."
+puts "#{Time.now} Done."

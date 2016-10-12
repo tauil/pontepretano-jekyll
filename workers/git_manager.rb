@@ -21,8 +21,10 @@ class GitManager
         git.commit('Adds a new parsed post')
         puts "Pushing code..."
         git.push('origin', 'gh-pages')
+        true
       else
         puts "Nothing to commit"
+        false
       end
     end
   end
