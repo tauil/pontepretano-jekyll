@@ -15,7 +15,7 @@ require_relative 'git_manager'
 sources = [
   OpenStruct.new( name: 'globo.com',
                   url: 'http://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/noticia/plantao.html',
-                  loop_node: '.gui-newsfeed-list .gui-newsfeed-item-wrapper',
+                  loop_node: '#glb-corpo .gui-feed-title',
                   parser: 'NewsParser'),
   OpenStruct.new( name: 'Blog Rafael Ras',
                   url: 'http://globoesporte.globo.com/sp/campinas-e-regiao/blogs/especial-blog/torcedor-da-ponte-preta/1.html',
