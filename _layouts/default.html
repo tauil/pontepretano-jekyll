@@ -15,6 +15,11 @@
 
     {% include footer.html %}
 
+    {% if jekyll.environment == 'production' %}
+    <p>Última atualização em {{site.time}}</p>
+    {% include analytics.html %}
+    {% endif %}
+
   </body>
 
 </html>
