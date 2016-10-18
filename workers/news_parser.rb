@@ -45,7 +45,7 @@ class NewsParser
   def record_parsed_news
     news_list.each do |parsed_news|
       news_page = parsed_page(permalink(parsed_news))
-      news_date = news_page.at('.materia-cabecalho time')
+      news_date = news_page.at('time')
       datetime = DateTime.parse(news_date)
       news.push OpenStruct.new( title: title(parsed_news),
                                 image: image(parsed_news),
