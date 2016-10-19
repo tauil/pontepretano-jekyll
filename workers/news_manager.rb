@@ -14,7 +14,7 @@ class NewsManager
     news.each do |new|
       current_news_date = (new.datetime.nil? ? DateTime.now : new.datetime)
       filename = [current_news_date.to_date.to_s, sanitize(new.title)].join('-')[0..79]
-      body = "---\nlayout: post\ntitle: \"#{new.title.gsub('"', '\"')}\"\ndate: #{current_news_date}\nexternal_link: \"#{new.permalink}\"\ncategories: news \"#{new.source}\"\n---"
+      body = "---\nlayout: post\ntitle: \"#{new.title.gsub('"', '\"')}\"\ndate: #{current_news_date}\nexternal_link: \"#{new.permalink}\"\ncategories: news #{new.source}\n---"
 
       File.open("_posts/#{filename}.markdown", "w+") do |file|
         file.write(body)
