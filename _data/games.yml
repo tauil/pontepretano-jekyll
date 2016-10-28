@@ -34,3 +34,45 @@
   date: 2016-10-22 17:00
   round: 32
   stadium: Morumbi
+- home: Sport
+  home_badge: "/assets/images/team_badges/sport_60x60.png"
+  visitor: Ponte Preta
+  visitor_badge: "/assets/images/team_badges/ponte_preta_60x60.png"
+  date: 2016-10-27 20:30
+  round: 33
+  stadium: Ilha do Retiro
+- home: Ponte Preta
+  home_badge: "/assets/images/team_badges/ponte_preta_60x60.png"
+  visitor: Santos
+  visitor_badge: "/assets/images/team_badges/santos_60x60.png"
+  date: 2016-11-05 21:00
+  round: 34
+  stadium: Moisés Lucarelli
+- home: Internacional
+  home_badge: "/assets/images/team_badges/inter_65x65.png"
+  visitor: Ponte Preta
+  visitor_badge: "/assets/images/team_badges/ponte_preta_60x60.png"
+  date: 2016-11-17 21:00
+  round: 35
+  stadium: Beira Rio
+- home: Ponte Preta
+  home_badge: "/assets/images/team_badges/ponte_preta_60x60.png"
+  visitor: Fluminense
+  visitor_badge: "/assets/images/team_badges/fluminense_60x60.png"
+  date: 2016-11-20 00:00
+  round: 36
+  stadium: Moisés Lucarelli
+- home: Botafogo
+  home_badge: "/assets/images/team_badges/botafogo_60x60.png"
+  visitor: Ponte Preta
+  visitor_badge: "/assets/images/team_badges/ponte_preta_60x60.png"
+  date: 2016-11-27 00:00
+  round: 37
+  stadium: --
+- home: Ponte Preta
+  home_badge: "/assets/images/team_badges/ponte_preta_60x60.png"
+  visitor: Curitiba
+  visitor_badge: "/assets/images/team_badges/curitiba_60x60.png"
+  date: 2016-12-04 00:00
+  round: 38
+  stadium: Moisés Lucarelli
