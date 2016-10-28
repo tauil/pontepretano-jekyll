@@ -1,3 +1,6 @@
 <footer id="main-footer">
   Todos os direitos reservados.
+  {% if jekyll.environment == 'production' %}
+  <p>Última atualização em {{site.time}}</p>
+  {% endif %}
 </footer>

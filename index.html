@@ -3,42 +3,6 @@ layout: default
 ---
 
 <article id="main-content">
-  <section class="articles-list">
-    {% assign posts = site.posts | sort: 'datetime' %}
-    {% for post in posts %}
-    {% if post.categories contains 'news' %}
-    <div class="article full">
-      <div class="content-image">
-        <div class="content">
-          {% if post.external_link != null %}
-            <a class="post-link" href="{{ post.external_link }}" target="_new">
-          {% else %}
-            <a class="post-link" href="{{ post.url }}">
-          {% endif %}
-            <h2 class="title">{{ post.title | escape }}</h2>
-            {% if post.headline != null %}
-            <p class="headline">{{ post.headline }}</p>
-            {% endif %}
-            <p class="date">{{ post.date | date: "%b %-d, %Y às %H:%M" }}</p>
-            <p class="author">globo.com</p>
-          </a>
-        </div>
-      </div>
-
-      <nav class="meta-links">
-        <a class="favorites" href="#todo"><i class="icon star"></i></a>
-        <a class="views" href="#todo"><i class="icon unhide"></i>145</a>
-        <a class="likes" href="#todo"><i class="icon heart"></i>86</a>
-        <a class="comments" href="#todo"><i class="icon comment"></i>13</a>
-      </nav>
-    </div>
-    {% endif %}
-    {% endfor %}
-
-    {% if site.posts == null %}
-    <p class="empty">Nenhum artigo disponível.</p>
-    {% endif %}
-
-    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-  </section>
+  {% assign posts = site.posts | sort: 'datetime' %}
+  {% include posts_list.html posts=site.posts filter='new' %}
 </article>

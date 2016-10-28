@@ -1,0 +1,14 @@
+<section class="articles-list">
+{% if include.posts == null %}
+   <p class="empty">Nenhum artigo disponível.</p>
+{% else %}
+   {% for post in include.posts %}
+      {% if include.filter && post.categories contains include.filter %}
+         {% include post_show.html post=post %}
+      {% else %}
+         {% include post_show.html post=post %}
+      {% endif %}
+   {% endfor %}
+{% endif %}
+   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+</section>

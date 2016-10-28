@@ -1,0 +1,22 @@
+<div class="article full">
+  <div class="content-image">
+    <div class="content">
+      {% if post.external_link != null %}
+      <a class="post-link" href="{{ post.external_link }}" target="_new">
+        {% else %}
+        <a class="post-link" href="{{ post.url }}">
+          {% endif %}
+          <h2 class="title">{{ post.title | escape }}</h2>
+          {% if post.headline != null %}
+          <p class="headline">{{ post.headline }}</p>
+          {% endif %}
+          <p class="date">{{ post.date | date: "%b %-d, %Y às %H:%M" }}</p>
+          <p class="author">{{post.categories | join: ', '}}</p>
+        </a>
+    </div>
+  </div>
+
+  <nav class="meta-links">
+    <a class="post-link" href="{{ post.url }}">Detalhes do artigo.</a>
+  </nav>
+</div>

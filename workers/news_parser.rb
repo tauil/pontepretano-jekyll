@@ -29,18 +29,27 @@ class NewsParser
     parsed_page(url).search(loop_node)
   end
 
+  def title(node)
+    node.search('h3').text
+  end
+
+  def image(node)
+    img = node.parent.at('img')
+    img.attr('src') unless img.nil?
+  end
+
+  def permalink(node)
+    node.attr('href')
+  end
+
   def record_parsed_news
     news_list.each do |parsed_news|
-      title = parsed_news.search('h3').text
-      image = parsed_news.at('.gui-image-full img')
-      image = image.attr('src') unless image.nil?
-      permalink = parsed_news.search('a').attr('href').value
-      news_page = parsed_page(permalink)
-      news_date = news_page.at('.materia-cabecalho time')
+      news_page = parsed_page(permalink(parsed_news))
+      news_date = news_page.at('time')
       datetime = DateTime.parse(news_date)
-      news.push OpenStruct.new( title: title,
-                                image: image,
-                                permalink: permalink,
+      news.push OpenStruct.new( title: title(parsed_news),
+                                image: image(parsed_news),
+                                permalink: permalink(parsed_news),
                                 datetime: datetime,
                                 source: source )
     end

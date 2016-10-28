@@ -1,0 +1,10 @@
+---
+layout: default
+---
+
+<article id="main-content">
+  <h1>Filtering by: {{page.category}}</h1>
+
+  {% assign filtered_posts = site.categories.[page.category] | sort: 'datetime' %}
+  {% include posts_list.html posts=filtered_posts %}
+</article>

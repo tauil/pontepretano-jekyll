@@ -1,0 +1,7 @@
+---
+layout: post
+title: "A FASE É BOA!"
+date: 2016-07-10T13:40:00+00:00
+external_link: "http://globoesporte.globo.com/sp/campinas-e-regiao/blogs/especial-blog/torcedor-da-ponte-preta/post/fase-e-boa.html"
+categories: news "Blog Rafael Ras"
+---
