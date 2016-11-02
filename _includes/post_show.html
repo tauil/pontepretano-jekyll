@@ -11,7 +11,12 @@
           <p class="headline">{{ post.headline }}</p>
           {% endif %}
           <p class="date">{{ post.date | date: "%b %-d, %Y às %H:%M" }}</p>
-          <p class="author">{{post.categories | join: ', '}}</p>
+          <p class="categories">
+            {% for category in post.categories %}
+            <a href="/categories/{{ category }}/">{{ category }}</a>
+            {% unless forloop.last %}, {% endunless %}
+            {% endfor %}
+          </p>
         </a>
     </div>
   </div>

@@ -387,7 +387,7 @@ input, textarea {
       margin: 1rem 0 0;
     }
 
-    .author {
+    .categories {
       color: $link-color;
       font-size: .8rem;
       font-family: Arial, sans-serif;
@@ -395,6 +395,10 @@ input, textarea {
       right: 1rem;
       bottom: 1rem;
       margin: 1rem 0 0;
+
+      a {
+        color: $link-color;
+      }
     }
 
     .meta-links {
