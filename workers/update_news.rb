@@ -6,6 +6,7 @@ require 'ostruct'
 require 'date'
 require 'git'
 require 'pry-byebug'
+require 'reverse_markdown'
 
 require_relative 'news_parser'
 require_relative 'rafael_ras_parser'

@@ -11,3 +11,4 @@ gem "nokogiri"
 gem "git"
 gem "capistrano"
 gem 'pry-byebug'
+gem 'reverse_markdown'
