@@ -48,15 +48,13 @@ class NewsParser
       news_page = parsed_page(permalink(parsed_news))
       news_date = news_page.at('time')
       news_content = news_page.at('.corpo-conteudo')
-      news_images = news_page.search('.corpo-conteudo img')
       datetime = DateTime.parse(news_date)
       news.push OpenStruct.new( title: title(parsed_news),
                                 image: image(parsed_news),
                                 permalink: permalink(parsed_news),
                                 datetime: datetime,
                                 source: source,
-                                content: ReverseMarkdown.convert(news_content),
-                                content_îmages: news_images )
+                                content: ReverseMarkdown.convert(news_content) )
     end
   end
 end
