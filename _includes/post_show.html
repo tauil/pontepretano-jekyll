@@ -2,10 +2,10 @@
   <div class="content-image">
     <div class="content">
       {% if post.external_link != null %}
-      <a class="post-link" href="{{ post.external_link }}" target="_new">
-        {% else %}
+        <a class="post-link" href="{{ post.external_link }}" target="_new" onclick="trackOutboundLink('{{ post.external_link }}'); return false;">
+      {% else %}
         <a class="post-link" href="{{ post.url }}">
-          {% endif %}
+      {% endif %}
           <h2 class="title">{{ post.title | escape }}</h2>
           {% if post.headline != null %}
           <p class="headline">{{ post.headline }}</p>
