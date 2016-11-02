@@ -1,6 +1,6 @@
 # coding: utf-8
 title: Pontepretano
-email: raafael@tauil.com.br
+email: rafael@tauil.com.br
 description: > # this means to ignore newlines until "baseurl:"
   Noticias e Informações sobre a Associação Atlética Ponte Preta
 baseurl: "" # the subpath of your site, e.g. /blog
