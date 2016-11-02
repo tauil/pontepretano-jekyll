@@ -11,14 +11,14 @@ class NewsManager
   end
 
   def generate_files
-    news.each do |new|
+    news.each_with_index do |new, index|
       current_news_date = (new.datetime.nil? ? DateTime.now : new.datetime)
       filename = [current_news_date.to_date.to_s, sanitize(new.title)].join('-')[0..79]
       body = "---\nlayout: post\ntitle: \"#{new.title.gsub('"', '\"')}\"\ndate: #{current_news_date}\nexternal_link: \"#{new.permalink}\"\ncategories: news #{new.source}\n---"
 
       File.open("_posts/#{filename}.markdown", "w+") do |file|
         file.write(body)
-      end unless File.file?("_posts/#{filename}.markdown")
+      end if (!ENV['OVERWRITE'].nil? && index <= ENV['OVERWRITE'].to_i ) || !File.file?("_posts/#{filename}.markdown")
     end
   end
 
