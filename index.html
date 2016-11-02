@@ -4,5 +4,5 @@ layout: default
 
 <article id="main-content">
   {% assign posts = site.posts | sort: 'datetime' %}
-  {% include posts_list.html posts=site.posts filter='new' %}
+  {% include posts_list.html posts=paginator.posts filter='new' %}
 </article>
