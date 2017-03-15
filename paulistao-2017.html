@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<article id="main-content">
+  {% assign posts = site.data.paulistao2017 | sort: 'datetime' %}
+  <section class="articles-list">
+    {% for post in posts %}
+    <div class="article full">
+      <p>{{post.home}} <img src="{{post.home_badge}}" /> {{post.home_score}} X {{post.visitor_score}} <img src="{{post.visitor_badge}}" /> {{post.visitor}}</p>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/{{post.youtube}}" frameborder="0" allowfullscreen></iframe>
+    </div>
+    {% endfor %}
+  </section>
+</article>
