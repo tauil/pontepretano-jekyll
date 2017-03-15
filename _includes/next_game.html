@@ -3,7 +3,7 @@
 
   {% assign site_date = site.time | date: '%s' %}
 
-  {% for game in site.data.games %}
+  {% for game in site.data.paulistao2017 %}
   {% assign game_date = game.date | date: '%s' %}
   {% if game_date >= site_date %}
   <div id="home-team" class="team">
