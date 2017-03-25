@@ -85,14 +85,14 @@
 
 - home: Ponte Preta
   home_badge: "/assets/images/team_badges/ponte_preta_60x60.png"
-  home_score:
+  home_score: 1
   visitor: Corinthians
   visitor_badge: "/assets/images/team_badges/corinthians_60x60.png"
-  visitor_score:
+  visitor_score: 1
   date: 2017-03-12 16:00
   round: 08
   stadium: Moisés Lucarelli
-  globo_link:
+  globo_link: http://globoesporte.globo.com/sp/campinas-e-regiao/futebol/campeonato-paulista/jogo/12-03-2017/ponte-preta-corinthians/
   youtube: 'jCxXmLERGHQ'
 
 - home: Ponte Preta
