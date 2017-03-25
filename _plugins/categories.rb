@@ -1,3 +1,5 @@
+require 'pry-byebug'
+
 module Jekyll
 
   class CategoryPage < Page
@@ -25,6 +27,33 @@ module Jekyll
         site.categories.each_key do |category|
           site.pages << CategoryPage.new(site, site.source, File.join(dir, category), category)
         end
+      end
+    end
+  end
+
+  class MatchPageGenerator < Generator
+    safe true
+
+    def generate(site)
+      if site.layouts.key? 'match'
+        site.data['paulistao2017'].each do |match|
+          site.pages << MatchPage.new(site, site.source, File.join('campeonatos', 'paulistao', '2017', 'rodada', match['round'].to_s), match)
+        end
+      end
+    end
+  end
+
+  class MatchPage < Page
+    def initialize(site, base, dir, match)
+      @site = site
+      @base = base
+      @dir = dir
+      @name = 'index.html'
+
+      self.process(@name)
+      self.read_yaml(File.join(base, '_layouts'), 'match.html')
+      match.each_key do |match_key|
+        self.data[match_key] = match[match_key]
       end
     end
   end

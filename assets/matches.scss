@@ -1,20 +1,41 @@
 .match {
+  .match-header {
+    line-height: 3em;
     display: flex;
+    background: $sub-menu-color;
+    border: 1px solid #32363D;
+    border-bottom: 2px solid $menu-active-detail-color;
+    -webkit-border-top-left-radius: .3rem;
+    -moz-border-radius-topleft: .3rem;
+    border-top-left-radius: .3rem;
+    -webkit-border-top-right-radius: .3rem;
+    -moz-border-radius-topright: .3rem;
+    border-top-right-radius: .3rem;
+  }
 
-    .home-team, .visitor-team {
-        flex-grow: 2;
+  .home-team, .visitor-team {
+    flex-grow: 2;
 
-        img {
-            vertical-align: middle;
-        }
+    img {
+      vertical-align: middle;
+      margin: 0 .5em;
     }
+  }
 
-    .score {
-        font-weight: bold;
+  .home-team {
+    text-align: right;
+  }
 
-        .score-divisor {
-            font-size: 2em;
-            margin: 0 1em;
-        }
+  .score {
+    font-weight: bold;
+    font-size: 2em;
+
+    .score-divisor {
+      font-size: .7em;
     }
+  }
+
+  iframe {
+    margin: 0 11%;
+  }
 }
