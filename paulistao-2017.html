@@ -7,7 +7,11 @@ layout: default
   <section class="articles-list">
     {% for post in posts %}
     <div class="article full">
-      <p>{{post.home}} <img src="{{post.home_badge}}" /> {{post.home_score}} X {{post.visitor_score}} <img src="{{post.visitor_badge}}" /> {{post.visitor}}</p>
+      <div class="match">
+        <div class="home-team">{{post.home}} <img src="{{post.home_badge}}" /></div>
+        <div class="score">{{post.home_score}} <span class="score-divisor">X</span> {{post.visitor_score}}</div>
+        <div class="visitor-team"><img src="{{post.visitor_badge}}" /> {{post.visitor}}</div>
+      </div>
       <iframe width="560" height="315" src="https://www.youtube.com/embed/{{post.youtube}}" frameborder="0" allowfullscreen></iframe>
     </div>
     {% endfor %}
