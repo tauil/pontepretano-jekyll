@@ -97,38 +97,38 @@
 
 - home: Ponte Preta
   home_badge: "/assets/images/team_badges/ponte_preta_60x60.png"
-  home_score:
+  home_score: 1
   visitor: Novorizontino
   visitor_badge: "/assets/images/team_badges/novorizontino_65x65.png"
-  visitor_score:
+  visitor_score: 2
   date: 2017-03-18 18:30
   round: 09
   stadium: Moisés Lucarelli
-  globo_link:
+  globo_link: http://globoesporte.globo.com/sp/campinas-e-regiao/futebol/campeonato-paulista/jogo/18-03-2017/ponte-preta-novorizontino
   youtube: 'jCxXmLERGHQ'
 
 - home: Santo André
   home_badge: "/assets/images/team_badges/santo_andre_65x65.png"
-  home_score:
+  home_score: 3
   visitor: Ponte Preta
   visitor_badge: "/assets/images/team_badges/ponte_preta_60x60.png"
-  visitor_score:
+  visitor_score: 3
   date: 2017-03-21 15:00
   round: 10
   stadium: Bruno José Daniel
-  globo_link:
+  globo_link: http://globoesporte.globo.com/sp/campinas-e-regiao/futebol/campeonato-paulista/jogo/21-03-2017/santo-andre-ponte-preta/
   youtube: 'jCxXmLERGHQ'
 
 - home: São Bento
   home_badge: "/assets/images/team_badges/sao_bento_65x65.png"
-  home_score:
+  home_score: 1
   visitor: Ponte Preta
   visitor_badge: "/assets/images/team_badges/ponte_preta_60x60.png"
-  visitor_score:
+  visitor_score: 2
   date: 2017-03-26 18:30
   round: 11
   stadium: Walter Ribeiro
-  globo_link:
+  globo_link: http://globoesporte.globo.com/sp/sorocaba/futebol/campeonato-paulista/jogo/26-03-2017/sao-bento-ponte-preta/
   youtube: 'jCxXmLERGHQ'
 
 - home: Ponte Preta
