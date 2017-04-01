@@ -154,3 +154,15 @@
   stadium: Moisés Lucarelli
   globo_link: http://globoesporte.globo.com/sp/campinas-e-regiao/futebol/campeonato-paulista/jogo/01-04-2017/ponte-preta-santos/
   youtube: 'jCxXmLERGHQ'
+
+- home: Santos
+  home_badge: "/assets/images/team_badges/santos_60x60.png"
+  home_score: 1
+  visitor: Ponte Preta
+  visitor_badge: "/assets/images/team_badges/ponte_preta_60x60.png"
+  visitor_score: 0
+  date: 2017-04-10 20:00
+  round: 12
+  stadium: Pacaembu
+  globo_link: 
+  youtube: 'jCxXmLERGHQ'
