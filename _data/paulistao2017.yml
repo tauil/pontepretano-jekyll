@@ -142,3 +142,15 @@
   stadium: Moisés Lucarelli
   globo_link: http://globoesporte.globo.com/sp/campinas-e-regiao/futebol/campeonato-paulista/jogo/29-03-2017/ponte-preta-palmeiras/
   youtube: 'jCxXmLERGHQ'
+
+- home: Ponte Preta
+  home_badge: "/assets/images/team_badges/ponte_preta_60x60.png"
+  home_score: 1
+  visitor: Santos
+  visitor_badge: "/assets/images/team_badges/santos_60x60.png"
+  visitor_score: 0
+  date: 2017-04-01 16:00
+  round: 12
+  stadium: Moisés Lucarelli
+  globo_link: http://globoesporte.globo.com/sp/campinas-e-regiao/futebol/campeonato-paulista/jogo/01-04-2017/ponte-preta-santos/
+  youtube: 'jCxXmLERGHQ'
