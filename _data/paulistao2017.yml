@@ -9,7 +9,7 @@
   round: 01
   stadium: Moisés Lucarelli
   globo_link: http://globoesporte.globo.com/sp/campinas-e-regiao/futebol/campeonato-paulista/jogo/05-02-2017/ponte-preta-ferroviaria/
-  youtube: 'jCxXmLERGHQ'
+  youtube: 'f7xpyUcsHx8'
 
 - home: São Paulo
   home_badge: "/assets/images/team_badges/sao_paulo_60x60.png"
@@ -21,7 +21,7 @@
   round: 02
   stadium: Morumbi
   globo_link: http://globoesporte.globo.com/sp/futebol/campeonato-paulista/jogo/12-02-2017/sao-paulo-ponte-preta/
-  youtube: 'jCxXmLERGHQ'
+  youtube: 'puRyJcF6RSI'
 
 - home: Botafogo-SP
   home_badge: "/assets/images/team_badges/botafogo_sp_65x65.png"
@@ -33,7 +33,7 @@
   round: 03
   stadium: Santa Cruz
   globo_link: http://globoesporte.globo.com/sp/ribeirao-preto-e-regiao/futebol/campeonato-paulista/jogo/15-02-2017/botafogo-sp-ponte-preta/
-  youtube: 'jCxXmLERGHQ'
+  youtube: 'YE-hBlcIePg'
 
 - home: Ponte Preta
   home_badge: "/assets/images/team_badges/ponte_preta_60x60.png"
@@ -45,7 +45,7 @@
   round: 04
   stadium: Moisés Lucarelli
   globo_link: http://globoesporte.globo.com/sp/campinas-e-regiao/futebol/campeonato-paulista/jogo/18-02-2017/ponte-preta-rb-brasil/
-  youtube: 'jCxXmLERGHQ'
+  youtube: 'gv0TmZdq9Eo'
 
 - home: Linense
   home_badge: "/assets/images/team_badges/linense_65x65.png"
@@ -57,7 +57,7 @@
   round: 05
   stadium: Gilbertão
   globo_link: http://globoesporte.globo.com/sp/sorocaba/futebol/campeonato-paulista/jogo/22-02-2017/linense-ponte-preta/
-  youtube: 'jCxXmLERGHQ'
+  youtube: '2eP44FV776k'
 
 - home: Ponte Preta
   home_badge: "/assets/images/team_badges/ponte_preta_60x60.png"
@@ -69,7 +69,7 @@
   round: 06
   stadium: Moisés Lucarelli
   globo_link: http://globoesporte.globo.com/sp/campinas-e-regiao/futebol/campeonato-paulista/jogo/18-02-2017/ponte-preta-rb-brasil/
-  youtube: 'jCxXmLERGHQ'
+  youtube: 'eM2LGo1Gzu8'
 
 - home: Ituano
   home_badge: "/assets/images/team_badges/ituano_65x65.png"
@@ -81,7 +81,7 @@
   round: 07
   stadium: Novelli Júnior
   globo_link: http://globoesporte.globo.com/sp/sorocaba/futebol/campeonato-paulista/jogo/05-03-2017/ituano-ponte-preta/
-  youtube: 'jCxXmLERGHQ'
+  youtube: 'FtU2JrhUZzA'
 
 - home: Ponte Preta
   home_badge: "/assets/images/team_badges/ponte_preta_60x60.png"
@@ -93,7 +93,7 @@
   round: 08
   stadium: Moisés Lucarelli
   globo_link: http://globoesporte.globo.com/sp/campinas-e-regiao/futebol/campeonato-paulista/jogo/12-03-2017/ponte-preta-corinthians/
-  youtube: 'jCxXmLERGHQ'
+  youtube: 'bE1PI_BvcDU'
 
 - home: Ponte Preta
   home_badge: "/assets/images/team_badges/ponte_preta_60x60.png"
@@ -105,7 +105,7 @@
   round: 09
   stadium: Moisés Lucarelli
   globo_link: http://globoesporte.globo.com/sp/campinas-e-regiao/futebol/campeonato-paulista/jogo/18-03-2017/ponte-preta-novorizontino
-  youtube: 'jCxXmLERGHQ'
+  youtube: '4azxEyYhvwM'
 
 - home: Santo André
   home_badge: "/assets/images/team_badges/santo_andre_65x65.png"
@@ -117,7 +117,7 @@
   round: 10
   stadium: Bruno José Daniel
   globo_link: http://globoesporte.globo.com/sp/campinas-e-regiao/futebol/campeonato-paulista/jogo/21-03-2017/santo-andre-ponte-preta/
-  youtube: 'jCxXmLERGHQ'
+  youtube: 'Zt_s0h_h97M'
 
 - home: São Bento
   home_badge: "/assets/images/team_badges/sao_bento_65x65.png"
@@ -129,7 +129,7 @@
   round: 11
   stadium: Walter Ribeiro
   globo_link: http://globoesporte.globo.com/sp/sorocaba/futebol/campeonato-paulista/jogo/26-03-2017/sao-bento-ponte-preta/
-  youtube: 'jCxXmLERGHQ'
+  youtube: 'W2It_unEztk'
 
 - home: Ponte Preta
   home_badge: "/assets/images/team_badges/ponte_preta_60x60.png"
@@ -141,7 +141,7 @@
   round: 12
   stadium: Moisés Lucarelli
   globo_link: http://globoesporte.globo.com/sp/campinas-e-regiao/futebol/campeonato-paulista/jogo/29-03-2017/ponte-preta-palmeiras/
-  youtube: 'jCxXmLERGHQ'
+  youtube: 'DGvFwGifywc'
 
 - home: Ponte Preta
   home_badge: "/assets/images/team_badges/ponte_preta_60x60.png"
@@ -150,19 +150,19 @@
   visitor_badge: "/assets/images/team_badges/santos_60x60.png"
   visitor_score: 0
   date: 2017-04-01 16:00
-  round: 12
+  round: "Quartas de final - jogo 1"
   stadium: Moisés Lucarelli
   globo_link: http://globoesporte.globo.com/sp/campinas-e-regiao/futebol/campeonato-paulista/jogo/01-04-2017/ponte-preta-santos/
-  youtube: 'jCxXmLERGHQ'
+  youtube: 'hEdAxt7fdM0'
 
 - home: Santos
   home_badge: "/assets/images/team_badges/santos_60x60.png"
-  home_score: 1
+  home_score:
   visitor: Ponte Preta
   visitor_badge: "/assets/images/team_badges/ponte_preta_60x60.png"
-  visitor_score: 0
+  visitor_score:
   date: 2017-04-10 20:00
-  round: 12
+  round: "Quartas de final - jogo 2"
   stadium: Pacaembu
   globo_link: 
-  youtube: 'jCxXmLERGHQ'
+  youtube: 'aaa'
