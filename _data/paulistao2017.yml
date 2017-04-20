@@ -157,12 +157,36 @@
 
 - home: Santos
   home_badge: "/assets/images/team_badges/santos_60x60.png"
+  home_score: 1 (4)
+  visitor: Ponte Preta
+  visitor_badge: "/assets/images/team_badges/ponte_preta_60x60.png"
+  visitor_score: 0 (5)
+  date: 2017-04-10 20:00
+  round: "Quartas de final - jogo 2"
+  stadium: Pacaembu
+  globo_link: http://globoesporte.globo.com/sp/santos-e-regiao/futebol/campeonato-paulista/jogo/10-04-2017/santos-ponte-preta/
+  youtube: 'BJXJVwbLACs'
+
+- home: Ponte Preta
+  home_badge: "/assets/images/team_badges/ponte_preta_60x60.png"
+  home_score: 1
+  visitor: Palmeiras
+  visitor_badge: "/assets/images/team_badges/palmeiras_60x60.png"
+  visitor_score: 0
+  date: 2017-04-16 16:00
+  round: "Semi-final - jogo 1"
+  stadium: Moisés Lucarelli
+  globo_link: http://globoesporte.globo.com/sp/campinas-e-regiao/futebol/campeonato-paulista/jogo/16-04-2017/ponte-preta-palmeiras/
+  youtube: 'n7OjFLLbRXk'
+
+- home: Palmeiras
+  home_badge: "/assets/images/team_badges/palmeiras_60x60.png"
   home_score:
   visitor: Ponte Preta
   visitor_badge: "/assets/images/team_badges/ponte_preta_60x60.png"
   visitor_score:
-  date: 2017-04-10 20:00
-  round: "Quartas de final - jogo 2"
-  stadium: Pacaembu
-  globo_link: 
+  date: 2017-04-22 19:00
+  round: "Semi-final - jogo 2"
+  stadium: Allianz Arena
+  globo_link:
   youtube: 'aaa'
