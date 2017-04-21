@@ -1,0 +1,10 @@
+# TO Run, do: crontab -u tauil -e
+
+MAILTO=rafatauil@gmail.com
+#PATH="/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/home/tauil/.gems/bin:/home/tauil/.rvm/bin"
+
+#30 * * * * cd /home/tauil/www/pontepretano/pontepretano-jekyll && /usr/local/bin/rake news:update >> /home/tauil/www/pontepretano/pontepretano-jekyll/tmp/pontepretano.log
+
+*/30 * * * * bash -lc 'cd /home/tauil/www/pontepretano/pontepretano-jekyll && rake news:update >> /home/tauil/www/pontepretano/pontepretano-jekyll/tmp/pontepretano.log'
+
+35 * * * * bash -lc 'rsync -av --progress /home/tauil/www/pontepretano/pontepretano-jekyll/_site/ /home/tauil/www/pontepretano/pontepretano.com.br/ --exclude Rakefile --exclude CNAME --exclude Gemfile.lock --exclude /tmp && rake site:sync'
