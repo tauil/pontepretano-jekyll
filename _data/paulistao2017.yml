@@ -181,12 +181,36 @@
 
 - home: Palmeiras
   home_badge: "/assets/images/team_badges/palmeiras_60x60.png"
+  home_score: 1
+  visitor: Ponte Preta
+  visitor_badge: "/assets/images/team_badges/ponte_preta_60x60.png"
+  visitor_score: 0
+  date: 2017-04-22 19:00
+  round: "Semi-final - jogo 2"
+  stadium: Allianz Arena
+  globo_link: http://globoesporte.globo.com/sp/futebol/campeonato-paulista/jogo/22-04-2017/palmeiras-ponte-preta/
+  youtube: 'NVuTDWXhb5c'
+
+- home: Ponte Preta
+  home_badge: "/assets/images/team_badges/ponte_preta_60x60.png"
+  home_score:
+  visitor: Corinthians
+  visitor_badge: "/assets/images/team_badges/corinthians_60x60.png"
+  visitor_score:
+  date: 2017-04-30 16:00
+  round: "Final - jogo 1"
+  stadium: Moisés Lucarelli
+  globo_link:
+  youtube: 'aaa'
+
+- home: Corinthians
+  home_badge: "/assets/images/team_badges/corinthians_60x60.png"
   home_score:
   visitor: Ponte Preta
   visitor_badge: "/assets/images/team_badges/ponte_preta_60x60.png"
   visitor_score:
-  date: 2017-04-22 19:00
-  round: "Semi-final - jogo 2"
-  stadium: Allianz Arena
+  date: 2017-05-07 16:00
+  round: "Final - jogo 2"
+  stadium: Arena Corinthians
   globo_link:
   youtube: 'aaa'
