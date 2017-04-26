@@ -7,4 +7,4 @@ MAILTO=rafatauil@gmail.com
 
 */30 * * * * bash -lc 'cd /home/tauil/www/pontepretano/pontepretano-jekyll && rake news:update >> /home/tauil/www/pontepretano/pontepretano-jekyll/tmp/pontepretano.log'
 
-35 * * * * bash -lc 'rsync -av --progress /home/tauil/www/pontepretano/pontepretano-jekyll/_site/ /home/tauil/www/pontepretano/pontepretano.com.br/ --exclude Rakefile --exclude CNAME --exclude Gemfile.lock --exclude /tmp && rake site:sync'
+35 * * * * bash -lc 'cd /home/tauil/www/pontepretano/pontepretano-jekyll && jekyll build && rsync -av --progress /home/tauil/www/pontepretano/pontepretano-jekyll/_site/ /home/tauil/www/pontepretano/pontepretano.com.br/ --exclude Rakefile --exclude CNAME --exclude Gemfile.lock --exclude /tmp && cd /home/tauil/www/pontepretano/pontepretano.com.br/ && rake site:sync'
