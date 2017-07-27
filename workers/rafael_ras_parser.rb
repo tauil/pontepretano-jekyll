@@ -1,6 +1,16 @@
 class RafaelRasParser < NewsParser
   private
 
+  def parsed_page(url_to_be_parsed)
+    uri = URI(url_to_be_parsed)
+    response = Net::HTTP.get(uri)
+    Nokogiri::HTML(response, nil, 'iso-8898')
+  end
+
+  def news_list
+    parsed_page(url).search(loop_node)
+  end
+
   def record_parsed_news
     news_list.each do |parsed_news|
       title = parsed_news.search('h2').text

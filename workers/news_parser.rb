@@ -1,4 +1,6 @@
 # coding: utf-8
+PAGE_COUNT = ENV['PAGE_COUNT'].to_i || 10
+
 class NewsParser
   attr_reader :news, :url, :loop_node, :source
 
@@ -14,7 +16,12 @@ class NewsParser
   end
 
   def parse
-    record_parsed_news
+    (1..PAGE_COUNT).each do |page|
+      puts "Parsing page #{page}"
+      @final_url = "#{url}#{page}"
+      puts @final_url
+      record_parsed_news
+    end
     news
   end
 
@@ -23,35 +30,35 @@ class NewsParser
   def parsed_page(url_to_be_parsed)
     uri = URI(url_to_be_parsed)
     response = Net::HTTP.get(uri)
-    Nokogiri::HTML(response, nil, 'iso-8898')
+    JSON.parse(response)['items']
   end
 
   def news_list
-    parsed_page(url).search(loop_node)
+    parsed_page(@final_url)
   end
 
-  def title(node)
-    node.search('h3').text
-  end
-
-  def image(node)
-    img = node.parent.at('img')
-    img.attr('src') unless img.nil?
-  end
-
-  def permalink(node)
-    node.attr('href')
+  def parse_page_content(url_to_be_parsed)
+    uri = URI(url_to_be_parsed)
+    response = Net::HTTP.get(uri)
+    page = Nokogiri::HTML(response, nil, 'iso-8898')
+    page.search('article')
   end
 
   def record_parsed_news
+    puts news_list.count
     news_list.each do |parsed_news|
-      news_page = parsed_page(permalink(parsed_news))
-      news_date = news_page.at('time')
-      news_content = news_page.at('.corpo-conteudo')
-      datetime = DateTime.parse(news_date)
-      news.push OpenStruct.new( title: title(parsed_news),
-                                image: image(parsed_news),
-                                permalink: permalink(parsed_news),
+      title = parsed_news['content']['title']
+      image = parsed_news['content']['image']['sizes']['S'] unless parsed_news['content']['image'].nil?
+      permalink = parsed_news['content']['url']
+      datetime = DateTime.parse(parsed_news['publication'])
+      news_content = parse_page_content(permalink)
+      puts title
+      puts permalink
+      puts datetime
+      puts "-----------------------------------------------------------------------------------------------------------------------------"
+      news.push OpenStruct.new( title: title,
+                                image: image,
+                                permalink: permalink,
                                 datetime: datetime,
                                 source: source,
                                 content: ReverseMarkdown.convert(news_content) )
