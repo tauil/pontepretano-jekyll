@@ -169,7 +169,7 @@
 
 - home: Ponte Preta
   home_badge: "/assets/images/team_badges/ponte_preta_60x60.png"
-  home_score: 1
+  home_score: 3
   visitor: Palmeiras
   visitor_badge: "/assets/images/team_badges/palmeiras_60x60.png"
   visitor_score: 0
