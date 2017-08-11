@@ -1,5 +1,4 @@
 # coding: utf-8
-PAGE_COUNT = ENV['PAGE_COUNT'].to_i || 10
 
 class NewsParser
   attr_reader :news, :url, :loop_node, :source
@@ -16,52 +15,106 @@ class NewsParser
   end
 
   def parse
-    (1..PAGE_COUNT).each do |page|
-      puts "Parsing page #{page}"
-      @final_url = "#{url}#{page}"
-      puts @final_url
-      record_parsed_news
-    end
+    record_parsed_news
     news
   end
 
   private
 
-  def parsed_page(url_to_be_parsed)
-    uri = URI(url_to_be_parsed)
+  def page
+    uri = URI(url)
     response = Net::HTTP.get(uri)
-    JSON.parse(response)['items']
-  end
-
-  def news_list
-    parsed_page(@final_url)
+    Nokogiri::HTML(response, nil, 'iso-8898')
   end
 
   def parse_page_content(url_to_be_parsed)
     uri = URI(url_to_be_parsed)
     response = Net::HTTP.get(uri)
     page = Nokogiri::HTML(response, nil, 'iso-8898')
-    page.search('article')
+    page
   end
 
-  def record_parsed_news
-    puts news_list.count
-    news_list.each do |parsed_news|
-      title = parsed_news['content']['title']
-      image = parsed_news['content']['image']['sizes']['S'] unless parsed_news['content']['image'].nil?
-      permalink = parsed_news['content']['url']
-      datetime = DateTime.parse(parsed_news['publication'])
-      news_content = parse_page_content(permalink)
+  def parse_highlight_news(article)
+    title = article.text.gsub("\n", '').strip.squeeze
+    permalink = article['href']
+    page_content = parse_page_content(permalink)
+    news_text = page_content.at('article')
+
+    if news_text
+      datetime = DateTime.parse(page_content.at('time')['datetime']) unless page_content.at('time').nil?
+      image = page_content.at('img')['src'] unless page_content.at('img').nil?
+    elsif !page_content.at('span.moment').nil?
+      datetime = DateTime.parse(page_content.at('span.moment')['data-fulldate'])
+    end
+
+    news.push OpenStruct.new( title: title,
+                              image: image,
+                              permalink: permalink,
+                              datetime: datetime,
+                              source: source,
+                              content: ReverseMarkdown.convert(news_text) )
+
+    if ENV['SAMPLE']
       puts title
       puts permalink
       puts datetime
-      puts "-----------------------------------------------------------------------------------------------------------------------------"
-      news.push OpenStruct.new( title: title,
-                                image: image,
-                                permalink: permalink,
-                                datetime: datetime,
-                                source: source,
-                                content: ReverseMarkdown.convert(news_content) )
+      puts news_text[0..20] if news_text
+      puts "\n\n"
+    end
+  end
+
+  def parse_news_feed(feed_item)
+    title = feed_item.at(".feed-post-body-title").text.gsub("\n", '').strip.squeeze
+    permalink = feed_item.at("a")['href']
+
+    page_content = parse_page_content(permalink)
+    news_text = page_content.at('article')
+
+    if news_text
+      datetime = DateTime.parse(page_content.at('time')['datetime']) unless page_content.at('time').nil?
+      image = page_content.at('img')['src'] unless page_content.at('img').nil?
+    elsif !page_content.at('span.moment').nil?
+      datetime = DateTime.parse(page_content.at('span.moment')['data-fulldate'])
+    end
+
+    news.push OpenStruct.new( title: title,
+                              image: image,
+                              permalink: permalink,
+                              datetime: datetime,
+                              source: source,
+                              content: ReverseMarkdown.convert(news_text) )
+
+    if ENV['SAMPLE']
+      puts title
+      puts permalink
+      puts datetime
+      puts news_text[0..20] if news_text
+      puts "\n\n"
+    end
+  end
+
+  def record_parsed_news
+    # Highlights
+    puts "Parsing Highlights"
+
+    page.search(loop_node).each do |article|
+      begin
+        next if article.text.strip.chomp.empty?
+        parse_highlight_news(article)
+      rescue Exception => e
+        binding.pry
+      end
+    end
+
+    puts "Parsing News Feed"
+
+    page.search("#feed-placeholder .post-item").each do |feed_item|
+      begin
+        next if feed_item.text.strip.chomp.empty?
+        parse_news_feed(feed_item)
+      rescue Exception => e
+        binding.pry
+      end
     end
   end
 end
