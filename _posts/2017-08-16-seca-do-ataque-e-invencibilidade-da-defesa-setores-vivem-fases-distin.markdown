@@ -1,0 +1,82 @@
+---
+layout: post
+title: "Seca do ataque e invencibilidade da defesa: setores vivem fases distintas na Ponte "
+date: 2017-08-16T11:51:11+00:00
+external_link: "http://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/noticia/seca-do-ataque-e-invencibilidade-da-defesa-setores-vivem-fases-distintas-na-ponte.ghtml"
+categories: news globo.com
+---
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+Não perde, mas também não ganha. Não sofre gol, mas também não faz. A série de três empates por 0 a 0 (Vasco, Fluminense e Sport) criou um dilema na Ponte Preta: se a defesa merece elogios pela invencibilidade recente, o ataque atravessa uma seca que atrapalha a busca pela reabilitação no Campeonato Brasileiro. Já são quatro seguidos jogos sem vitória.
+
+ 
+ 
+ 
+
+- Para a gente do ataque, é um pouco complicado, pois queremos marcar sempre. Ainda mais eu, que estou na disputa pela artilharia. Mas o trabalho continua. É válido enaltecer a força da defesa. Está de parabéns por ficar três jogos sem tomar gol em um campeonato de alto nível assim - afirmou Lucca, que é o vice-artilheiro da elite, com dez gols, mas não marca há quatro rodadas.
+
+ 
+ 
+ 
+
+A última partida da Ponte que teve bola na rede - dos dois lados - foi na derrota por 3 a 1 para o Vitória, quando os baianos abriram 3 a 0 logo no primeiro tempo. Desde que Elton descontou, logo no início da etapa final, os placares dos jogos da Macaca ficaram inalterados, "OXO" - literalmente.
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+  ![Kleina tem o desafio de encontrar o equilíbrio entre os setores para Ponte reagir na Série A (Foto: Carlos Velardi/ EPTV)](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgARCAAQABkDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAABQcBAgb/xAAXAQADAQAAAAAAAAAAAAAAAAABAgQF/9oADAMBAAIQAxAAAAHByeG57B6MphTn/8QAHhAAAgIABwAAAAAAAAAAAAAAAwQABQECBhESFBX/2gAIAQEAAQUCst1RHG7dYK1BzzzGZfLjKlpvMdhJAfOdNaf/xAAaEQABBQEAAAAAAAAAAAAAAAAAAQIDEkFR/9oACAEDAQE/AV4Mjtp//8QAGxEAAgIDAQAAAAAAAAAAAAAAAgMAAQQRIVH/2gAIAQIBAT8BU3SLZ5CzLEuz/8QAJRAAAgEDAwIHAAAAAAAAAAAAAQIRAAMSBCEiMVIzQ1GBkZLB/9oACAEBAAY/Agb5Jtoe7cn0pdUiqwKxwxWPYVzLWu2R1rxB9q5ZP0G1am1dabalVttA3G8/laPMQiNkREwJgivK+a//xAAfEAACAgEEAwAAAAAAAAAAAAABEQAhMUFh0fBRcYH/2gAIAQEAAT8hCkDBY3y11gvoDNk6BQuITyoItAwL1wFmdPzCIklJXDTWyfyJkACgIHpHKFFQNQGqG5nWE//aAAwDAQACAAMAAAAQB+//xAAZEQADAAMAAAAAAAAAAAAAAAAAASERMcH/2gAIAQMBAT8QW1vhhtwf/8QAGxEBAAICAwAAAAAAAAAAAAAAAQARITFxkcH/2gAIAQIBAT8Qe2bVZ1s8e2PBY4uf/8QAHBABAQEBAAIDAAAAAAAAAAAAAREhADFREEHx/9oACAEBAAE/EFEUIjj9cAiUwMdXjKmXOicIEimqrmKSmFEZNBAV0d+b4x+YtNN02+RCmjXlpkRCA0BWjDr5vEK30ABI19ns+Mf/2Q== "Kleina tem o desafio de encontrar o equilíbrio entre os setores para Ponte reagir na Série A (Foto: Carlos Velardi/ EPTV)") <picture itemscope itemtype="http://schema.org/ImageObject"> <!--[if IE 9]><video style="display: none;"><![endif]--> <source media="(max-width: 1024px)" data-src="https://s2.glbimg.com/atJwceYjCuS112Ts98kUYE46fIc=/0x0:922x591/600x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/S/n/3h7pvOSvSkgDf2VBXl1A/kleina.jpg 1x, https://s2.glbimg.com/15Ptz9-dsHpPdtcURuuEfRuldd0=/0x0:922x591/1200x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/S/n/3h7pvOSvSkgDf2VBXl1A/kleina.jpg 2x"> <source media="(max-width: 1280px)" data-src="https://s2.glbimg.com/qhN_4o3fLIsDBhU9qU1B2PX0ll4=/0x0:922x591/640x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/S/n/3h7pvOSvSkgDf2VBXl1A/kleina.jpg 1x, https://s2.glbimg.com/1Vz7XuKcK_XIpcvd-7C9dpgBvUA=/0x0:922x591/1280x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/S/n/3h7pvOSvSkgDf2VBXl1A/kleina.jpg 2x"> <source media="(max-width: 1360px)" data-src="https://s2.glbimg.com/hLBZS0r5wY_Pr4n6I1W3AaraEyM=/0x0:922x591/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/S/n/3h7pvOSvSkgDf2VBXl1A/kleina.jpg 1x, https://s2.glbimg.com/7S4edshSYoODPZnwDLcMyDrtF8U=/0x0:922x591/1968x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/S/n/3h7pvOSvSkgDf2VBXl1A/kleina.jpg 2x"> <source media="(min-width: 1361px)" data-src="https://s2.glbimg.com/dS1YXQbAVt_xS-nZ5ZzK6dKvf9A=/0x0:922x591/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/S/n/3h7pvOSvSkgDf2VBXl1A/kleina.jpg 1x, https://s2.glbimg.com/fBAjgY-b9QXGEIDMQ0pv27T-OHY=/0x0:922x591/2000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/S/n/3h7pvOSvSkgDf2VBXl1A/kleina.jpg 2x"> <source data-src="https://s2.glbimg.com/hLBZS0r5wY_Pr4n6I1W3AaraEyM=/0x0:922x591/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/S/n/3h7pvOSvSkgDf2VBXl1A/kleina.jpg"> <!--[if IE 9]></video><![endif]--> <img class="image content-media__image" itemprop="contentUrl" alt="Kleina tem o desafio de encontrar o equilíbrio entre os setores para Ponte reagir na Série A (Foto: Carlos Velardi/ EPTV)" title="Kleina tem o desafio de encontrar o equilíbrio entre os setores para Ponte reagir na Série A (Foto: Carlos Velardi/ EPTV)" data-src="https://s2.glbimg.com/hLBZS0r5wY_Pr4n6I1W3AaraEyM=/0x0:922x591/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/S/n/3h7pvOSvSkgDf2VBXl1A/kleina.jpg"> </source></source></source></source></source></picture> 
+ 
+ 
+ 
+
+_<svg xmlns="http://www.w3.org/2000/svg" width="13.5px" height="11.25px" viewbox="0 0 13 12"> <ellipse id="Oval" cx="6.5" cy="6.7826087" rx="2" ry="2.08695652"></ellipse> <path d="M4.625,0.260869565 L3.48125,1.56521739 L1.5,1.56521739 C0.8125,1.56521739 0.25,2.15217391 0.25,2.86956522 L0.25,10.6956522 C0.25,11.4130435 0.8125,12 1.5,12 L11.5,12 C12.1875,12 12.75,11.4130435 12.75,10.6956522 L12.75,2.86956522 C12.75,2.15217391 12.1875,1.56521739 11.5,1.56521739 L9.51875,1.56521739 L8.375,0.260869565 L4.625,0.260869565 L4.625,0.260869565 Z M6.5,10.0434783 C4.775,10.0434783 3.375,8.5826087 3.375,6.7826087 C3.375,4.9826087 4.775,3.52173913 6.5,3.52173913 C8.225,3.52173913 9.625,4.9826087 9.625,6.7826087 C9.625,8.5826087 8.225,10.0434783 6.5,10.0434783 L6.5,10.0434783 Z" id="Shape"></path> </svg>_ Kleina tem o desafio de encontrar o equilíbrio entre os setores para Ponte reagir na Série A (Foto: Carlos Velardi/ EPTV)
+
+ 
+ 
+ 
+ 
+ 
+
+Para proteger a defesa, Gilson Kleina reforçou a marcação no meio de campo, com três volantes a partir do compromisso com o Fluminense (Naldo, Jádson e Jean Patrick). O desafio do treinador, agora, é encontrar o equilíbrio entre os setores para que o ataque tenha uma participação efetiva.
+
+ 
+ 
+ 
+
+Apesar de ter o vice-artilheiro, a Macaca é o terceiro pior ataque da competição, com 20 gols em 20 rodadas (média de um por jogo), à frente apenas de Avaí (11 gols, em 17º) e Atlético-GO (17 gols, na lanterna). A dificuldade na frente explica um pouco a campanha irregular da Ponte. Na 14ª colocação, tem 24 pontos, a dois da zona de rebaixamento.
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+[\>\> SAIBA MAIS SOBRE A PONTE NO GE.COM](http://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/)
+
+ 
+ 
+ 
+
+A próxima chance de desencantar está marcada para domingo, às 16h, contra o Botafogo, no Majestoso. Se a defesa continuar fazendo sua parte, Lucca promete se esforçar ao máximo no outro extremo do campo para acabar com o jejum - do ataque e também do time.
+
+ 
+ 
+ 
+
+- Se você não toma gol, fica mais perto de vencer. Agora é acertar na frente durante a semana para colocar a bola para dentro e buscar as vitórias. O pessoal da defesa está segurando os adversários. Nós, da frente, temos de nos cobrar um pouco mais. Que possamos fazer os gols necessários - completou o atacante.
+
+ 
+ 
