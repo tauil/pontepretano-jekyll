@@ -1,0 +1,7 @@
+---
+layout: post
+title: "Na bronca"
+date: 2017-08-27T22:06:39+00:00
+external_link: "http://sportv.globo.com/futebol-nacional/videos/v/wendel-reclama-de-cartao-amarelo-em-lance-polemico-e-lamenta-derrota-triste/6107649/"
+categories: news globo.com
+---
