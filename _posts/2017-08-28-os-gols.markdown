@@ -1,0 +1,7 @@
+---
+layout: post
+title: "Os gols"
+date: 2017-08-28T00:04:30+00:00
+external_link: "http://sportv.globo.com/futebol-nacional/videos/v/os-gols-de-ponte-preta-1-x-2-atletico-mg-pela-22a-rodada-do-brasileirao/6107642/"
+categories: news globo.com
+---
