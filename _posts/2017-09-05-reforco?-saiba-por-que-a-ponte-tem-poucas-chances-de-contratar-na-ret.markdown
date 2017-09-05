@@ -1,0 +1,82 @@
+---
+layout: post
+title: "Reforço? Saiba por que a Ponte tem poucas chances de contratar na reta final da janela "
+date: 2017-09-05T13:10:16+00:00
+external_link: "http://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/noticia/reforco-saiba-por-que-a-ponte-tem-poucas-chances-de-contratar-na-reta-final-da-janela.ghtml"
+categories: news globo.com
+---
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+Na reta final do prazo para novas inscrições no Campeonato Brasileiro, será uma grande surpresa se a Ponte Preta anunciar algum reforço ao longo da semana. Pelo regulamento, qualquer clube da elite nacional tem no máximo até sexta-feira (8 de setembro) para regularizar jogadores.
+
+ 
+ 
+ 
+
+Não que a Macaca não precise de contratações. As carências no elenco existem - e a diretoria sabe disso. Atacantes de velocidade, uma vez que apostas para a posição, como Claudinho e Maranhão, não corresponderam, e também um meia mais agudo estariam entre as necessidades.
+
+ 
+ 
+ 
+
+A questão é que a Ponte tem dificuldades para encontrar nomes que resolvessem os problemas. Mais que o tempo, a Macaca esbarra em limitações de mercado, principalmente porque não pode mais buscar nenhum atleta de outro time da Série A do Brasileiro.
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+  ![Gilson Kleina e Gustavo Bueno avaliam possibilidades para o elenco na reta final da temporada (Foto: Carlos Velardi/ EPTV)](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgARCAAOABkDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABwAFBgj/xAAXAQADAQAAAAAAAAAAAAAAAAAAAgME/9oADAMBAAIQAxAAAAE8iDgVKboEPf8AHf8A/8QAIRAAAQIEBwAAAAAAAAAAAAAABAMFAAECBhITFBUWFyX/2gAIAQEAAQUCqt0iaafsCUYDC+uCo0blNNsCV3C2xMxfl7nH/8QAGREAAwADAAAAAAAAAAAAAAAAAAISASJB/9oACAEDAQE/AVvuSq2U/8QAGxEAAQQDAAAAAAAAAAAAAAAAAgABBCEDEnH/2gAIAQIBAT8BKREKwam6jMMb6Ev/xAAnEAACAQMCAwkAAAAAAAAAAAABAgMABBESIRMzUQUiMTRBYoGSov/aAAgBAQAGPwIMocjGdWn0phbxcFLdQsjgHf3GmhR+c6gHplq81b/VqCyXMZUeAGa7Whjk0d0Id9ivSpJmweGVPzmuVbfqv//EACAQAQACAgEEAwAAAAAAAAAAAAERIQBRMRBxobHB0fD/2gAIAQEAAT8h5flzh27ZNSTCRJW2p+MEEFKFIBeonpgkgoOJVHjC2eGKQ8tlZMQTR1Ses/T9s//aAAwDAQACAAMAAAAQ5r//xAAbEQEAAgIDAAAAAAAAAAAAAAABABEhQTFR0f/aAAgBAwEBPxBkrM11xuCOh9n/xAAbEQACAgMBAAAAAAAAAAAAAAABEQAhMUFRsf/aAAgBAgEBPxAxbY31jcIQ2F5P/8QAHxABAQACAgEFAAAAAAAAAAAAAREAITFBEHGBweHw/9oACAEBAAE/ECc2qiTQj0vtmmcUMGiwIeJCHrImj9GiXegytO7n5L5yQY411EJQSd4zWDkqdRYRv7x2gwkVB44F318bf//Z "Gilson Kleina e Gustavo Bueno avaliam possibilidades para o elenco na reta final da temporada (Foto: Carlos Velardi/ EPTV)") <picture itemscope itemtype="http://schema.org/ImageObject"> <!--[if IE 9]><video style="display: none;"><![endif]--> <source media="(max-width: 1024px)" data-src="https://s2.glbimg.com/KCh-pPOdinLedLYCheV7il4Ac4s=/0x0:1057x591/600x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/M/2/SoGuu0Q4mvCnwDY5V4aQ/kleina.gustavo.jpg 1x, https://s2.glbimg.com/TxtR-XWrHQnsG-bAe3lwFhSUITg=/0x0:1057x591/1200x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/M/2/SoGuu0Q4mvCnwDY5V4aQ/kleina.gustavo.jpg 2x"> <source media="(max-width: 1280px)" data-src="https://s2.glbimg.com/TgrGzUjYYNg9wZMBsb2nyW6iUXA=/0x0:1057x591/640x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/M/2/SoGuu0Q4mvCnwDY5V4aQ/kleina.gustavo.jpg 1x, https://s2.glbimg.com/6nzOA7ejN6Pn-o6whlb7_nlN884=/0x0:1057x591/1280x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/M/2/SoGuu0Q4mvCnwDY5V4aQ/kleina.gustavo.jpg 2x"> <source media="(max-width: 1360px)" data-src="https://s2.glbimg.com/BgNOesbXUPDQ-YDCDN9C2BPmQR8=/0x0:1057x591/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/M/2/SoGuu0Q4mvCnwDY5V4aQ/kleina.gustavo.jpg 1x, https://s2.glbimg.com/VQmncX-pJOzenr_Bbv7DnHGY2mI=/0x0:1057x591/1968x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/M/2/SoGuu0Q4mvCnwDY5V4aQ/kleina.gustavo.jpg 2x"> <source media="(min-width: 1361px)" data-src="https://s2.glbimg.com/YNOdxd1P32KApGnsogbEZQbY05w=/0x0:1057x591/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/M/2/SoGuu0Q4mvCnwDY5V4aQ/kleina.gustavo.jpg 1x, https://s2.glbimg.com/N6sipvbW2_D2FJiYhR7fI_wcGZo=/0x0:1057x591/2000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/M/2/SoGuu0Q4mvCnwDY5V4aQ/kleina.gustavo.jpg 2x"> <source data-src="https://s2.glbimg.com/BgNOesbXUPDQ-YDCDN9C2BPmQR8=/0x0:1057x591/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/M/2/SoGuu0Q4mvCnwDY5V4aQ/kleina.gustavo.jpg"> <!--[if IE 9]></video><![endif]--> <img class="image content-media__image" itemprop="contentUrl" alt="Gilson Kleina e Gustavo Bueno avaliam possibilidades para o elenco na reta final da temporada (Foto: Carlos Velardi/ EPTV)" title="Gilson Kleina e Gustavo Bueno avaliam possibilidades para o elenco na reta final da temporada (Foto: Carlos Velardi/ EPTV)" data-src="https://s2.glbimg.com/BgNOesbXUPDQ-YDCDN9C2BPmQR8=/0x0:1057x591/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/M/2/SoGuu0Q4mvCnwDY5V4aQ/kleina.gustavo.jpg"> </source></source></source></source></source></picture> 
+ 
+ 
+ 
+
+_<svg xmlns="http://www.w3.org/2000/svg" width="13.5px" height="11.25px" viewbox="0 0 13 12"> <ellipse id="Oval" cx="6.5" cy="6.7826087" rx="2" ry="2.08695652"></ellipse> <path d="M4.625,0.260869565 L3.48125,1.56521739 L1.5,1.56521739 C0.8125,1.56521739 0.25,2.15217391 0.25,2.86956522 L0.25,10.6956522 C0.25,11.4130435 0.8125,12 1.5,12 L11.5,12 C12.1875,12 12.75,11.4130435 12.75,10.6956522 L12.75,2.86956522 C12.75,2.15217391 12.1875,1.56521739 11.5,1.56521739 L9.51875,1.56521739 L8.375,0.260869565 L4.625,0.260869565 L4.625,0.260869565 Z M6.5,10.0434783 C4.775,10.0434783 3.375,8.5826087 3.375,6.7826087 C3.375,4.9826087 4.775,3.52173913 6.5,3.52173913 C8.225,3.52173913 9.625,4.9826087 9.625,6.7826087 C9.625,8.5826087 8.225,10.0434783 6.5,10.0434783 L6.5,10.0434783 Z" id="Shape"></path> </svg>_ Gilson Kleina e Gustavo Bueno avaliam possibilidades para o elenco na reta final da temporada (Foto: Carlos Velardi/ EPTV)
+
+ 
+ 
+ 
+ 
+ 
+
+Com Léo Artur e Claudinho, que pertenciam ao Corinthians, Negueba (ex-Atlético-GO), Maranhão (Fluminense) e Danilo Barcelos (Atlético-MG), a Alvinegra campineira atingiu o limite de cinco transferências entre clubes da mesma divisão.
+
+ 
+ 
+ 
+
+Desses, Negueba já não faz mais parte do elenco e treina em separado à espera de propostas. Pelo mesmo motivo, o atacante Zé Roberto, vinculado ao Bahia, não pôde ser registrado pela Ponte.
+
+ 
+ 
+ 
+
+[\>\> SAIBA MAIS SOBRE A PONTE NO GE.COM](http://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/)
+
+ 
+ 
+ 
+
+Assim, as opções ficam reduzidas. Os pretendidos teriam de surgir de séries inferiores do futebol brasileiro (Séries B, C e D) ou do exterior. A diretoria alvinegra já deixou claro que não vai mais "contratar por contratar". O último a chegar foi o atacante Léo Gamalho.
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Diante do cenário, o elenco da Ponte está praticamente fechado para a reta final da temporada. Novos afastamentos, como ocorreu com Negueba, Xuxa, João Lucas, também dificilmente acontecerão, até para Gilson Kleina não ficar com um grupo enxuto à disposição.
+
+ 
+ 
