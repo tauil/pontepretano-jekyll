@@ -1,0 +1,72 @@
+---
+layout: post
+title: "Saraiva reforça mistério, mas aprova trio com Luca e Sheik: \"Vai dar muito certo\""
+date: 2017-09-07T19:17:49+00:00
+external_link: "http://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/noticia/saraiva-reforca-misterio-mas-aprova-trio-com-lucca-e-sheik-vai-dar-muito-certo.ghtml"
+categories: news globo.com
+---
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+O elenco da Ponte Preta comprou a ideia de Gilson Kleina. Enquanto o técnico [fecha os treinos](http://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/noticia/kleina-repete-treino-fechado-mas-lucca-deixa-campo-mancando-e-preocupa-ponte.ghtml) antes da partida contra o São Paulo, os jogadores evitam comentar detalhes do que é trabalhado sem a presença dos jornalistas. A Macaca vai a campo neste sábado, às 19h, no Morumbi.
+
+ 
+ 
+ 
+
+Escolhido para atender a imprensa nesta quinta-feira, após o treino da manhã, Felipe Saraiva repetiu a tática dos colegas e não deu pistas do time que vai a campo no fim de semana. Mas mostrou animação com a possibilidade de formar um trio ofensivo com Lucca e Emerson Sheik.
+
+ 
+ 
+ 
+
+[\> Lucca deixa treino desta quinta mancando; veja como foi](http://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/noticia/kleina-repete-treino-fechado-mas-lucca-deixa-campo-mancando-e-preocupa-ponte.ghtml)
+
+ 
+ 
+ 
+
+– Não sei ainda qual a formação, mas um ataque veloz é sempre bom para toda equipe. Se for esse ataque, vai dar muito certo – afirmou o atacante de 19 anos, que participou de dez das 22 rodadas do Campeonato Brasileiro com a camisa da Ponte.
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+  ![Saraiva briga por espaço na equipe titular (Foto: Fabio Leoni / PontePress)](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgARCAAQABkDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAABgcDBAX/xAAWAQEBAQAAAAAAAAAAAAAAAAABAwT/2gAMAwEAAhADEAAAAQnVXz9y3vgkiUT/xAAcEAABBAMBAAAAAAAAAAAAAAADAAEEBQITFQb/2gAIAQEAAQUCfz1W8CgEYkY4o88PCp1SCzsrbhQ2BrzcO6Mv/8QAGhEAAgIDAAAAAAAAAAAAAAAAAAECERIhMf/aAAgBAwEBPwGDSuzFruj/xAAYEQACAwAAAAAAAAAAAAAAAAACAxARIf/aAAgBAgEBPwFgllR//8QAJhAAAgEDAgQHAAAAAAAAAAAAAgMBABEhBGEFEhMxM0FCUpOU4f/aAAgBAQAGPwKWCAS/2Rqpttm1cNOTVyKkRGBCe0701F7wQ2LExivEV9r9qNMwmglx5O84Hakv0d0IVIn0BK/afOtYkRMDJBBBsxmvT8Y1/8QAIBABAAIBAgcAAAAAAAAAAAAAAQARIUGREDFRYXHR8P/aAAgBAQABPyEtBMMBRfMC4/2pmrA9N51iATgdic1wEqQLIK8uW0VOOKCxzq53e8GIdRAjYn09k//aAAwDAQACAAMAAAAQbR//xAAaEQACAgMAAAAAAAAAAAAAAAAAEQEhQXGx/9oACAEDAQE/EJ/KpWx7pR//xAAaEQEAAQUAAAAAAAAAAAAAAAABABEhMUFx/9oACAECAQE/EGlbYvII4vP/xAAbEAEBAAMBAQEAAAAAAAAAAAABEQAhMVFh8f/aAAgBAQABPxBn4eGyNCuJNyfcpe7JaAZ2eqc3k8S4FPSA87n6LJHLE3VqQYI7L8xYCeQsIgFiVVXiBj8MBg0F46Wr7n0xP//Z "Saraiva briga por espaço na equipe titular (Foto: Fabio Leoni / PontePress)") <picture itemscope itemtype="http://schema.org/ImageObject"> <!--[if IE 9]><video style="display: none;"><![endif]--> <source media="(max-width: 1024px)" data-src="https://s2.glbimg.com/UjQB145Q-Nkq2row9up1npJhlIo=/0x0:1000x624/600x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/07/28/saraiva.2.jpg 1x, https://s2.glbimg.com/aPofM4kAn53N9Ku30Uq7qZQFzyg=/0x0:1000x624/1200x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/07/28/saraiva.2.jpg 2x"> <source media="(max-width: 1280px)" data-src="https://s2.glbimg.com/7wCfYNOy08LRR1NzzKpEAAaMCj8=/0x0:1000x624/640x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/07/28/saraiva.2.jpg 1x, https://s2.glbimg.com/Y-yiiUhm71WCRZLZJ6fXBRer1Qs=/0x0:1000x624/1280x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/07/28/saraiva.2.jpg 2x"> <source media="(max-width: 1360px)" data-src="https://s2.glbimg.com/TqdCDzhy48HbvjJbDBW4cB5VybI=/0x0:1000x624/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/07/28/saraiva.2.jpg 1x, https://s2.glbimg.com/7iF8RE1hJ-HABZDZcfaSCN0c8a4=/0x0:1000x624/1968x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/07/28/saraiva.2.jpg 2x"> <source media="(min-width: 1361px)" data-src="https://s2.glbimg.com/IdkZl8YGDuNg_I8OuoLO8E8sFBE=/0x0:1000x624/1000x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/07/28/saraiva.2.jpg 1x, https://s2.glbimg.com/1kNcPPA6061hkEmoIsn9Y4LmrD0=/0x0:1000x624/2000x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/07/28/saraiva.2.jpg 2x"> <source data-src="https://s2.glbimg.com/TqdCDzhy48HbvjJbDBW4cB5VybI=/0x0:1000x624/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/07/28/saraiva.2.jpg"> <!--[if IE 9]></video><![endif]--> <img class="image content-media__image" itemprop="contentUrl" alt="Saraiva briga por espaço na equipe titular (Foto: Fabio Leoni / PontePress)" title="Saraiva briga por espaço na equipe titular (Foto: Fabio Leoni / PontePress)" data-src="https://s2.glbimg.com/TqdCDzhy48HbvjJbDBW4cB5VybI=/0x0:1000x624/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/07/28/saraiva.2.jpg"> </source></source></source></source></source></picture> 
+ 
+ 
+ 
+
+_<svg xmlns="http://www.w3.org/2000/svg" width="13.5px" height="11.25px" viewbox="0 0 13 12"> <ellipse id="Oval" cx="6.5" cy="6.7826087" rx="2" ry="2.08695652"></ellipse> <path d="M4.625,0.260869565 L3.48125,1.56521739 L1.5,1.56521739 C0.8125,1.56521739 0.25,2.15217391 0.25,2.86956522 L0.25,10.6956522 C0.25,11.4130435 0.8125,12 1.5,12 L11.5,12 C12.1875,12 12.75,11.4130435 12.75,10.6956522 L12.75,2.86956522 C12.75,2.15217391 12.1875,1.56521739 11.5,1.56521739 L9.51875,1.56521739 L8.375,0.260869565 L4.625,0.260869565 L4.625,0.260869565 Z M6.5,10.0434783 C4.775,10.0434783 3.375,8.5826087 3.375,6.7826087 C3.375,4.9826087 4.775,3.52173913 6.5,3.52173913 C8.225,3.52173913 9.625,4.9826087 9.625,6.7826087 C9.625,8.5826087 8.225,10.0434783 6.5,10.0434783 L6.5,10.0434783 Z" id="Shape"></path> </svg>_ Saraiva briga por espaço na equipe titular (Foto: Fabio Leoni / PontePress)
+
+ 
+ 
+ 
+ 
+ 
+
+Para Saraiva, a partida ainda terá um gosto especial, já que o atacante defendeu o Tricolor entre 2014 e 2016, sempre nas categorias de base. A profissionalização aconteceu na Macaca. No sábado, os times fazem um duelo decisivo contra o rebaixamento. A Ponte tem 27 pontos, em 13º lugar, enquanto o São Paulo está em penúltimo, com 23.
+
+ 
+ 
+ 
+
+[+ CLIQUE AQUI para ler mais notícias da Ponte Preta](http://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/)
+
+ 
+ 
+ 
+
+– Encaro não como pressão, mas como um jogo importante. Precisamos dos três pontos para ficar em uma posição melhor no campeonato – disse Saraiva.
+
+ 
+ 
