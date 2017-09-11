@@ -1,0 +1,92 @@
+---
+layout: post
+title: "Aranha explica falha no segundo gol do São Paulo: \"Eu quis ser mais esperto que ele\""
+date: 2017-09-10T00:50:36+00:00
+external_link: "http://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/noticia/aranha-explica-falha-no-segundo-gol-do-sao-paulo-eu-quis-ser-mais-esperto-que-ele.ghtml"
+categories: news globo.com
+---
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+Além de Danilo Barcelos e Léo Gamalho, autor dos gols da Ponte Preta no Morumbi, Aranha foi outro jogador muito procurado pela imprensa neste sábado. O goleiro falhou no lance do segundo gol do São Paulo, ao tentar encaixar uma bola alta e perder a dividida para Bruno Alves.
+
+ 
+ 
+ 
+
+**Veja o lance no vídeo abaixo:**
+
+ 
+ 
+ 
+ <meta itemprop="name" content="Gol do São Paulo! Aranha falha, Bruno Alves cabeceia e amplia, aos 12 do 2º tempo"> <meta itemprop="thumbnailUrl" content="https://s04.video.glbimg.com/x720/6138171.jpg"> <meta itemprop="datePublished" content="2017-09-10T00:43:01.554Z"> <meta itemprop="uploadDate" content="2017-09-10T00:43:01.554Z"> 
+
+ 
+
+ 
+  ![Gol do São Paulo! Aranha falha, Bruno Alves cabeceia e amplia, aos 12 do 2º tempo](https://s04.video.glbimg.com/x720/6138171.jpg "Gol do São Paulo! Aranha falha, Bruno Alves cabeceia e amplia, aos 12 do 2º tempo") 
+ 
+ 
+ 
+
+_<svg xmlns="http://www.w3.org/2000/svg" width="14px" height="11px" viewbox="0 0 14 11"><path d="M14,9.16666667 C14,10.175 13.19,11 12.2,11 L1.8,11 C0.81,11 0,10.175 0,9.16666667 L0,1.83333333 C0,0.825 0.81,0 1.8,0 L12.2,0 C13.19,0 14,0.825 14,1.83333333 L14,9.16666667 Z M10.6,5.5 L5.2,2.5025 L5.2,8.48833333 L10.6,5.5 L10.6,5.5 Z" id="Shape"></path></svg>_ Gol do São Paulo! Aranha falha, Bruno Alves cabeceia e amplia, aos 12 do 2º tempo
+
+ 
+ 
+ 
+ 
+
+Para Aranha, a explicação é simples: ele não percebeu a chegada do jogador são-paulino, que se aproveitou de um espaço aberto dentro da área para dividir no corpo com o goleiro pontepretano. O gol ampliou o placar para o Tricolor, mas a Macaca foi buscar o empate logo em seguida.
+
+ 
+ 
+ 
+
+– Poderia ter socado a bola. Eu quis ser mais esperto que ele, mas ele acabou levando vantagem. Estava inteiro na bola para socar, achei que estava absoluto no lance, fui simplificar e segurar a bola para ganhar tempo, para a equipe sair de trás, e o cara foi esperto. Quando a zaga saiu, ele chegou e disputou comigo – disse o jogador.
+
+ 
+ 
+ 
+
+[+ CLIQUE AQUI para ler mais notícias da Macaca](http://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/)
+
+ 
+ 
+ 
+
+Sobre a partida, Aranha fez elogios à Ponte, que somou quatro pontos nos últimos dois jogos (vitória sobre o Atlético-MG e empate neste sábado). O foco agora é na soma de mais uma vitória no próximo fim de semana. A Macaca enfrenta o Atlético-GO, sábado, no Moisés Lucarelli.
+
+ 
+ 
+ 
+
+– A Ponte venceu em casa, empatou fora. Tiramos pontos de uma grande equipe. Mesmo feliz com o empate, tivemos oportunidade até de virar o jogo. Isso não aconteceu, mas agora tem que estar focado para fazer o dever de casa.
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+  ![Macaca conquista resultado fundamental no Morumbi (Foto: Mauro Horita)](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgARCAARABkDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHBgL/xAAXAQEAAwAAAAAAAAAAAAAAAAACAQME/9oADAMBAAIQAxAAAAGWHCgKn5GozsJzPwhUfNBro//EAB8QAAEEAgIDAAAAAAAAAAAAAAMAAQIEBRQGMxETNf/aAAgBAQABBQLVE0fWFhm44erj9FXC+EOw8Y2IjfB7SznW3ef5q//EABgRAQADAQAAAAAAAAAAAAAAAAABAgMy/9oACAEDAQE/AUte1n//xAAYEQEAAwEAAAAAAAAAAAAAAAAAAQMxMv/aAAgBAgEBPwHUKuIV4//EACoQAAIBAgMECwAAAAAAAAAAAAECAAMRBCEyEiJxsRAUIzFRYXJzkfDx/9oACAEBAAY/Al3mHEZkeUeotRmpIRfLuv8ATGxDFdzUq1Lmxtaaj8TDkU2p7LHPxhVgT+3nWGPaVKiFtpzpe81GUOLco3umVvTh+R6P/8QAIRAAAgEDBAMBAAAAAAAAAAAAARExABAhQVGRoWGB4fD/2gAIAQEAAT8hyx0t+dAOc0RJYwnR7FEwsDlAjabTo/EbTacVkg6RgqTum8DOYRMNDf1TfS2v7mxul//aAAwDAQACAAMAAAAQcHgB/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERMf/aAAgBAwEBPxCpKCrabGj/xAAcEQEAAgEFAAAAAAAAAAAAAAABACERcZGhsdH/2gAIAQIBAT8QRWRqVo138nCJ3z//xAAhEAEBAAICAQQDAAAAAAAAAAABEQAxIUFhIFFx0eHw8f/aAAgBAQABPxBAjkfFAKMiVJ3jSt52yu9CWcgdswqEVJ5wIkLScyby/wAr7xORFQxjtA21u4bBnWBwQVdLby/GE7efm5fbgl8s/r/vP13v9GGd/9k= "Macaca conquista resultado fundamental no Morumbi (Foto: Mauro Horita)") <picture itemscope itemtype="http://schema.org/ImageObject"> <!--[if IE 9]><video style="display: none;"><![endif]--> <source media="(max-width: 1024px)" data-src="https://s2.glbimg.com/UbHcMWbAp5AvGABL_a5OOBzHJsA=/0x0:2500x1665/600x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/09/09/hor6094.jpg 1x, https://s2.glbimg.com/oRKnbkhjoA5iN_F43oLqPz--aRo=/0x0:2500x1665/1200x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/09/09/hor6094.jpg 2x"> <source media="(max-width: 1280px)" data-src="https://s2.glbimg.com/Z40QxvLc5J_YL3VLtpl8gIexad8=/0x0:2500x1665/640x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/09/09/hor6094.jpg 1x, https://s2.glbimg.com/0dtb72E3ldYxPzdv2ici2WdlSlE=/0x0:2500x1665/1280x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/09/09/hor6094.jpg 2x"> <source media="(max-width: 1360px)" data-src="https://s2.glbimg.com/3jvljaCcq2pG7p4Ouno9W-tPGUo=/0x0:2500x1665/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/09/09/hor6094.jpg 1x, https://s2.glbimg.com/P1Zv_GOP0xZb9b5FkV9Lu1roFVY=/0x0:2500x1665/1968x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/09/09/hor6094.jpg 2x"> <source media="(min-width: 1361px)" data-src="https://s2.glbimg.com/rWuL79o6JVMX_jbcxXxG-zLhlGI=/0x0:2500x1665/1000x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/09/09/hor6094.jpg 1x, https://s2.glbimg.com/Pt_4q7H62vq4pSq0TSpfspHcNCw=/0x0:2500x1665/2000x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/09/09/hor6094.jpg 2x"> <source data-src="https://s2.glbimg.com/3jvljaCcq2pG7p4Ouno9W-tPGUo=/0x0:2500x1665/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/09/09/hor6094.jpg"> <!--[if IE 9]></video><![endif]--> <img class="image content-media__image" itemprop="contentUrl" alt="Macaca conquista resultado fundamental no Morumbi (Foto: Mauro Horita)" title="Macaca conquista resultado fundamental no Morumbi (Foto: Mauro Horita)" data-src="https://s2.glbimg.com/3jvljaCcq2pG7p4Ouno9W-tPGUo=/0x0:2500x1665/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/09/09/hor6094.jpg"> </source></source></source></source></source></picture> 
+ 
+ 
+ 
+
+_<svg xmlns="http://www.w3.org/2000/svg" width="13.5px" height="11.25px" viewbox="0 0 13 12"> <ellipse id="Oval" cx="6.5" cy="6.7826087" rx="2" ry="2.08695652"></ellipse> <path d="M4.625,0.260869565 L3.48125,1.56521739 L1.5,1.56521739 C0.8125,1.56521739 0.25,2.15217391 0.25,2.86956522 L0.25,10.6956522 C0.25,11.4130435 0.8125,12 1.5,12 L11.5,12 C12.1875,12 12.75,11.4130435 12.75,10.6956522 L12.75,2.86956522 C12.75,2.15217391 12.1875,1.56521739 11.5,1.56521739 L9.51875,1.56521739 L8.375,0.260869565 L4.625,0.260869565 L4.625,0.260869565 Z M6.5,10.0434783 C4.775,10.0434783 3.375,8.5826087 3.375,6.7826087 C3.375,4.9826087 4.775,3.52173913 6.5,3.52173913 C8.225,3.52173913 9.625,4.9826087 9.625,6.7826087 C9.625,8.5826087 8.225,10.0434783 6.5,10.0434783 L6.5,10.0434783 Z" id="Shape"></path> </svg>_ Macaca conquista resultado fundamental no Morumbi (Foto: Mauro Horita)
+
+ 
+ 
+ 
+ 
