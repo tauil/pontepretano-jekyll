@@ -1,0 +1,66 @@
+---
+layout: post
+title: "Luis Alí pasa por cirurgia e desfalca a Ponte na sequência do Brasileirão"
+date: 2017-09-14T20:13:14+00:00
+external_link: "https://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/noticia/luis-ali-passa-por-cirurgia-e-desfalca-a-ponte-na-sequencia-do-brasileirao.ghtml"
+categories: news globo.com
+---
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+A Ponte Preta perdeu uma opção ofensiva para a sequência da temporada. Com uma lesão no tendão do tornozelo esquerdo, o atacante boliviano Luis Alí passou por cirurgia no Hospital Albert Eistein, em São Paulo.
+
+ 
+ 
+ 
+
+O clube campineiro ainda não divulgou o prazo de recuperação, mas a tendência é que ele fique um bom tempo fora, correndo o risco de desfalcar a Macaca até o fim do ano.
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+  ![Imagem postada pelo boliviano nesta quinta (Foto: Reprodução / Instagram)](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgARCAAsABkDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAUGBwgD/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIEAP/aAAwDAQACEAMQAAABuBv3BDdR6E0LguBz/AmJei6Ct0pD0E0dy2WlAAktMv8A/8QAHxAAAgICAgMBAAAAAAAAAAAAAgQDBQABBhIUFRYh/9oACAEBAAEFAlVNQhGqOSrx7LxdZCGh1YTyxK1XNmzt/wBwn4Vxl5DWjAUZQTfTDj9f6sY3Npz1dG1cF8ynl+ewV43xorVlpFRBL2OsbALF5WYhicYPt33n/8QAGREAAgMBAAAAAAAAAAAAAAAAAQIAEBEE/9oACAEDAQE/ATTqyHDXQdaEz//EABsRAAMBAAMBAAAAAAAAAAAAAAABEQIDEiEx/9oACAECAQE/AUp9NKGOmlaOM4PMiP/EACoQAAEEAAQEBQUAAAAAAAAAAAIAAQMRBBIhMRMiQUIQUWFx0TKBkZKh/9oACAEBAAY/AnbMRa3zOubfdhXJst1e9fhvlTHCPEIRcmEu5/VRniivDyPkeMWoRvqy2/qzSzhHG3UzpZ3xQSRvpycyYmHLR5mv3XVfVxMO+hAWtKRo3Lhv22hk1igvQvhbH+yNy1tBPirjwDFqT9/oyMaGFhGo3ff7N5LZQQTALxsOzaXXmsrUwjszdEL3fv4f/8QAIRABAAICAgICAwAAAAAAAAAAAQARIWExQRCRcaFRgcH/2gAIAQEAAT8hrp1WsrRqYTaxYaU29G4ht44aqSyp0D+2fiXMVJxF5QVIWaFjsse5Uy3GmoD7iXnwLb0RvxqcsZHzib/aEY2vqVNQeji+iPF55uqvPiRUbAqEQJrZ/g/LHtcBZJxV24mxERlseEptFN4UaiD5Rg7+L//aAAwDAQACAAMAAAAQPJMH86//xAAZEQADAQEBAAAAAAAAAAAAAAAAAREhMXH/2gAIAQMBAT8QSdFpMxpH8LPFD//EABsRAAICAwEAAAAAAAAAAAAAAAABESExUXGR/9oACAECAQE/EIE+BrwxU1pjhMLK2yis/8QAIhABAAICAgEEAwAAAAAAAAAAAREhADFBUWFxkdHxELHw/9oACAEBAAE/EFJZS8/QgcGRkJMUjlJK4lt1OTu9bkO48euf2McEoPSwAOYCRTlkjB8L4ysALZhAKNAZF/i2ACEphKVRZ8eR7vnKCUJlWgsL6Mnnu4WSEug4lg84cyd2CKLAQ7/DO0j4byr8jjZiKweEvb9T1jYgw8kkSui71NXn3L4xBIiXagZL4umCbARjx6JC9RRS8oU6JFAobc+ww5vu1RIZU7eQjCepwQEABoOsZN6GlAgIfTWeU9jP/9k= "Imagem postada pelo boliviano nesta quinta (Foto: Reprodução / Instagram)") <picture itemscope itemtype="http://schema.org/ImageObject"> <!--[if IE 9]><video style="display: none;"><![endif]--> <source media="(max-width: 1024px)" data-src="https://s2.glbimg.com/x5sjOzTB20J7vE8Rfsj73uZs-Cw=/0x0:720x1280/600x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/09/14/ali.jpg 1x, https://s2.glbimg.com/NPulN473G9Ppj4CT-ew7ovrtOcg=/0x0:720x1280/1200x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/09/14/ali.jpg 2x"> <source media="(max-width: 1280px)" data-src="https://s2.glbimg.com/EkEMzkd70T9YlZgKGvXPvqyjAGU=/0x0:720x1280/640x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/09/14/ali.jpg 1x, https://s2.glbimg.com/xXaAhGNrO4mboqPC6dWQX-y_9WQ=/0x0:720x1280/1280x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/09/14/ali.jpg 2x"> <source media="(max-width: 1360px)" data-src="https://s2.glbimg.com/UAcG3ZZXSvVdPLeXu8t3jt-_if0=/0x0:720x1280/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/09/14/ali.jpg 1x, https://s2.glbimg.com/km5t8Vat6H8HTZNWBeWdvqt_mD4=/0x0:720x1280/1968x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/09/14/ali.jpg 2x"> <source media="(min-width: 1361px)" data-src="https://s2.glbimg.com/7AaUr-Re3re7Cd-OtHevse8FJng=/0x0:720x1280/1000x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/09/14/ali.jpg 1x, https://s2.glbimg.com/gOyjWmTfv7XqDOw7o_QsLRA1Xzw=/0x0:720x1280/2000x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/09/14/ali.jpg 2x"> <source data-src="https://s2.glbimg.com/UAcG3ZZXSvVdPLeXu8t3jt-_if0=/0x0:720x1280/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/09/14/ali.jpg"> <!--[if IE 9]></video><![endif]--> <img class="image content-media__image" itemprop="contentUrl" alt="Imagem postada pelo boliviano nesta quinta (Foto: Reprodução / Instagram)" title="Imagem postada pelo boliviano nesta quinta (Foto: Reprodução / Instagram)" data-src="https://s2.glbimg.com/UAcG3ZZXSvVdPLeXu8t3jt-_if0=/0x0:720x1280/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/09/14/ali.jpg"> </source></source></source></source></source></picture> 
+ 
+ 
+ 
+
+_<svg xmlns="http://www.w3.org/2000/svg" width="13.5px" height="11.25px" viewbox="0 0 13 12"> <ellipse id="Oval" cx="6.5" cy="6.7826087" rx="2" ry="2.08695652"></ellipse> <path d="M4.625,0.260869565 L3.48125,1.56521739 L1.5,1.56521739 C0.8125,1.56521739 0.25,2.15217391 0.25,2.86956522 L0.25,10.6956522 C0.25,11.4130435 0.8125,12 1.5,12 L11.5,12 C12.1875,12 12.75,11.4130435 12.75,10.6956522 L12.75,2.86956522 C12.75,2.15217391 12.1875,1.56521739 11.5,1.56521739 L9.51875,1.56521739 L8.375,0.260869565 L4.625,0.260869565 L4.625,0.260869565 Z M6.5,10.0434783 C4.775,10.0434783 3.375,8.5826087 3.375,6.7826087 C3.375,4.9826087 4.775,3.52173913 6.5,3.52173913 C8.225,3.52173913 9.625,4.9826087 9.625,6.7826087 C9.625,8.5826087 8.225,10.0434783 6.5,10.0434783 L6.5,10.0434783 Z" id="Shape"></path> </svg>_ Imagem postada pelo boliviano nesta quinta (Foto: Reprodução / Instagram)
+
+ 
+ 
+ 
+ 
+ 
+
+O jogador sentiu o problema no treino de segunda-feira, quando deixou o campo mancando. Depois, passou por exames para detectar a gravidade do caso.
+
+ 
+ 
+ 
+
+[+ CLIQUE AQUI para ler mais notícias da Ponte Preta](http://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/)
+
+ 
+ 
+ 
+
+Alí postou uma foto com a perna imobilizada na noite da última quarta, antes mesmo de a Ponte se pronunciar oficialmente. Aos 23 anos, Luis chegou ao Majestoso no início de julho, mas estreou apenas em 20 de agosto, quando entrou no segundo tempo da vitória por 2 a 1 sobre o Botafogo.
+
+ 
+ 
+ 
+
+Foi a única participação dele com a camisa alvinegra até agora. Na sequência, ficou a serviço da seleção boliviana e sofreu a lesão no retorno à Ponte.
+
+ 
+ 
