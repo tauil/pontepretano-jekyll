@@ -1,0 +1,110 @@
+---
+layout: post
+title: "Brigati resgata \"cara da Ponte\" e prepara tereno para Eduardo: \"Vai ajustar\""
+date: 2017-09-21T01:30:46+00:00
+external_link: "https://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/noticia/brigatti-resgata-cara-da-ponte-e-prepara-terreno-para-eduardo-vai-ajustar.ghtml"
+categories: news globo.com
+---
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+João Brigatti usou toda sua identificação com a Ponte Preta para atuar de bombeiro entre a saída de Gilson Kleina e a [**chegada de Eduardo Baptista**](https://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/noticia/indecisao-de-vadao-e-poder-de-persuasao-com-eduardo-a-reviravolta-na-ponte.ghtml) **.** Em meio à crise de identidade da equipe, o interino aproveitou o duelo contra o Sport, nesta quarta-feira à noite, pela Sul-Americana, para resgatar o "espírito pontepretano".
+
+ 
+ 
+ 
+
+Apesar da eliminação, Brigatti ficou satisfeito com o que viu na vitória por 1 a 0 no Majestoso, principalmente pela atitude da equipe. Após perder por 3 a 1 no Recife, a Macaca precisava de pelo menos 2 a 0 a favor para avançar. Fez 1 a 0 com Lucca ainda no primeiro tempo e insistiu até o fim, mesmo com um a menos - Nino Paraíba foi expulso antes do intervalo.
+
+ 
+ 
+ 
+
+Os aplausos da torcida ao apito final foram um reconhecimento ao empenho da equipe. À beira do campo, o estilo enérgico de João Brigatti ditou o comportamento do time. Sem parar gritar um minuto sequer, ele "pilhou" os jogadores. Alguns até passaram do ponto. Foi o caso de Nino Paraíba, que levou dois cartões amarelos no intervalo de 13 minutos por entradas duras.
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+  ![João Brigatti mostrou toda sua energia à beira do campo (Foto: Marcos Ribolli)](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgARCAAPABkDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAABQcBBAb/xAAWAQEBAQAAAAAAAAAAAAAAAAABAwT/2gAMAwEAAhADEAAAAVrBO5kM2KZgiB//xAAcEAACAgIDAAAAAAAAAAAAAAACBAEDAAUSExT/2gAIAQEAAQUCB6BLuXYucvOifTi2qCwatAtLjevUKjivn//EABYRAQEBAAAAAAAAAAAAAAAAAAABEf/aAAgBAwEBPwGNf//EABsRAAEEAwAAAAAAAAAAAAAAAAABAgMEETFR/9oACAECAQE/AX24M7EvR8U//8QAIBAAAgICAQUBAAAAAAAAAAAAAQIAEQMSMiEiMaHhgf/aAAgBAQAGPwIY3W1I81MeK0Ya7Gzxoe4llXVhsGWcY++YsHfY9x6+pt5U3QH59i48mzonFSx6T6Z//8QAHxAAAQQBBQEAAAAAAAAAAAAAAQARITFBUWFxkaHw/9oACAEBAAE/IZiAEX+ddozho11wgi2FkBJepIxBXyybD3DkN9VIywEovTPQb3SOlKlIXkX/AP/aAAwDAQACAAMAAAAQF5//xAAYEQEBAAMAAAAAAAAAAAAAAAABABEhUf/aAAgBAwEBPxAdSRnTf//EABgRAQADAQAAAAAAAAAAAAAAAAEAIdGB/9oACAECAQE/EBIOC2LyNn//xAAeEAEBAQEAAAcAAAAAAAAAAAABESEAEDFBUWFxkf/aAAgBAQABPxAr6sAINEC2wfTlM6rm5LnkEsdONMeDviREscnR7f3wydGBA6tJRmzOt3NvhuqEVD4HaW27EQ1nopl8Kf/Z "João Brigatti mostrou toda sua energia à beira do campo (Foto: Marcos Ribolli)") <picture itemscope itemtype="http://schema.org/ImageObject"> <!--[if IE 9]><video style="display: none;"><![endif]--> <source media="(max-width: 1024px)" data-src="https://s2.glbimg.com/rVZ8VnbKa6buhldyRHsk5X00ev4=/0x0:1080x648/600x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/09/20/brigatti.3.jpg 1x, https://s2.glbimg.com/13hDNVd-AkLr0dqFl-wVcFpPJDY=/0x0:1080x648/1200x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/09/20/brigatti.3.jpg 2x"> <source media="(max-width: 1280px)" data-src="https://s2.glbimg.com/DMbf6eTq652WIlqotsXCqP-ftb8=/0x0:1080x648/640x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/09/20/brigatti.3.jpg 1x, https://s2.glbimg.com/MGwl_LJvNnO7HmrlTpYj-2PVP5Q=/0x0:1080x648/1280x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/09/20/brigatti.3.jpg 2x"> <source media="(max-width: 1360px)" data-src="https://s2.glbimg.com/bnizsgDd6ACQ94yI4RmsKBMv1Iw=/0x0:1080x648/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/09/20/brigatti.3.jpg 1x, https://s2.glbimg.com/JUMDW_MkwXmZwivmdtRoI-rXSno=/0x0:1080x648/1968x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/09/20/brigatti.3.jpg 2x"> <source media="(min-width: 1361px)" data-src="https://s2.glbimg.com/YsDHzd4Kn5uixn7tzy9_sNdhMpk=/0x0:1080x648/1000x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/09/20/brigatti.3.jpg 1x, https://s2.glbimg.com/SZjp4sSuw7_JocrRtSjrVYntPyk=/0x0:1080x648/2000x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/09/20/brigatti.3.jpg 2x"> <source data-src="https://s2.glbimg.com/bnizsgDd6ACQ94yI4RmsKBMv1Iw=/0x0:1080x648/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/09/20/brigatti.3.jpg"> <!--[if IE 9]></video><![endif]--> <img class="image content-media__image" itemprop="contentUrl" alt="João Brigatti mostrou toda sua energia à beira do campo (Foto: Marcos Ribolli)" title="João Brigatti mostrou toda sua energia à beira do campo (Foto: Marcos Ribolli)" data-src="https://s2.glbimg.com/bnizsgDd6ACQ94yI4RmsKBMv1Iw=/0x0:1080x648/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/09/20/brigatti.3.jpg"> </source></source></source></source></source></picture> 
+ 
+ 
+ 
+
+_<svg xmlns="http://www.w3.org/2000/svg" width="13.5px" height="11.25px" viewbox="0 0 13 12"> <ellipse id="Oval" cx="6.5" cy="6.7826087" rx="2" ry="2.08695652"></ellipse> <path d="M4.625,0.260869565 L3.48125,1.56521739 L1.5,1.56521739 C0.8125,1.56521739 0.25,2.15217391 0.25,2.86956522 L0.25,10.6956522 C0.25,11.4130435 0.8125,12 1.5,12 L11.5,12 C12.1875,12 12.75,11.4130435 12.75,10.6956522 L12.75,2.86956522 C12.75,2.15217391 12.1875,1.56521739 11.5,1.56521739 L9.51875,1.56521739 L8.375,0.260869565 L4.625,0.260869565 L4.625,0.260869565 Z M6.5,10.0434783 C4.775,10.0434783 3.375,8.5826087 3.375,6.7826087 C3.375,4.9826087 4.775,3.52173913 6.5,3.52173913 C8.225,3.52173913 9.625,4.9826087 9.625,6.7826087 C9.625,8.5826087 8.225,10.0434783 6.5,10.0434783 L6.5,10.0434783 Z" id="Shape"></path> </svg>_ João Brigatti mostrou toda sua energia à beira do campo (Foto: Marcos Ribolli)
+
+ 
+ 
+ 
+ 
+ 
+
+[**+ VEJA OS BASTIDORES DA REVIRAVOLTA ENVOLVENDO VADÃO E EDUARDO**](https://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/noticia/indecisao-de-vadao-e-poder-de-persuasao-com-eduardo-a-reviravolta-na-ponte.ghtml)
+
+ 
+ 
+ 
+
+- Hoje encarnamos o espírito da Ponte, nada mais do que isso. Não conseguimos a classificação por pouco, mas a torcida está satisfeita. Não com a eliminação, mas sim pela atitude e pela coragem. Isso nos dá um alento para a situação difícil no Brasileirão. Com essa coragem de jogar, a Ponte não será rebaixada. Com a chegada do Eduardo, as coisas vão se acertar e teremos um novo rumo no campeonato - disse Brigatti.
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Nem parecia uma entrevista coletiva pós-eliminação. Brigatti fez questão de enaltecer a entrega dos jogadores:
+
+ 
+ 
+ 
+
+> - Aqui não tem mágica. Ou rala ou não consegue vencer. Os jogadores estão extenuados no vestiário, mas temos de dar os parabéns. Hoje, sim, foi a cara da Ponte. 
+ 
+ 
+
+Sobre a classificação do Sport, Brigatti considera que o resultado no jogo de ida, quando os pernambucanos venceram por 1 a 0, foi determinante. Ele também lamentou o fato de atuar com um a homem a menos a maior parte do tempo.
+
+ 
+ 
+ 
+
+- Não fosse a expulsão, tínhamos outro plano de jogo para o segundo tempo, mas aí tive de tirar o Saraiva e o Cajá para recompor. Não perdemos hoje, perdmeos lá, pela atitude que não fizemos lá.
+
+ 
+ 
+ 
+
+Agora, Brigatti volta à função de auxiliar fixo do clube com a missão cumprida: no pouco tempo que teve, preparou o terreno para Eduardo Baptista, que, apesar da situação ainda delicada, vai encontrar um elenco um pouco menos pressionado e com o moral renovado após a vitória desta noite. O novo treinador acompanhou a partida de um dos camarotes do estádio.
+
+ 
+ 
+ 
+
+[**\>\> LEIA MAIS NOTÍCIAS SOBRE A MACACA!**](http://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/)
+
+ 
+ 
+ 
+
+- O Eduardo já é velho de casa, bem conhecido aqui, excelente profissional. Com o potencial que tem, vai ajustar a equipe. E não tenho dúvidas, que, com a postura que teve hoje, o time fará uma excelente sequência de campeonato.
+
+ 
+ 
+ 
+
+A estreia de Eduardo acontecerá contra a Chapecoense, domingo, às 16h, fora de casa, em duelo direto na parte de baixo da tabela. Sem vencer há três jogos pelo Brasileirão, a Macaca tem 28 pontos, a apenas um da degola. Já a Chape tem a mesma pontuação, mas leva vantagem no número de vitórias (oito contra sete).
+
+ 
+ 
