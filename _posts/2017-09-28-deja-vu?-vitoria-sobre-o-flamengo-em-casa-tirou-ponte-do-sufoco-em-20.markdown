@@ -1,0 +1,82 @@
+---
+layout: post
+title: "Déjà vu? Vitória sobre o Flamengo em casa tirou Ponte do sufoco em 2015"
+date: 2017-09-28T14:17:27+00:00
+external_link: "https://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/noticia/deja-vu-vitoria-sobre-o-flamengo-em-casa-tirou-ponte-do-sufoco-em-2015.ghtml"
+categories: news globo.com
+---
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+Quando a fase não é boa, vale se apegar a estatísticas e coincidências do passado. É o caso da Ponte Preta para o duelo contra o Flamengo, segunda-feira, às 20h, em Campinas.
+
+ 
+ 
+ 
+
+Em crise, a Macaca precisa da vitória para aliviar a tensão no Majestoso. O cenário era semelhante em 2015, quando o time saiu do sufoco ao fazer o dever de casa diante do Rubro-negro carioca.
+
+ 
+ 
+ 
+
+Em 9 de agosto daquele ano, pela 17ª rodada do Brasileirão, a Ponte entrou em campo pressionada por um jejum de sete jogos que causou a saída de Guto Ferreira. Era a estreia de Doriva no comando, com o time na 13ª colocação e 19 pontos, a cinco da degola.
+
+ 
+ 
+ 
+
+Com gol de cabeça (ou de ombro?) do zagueiro Pablo aos 25 minutos do segundo tempo, a Macaca fez 1 a 0 e respirou um pouco mais aliviada **(relembre no vídeo abaixo)**. Na oportunidade, Emerson Sheik atuava pelo Fla, enquanto Rodinei defendia a Ponte. Hoje, eles trocaram de lado.
+
+ 
+ 
+ 
+ <meta itemprop="name" content="Assista à reportagem da vitória da Ponte sobre o Flamengo em 2015"> <meta itemprop="thumbnailUrl" content="https://s03.video.glbimg.com/x720/4381818.jpg"> <meta itemprop="datePublished" content="2017-09-28T13:47:26.549Z"> <meta itemprop="uploadDate" content="2017-09-28T13:47:26.549Z"> 
+
+ 
+
+ 
+  ![Assista à reportagem da vitória da Ponte sobre o Flamengo em 2015](https://s03.video.glbimg.com/x720/4381818.jpg "Assista à reportagem da vitória da Ponte sobre o Flamengo em 2015") 
+ 
+ 
+ 
+
+_<svg xmlns="http://www.w3.org/2000/svg" width="14px" height="11px" viewbox="0 0 14 11"><path d="M14,9.16666667 C14,10.175 13.19,11 12.2,11 L1.8,11 C0.81,11 0,10.175 0,9.16666667 L0,1.83333333 C0,0.825 0.81,0 1.8,0 L12.2,0 C13.19,0 14,0.825 14,1.83333333 L14,9.16666667 Z M10.6,5.5 L5.2,2.5025 L5.2,8.48833333 L10.6,5.5 L10.6,5.5 Z" id="Shape"></path></svg>_ Assista à reportagem da vitória da Ponte sobre o Flamengo em 2015
+
+ 
+ 
+ 
+ 
+
+A situação atual é mais delicada que há dois anos. Sem vencer há quatro rodadas, com duas derrotas consecutivas, a Ponte já figura na zona de rebaixamento.
+
+ 
+ 
+ 
+
+É a 18ª colocada, com 28 pontos. Após perder por 1 a 0 para a Chapecoense, Eduardo Baptista vai para o segundo jogo à frente da Macaca para tentar salvar o time da queda à Série B.
+
+ 
+ 
+ 
+
+[**\>\> VEJA MAIS NOTÍCIAS SOBRE A PONTE!**](http://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/)
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Na última vez que os times se enfrentaram em Campinas, porém, o Flamengo levou a melhor. Em 2016, os cariocas venceram de virada por 2 a 1. A partida marcou o início da trajetória de Zé Ricardo como técnico profissional do Fla. Pela Macaca, o treinador era o próprio Eduardo Baptista.
+
+ 
+ 
