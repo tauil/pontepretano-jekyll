@@ -1,0 +1,7 @@
+---
+layout: post
+title: ""
+date: 2017-10-02T23:30:16+00:00
+external_link: "http://globoesporte.globo.com/sp/campinas-e-regiao/futebol/brasileirao-serie-a/jogo/02-10-2017/ponte-preta-flamengo/"
+categories: news globo.com
+---
