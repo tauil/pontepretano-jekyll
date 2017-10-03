@@ -1,0 +1,7 @@
+---
+layout: post
+title: "Sai, zica!"
+date: 2017-10-03T02:30:12+00:00
+external_link: "http://globoesporte.globo.com/brasileirao-serie-a/videos/v/melhores-momentos-ponte-preta-1-x-0-flamengo-pela-26a-rodada-do-brasileirao/6189936/"
+categories: news globo.com
+---
