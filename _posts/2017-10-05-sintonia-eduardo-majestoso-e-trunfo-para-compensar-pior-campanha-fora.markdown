@@ -1,0 +1,92 @@
+---
+layout: post
+title: "Sintonia \"Eduardo-Majestoso\" é trunfo para compensar pior campanha fora "
+date: 2017-10-05T11:41:57+00:00
+external_link: "https://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/noticia/sintonia-eduardo-majestoso-e-trunfo-para-compensar-pior-campanha-fora.ghtml"
+categories: news globo.com
+---
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+Eduardo Baptista evita contas para livrar a Ponte Preta do rebaixamento, mas sempre faz questão de enfatizar a importância do fator campo. É no Majestoso que ele aposta para compensar o pior desempenho como visitante no Campeonato Brasileiro e evitar o rebaixamento.
+
+ 
+ 
+ 
+
+O treinador conhece bem o peso no estádio. Não apenas porque nasceu para o futebol no local. A melhor campanha da história do clube nos pontos corridos, em 2016, sob o comando de Eduardo, foi calcada no retrospecto como mandante.
+
+ 
+ 
+ 
+
+Dos 53 pontos ao todo, 41 foram conquistados diante da torcida, com 13 vitórias, quatro derrotas e dois empates em 19 jogos (71,92% de aproveitamento). É essa força que o treinador pretende resgatar para a reta final da competição, já que neste ano o aproveitamento diante da torcida tem deixado a desejar (58,97%).
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+  ![Eduardo Baptista e o Majestoso: relação é trunfo para Ponte escapar da Série B (Foto: Marcos Ribolli/ GloboEsporte.com)](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgARCAASABkDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQDBQcC/8QAGAEBAAMBAAAAAAAAAAAAAAAAAgABAwb/2gAMAwEAAhADEAAAAc3dhsjdP1eqCaS2HLqZUMB//8QAHRAAAgIDAAMAAAAAAAAAAAAAAgQDBQABFREUIf/aAAgBAQABBQIW1HQEEPXOdKKTkUWVNUEK7iUvKerW3w49hkYDrRa1nj5n/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAGhEAAgIDAAAAAAAAAAAAAAAAAAEDERMxUv/aAAgBAgEBPwG0Zo+iTYz/xAAmEAACAQMCBgIDAAAAAAAAAAABAhEAAxIEISMxNEFRkiAiYaHR/9oACAEBAAY/Ai9sCRBhk5ed6usiSJG+WMqfxVxBDWnYcQtvEV1K+1NiDd1mEOLkC0Mv2dqsWHtaZFtMozQ/aJjxSLhpdNi08Mdx35V1tv0H8qYE/D//xAAeEAEAAwADAAMBAAAAAAAAAAABABEhMUFREGHR8P/aAAgBAQABPyElay41NdMY0KIGnItO9SrlVNg6r0uZyz+v+QJahQUeUph62aCRK8Vb0B2NhFRQeDRq/v34QVESxa1IYwCUq0X7LfZ//9oADAMBAAIAAwAAABDkGIP/xAAaEQACAgMAAAAAAAAAAAAAAAAAEQEhMUFR/9oACAEDAQE/EFTgXTZOT//EABoRAAMAAwEAAAAAAAAAAAAAAAABESExQZH/2gAIAQIBAT8QzRsk5HpvOD//xAAeEAEBAAMAAgMBAAAAAAAAAAABEQAhMUFhEFGR8f/aAAgBAQABPxAIGMb2lWNJxTc0yTn5RTHPiuVqtmW/AicChKANTQkd5/CZZsiXbA2NF5YJpFzAAUMLNQR7XsphnP8AmeiCVQKF6H4EgWmlIDgv1kmI9A7g7m9G+Oe5+5//2Q== "Eduardo Baptista e o Majestoso: relação é trunfo para Ponte escapar da Série B (Foto: Marcos Ribolli/ GloboEsporte.com)") <picture itemscope itemtype="http://schema.org/ImageObject"> <!--[if IE 9]><video style="display: none;"><![endif]--> <source media="(max-width: 1024px)" data-src="https://s2.glbimg.com/GiOs6izGJwkrUrtDtkZccfqzK0M=/0x0:2296x1636/1008x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/X/Y/b30NelTEetTbVzGXsDaA/eduardo.5.jpg 1x, https://s2.glbimg.com/gFz72Szvj1dZJKW9GdPTCpWcd2s=/0x0:2296x1636/2016x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/X/Y/b30NelTEetTbVzGXsDaA/eduardo.5.jpg 2x"> <source media="(max-width: 1280px)" data-src="https://s2.glbimg.com/XTpK4RnX3NivGbdGt1F1Y9uEaWU=/0x0:2296x1636/1262x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/X/Y/b30NelTEetTbVzGXsDaA/eduardo.5.jpg 1x, https://s2.glbimg.com/U8PpewyKPjrDtZMj4eqjCzd_Bhc=/0x0:2296x1636/2524x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/X/Y/b30NelTEetTbVzGXsDaA/eduardo.5.jpg 2x"> <source media="(max-width: 1360px)" data-src="https://s2.glbimg.com/8iSyNPKOTXqfXQKQPCTXtijPcM0=/0x0:2296x1636/1344x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/X/Y/b30NelTEetTbVzGXsDaA/eduardo.5.jpg 1x, https://s2.glbimg.com/qSD1_1P-zoIIs00KruZqwwKUuNc=/0x0:2296x1636/2688x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/X/Y/b30NelTEetTbVzGXsDaA/eduardo.5.jpg 2x"> <source media="(min-width: 1361px)" data-src="https://s2.glbimg.com/UAYBMmVzUwNM0Z1jhYrNVSNkoW4=/0x0:2296x1636/1600x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/X/Y/b30NelTEetTbVzGXsDaA/eduardo.5.jpg 1x, https://s2.glbimg.com/Ge0b5M3A9QD_lZDD35P5-j_y_BU=/0x0:2296x1636/3200x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/X/Y/b30NelTEetTbVzGXsDaA/eduardo.5.jpg 2x"> <source data-src="https://s2.glbimg.com/GiOs6izGJwkrUrtDtkZccfqzK0M=/0x0:2296x1636/1008x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/X/Y/b30NelTEetTbVzGXsDaA/eduardo.5.jpg"> <!--[if IE 9]></video><![endif]--> <img class="image content-media__image" itemprop="contentUrl" alt="Eduardo Baptista e o Majestoso: relação é trunfo para Ponte escapar da Série B (Foto: Marcos Ribolli/ GloboEsporte.com)" title="Eduardo Baptista e o Majestoso: relação é trunfo para Ponte escapar da Série B (Foto: Marcos Ribolli/ GloboEsporte.com)" data-src="https://s2.glbimg.com/GiOs6izGJwkrUrtDtkZccfqzK0M=/0x0:2296x1636/1008x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/X/Y/b30NelTEetTbVzGXsDaA/eduardo.5.jpg"> </source></source></source></source></source></picture> 
+ 
+ 
+ 
+
+_<svg xmlns="http://www.w3.org/2000/svg" width="13.5px" height="11.25px" viewbox="0 0 13 12"> <ellipse id="Oval" cx="6.5" cy="6.7826087" rx="2" ry="2.08695652"></ellipse> <path d="M4.625,0.260869565 L3.48125,1.56521739 L1.5,1.56521739 C0.8125,1.56521739 0.25,2.15217391 0.25,2.86956522 L0.25,10.6956522 C0.25,11.4130435 0.8125,12 1.5,12 L11.5,12 C12.1875,12 12.75,11.4130435 12.75,10.6956522 L12.75,2.86956522 C12.75,2.15217391 12.1875,1.56521739 11.5,1.56521739 L9.51875,1.56521739 L8.375,0.260869565 L4.625,0.260869565 L4.625,0.260869565 Z M6.5,10.0434783 C4.775,10.0434783 3.375,8.5826087 3.375,6.7826087 C3.375,4.9826087 4.775,3.52173913 6.5,3.52173913 C8.225,3.52173913 9.625,4.9826087 9.625,6.7826087 C9.625,8.5826087 8.225,10.0434783 6.5,10.0434783 L6.5,10.0434783 Z" id="Shape"></path> </svg>_ Eduardo Baptista e o Majestoso: relação é trunfo para Ponte escapar da Série B (Foto: Marcos Ribolli/ GloboEsporte.com)
+
+ 
+ 
+ 
+ 
+ 
+
+O primeiro passo foi dado na última segunda-feira, quando, com 11.133 pessoas nas arquibancadas, a Macaca bateu o Flamengo por 1 a 0, na reestreia de Eduardo no Moisés Lucarelli.
+
+ 
+ 
+ 
+
+Das 12 partidas restantes, seis serão em Campinas (Santos, Avaí, Corinthians, Grêmio, Atlético-PR e Vitória). Se fizer o dever de casa, a Ponte encaminha a permanência na elite, uma vez que, segundo os matemáticos, mais quatro ou cinco vitórias são suficientes.
+
+ 
+ 
+ 
+
+> - Hoje a Ponte está nessa situação porque o Majestoso deixou de ser forte. Contudo, acho que conseguimos dar um primeiro passo para reconquistar (o fator campo). O principal é pontuar bem em casa e fazer o Majestoso forte para o torcedor acreditar. O que for diferencial fora de casa, nós brigaremos para estar um pouco mais em cima - disse Eduardo. 
+ 
+ 
+
+ 
+ 
+ 
+
+Essa segunda parte - buscar algo fora de casa - já é algo mais complicado diante dos números do time longe de Campinas. Com apenas 20,51% de aproveitamento (uma vitória, cinco empates e sete derrotas), a Ponte tem a pior campanha como visitante da atual edição.
+
+ 
+ 
+ 
+
+[**\>\> VEJA MAIS NOTÍCIAS SOBRE A PONTE!**](http://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/)
+
+ 
+ 
+ 
+
+Não é um roteiro muito diferente do ano passado, quando, também com Eduardo, a Macaca teve apenas duas vitórias fora, em cima dos rebaixados América-MG e Santa Cruz.
+
+ 
+ 
+ 
+
+Para manter a reação no Brasileiro, a equipe desafia essa estatística negativa no próximo sábado, quando volta a campo para enfrentar o Cruzeiro, às 16h, no Mineirão, em duelo antecipado da 28ª rodada a pedido dos mineiros. Com 38 pontos, a Ponte deixou a zona de rebaixamento e assumiu a 15ª colocação após ganhar do Flamengo.
+
+ 
+ 
