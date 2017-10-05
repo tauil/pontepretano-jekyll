@@ -1,0 +1,92 @@
+---
+layout: post
+title: "Ponte tem retorno de Bob e dúvida na lateral esquerda para enfrentar o Cruzeiro"
+date: 2017-10-04T18:34:55+00:00
+external_link: "https://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/noticia/ponte-tem-retorno-de-bob-e-duvida-na-lateral-esquerda-para-enfrentar-o-cruzeiro.ghtml"
+categories: news globo.com
+---
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+A escalação da Ponte Preta para enfrentar o Cruzeiro, sábado, às 16h, no Mineirão, passa diretamente pela lateral esquerda. Com Jeferson suspenso por três cartões amarelos, Eduardo Baptista tem a opção de recuar Danilo Barcelos ou promover a entrada de Artur ou Fernandinho.
+
+ 
+ 
+ 
+
+Como a intenção do treinador é utilizar Danilo no meio de campo, a exemplo do que aconteceu contra o Flamengo, existe a possibilidade de a camisa 6 ficar com um jogador que não atua há muito tempo.
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+  ![Artur pode ter uma chance depois de quase quatro meses (Foto: Carlos Velardi/ EPTV)](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgARCAAOABkDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAABQYAAgf/xAAWAQEBAQAAAAAAAAAAAAAAAAAFAgP/2gAMAwEAAhADEAAAAcvYigEZNYobk4//xAAcEAABBAMBAAAAAAAAAAAAAAAEAAECAwUGFBX/2gAIAQEAAQUCkC6F1i0rG+aRBuSxAk1mhW7JLDhkNK+vkX//xAAYEQADAQEAAAAAAAAAAAAAAAAAARECgf/aAAgBAwEBPwHcSqOH/8QAGREAAwADAAAAAAAAAAAAAAAAAAECAxEh/9oACAECAQE/AcPXqi6cs//EACQQAAIABQMEAwAAAAAAAAAAAAECAAMEEkERISIFEBMxM1GB/9oACAEBAAY/AluxnSGrhUSZKXEcibj+QXK6KNuyO4KF+AYC60/cVPTxJE5ZxLGa2xHseoSp8jFHt4HGI+Vo/8QAHxAAAgEEAgMAAAAAAAAAAAAAAREAITFBkVFhcYHh/9oACAEBAAE/IVQI0JkcEx4yyGKBglamYqCeZ4NQ1LkErNBIEPk1JoECs7mUAn7RqN8p/9oADAMBAAIAAwAAABBSf//EABkRAQACAwAAAAAAAAAAAAAAAAEAESGh4f/aAAgBAwEBPxAAHDwlFobT/8QAGBEBAAMBAAAAAAAAAAAAAAAAAQBBkRH/2gAIAQIBAT8QC9FbOGUyf//EACAQAQACAQQCAwAAAAAAAAAAAAERIQAxQVFhcZHR8PH/2gAIAQEAAT8QPFJVgly9R7y5p/a1CIpErUlgMn4XKFbDuSznO/7eMXaJ51pYF6TxiDpcAGBUJCl1UuMIlJQKQEJB1IG+fg/nP//Z "Artur pode ter uma chance depois de quase quatro meses (Foto: Carlos Velardi/ EPTV)") <picture itemscope itemtype="http://schema.org/ImageObject"> <!--[if IE 9]><video style="display: none;"><![endif]--> <source media="(max-width: 1024px)" data-src="https://s2.glbimg.com/rEa2Iv3G9JccvDPPOE8P2FWR4FM=/0x0:1060x587/600x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/i/1/CIyccBTFqZjhDhziRCAg/artur.2.jpg 1x, https://s2.glbimg.com/BHhfdhHbqbekP91gxdLnYytj9l0=/0x0:1060x587/1200x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/i/1/CIyccBTFqZjhDhziRCAg/artur.2.jpg 2x"> <source media="(max-width: 1280px)" data-src="https://s2.glbimg.com/BCvUbd3WPjXxnn-ujVBTnC9Ni4A=/0x0:1060x587/640x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/i/1/CIyccBTFqZjhDhziRCAg/artur.2.jpg 1x, https://s2.glbimg.com/vzavrwMLrT7RLkWfEAl3xg7dUAQ=/0x0:1060x587/1280x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/i/1/CIyccBTFqZjhDhziRCAg/artur.2.jpg 2x"> <source media="(max-width: 1360px)" data-src="https://s2.glbimg.com/SKFwt9MomdtWoPKtfXNOr-SSbVQ=/0x0:1060x587/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/i/1/CIyccBTFqZjhDhziRCAg/artur.2.jpg 1x, https://s2.glbimg.com/nC4SnUKqln-hFom7XfeIZj9cKC8=/0x0:1060x587/1968x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/i/1/CIyccBTFqZjhDhziRCAg/artur.2.jpg 2x"> <source media="(min-width: 1361px)" data-src="https://s2.glbimg.com/1NfKq63V04Mmxhdu95rZ-kph9cA=/0x0:1060x587/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/i/1/CIyccBTFqZjhDhziRCAg/artur.2.jpg 1x, https://s2.glbimg.com/xwf89lntTi8QyT3Osy457KnUaDU=/0x0:1060x587/2000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/i/1/CIyccBTFqZjhDhziRCAg/artur.2.jpg 2x"> <source data-src="https://s2.glbimg.com/SKFwt9MomdtWoPKtfXNOr-SSbVQ=/0x0:1060x587/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/i/1/CIyccBTFqZjhDhziRCAg/artur.2.jpg"> <!--[if IE 9]></video><![endif]--> <img class="image content-media__image" itemprop="contentUrl" alt="Artur pode ter uma chance depois de quase quatro meses (Foto: Carlos Velardi/ EPTV)" title="Artur pode ter uma chance depois de quase quatro meses (Foto: Carlos Velardi/ EPTV)" data-src="https://s2.glbimg.com/SKFwt9MomdtWoPKtfXNOr-SSbVQ=/0x0:1060x587/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/i/1/CIyccBTFqZjhDhziRCAg/artur.2.jpg"> </source></source></source></source></source></picture> 
+ 
+ 
+ 
+
+_<svg xmlns="http://www.w3.org/2000/svg" width="13.5px" height="11.25px" viewbox="0 0 13 12"> <ellipse id="Oval" cx="6.5" cy="6.7826087" rx="2" ry="2.08695652"></ellipse> <path d="M4.625,0.260869565 L3.48125,1.56521739 L1.5,1.56521739 C0.8125,1.56521739 0.25,2.15217391 0.25,2.86956522 L0.25,10.6956522 C0.25,11.4130435 0.8125,12 1.5,12 L11.5,12 C12.1875,12 12.75,11.4130435 12.75,10.6956522 L12.75,2.86956522 C12.75,2.15217391 12.1875,1.56521739 11.5,1.56521739 L9.51875,1.56521739 L8.375,0.260869565 L4.625,0.260869565 L4.625,0.260869565 Z M6.5,10.0434783 C4.775,10.0434783 3.375,8.5826087 3.375,6.7826087 C3.375,4.9826087 4.775,3.52173913 6.5,3.52173913 C8.225,3.52173913 9.625,4.9826087 9.625,6.7826087 C9.625,8.5826087 8.225,10.0434783 6.5,10.0434783 L6.5,10.0434783 Z" id="Shape"></path> </svg>_ Artur pode ter uma chance depois de quase quatro meses (Foto: Carlos Velardi/ EPTV)
+
+ 
+ 
+ 
+ 
+ 
+
+A última vez que Artur defendeu a Ponte foi em 9 de junho, no empate por 1 a 1 com o Gimnasia La Plata, na Argentina, pela Sul-Americana. Depois, ficou afastado até ser reintegrado ao elenco principal na semana passada.
+
+ 
+ 
+ 
+
+Já Fernandinho não entra em campo desde 12 de julho, quando participou da derrota por 3 a 0 para o Bahia, no Majestoso. A questão do ritmo de jogo será levada em conta por Eduardo Baptista para escolher o substituto de Jeferson. É a principal dúvida na Macaca.
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+  ![Fernando Bob tem retorno garantido no meio alvinegro (Foto: Fábio Leoni / PontePress)](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgARCAAPABkDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQcBBv/EABYBAQEBAAAAAAAAAAAAAAAAAAQCA//aAAwDAQACEAMQAAABDDeoxN4TnXiEr//EAB4QAAEEAQUAAAAAAAAAAAAAAAQAAgMFFAEGEhUk/9oACAEBAAEFAqsXJ0fQGdubSzuJ4SIJ8oztxWh0MThPHgtX/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAERAiH/2gAIAQMBAT8B1yIiR//EABkRAQADAQEAAAAAAAAAAAAAAAIAAQMUMf/aAAgBAgEBPwHNFm3V+TryU//EACIQAAICAgEDBQAAAAAAAAAAAAECAxEAEiETMTIEM0GBkf/aAAgBAQAGPwJOkm29arrzksbxySa2ZEPiBiPGI4VUDkOTee2P3PTSJOQeoOa7C8SFK3a1uI/H3gRh0W7sqHi88mz/xAAcEAACAwEAAwAAAAAAAAAAAAABEQAhMWEQQfH/2gAIAQEAAT8hTkLBGEeI2OEyg1nY3OZSR91yfKQhyAJgaANLbjwpSGgmm9wLwRmpZvjP/9oADAMBAAIAAwAAABCOv//EABcRAQEBAQAAAAAAAAAAAAAAAAEAITH/2gAIAQMBAT8Q3Q7Gob//xAAbEQABBAMAAAAAAAAAAAAAAAABABEhMWFx8P/aAAgBAgEBPxCHbbRHFUHJbC//xAAcEAEBAAMAAwEAAAAAAAAAAAABEQAhMWHB8PH/2gAIAQEAAT8QAUIHEsbHd0d5MWhom+SFaESE4uTAMS7iuBdKQOZ9p7w9Az7zKaETlwjbjHNBUYJapWduXwU/wpKrSJre8/fM/9k= "Fernando Bob tem retorno garantido no meio alvinegro (Foto: Fábio Leoni / PontePress)") <picture itemscope itemtype="http://schema.org/ImageObject"> <!--[if IE 9]><video style="display: none;"><![endif]--> <source media="(max-width: 1024px)" data-src="https://s2.glbimg.com/G0qi6-AoQf39w_lcbvTqNlD1e8o=/0x0:1000x605/600x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/06/29/19402203_1473822802640269_996411666907600001_o.jpg 1x, https://s2.glbimg.com/o8vrVuYiF2Z5uUT4oPCSbxa7Ou8=/0x0:1000x605/1200x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/06/29/19402203_1473822802640269_996411666907600001_o.jpg 2x"> <source media="(max-width: 1280px)" data-src="https://s2.glbimg.com/T6p_QiAYu0l9fnvbXCjSY04Kgy8=/0x0:1000x605/640x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/06/29/19402203_1473822802640269_996411666907600001_o.jpg 1x, https://s2.glbimg.com/1DwUjb5q1r3R__Il4nkqHh_gz1s=/0x0:1000x605/1280x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/06/29/19402203_1473822802640269_996411666907600001_o.jpg 2x"> <source media="(max-width: 1360px)" data-src="https://s2.glbimg.com/SJRbu0NAb6Lwh-ldhKKuUvAeTjQ=/0x0:1000x605/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/06/29/19402203_1473822802640269_996411666907600001_o.jpg 1x, https://s2.glbimg.com/XvupqqLfHSsx81nFJQeYH9TYHx0=/0x0:1000x605/1968x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/06/29/19402203_1473822802640269_996411666907600001_o.jpg 2x"> <source media="(min-width: 1361px)" data-src="https://s2.glbimg.com/TJ1UHxQuyDM9H1SQDQybnnypj2A=/0x0:1000x605/1000x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/06/29/19402203_1473822802640269_996411666907600001_o.jpg 1x, https://s2.glbimg.com/1nUxNUKC2M_JuzBM2HIT8rlYanI=/0x0:1000x605/2000x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/06/29/19402203_1473822802640269_996411666907600001_o.jpg 2x"> <source data-src="https://s2.glbimg.com/SJRbu0NAb6Lwh-ldhKKuUvAeTjQ=/0x0:1000x605/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/06/29/19402203_1473822802640269_996411666907600001_o.jpg"> <!--[if IE 9]></video><![endif]--> <img class="image content-media__image" itemprop="contentUrl" alt="Fernando Bob tem retorno garantido no meio alvinegro (Foto: Fábio Leoni / PontePress)" title="Fernando Bob tem retorno garantido no meio alvinegro (Foto: Fábio Leoni / PontePress)" data-src="https://s2.glbimg.com/SJRbu0NAb6Lwh-ldhKKuUvAeTjQ=/0x0:1000x605/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/06/29/19402203_1473822802640269_996411666907600001_o.jpg"> </source></source></source></source></source></picture> 
+ 
+ 
+ 
+
+_<svg xmlns="http://www.w3.org/2000/svg" width="13.5px" height="11.25px" viewbox="0 0 13 12"> <ellipse id="Oval" cx="6.5" cy="6.7826087" rx="2" ry="2.08695652"></ellipse> <path d="M4.625,0.260869565 L3.48125,1.56521739 L1.5,1.56521739 C0.8125,1.56521739 0.25,2.15217391 0.25,2.86956522 L0.25,10.6956522 C0.25,11.4130435 0.8125,12 1.5,12 L11.5,12 C12.1875,12 12.75,11.4130435 12.75,10.6956522 L12.75,2.86956522 C12.75,2.15217391 12.1875,1.56521739 11.5,1.56521739 L9.51875,1.56521739 L8.375,0.260869565 L4.625,0.260869565 L4.625,0.260869565 Z M6.5,10.0434783 C4.775,10.0434783 3.375,8.5826087 3.375,6.7826087 C3.375,4.9826087 4.775,3.52173913 6.5,3.52173913 C8.225,3.52173913 9.625,4.9826087 9.625,6.7826087 C9.625,8.5826087 8.225,10.0434783 6.5,10.0434783 L6.5,10.0434783 Z" id="Shape"></path> </svg>_ Fernando Bob tem retorno garantido no meio alvinegro (Foto: Fábio Leoni / PontePress)
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Além de Jeferson, Naldo, expulso por entrada violenta em Vinícius Júnior, está fora. Por outro lado, o capitão Fernando Bob, livre de suspensão, retorna e tem vaga garantida no meio de campo. Autor do gol da vitória por 1 a 0 sobre o Flamengo, Jean Patrick também concorre por um lugar no meio com Elton. Se Danilo for usado na lateral, Léo Artur passa a ter chance de entrar no setor.
+
+ 
+ 
+ 
+
+[**\>\> VEJA MAIS NOTÍCIAS SOBRE A PONTE!**](http://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/)
+
+ 
+ 
+ 
+
+Eduardo Baptista vai intensificar a preparação alvinegra a partir de quinta-feira, quando iniciará a montagem da equipe titular. Com 31 pontos, a Ponte entrará em campo na 15ª colocação. A partida vale pela 28ª rodada e foi antecipada a pedido do Cruzeiro por conta de shows no Mineirão.
+
+ 
+ 
