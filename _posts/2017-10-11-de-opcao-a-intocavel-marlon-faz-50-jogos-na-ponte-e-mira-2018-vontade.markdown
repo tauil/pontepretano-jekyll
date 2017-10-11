@@ -1,0 +1,133 @@
+---
+layout: post
+title: "De opção a intocável, Marlon faz 50 jogos na Ponte e mira 2018: \"Vontade é seguir\" "
+date: 2017-10-11T12:26:07+00:00
+external_link: "https://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/noticia/de-opcao-a-intocavel-marllon-faz-50-jogos-na-ponte-e-mira-2018-vontade-e-seguir.ghtml"
+categories: news globo.com
+---
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+Quando 2017 começou, Felipe Moreira optou por formar a zaga da Ponte Preta com os remanescentes Fábio Ferreira e Kadu. Mas quem acompanhou o desempenho de Marllon nos anos anteriores, principalmente pelo Atlético-GO, sabia que era questão de tempo para ele passar de opção a titular absoluto da Macaca.
+
+ 
+ 
+ 
+
+Foi o que aconteceu. A goleada por 5 a 2 para o São Paulo no Morumbi, pela segunda rodada do Paulistão, causou mudanças na defesa. Marllon entrou no time na partida seguinte (vitória por 2 a 1 sobre o Botafogo-SP, em Ribeirão Preto), agarrou a chance e não saiu mais, tornando-se um dos pilares defensivos da equipe.
+
+ 
+ 
+ 
+
+Contra o Santos, nesta quinta-feira, a partir das 17h no Majestoso, ele completa 50 jogos com a camisa alvinegra - contando, também, o amistoso com o Palmeiras na pré-temporada. Nesses dez meses de Ponte Preta, ele coloca o vice campeonato paulista como ponto alto da sua passagem por Campinas até aqui.
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+  ![Marllon se firmou como xerife da Ponte neste ano (Foto: Fabio Leoni/ PontePress)](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgARCAAPABkDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAUGA//EABcBAAMBAAAAAAAAAAAAAAAAAAIDBAX/2gAMAwEAAhADEAAAAYSiHcZVE9i7FWf/xAAaEAACAwEBAAAAAAAAAAAAAAACAwABBBMF/9oACAEBAAEFAhzhal5adKXQB0qKADvD6R5Ta4EN7Kn/xAAZEQACAwEAAAAAAAAAAAAAAAAAAhESUVL/2gAIAQMBAT8BhdKJ0f/EABoRAAICAwAAAAAAAAAAAAAAAAACASEEFGH/2gAIAQIBAT8BjMTpv3an/8QAJBAAAQMCBAcAAAAAAAAAAAAAAQACEQMSISIzQTFhcZGh0eH/2gAIAQEABj8CaXsk3A4NlGHxbi7LwG6wJgbuWq1MpgHlJ+Ko6k40chutAg+FWowXCY6rTHYel//EAB8QAAIBBAIDAAAAAAAAAAAAAAEhEQAQMWFBgVGR8P/aAAgBAQABPyGEl+igc0KMotPBl951QCDdyQ1NlzPbAXbVymUcOwWzUeRnmEBkSu7Fv//aAAwDAQACAAMAAAAQm4//xAAaEQABBQEAAAAAAAAAAAAAAAAAETFhkaHh/9oACAEDAQE/EEmwSq6f/8QAGREBAAIDAAAAAAAAAAAAAAAAAQARcZHR/9oACAECAQE/EFopRx2UELuf/8QAHRABAQEAAgIDAAAAAAAAAAAAAREhADFBURDR8P/aAAgBAQABPxC+oh2NKfTN8TkW+pQVpFGYSnl0nlaNpkH2Mdnfec/YffC7GY+itQols764KewAqE8IUMLLQzrkAzsAzXF3vxo//9k= "Marllon se firmou como xerife da Ponte neste ano (Foto: Fabio Leoni/ PontePress)") <picture itemscope itemtype="http://schema.org/ImageObject"> <!--[if IE 9]><video style="display: none;"><![endif]--> <source media="(max-width: 1024px)" data-src="https://s2.glbimg.com/RtXMV4Vn4B683hfWTuDUzEW78fA=/0x0:1000x614/600x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/07/14/marllon.2.jpg 1x, https://s2.glbimg.com/kGY-H0uqY1MuhY4SA4CkCw61EMA=/0x0:1000x614/1200x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/07/14/marllon.2.jpg 2x"> <source media="(max-width: 1280px)" data-src="https://s2.glbimg.com/PDFCUbVvcTXAOT0DWhRQTb4EUYo=/0x0:1000x614/640x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/07/14/marllon.2.jpg 1x, https://s2.glbimg.com/A4uY68tbkihewNiK7NsgQdlzSWE=/0x0:1000x614/1280x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/07/14/marllon.2.jpg 2x"> <source media="(max-width: 1360px)" data-src="https://s2.glbimg.com/BO0Yif_jp9r5pJsa5FV2LY2Gp0o=/0x0:1000x614/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/07/14/marllon.2.jpg 1x, https://s2.glbimg.com/rSQRA6jjpiDUHdsWRS4kU8AMvOc=/0x0:1000x614/1968x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/07/14/marllon.2.jpg 2x"> <source media="(min-width: 1361px)" data-src="https://s2.glbimg.com/42Gohb3chx46Lv8K8MPLpd0ikjE=/0x0:1000x614/1000x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/07/14/marllon.2.jpg 1x, https://s2.glbimg.com/Yvd-oT9lJhiQoR7GXxiWRCZG_ig=/0x0:1000x614/2000x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/07/14/marllon.2.jpg 2x"> <source data-src="https://s2.glbimg.com/BO0Yif_jp9r5pJsa5FV2LY2Gp0o=/0x0:1000x614/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/07/14/marllon.2.jpg"> <!--[if IE 9]></video><![endif]--> <img class="image content-media__image" itemprop="contentUrl" alt="Marllon se firmou como xerife da Ponte neste ano (Foto: Fabio Leoni/ PontePress)" title="Marllon se firmou como xerife da Ponte neste ano (Foto: Fabio Leoni/ PontePress)" data-src="https://s2.glbimg.com/BO0Yif_jp9r5pJsa5FV2LY2Gp0o=/0x0:1000x614/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/07/14/marllon.2.jpg"> </source></source></source></source></source></picture> 
+ 
+ 
+ 
+
+_<svg xmlns="http://www.w3.org/2000/svg" width="13.5px" height="11.25px" viewbox="0 0 13 12"> <ellipse id="Oval" cx="6.5" cy="6.7826087" rx="2" ry="2.08695652"></ellipse> <path d="M4.625,0.260869565 L3.48125,1.56521739 L1.5,1.56521739 C0.8125,1.56521739 0.25,2.15217391 0.25,2.86956522 L0.25,10.6956522 C0.25,11.4130435 0.8125,12 1.5,12 L11.5,12 C12.1875,12 12.75,11.4130435 12.75,10.6956522 L12.75,2.86956522 C12.75,2.15217391 12.1875,1.56521739 11.5,1.56521739 L9.51875,1.56521739 L8.375,0.260869565 L4.625,0.260869565 L4.625,0.260869565 Z M6.5,10.0434783 C4.775,10.0434783 3.375,8.5826087 3.375,6.7826087 C3.375,4.9826087 4.775,3.52173913 6.5,3.52173913 C8.225,3.52173913 9.625,4.9826087 9.625,6.7826087 C9.625,8.5826087 8.225,10.0434783 6.5,10.0434783 L6.5,10.0434783 Z" id="Shape"></path> </svg>_ Marllon se firmou como xerife da Ponte neste ano (Foto: Fabio Leoni/ PontePress)
+
+ 
+ 
+ 
+ 
+ 
+
+- Sem pensar duas vezes, o melhor momento foi a campanha excelente que fizemos no Paulista. Na primeira fase somamos o mesmo número de pontos do Santos, em seguida eliminamos o próprio Santos e depois o Palmeiras. Em uma tarde atípica, perdemos o primeiro jogo da final para o Corinthians e depois conseguimos empatar na capital, com um marcado por mim - diz Marllon, lembrando o único gol pela Macaca por enquanto **(assista no vídeo abaixo).**
+
+ 
+ 
+ 
+ <meta itemprop="name" content="Os gols de Corinthians 1 x 1 Ponte Preta pela Final do Campeonato Paulista"> <meta itemprop="thumbnailUrl" content="https://s02.video.glbimg.com/x720/5852417.jpg"> <meta itemprop="datePublished" content="2017-10-11T11:49:38.167Z"> <meta itemprop="uploadDate" content="2017-10-11T11:49:38.167Z"> 
+
+ 
+
+ 
+  ![Os gols de Corinthians 1 x 1 Ponte Preta pela Final do Campeonato Paulista](https://s02.video.glbimg.com/x720/5852417.jpg "Os gols de Corinthians 1 x 1 Ponte Preta pela Final do Campeonato Paulista") 
+ 
+ 
+ 
+
+_<svg xmlns="http://www.w3.org/2000/svg" width="14px" height="11px" viewbox="0 0 14 11"><path d="M14,9.16666667 C14,10.175 13.19,11 12.2,11 L1.8,11 C0.81,11 0,10.175 0,9.16666667 L0,1.83333333 C0,0.825 0.81,0 1.8,0 L12.2,0 C13.19,0 14,0.825 14,1.83333333 L14,9.16666667 Z M10.6,5.5 L5.2,2.5025 L5.2,8.48833333 L10.6,5.5 L10.6,5.5 Z" id="Shape"></path></svg>_ Os gols de Corinthians 1 x 1 Ponte Preta pela Final do Campeonato Paulista
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+De tão intocável que é, Marllon já fez dupla de zaga com cinco companheiros diferentes: Yago, Rodrigo, Kadu, Fábio Ferreira e Luan Peres. Pela regularidade técnica e pelo vigor físico, o xerife da Macaca só fica fora devido a cartões.
+
+ 
+ 
+ 
+
+Uma dessas ausências foi justamente na primeira partida da final do Paulistão, quando, sem Marllon, suspenso por três amarelos, a Ponte levou de 3 a 0 em casa do Corinthians e viu o sonho do inédito título praticamente acabar.
+
+ 
+ 
+ 
+
+[**\>\> VEJA MAIS NOTÍCIAS DA PONTE PRETA!**](http://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/)
+
+ 
+ 
+ 
+
+Ainda que a campanha da Macaca no Brasileirão seja decepcionante, Marllon é um dos poucos que se salvam, mantendo o prestígio com a torcida. Seu desempenho desperta interesse de outros clubes para a próxima temporada desde o fim do Paulista. O Corinthians seria um deles.
+
+ 
+ 
+ 
+
+Com contrato de empréstimo até dezembro - os direitos pertencem ao Cianorte, Marllon diz que deseja ficar na Ponte em 2018, por estar adaptado à cidade de Campinas e identificado com o clube. Uma eventual renovação, porém, passa muito pelo futuro do time na elite nacional.
+
+ 
+ 
+ 
+
+> - A minha vontade é continuar por me sentir bem em Campinas e na Ponte. Mas este assunto só vai ser definido ao fim do Campeonato Brasileiro. Neste momento, todas as atenções estão voltadas para manter o time na primeira divisão, e espero que seja com um final feliz para todos. 
+ 
+ 
+
+**Confira as informações da Ponte para o jogo contra o Santos:**
+
+ 
+ 
+ 
+ 
+
+**Local:** Moisés Lucarelli, em Campinas  
+**Data e horário:** quinta-feira, às 17h (de Brasília)  
+**Provável escalação:** Aranha, Nino Paraíba, Marllon, Luan Peres e Jeferson; Naldo (Jádson ou Mendoza); Emerson Sheik, Jean Patrick, Fernando Bob e Danilo Barcelos; Lucca  
+**Desfalques** : Elton (suspenso), Wendel (lesão na panturrilha), Artur (problema muscular na coxa), Renato Cajá (recondicionamento físico), Luis Alí (cirurgia no tendão de Aquiles) e João Vitor (recuperação de cirurgia no tornozelo)  
+**Pendurados:** Aranha, Danilo Barcelos, Emerson Sheik, Luan Peres e Jadson  
+**Arbitragem:** Raphael Claus (Fifa) apita o jogo, auxiliado por Alex Ang Ribeiro e Alberto Poletto Masseira, todos de São Paulo Wílton Sampaio, auxiliado por Bruno Pires e Leone Carvalho (todos de GO)  
+**Transmissão:** Premiere (com Osvaldo Luis e Carlos Cereto)  
+**Tempo Real:** GloboEsporte.com, a partir das 16h
+
+ 
+ 
+ 
+ 
+
+ 
+ 
