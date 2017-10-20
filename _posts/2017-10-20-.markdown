@@ -1,0 +1,7 @@
+---
+layout: post
+title: ""
+date: 2017-10-20T00:00:18+00:00
+external_link: "http://globoesporte.globo.com/sp/futebol/brasileirao-serie-a/jogo/19-10-2017/palmeiras-ponte-preta/"
+categories: news globo.com
+---
