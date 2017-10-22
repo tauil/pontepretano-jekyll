@@ -1,0 +1,7 @@
+---
+layout: post
+title: "Atolada"
+date: 2017-10-22T23:00:15+00:00
+external_link: "http://globoesporte.globo.com/sp/campinas-e-regiao/futebol/brasileirao-serie-a/jogo/22-10-2017/ponte-preta-avai/"
+categories: news globo.com
+---
