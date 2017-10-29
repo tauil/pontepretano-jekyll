@@ -1,0 +1,7 @@
+---
+layout: post
+title: ""
+date: 2017-10-29T20:30:18+00:00
+external_link: "http://globoesporte.globo.com/sp/campinas-e-regiao/futebol/brasileirao-serie-a/jogo/29-10-2017/ponte-preta-corinthians/"
+categories: news globo.com
+---
