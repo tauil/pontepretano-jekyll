@@ -1,0 +1,230 @@
+---
+layout: post
+title: "Intensidade, paciência e. Aranha: por que a Ponte superou o Corinthians"
+date: 2017-10-29T21:59:37+00:00
+external_link: "https://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/noticia/intensidade-paciencia-e-aranha-por-que-a-ponte-superou-o-corinthians.ghtml"
+categories: news globo.com
+---
+ 
+ 
+ <meta itemprop="name" content="Melhores momentos: Ponte Preta 1 x 0 Corinthians pela 31ª rodada do Brasileirão 2017"> <meta itemprop="thumbnailUrl" content="https://s02.video.glbimg.com/x720/6252041.jpg"> <meta itemprop="datePublished" content="2017-10-29T18:51:41.782Z"> <meta itemprop="uploadDate" content="2017-10-29T18:51:41.782Z"> 
+
+ 
+
+ 
+  ![Melhores momentos: Ponte Preta 1 x 0 Corinthians pela 31ª rodada do Brasileirão 2017](https://s02.video.glbimg.com/x720/6252041.jpg "Melhores momentos: Ponte Preta 1 x 0 Corinthians pela 31ª rodada do Brasileirão 2017") 
+ 
+ 
+ 
+
+_<svg xmlns="http://www.w3.org/2000/svg" width="14px" height="11px" viewbox="0 0 14 11"><path d="M14,9.16666667 C14,10.175 13.19,11 12.2,11 L1.8,11 C0.81,11 0,10.175 0,9.16666667 L0,1.83333333 C0,0.825 0.81,0 1.8,0 L12.2,0 C13.19,0 14,0.825 14,1.83333333 L14,9.16666667 Z M10.6,5.5 L5.2,2.5025 L5.2,8.48833333 L10.6,5.5 L10.6,5.5 Z" id="Shape"></path></svg>_ Melhores momentos: Ponte Preta 1 x 0 Corinthians pela 31ª rodada do Brasileirão 2017
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+Indiscutivelmente, Aranha e Lucca - não necessariamente nessa ordem - foram os nomes da [**vitória da Ponte Preta por 1 a 0 sobre o Corinthians, na tarde deste domingo, no Majestoso**](http://globoesporte.globo.com/sp/campinas-e-regiao/futebol/brasileirao-serie-a/jogo/29-10-2017/ponte-preta-corinthians/). Um foi às redes, o outro segurou a vantagem.
+
+ 
+ 
+ 
+
+Mas além do gol do camisa 9, aos 39 minutos do primeiro tempo, e dos quatro milagres do goleiro na etapa final, a Macaca mostrou muita disposição e organização tática para superar o líder do Brasileirão e respirar na luta contra o rebaixamento.
+
+ 
+ 
+ 
+
+Apesar do resultado, o time campineiro continua na degola por causa de um gol. O Coritiba ganhou do Sport, no Recife, por 4 a 3, e com os mesmos 35 pontos deixa a Ponte na 17ª colocação por ter marcado um gol a mais: 32 a 31. Ao menos está tudo embolado.
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+  ![Jogadores da Ponte foram no limite físico contra o Corinthians (Foto: Agência Estado)](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgARCAARABkDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMCBAYF/8QAFwEBAQEBAAAAAAAAAAAAAAAABAIDBv/aAAwDAQACEAMQAAABsoLQF9B0MBBta8OczQsD1//EACAQAAICAQMFAAAAAAAAAAAAAAQFAgMAARARExUWMzT/2gAIAQEAAQUCTc2tiC7ZNtBFpmdiQ4gLjJ2GuEBlbd17vFV2B/aR7tv/xAAaEQACAgMAAAAAAAAAAAAAAAABAwARAhAx/9oACAEDAQE/AXrCsgBypcGv/8QAHREAAQQCAwAAAAAAAAAAAAAAAQADBBECEDJRgf/aAAgBAgEBPwESm6BzNIzWe05x91//xAAvEAABAgQBBw0AAAAAAAAAAAABAgMAERIhBAUTMTJBsdEQFCIjUWFxcnORkrLw/9oACAEBAAY/Ak5nDsssJWlSiL1fu2MelhplwyqGqJd84ObCwUIm91YtbbPRGv8AThDjUqSVolOwUAdntGUUc3S6MSu9ap2q8ILzgKVqPSShViNG6NL3yHCMJ6id8K855f/EAB4QAQABBAIDAAAAAAAAAAAAAAEhABFBYRBRMXHw/9oACAEBAAE/IcxwnBYtEA22ojVSLtL0Gi05boxjAOXu+K1qEXZG4AdnswIpmaBml8wZfGqPpx0zTMFtxS+F0r5HbRnj/9oADAMBAAIAAwAAABADEP7/xAAbEQEAAgIDAAAAAAAAAAAAAAABADEQIRFhwf/aAAgBAwEBPxC4kGxs2a75iBT2Vx//xAAdEQACAgEFAAAAAAAAAAAAAAAAARExIUFxgbHh/9oACAECAQE/EFsgU9CXClx6V7ukI//EAB8QAQEAAgEEAwAAAAAAAAAAAAERITEAECBBYYGR8f/aAAgBAQABPxAmkiAvy40YJSjccM/J8YZ6CgIoqhTyBY6TQDwRhr3DL+5zJOhqwqgAqKv28JAcmxGAFtCj5YvIaKtQEhdh9w7c9k0oK2+XT//Z "Jogadores da Ponte foram no limite físico contra o Corinthians (Foto: Agência Estado)") <picture itemscope itemtype="http://schema.org/ImageObject"> <!--[if IE 9]><video style="display: none;"><![endif]--> <source media="(max-width: 1024px)" data-src="https://s2.glbimg.com/t1DvddURqFnW0JxY69hxgc0V1eE=/0x0:4200x2800/600x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/10/29/ponte_vitoria_insta2.jpg 1x, https://s2.glbimg.com/zGeX1PaAg78Iz-L9DQprpj2fP-M=/0x0:4200x2800/1200x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/10/29/ponte_vitoria_insta2.jpg 2x"> <source media="(max-width: 1280px)" data-src="https://s2.glbimg.com/TCGaKkLoZDfxBsuyFD-MQ5N3ikI=/0x0:4200x2800/640x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/10/29/ponte_vitoria_insta2.jpg 1x, https://s2.glbimg.com/hEuxTBzo71B2cQdM6HqxSMoXljk=/0x0:4200x2800/1280x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/10/29/ponte_vitoria_insta2.jpg 2x"> <source media="(max-width: 1360px)" data-src="https://s2.glbimg.com/pJFsJ2xCuMe653Gpiu9uh58oSdo=/0x0:4200x2800/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/10/29/ponte_vitoria_insta2.jpg 1x, https://s2.glbimg.com/fDHkE3Mwzd_TeP-Mxn_Tqloe8h0=/0x0:4200x2800/1968x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/10/29/ponte_vitoria_insta2.jpg 2x"> <source media="(min-width: 1361px)" data-src="https://s2.glbimg.com/2jTa8TWM5j1zotzhWmrtL584TEA=/0x0:4200x2800/1000x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/10/29/ponte_vitoria_insta2.jpg 1x, https://s2.glbimg.com/QfBgyKzW7ZFMPT_kjmbENQnoqnw=/0x0:4200x2800/2000x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/10/29/ponte_vitoria_insta2.jpg 2x"> <source data-src="https://s2.glbimg.com/pJFsJ2xCuMe653Gpiu9uh58oSdo=/0x0:4200x2800/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/10/29/ponte_vitoria_insta2.jpg"> <!--[if IE 9]></video><![endif]--> <img class="image content-media__image" itemprop="contentUrl" alt="Jogadores da Ponte foram no limite físico contra o Corinthians (Foto: Agência Estado)" title="Jogadores da Ponte foram no limite físico contra o Corinthians (Foto: Agência Estado)" data-src="https://s2.glbimg.com/pJFsJ2xCuMe653Gpiu9uh58oSdo=/0x0:4200x2800/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/10/29/ponte_vitoria_insta2.jpg"> </source></source></source></source></source></picture> 
+ 
+ 
+ 
+
+_<svg xmlns="http://www.w3.org/2000/svg" width="13.5px" height="11.25px" viewbox="0 0 13 12"> <ellipse id="Oval" cx="6.5" cy="6.7826087" rx="2" ry="2.08695652"></ellipse> <path d="M4.625,0.260869565 L3.48125,1.56521739 L1.5,1.56521739 C0.8125,1.56521739 0.25,2.15217391 0.25,2.86956522 L0.25,10.6956522 C0.25,11.4130435 0.8125,12 1.5,12 L11.5,12 C12.1875,12 12.75,11.4130435 12.75,10.6956522 L12.75,2.86956522 C12.75,2.15217391 12.1875,1.56521739 11.5,1.56521739 L9.51875,1.56521739 L8.375,0.260869565 L4.625,0.260869565 L4.625,0.260869565 Z M6.5,10.0434783 C4.775,10.0434783 3.375,8.5826087 3.375,6.7826087 C3.375,4.9826087 4.775,3.52173913 6.5,3.52173913 C8.225,3.52173913 9.625,4.9826087 9.625,6.7826087 C9.625,8.5826087 8.225,10.0434783 6.5,10.0434783 L6.5,10.0434783 Z" id="Shape"></path> </svg>_ Jogadores da Ponte foram no limite físico contra o Corinthians (Foto: Agência Estado)
+
+ 
+ 
+ 
+ 
+ 
+
+Desde o apito inicial, a intensidade foi a marca registrada da Ponte, principalmente na marcação. Com exceção de Sheik, posicionado para puxar contra-ataque, todos ficavam atrás da linha da bola para fechar os espaços.
+
+ 
+ 
+ 
+
+Com a bola, o time tentava se manter fiel à proposta de Eduardo Baptista, que era rodar com paciência, sem se precipitar para não entregar a bola de graça ao adversário. O lado esquerdo era o mais forte. Foi por ali que Danilo Barcelos assustou Cássio em chute cruzado **(veja abaixo).** Foi por ali que também saiu o gol.
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ <meta itemprop="name" content="Danilo pega bonito na bola e assusta Cássio, aos 11' do 1º tempo"> <meta itemprop="thumbnailUrl" content="https://s01.video.glbimg.com/x720/6251876.jpg"> <meta itemprop="datePublished" content="2017-10-29T18:51:41.782Z"> <meta itemprop="uploadDate" content="2017-10-29T18:51:41.782Z"> 
+
+ 
+
+ 
+  ![Danilo pega bonito na bola e assusta Cássio, aos 11' do 1º tempo](https://s01.video.glbimg.com/x720/6251876.jpg "Danilo pega bonito na bola e assusta Cássio, aos 11' do 1º tempo") 
+ 
+ 
+ 
+
+_<svg xmlns="http://www.w3.org/2000/svg" width="14px" height="11px" viewbox="0 0 14 11"><path d="M14,9.16666667 C14,10.175 13.19,11 12.2,11 L1.8,11 C0.81,11 0,10.175 0,9.16666667 L0,1.83333333 C0,0.825 0.81,0 1.8,0 L12.2,0 C13.19,0 14,0.825 14,1.83333333 L14,9.16666667 Z M10.6,5.5 L5.2,2.5025 L5.2,8.48833333 L10.6,5.5 L10.6,5.5 Z" id="Shape"></path></svg>_ Danilo pega bonito na bola e assusta Cássio, aos 11' do 1º tempo
+
+ 
+ 
+ 
+ 
+
+Em um lance que passou pelos pés de Emerson Sheik no meio de campo, teve passe em profundidade de Danilo Barcelos para a ultrapassagem de Jeferson e cruzamento na medida, Lucca apareceu livre na segunda trave para, de peixinho, colocar a Ponte na frente, aos 39 minutos. Era como Eduardo pediu. Foi como o treinador treinou durante toda a semana. **Assista:**
+
+ 
+ 
+ 
+ <meta itemprop="name" content="Gol da Ponte Preta! Jeferson cruza e Lucca marca de peixinho, aos 39' do 1º tempo"> <meta itemprop="thumbnailUrl" content="https://s02.video.glbimg.com/x720/6251905.jpg"> <meta itemprop="datePublished" content="2017-10-29T18:51:41.782Z"> <meta itemprop="uploadDate" content="2017-10-29T18:51:41.782Z"> 
+
+ 
+
+ 
+  ![Gol da Ponte Preta! Jeferson cruza e Lucca marca de peixinho, aos 39' do 1º tempo](https://s02.video.glbimg.com/x720/6251905.jpg "Gol da Ponte Preta! Jeferson cruza e Lucca marca de peixinho, aos 39' do 1º tempo") 
+ 
+ 
+ 
+
+_<svg xmlns="http://www.w3.org/2000/svg" width="14px" height="11px" viewbox="0 0 14 11"><path d="M14,9.16666667 C14,10.175 13.19,11 12.2,11 L1.8,11 C0.81,11 0,10.175 0,9.16666667 L0,1.83333333 C0,0.825 0.81,0 1.8,0 L12.2,0 C13.19,0 14,0.825 14,1.83333333 L14,9.16666667 Z M10.6,5.5 L5.2,2.5025 L5.2,8.48833333 L10.6,5.5 L10.6,5.5 Z" id="Shape"></path></svg>_ Gol da Ponte Preta! Jeferson cruza e Lucca marca de peixinho, aos 39' do 1º tempo
+
+ 
+ 
+ 
+ 
+
+Antes, Rodrigo, em posição de impedimento que a arbitragem ignorou, Jô, em cabeçada dentro da pequena área, e Gabriel, que acertou o travessão com o gol livre, já tinham ameaçado tirar o zero do placar.
+
+ 
+ 
+ 
+
+O primeiro tempo terminou com a posse de bola em 58% para o Corinthians, mas seis finalizações para cada lado e nove desarmes da Ponte, contra apenas um do Timão. Os números indicam a estratégia da Macaca: muita pegada na marcação e eficiência no ataque.
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+[**+ CLIQUE AQUI para ler mais sobre a Ponte!**](http://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/)
+
+ 
+ 
+ 
+
+A Ponte tentou ser ainda mais "reativa" no segundo tempo - termo usado por Eduardo para classificar o estilo da equipe. Não se importou em dar a bola nem campo para o Corinthians. Com as linhas mais baixas, chamou o Timão para cima. A ideia era encaixar um contra-ataque para liquidar a fatura.
+
+ 
+ 
+ 
+
+Tudo poderia ter sido mais tranquilo se Sheik, em jogada de Lucca, tivesse marcado de cabeça, na frente de Cássio. **Veja no vídeo!**
+
+ 
+ 
+ 
+ <meta itemprop="name" content="Lucca cruza para Emerson Sheik, que cabeceia para fora, aos 13' do 2º tempo"> <meta itemprop="thumbnailUrl" content="https://s03.video.glbimg.com/x720/6251950.jpg"> <meta itemprop="datePublished" content="2017-10-29T18:51:41.782Z"> <meta itemprop="uploadDate" content="2017-10-29T18:51:41.782Z"> 
+
+ 
+
+ 
+  ![Lucca cruza para Emerson Sheik, que cabeceia para fora, aos 13' do 2º tempo](https://s03.video.glbimg.com/x720/6251950.jpg "Lucca cruza para Emerson Sheik, que cabeceia para fora, aos 13' do 2º tempo") 
+ 
+ 
+ 
+
+_<svg xmlns="http://www.w3.org/2000/svg" width="14px" height="11px" viewbox="0 0 14 11"><path d="M14,9.16666667 C14,10.175 13.19,11 12.2,11 L1.8,11 C0.81,11 0,10.175 0,9.16666667 L0,1.83333333 C0,0.825 0.81,0 1.8,0 L12.2,0 C13.19,0 14,0.825 14,1.83333333 L14,9.16666667 Z M10.6,5.5 L5.2,2.5025 L5.2,8.48833333 L10.6,5.5 L10.6,5.5 Z" id="Shape"></path></svg>_ Lucca cruza para Emerson Sheik, que cabeceia para fora, aos 13' do 2º tempo
+
+ 
+ 
+ 
+ 
+
+Mas o erro do veterano atacante obrigou outro veterano a ser impecável na defesa. Com Clayson dando trabalho para Nino Paraíba na esquerda, o Corinthians pressionou. Não fosse Aranha, o resultado fatalmente seria outro.
+
+ 
+ 
+ 
+
+O camisa 1, criticado por parte da torcida em jogos anteriores, parou Rodriguinho três vezes e foi buscar duas cabeçadas - uma de Pablo e outra de Jô - quase que indefensáveis. Foram cinco participações fundamentais e decisivas. A última delas aos 50 minutos. **Os milagres de Aranha estão no vídeo abaixo:**
+
+ 
+ 
+ 
+ <meta itemprop="name" content="Aranha faz quatro defesas difíceis no segundo tempo"> <meta itemprop="thumbnailUrl" content="https://s03.video.glbimg.com/x720/6252034.jpg"> <meta itemprop="datePublished" content="2017-10-29T18:51:41.782Z"> <meta itemprop="uploadDate" content="2017-10-29T18:51:41.782Z"> 
+
+ 
+
+ 
+  ![Aranha faz quatro defesas difíceis no segundo tempo](https://s03.video.glbimg.com/x720/6252034.jpg "Aranha faz quatro defesas difíceis no segundo tempo") 
+ 
+ 
+ 
+
+_<svg xmlns="http://www.w3.org/2000/svg" width="14px" height="11px" viewbox="0 0 14 11"><path d="M14,9.16666667 C14,10.175 13.19,11 12.2,11 L1.8,11 C0.81,11 0,10.175 0,9.16666667 L0,1.83333333 C0,0.825 0.81,0 1.8,0 L12.2,0 C13.19,0 14,0.825 14,1.83333333 L14,9.16666667 Z M10.6,5.5 L5.2,2.5025 L5.2,8.48833333 L10.6,5.5 L10.6,5.5 Z" id="Shape"></path></svg>_ Aranha faz quatro defesas difíceis no segundo tempo
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Foi uma atuação no limite físico. Contra o líder do Brasileirão e diante da necessidade de reagir para não se afundar na zona de rebaixamento, superação foi a chave para a vitória alvinegra. Além de Lucca. Além de Aranha.
+
+ 
+ 
+ 
+
+**Veja os números da partida:**
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  ![Estatísticas Ponte x Corinthians (Foto: Editoria de Arte)](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgARCAAhABkDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAIDBAEI/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEAMQAAAB9Q0hpJP1zLfJpGbjAAAB/8QAIRAAAgAEBwEAAAAAAAAAAAAAAAECERJCAyAhIjEyQUP/2gAIAQEAAQUCcconuKCg+j1LiaWI+biLsps9y//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8BX//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8BX//EACAQAAEDAwUBAAAAAAAAAAAAAAEAESEQMZECIGFxgaH/2gAIAQEABj8C46KF0z6sq5ynY4QqYnxCpn6FI3//xAAiEAEAAgEDAwUAAAAAAAAAAAABABEhEDFBIHHRUWGx4fD/2gAIAQEAAT8hVRMeSz4gDkBzhSVUwA9cp9qJSSF8LzBb2SjLmt9DDqmr3eYq7svZzWibgmf1iYqB2blbur//2gAMAwEAAgADAAAAEIKHGPPP/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPxBf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPxBf/8QAIhAAAgIBAwQDAAAAAAAAAAAAAREAIUExgcFRcZGhIGHw/9oACAEBAAE/EA92WQ0bPcU+ohHT65hQFQICSzku5+S5hhjqZ/V0W0C1bMd5iyijBObzSF8ChV5be4JggNA10PXiIDYM6pkPzxLi+MUKl7keYSoQWDaC7QGyYQm3x//Z "Estatísticas Ponte x Corinthians (Foto: Editoria de Arte)") <picture itemscope itemtype="http://schema.org/ImageObject"> <!--[if IE 9]><video style="display: none;"><![endif]--> <source media="(max-width: 1024px)" data-src="https://s2.glbimg.com/9KQsDIxLz_TL5Gj06HYW865Z_0U=/0x0:454x592/600x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/q/s/PANhOWTUmPmeDVLzyBCQ/ponte.corinthians.jpg 1x, https://s2.glbimg.com/oCXrtpibBg35ewSqHhKVhNAad8M=/0x0:454x592/1200x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/q/s/PANhOWTUmPmeDVLzyBCQ/ponte.corinthians.jpg 2x"> <source media="(max-width: 1280px)" data-src="https://s2.glbimg.com/tAoBsZQey9b28annzPvdvug7Rz4=/0x0:454x592/640x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/q/s/PANhOWTUmPmeDVLzyBCQ/ponte.corinthians.jpg 1x, https://s2.glbimg.com/2Qf0G9Djli_7eBR4yP2MAFdOqFU=/0x0:454x592/1280x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/q/s/PANhOWTUmPmeDVLzyBCQ/ponte.corinthians.jpg 2x"> <source media="(max-width: 1360px)" data-src="https://s2.glbimg.com/gAOnlaxO1o1s5UbaLmRGFi7IUwQ=/0x0:454x592/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/q/s/PANhOWTUmPmeDVLzyBCQ/ponte.corinthians.jpg 1x, https://s2.glbimg.com/LZa1Mg618zjGj3uHkJkqWDdrrUI=/0x0:454x592/1968x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/q/s/PANhOWTUmPmeDVLzyBCQ/ponte.corinthians.jpg 2x"> <source media="(min-width: 1361px)" data-src="https://s2.glbimg.com/AvZS--W6bQTcyuTqGs-oHMAwemc=/0x0:454x592/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/q/s/PANhOWTUmPmeDVLzyBCQ/ponte.corinthians.jpg 1x, https://s2.glbimg.com/esPTaOnPmk59V3mZfOf8f0OfDcY=/0x0:454x592/2000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/q/s/PANhOWTUmPmeDVLzyBCQ/ponte.corinthians.jpg 2x"> <source data-src="https://s2.glbimg.com/gAOnlaxO1o1s5UbaLmRGFi7IUwQ=/0x0:454x592/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/q/s/PANhOWTUmPmeDVLzyBCQ/ponte.corinthians.jpg"> <!--[if IE 9]></video><![endif]--> <img class="image content-media__image" itemprop="contentUrl" alt="Estatísticas Ponte x Corinthians (Foto: Editoria de Arte)" title="Estatísticas Ponte x Corinthians (Foto: Editoria de Arte)" data-src="https://s2.glbimg.com/gAOnlaxO1o1s5UbaLmRGFi7IUwQ=/0x0:454x592/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/q/s/PANhOWTUmPmeDVLzyBCQ/ponte.corinthians.jpg"> </source></source></source></source></source></picture> 
+ 
+ 
+ 
+
+_<svg xmlns="http://www.w3.org/2000/svg" width="13.5px" height="11.25px" viewbox="0 0 13 12"> <ellipse id="Oval" cx="6.5" cy="6.7826087" rx="2" ry="2.08695652"></ellipse> <path d="M4.625,0.260869565 L3.48125,1.56521739 L1.5,1.56521739 C0.8125,1.56521739 0.25,2.15217391 0.25,2.86956522 L0.25,10.6956522 C0.25,11.4130435 0.8125,12 1.5,12 L11.5,12 C12.1875,12 12.75,11.4130435 12.75,10.6956522 L12.75,2.86956522 C12.75,2.15217391 12.1875,1.56521739 11.5,1.56521739 L9.51875,1.56521739 L8.375,0.260869565 L4.625,0.260869565 L4.625,0.260869565 Z M6.5,10.0434783 C4.775,10.0434783 3.375,8.5826087 3.375,6.7826087 C3.375,4.9826087 4.775,3.52173913 6.5,3.52173913 C8.225,3.52173913 9.625,4.9826087 9.625,6.7826087 C9.625,8.5826087 8.225,10.0434783 6.5,10.0434783 L6.5,10.0434783 Z" id="Shape"></path> </svg>_ Estatísticas Ponte x Corinthians (Foto: Editoria de Arte)
+
+ 
+ 
+ 
+ 
+ 
