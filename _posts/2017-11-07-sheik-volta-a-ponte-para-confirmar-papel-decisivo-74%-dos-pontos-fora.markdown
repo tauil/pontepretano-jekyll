@@ -1,0 +1,102 @@
+---
+layout: post
+title: "Sheik volta à Ponte para confirmar papel decisivo: 74% dos pontos foram com ele"
+date: 2017-11-07T11:31:57+00:00
+external_link: "https://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/noticia/sheik-volta-a-ponte-para-confirmar-papel-decisivo-74-dos-pontos-foram-com-ele.ghtml"
+categories: news globo.com
+---
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+A importância de Emerson Sheik à Ponte Preta é incalculável. Jogador mais experiente, vencedor e famoso do elenco, o atacante de 39 anos inda consegue ser decisivo em campo. Os números estão aí para comprovar: sem ele, possivelmente a situação da Macaca estivesse ainda pior do que está.
+
+ 
+ 
+ 
+
+Presente em 22 das 32 rodadas do Campeonato Brasileiro, Sheik ajudou a Ponte a ganhar 26 dos 35 pontos que o time tem na tabela. Isso representa 74% do total. Não à toa, o atacante é uma das armas de Eduardo Baptista para encarar o Grêmio, nesta quarta-feira, às 19h30, em Campinas.
+
+ 
+ 
+ 
+ 
+ 
+
+Rendimento da Ponte no Brasileirão
+
+ 
+ 
+ 
+
+ | Com Sheik | Sem Sheik |
+ | 22 jogos | 10 jogos |
+ | 7 vitórias | 2 vitórias |
+ | 5 empates | 3 empates |
+ | 10 derrotas | 5 derrotas |
+ | 39% de aproveitamento | 30% de aproveitamento |
+ | 26 pontos | 9 pontos |
+ 
+ 
+ 
+ 
+Fonte: GloboEsporte.com
+ 
+ deslize para ver o conteúdo 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Contratado para a disputa do Brasileirão, Sheik estreou na vitória por 1 a 0 sobre o São Paulo, no primeiro turno. Desde então, assumiu a titularidade e defendeu a equipe tanto na Série A como na campanha da Copa Sul-Americana. Ele tem quatro gols, mas não marca há tempos.
+
+ 
+ 
+ 
+
+[+ CLIQUE AQUI para ler mais notícias da Ponte Preta](http://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/)
+
+ 
+ 
+ 
+
+A última vez que balançou as redes foi na vitória por 2 a 1 sobre o Botafogo, no dia 20 de agosto, em Campinas. Na ocasião, Sheik decretou o resultado com um belo gol de fora da área. Agora, ele retorna ao time para encerrar o jejum e ajudar a Macaca a respirar na luta contra a degola.
+
+ 
+ 
+ 
+ <meta itemprop="name" content="Gol da Ponte Preta! Emerson Sheik marca golaço, aos 42 do 2º tempo"> <meta itemprop="thumbnailUrl" content="https://s02.video.glbimg.com/x720/6091629.jpg"> <meta itemprop="datePublished" content="2017-11-06T17:33:51.338Z"> <meta itemprop="uploadDate" content="2017-11-06T17:33:51.338Z"> 
+
+ 
+
+ 
+  ![Gol da Ponte Preta! Emerson Sheik marca golaço, aos 42 do 2º tempo](https://s02.video.glbimg.com/x720/6091629.jpg "Gol da Ponte Preta! Emerson Sheik marca golaço, aos 42 do 2º tempo") 
+ 
+ 
+ 
+
+_<svg xmlns="http://www.w3.org/2000/svg" width="14px" height="11px" viewbox="0 0 14 11"><path d="M14,9.16666667 C14,10.175 13.19,11 12.2,11 L1.8,11 C0.81,11 0,10.175 0,9.16666667 L0,1.83333333 C0,0.825 0.81,0 1.8,0 L12.2,0 C13.19,0 14,0.825 14,1.83333333 L14,9.16666667 Z M10.6,5.5 L5.2,2.5025 L5.2,8.48833333 L10.6,5.5 L10.6,5.5 Z" id="Shape"></path></svg>_ Gol da Ponte Preta! Emerson Sheik marca golaço, aos 42 do 2º tempo
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+A Ponte tem a terceira pior campanha da Série A, com 35 pontos, acima de Avaí (por ter uma vitória a mais) e Atlético-GO. Para não correr nenhum risco de rebaixamento, o time precisa de mais 12 dos 18 pontos em disputa na reta final. Pelas contas do clube, porém, é possível escapar com menos, devido ao equilíbrio da competição.
+
+ 
+ 
+ 
