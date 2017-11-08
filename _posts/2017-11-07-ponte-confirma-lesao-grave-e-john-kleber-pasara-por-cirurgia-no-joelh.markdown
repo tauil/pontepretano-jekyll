@@ -1,0 +1,154 @@
+---
+layout: post
+title: "Ponte confirma lesão grave, e John Kleber pasará por cirurgia no joelho"
+date: 2017-11-07T18:47:21+00:00
+external_link: "https://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/noticia/ponte-confirma-lesao-grave-e-john-kleber-passara-por-cirurgia-no-joelho.ghtml"
+categories: news globo.com
+---
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+A estreia entre os profissionais se transformou em um drama para o atacante Jonh Kleber, promessa da Ponte Preta. Com apenas 11 minutos em campo, o jogador de 17 anos sofreu uma entorse no joelho direito durante o segundo tempo da derrota por 2 a 0 para o Bahia, no último domingo, e terá de passar por cirurgia no local.
+
+ 
+ 
+ 
+
+Após os resultados dos exames, o doutor Roberto Nishimura, chefe do departamento médico alvinegro, confirmou a gravidade do caso em entrevista coletiva nesta terça-feira à tarde. Com uma lesão no ligamento cruzado anterior, John ficará em recuperação de seis a oito meses. Assim, só retorna aos gramados em 2018.
+
+ 
+ 
+ 
+
+- O John teve um mecanismo clássico de entorse de joelho, com a perna apoiada e mudança brusca de direção. Foi constatada uma lesão no ligamento cruzado anterior, de tratamento cirúrgico. Provalmente a cirurgia aconteça ainda nesta semana. A previsão para retorno, contando transição física e trabalho com bola, é de seis a oito meses - disse Nishimura.
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+  ![John Kleber, atacante Ponte Preta (Foto: Fabio Leoni/PontePress)](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgARCAAQABkDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHAgP/xAAWAQEBAQAAAAAAAAAAAAAAAAACAQT/2gAMAwEAAhADEAAAAXXM0bsjMdIgSV//xAAbEAEAAwADAQAAAAAAAAAAAAAEAgMFAAYVAf/aAAgBAQABBQIKzgLLMr+ohh5pbvIx+dgDZkTQdAeoqki9PqL5/8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQMBAT8BJ//EABcRAQEBAQAAAAAAAAAAAAAAAAEAERL/2gAIAQIBAT8B5yBv/8QAKBAAAgEDAgILAAAAAAAAAAAAAQIDAAQREiETMxUxMkFRcYGTlNHx/9oACAEBAAY/AoEEiu7sdpGKH0GMd1HhiXo+6zJIVfrfNOzFowdgxudWrxztXJHyB9Vc2cC3DW7IXi3J05/KtrdNSzsqq7u5GNZ7PnUCxxTmKHUCEJxmuXd+4a//xAAfEAEAAgEEAwEAAAAAAAAAAAABABEhMUFRkRBhwfD/2gAIAQEAAT8h4O+l2QEnDfmWCzc7p3lL0vEGq1CPEHHbvw6Dix12ch7unUXM/APRt7GGsmycJTc/T/Z//9oADAMBAAIAAwAAABByr//EABkRAAMAAwAAAAAAAAAAAAAAAAABESFRof/aAAgBAwEBPxCFrpKsQ//EABoRAAICAwAAAAAAAAAAAAAAAAABETFhcfD/2gAIAQIBAT8QcCjHaLbZ/8QAHBABAQEAAwADAAAAAAAAAAAAAREhADFBEFGB/9oACAEBAAE/EBcb9o2fGPIopj2DhzXCPIR5hQd85d0QtpRDCnVX6e8QJutaWW2661kb6DGbs4pUMnAKbvHMiBDCUUo6mz9+Dn//2Q== "John Kleber, atacante Ponte Preta (Foto: Fabio Leoni/PontePress)") <picture itemscope itemtype="http://schema.org/ImageObject"> <!--[if IE 9]><video style="display: none;"><![endif]--> <source media="(max-width: 1024px)" data-src="https://s2.glbimg.com/Qh5CQwmoWQrgBAt52TSxLnoPni8=/0x0:1000x624/600x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/11/01/johnkleber.3.jpg 1x, https://s2.glbimg.com/NPByZHfl7oNWsw93YYhpAPMcJqM=/0x0:1000x624/1200x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/11/01/johnkleber.3.jpg 2x"> <source media="(max-width: 1280px)" data-src="https://s2.glbimg.com/ZdOfCwKRjz_V6BNoTEHHxaD0ZzI=/0x0:1000x624/640x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/11/01/johnkleber.3.jpg 1x, https://s2.glbimg.com/BPFq2cKg_vwN6ayO9OyxSCYvIjM=/0x0:1000x624/1280x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/11/01/johnkleber.3.jpg 2x"> <source media="(max-width: 1360px)" data-src="https://s2.glbimg.com/-oSA9gQZ1uSxkDvNqhmYMXOH7jQ=/0x0:1000x624/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/11/01/johnkleber.3.jpg 1x, https://s2.glbimg.com/X2NcjsrdcPP1-YXF2vTbDt2Cqws=/0x0:1000x624/1968x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/11/01/johnkleber.3.jpg 2x"> <source media="(min-width: 1361px)" data-src="https://s2.glbimg.com/B1G9YZgZgm7BIFLYUfO3r9QwrSs=/0x0:1000x624/1000x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/11/01/johnkleber.3.jpg 1x, https://s2.glbimg.com/Zd4d5lJMr6zNqPQfh6etH4PB9dM=/0x0:1000x624/2000x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/11/01/johnkleber.3.jpg 2x"> <source data-src="https://s2.glbimg.com/-oSA9gQZ1uSxkDvNqhmYMXOH7jQ=/0x0:1000x624/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/11/01/johnkleber.3.jpg"> <!--[if IE 9]></video><![endif]--> <img class="image content-media__image" itemprop="contentUrl" alt="John Kleber, atacante Ponte Preta (Foto: Fabio Leoni/PontePress)" title="John Kleber, atacante Ponte Preta (Foto: Fabio Leoni/PontePress)" data-src="https://s2.glbimg.com/-oSA9gQZ1uSxkDvNqhmYMXOH7jQ=/0x0:1000x624/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/11/01/johnkleber.3.jpg"> </source></source></source></source></source></picture> 
+ 
+ 
+ 
+
+_<svg xmlns="http://www.w3.org/2000/svg" width="13.5px" height="11.25px" viewbox="0 0 13 12"> <ellipse id="Oval" cx="6.5" cy="6.7826087" rx="2" ry="2.08695652"></ellipse> <path d="M4.625,0.260869565 L3.48125,1.56521739 L1.5,1.56521739 C0.8125,1.56521739 0.25,2.15217391 0.25,2.86956522 L0.25,10.6956522 C0.25,11.4130435 0.8125,12 1.5,12 L11.5,12 C12.1875,12 12.75,11.4130435 12.75,10.6956522 L12.75,2.86956522 C12.75,2.15217391 12.1875,1.56521739 11.5,1.56521739 L9.51875,1.56521739 L8.375,0.260869565 L4.625,0.260869565 L4.625,0.260869565 Z M6.5,10.0434783 C4.775,10.0434783 3.375,8.5826087 3.375,6.7826087 C3.375,4.9826087 4.775,3.52173913 6.5,3.52173913 C8.225,3.52173913 9.625,4.9826087 9.625,6.7826087 C9.625,8.5826087 8.225,10.0434783 6.5,10.0434783 L6.5,10.0434783 Z" id="Shape"></path> </svg>_ John Kleber, atacante Ponte Preta (Foto: Fabio Leoni/PontePress)
+
+ 
+ 
+ 
+ 
+ 
+
+Segundo o médico da Macaca, o fato de o atacante ser novo contribui na recuperação.
+
+ 
+ 
+ 
+
+- Quanto mais novo, a recuperação vai ser melhor. Durante o período de tratamento, ele vai continuar fazendo musculação e outras valências físicas. Ele não vai ficar parado, vai continuar se desenvolvendo fisicamente.
+
+ 
+ 
+ 
+
+[**+ CLIQUE AQUI para ler mais sobre a Ponte**](http://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/)
+
+ 
+ 
+ 
+
+O problema de John Kleber causou comoção geral no Majestoso. O técnico Eduardo Baptista se emocionou ao comentar o assunto:
+
+ 
+ 
+ 
+
+- Não tive coragem de conversar com ele ainda, vou convidenciar. Estou até arrepiado. É um jogador que tivemos muito cuidado mesmo. Ele, o Saraiva, o Emerson. São adolescentes, estamos moldando caráter, personalidade. O John mostrou condições de jogar, aí você vê a cena, ele chorou demais, foi um negócio triste. Então tenho de estar forte para falar com ele que isso acontece, é da vida do atleta. Agora é focar para dar continuidade em uma carreira que, ao meu ver, tem um futuro muito grande pela frente.
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Tinha tudo para ser um fim de ano especial para o garoto. Artilheiro do Campeonato Paulista sub-17, com 28 gols, John Kleber havia sido relacionado pela primeira vez por Eduardo na vitória por 1 a 0 sobre o Corinthians e fazia a estreia em Salvador, quando, depois de entrar no intervalo, pisou em falso e torceu o joelho em uma disputa de bola com o goleiro Jean.
+
+ 
+ 
+ 
+
+Com a lesão, ele também perde a reta decisiva do estadual da categoria, no qual a Macaca está a um empate de eliminar o Corinthians e chegar à final.
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+  ![Roberto Nishimura esclarece situação de John Kleber (Foto: José Henrique Semedo/ PontePress)](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgARCAAMABkDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/2gAMAwEAAhADEAAAAaNoA3ncVmCe+xf/xAAbEAACAgMBAAAAAAAAAAAAAAADBAEFAAIUFv/aAAgBAQABBQKoZ0snQsJOnJaqbW3EfKOZStwtdT55kI/XWef/xAAYEQEAAwEAAAAAAAAAAAAAAAABAAIhEf/aAAgBAwEBPwE46y7s/8QAGREAAgMBAAAAAAAAAAAAAAAAAAIBERJB/9oACAECAQE/AczwVaP/xAAlEAACAQMCBQUAAAAAAAAAAAABAgMABBESIRQiMVFxIzI0ofD/2gAIAQEABj8CnM8UPDaPTKjBJ/ZqVNEYVcKhGRnvmriKMxrAElQKIs6uXbfvmvY1X0ETERKrEL4o2UkUbQAttjxUF8rHiGGA3TTuemK+R9V//8QAIRAAAgIBAgcAAAAAAAAAAAAAAREAITFBURBhcbHB8PH/2gAIAQEAAT8hC/gBOai2fCE+BdA0TXusIBiYxs9ttpT4UZ1zFNF3j592JlUd84KTUGzDEkBwT//aAAwDAQACAAMAAAAQNX//xAAZEQADAAMAAAAAAAAAAAAAAAAAARExcfD/2gAIAQMBAT8Qa6C0LHbP/8QAGBEBAAMBAAAAAAAAAAAAAAAAAQAh8GH/2gAIAQIBAT8QSQyoxovcn//EAB0QAQEBAQABBQAAAAAAAAAAAAERIQAxYYGR0fD/2gAIAQEAAT8Qx+yB8w0FgE8CYPFX95FaiLLhTBOJlZOiCFZBIMPG9+r98lruWKH7V0ijK1TpjF+AcOaoJkJFwKABVy296r4d/9k= "Roberto Nishimura esclarece situação de John Kleber (Foto: José Henrique Semedo/ PontePress)") <picture itemscope itemtype="http://schema.org/ImageObject"> <!--[if IE 9]><video style="display: none;"><![endif]--> <source media="(max-width: 1024px)" data-src="https://s2.glbimg.com/FN03CDBVStT9mRcVMXzrwEuQVTA=/0x390:960x866/600x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/Z/l/CBH9OOTT6nwRBWNAB3VQ/img-20171107-wa0009.jpg 1x, https://s2.glbimg.com/_XztK5NglhD3hRNKQDXHFiIn9qs=/0x390:960x866/1200x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/Z/l/CBH9OOTT6nwRBWNAB3VQ/img-20171107-wa0009.jpg 2x"> <source media="(max-width: 1280px)" data-src="https://s2.glbimg.com/-WZZueS_jU16wGsPhX7KmKsP3N0=/0x390:960x866/640x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/Z/l/CBH9OOTT6nwRBWNAB3VQ/img-20171107-wa0009.jpg 1x, https://s2.glbimg.com/h3DzUI76CriM4sMwS-mEpDk8a7s=/0x390:960x866/1280x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/Z/l/CBH9OOTT6nwRBWNAB3VQ/img-20171107-wa0009.jpg 2x"> <source media="(max-width: 1360px)" data-src="https://s2.glbimg.com/5Matrae3U9DNZNNOALvL_Mkh2r0=/0x390:960x866/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/Z/l/CBH9OOTT6nwRBWNAB3VQ/img-20171107-wa0009.jpg 1x, https://s2.glbimg.com/pnSnl1Jodf6XPXwAcsYGtnF1KEI=/0x390:960x866/1968x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/Z/l/CBH9OOTT6nwRBWNAB3VQ/img-20171107-wa0009.jpg 2x"> <source media="(min-width: 1361px)" data-src="https://s2.glbimg.com/3CoiZAPMlNZlBtV2WtdF0HikcOg=/0x390:960x866/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/Z/l/CBH9OOTT6nwRBWNAB3VQ/img-20171107-wa0009.jpg 1x, https://s2.glbimg.com/ZIhGd7DtnQLD7gLECzHixbN4PRA=/0x390:960x866/2000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/Z/l/CBH9OOTT6nwRBWNAB3VQ/img-20171107-wa0009.jpg 2x"> <source data-src="https://s2.glbimg.com/5Matrae3U9DNZNNOALvL_Mkh2r0=/0x390:960x866/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/Z/l/CBH9OOTT6nwRBWNAB3VQ/img-20171107-wa0009.jpg"> <!--[if IE 9]></video><![endif]--> <img class="image content-media__image" itemprop="contentUrl" alt="Roberto Nishimura esclarece situação de John Kleber (Foto: José Henrique Semedo/ PontePress)" title="Roberto Nishimura esclarece situação de John Kleber (Foto: José Henrique Semedo/ PontePress)" data-src="https://s2.glbimg.com/5Matrae3U9DNZNNOALvL_Mkh2r0=/0x390:960x866/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/Z/l/CBH9OOTT6nwRBWNAB3VQ/img-20171107-wa0009.jpg"> </source></source></source></source></source></picture> 
+ 
+ 
+ 
+
+_<svg xmlns="http://www.w3.org/2000/svg" width="13.5px" height="11.25px" viewbox="0 0 13 12"> <ellipse id="Oval" cx="6.5" cy="6.7826087" rx="2" ry="2.08695652"></ellipse> <path d="M4.625,0.260869565 L3.48125,1.56521739 L1.5,1.56521739 C0.8125,1.56521739 0.25,2.15217391 0.25,2.86956522 L0.25,10.6956522 C0.25,11.4130435 0.8125,12 1.5,12 L11.5,12 C12.1875,12 12.75,11.4130435 12.75,10.6956522 L12.75,2.86956522 C12.75,2.15217391 12.1875,1.56521739 11.5,1.56521739 L9.51875,1.56521739 L8.375,0.260869565 L4.625,0.260869565 L4.625,0.260869565 Z M6.5,10.0434783 C4.775,10.0434783 3.375,8.5826087 3.375,6.7826087 C3.375,4.9826087 4.775,3.52173913 6.5,3.52173913 C8.225,3.52173913 9.625,4.9826087 9.625,6.7826087 C9.625,8.5826087 8.225,10.0434783 6.5,10.0434783 L6.5,10.0434783 Z" id="Shape"></path> </svg>_ Roberto Nishimura esclarece situação de John Kleber (Foto: José Henrique Semedo/ PontePress)
+
+ 
+ 
+ 
+ 
+ 
+
+**Cajá e Wendel**
+
+ 
+ 
+ 
+
+Nishimura também aproveitou para comentar os casos de Renato Cajá e Wendel. O primeiro, com uma lesão na panturrilha esquerda, deve ser liberado até o fim da semana para começar a transição física.
+
+ 
+ 
+ 
+
+Wendel, por sua vez, já deixou o departamento médico após tratar de problema na virilha, e iniciou o processo de recondicionamento. Nenhum deles está à disposição de Eduardo Baptista, contra o Grêmio, nesta quarta-feira, em Campinas.
+
+ 
+ 
+ 
+
+**Veja informações do próximo jogo da Ponte:**
+
+ 
+ 
+ 
+ 
+
+**Adversário:** Grêmio  
+**Local:** Estádio Moisés Lucarelli, em Campinas-SP  
+**Data e horário:** quarta-feira, às 19h30 (de Brasília)  
+**Provável escalação da Ponte:** Aranha, Emerson, Yago, Rodrigo e Jeferson; Fernando Bob (Naldo); Emerson Sheik, Elton, Jádson e Danilo Barcelos; Lucca  
+**Quem está fora:** Nino Paraíba (três cartões amarelos), John Kleber (lesão no joelho), Renato Cajá (lesão na panturrilha), Luis Alí (recuperação de cirurgia) e João Vitor (recuperação de cirurgia)  
+**Pendurados:** Aranha e Marllon  
+**Arbitragem:** Sandro Meira Ricci (Fifa) apita o jogo, auxiliado por Kleber Lúcio Gil (Fifa) e Neuza Ines Back (Fifa), todos de Santa Catarina  
+**Transmissão:** Premiere e PFCI (com Osvaldo Luis e William Machado)  
+**Tempo Real:** GloboEsporte.com, a partir das 18h30
+
+ 
+ 
+ 
+ 
+
+ 
+ 
