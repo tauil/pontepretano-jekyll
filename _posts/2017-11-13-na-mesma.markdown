@@ -1,0 +1,7 @@
+---
+layout: post
+title: "Na mesma"
+date: 2017-11-13T00:00:12+00:00
+external_link: "http://globoesporte.globo.com/pr/futebol/brasileirao-serie-a/jogo/12-11-2017/coritiba-ponte-preta/"
+categories: news globo.com
+---
