@@ -1,0 +1,105 @@
+---
+layout: post
+title: "Identificação com a Ponte motiva Danilo: \"Aqui o sangue está corendo mais quente\""
+date: 2017-11-18T12:37:57+00:00
+external_link: "https://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/noticia/identificacao-com-a-ponte-motiva-danilo-aqui-o-sangue-esta-correndo-mais-quente.ghtml"
+categories: news globo.com
+---
+ 
+ 
+ <meta itemprop="name" content="Ponte Preta vence o Atlético-PR e mantém esperanças de fugir do rebaixamento"> <meta itemprop="thumbnailUrl" content="https://s04.video.glbimg.com/x720/6292911.jpg"> <meta itemprop="datePublished" content="2017-11-17T18:31:08.520Z"> <meta itemprop="uploadDate" content="2017-11-17T18:31:08.520Z"> 
+
+ 
+
+ 
+  ![Ponte Preta vence o Atlético-PR e mantém esperanças de fugir do rebaixamento](https://s04.video.glbimg.com/x720/6292911.jpg "Ponte Preta vence o Atlético-PR e mantém esperanças de fugir do rebaixamento") 
+ 
+ 
+ 
+
+_<svg xmlns="http://www.w3.org/2000/svg" width="14px" height="11px" viewbox="0 0 14 11"><path d="M14,9.16666667 C14,10.175 13.19,11 12.2,11 L1.8,11 C0.81,11 0,10.175 0,9.16666667 L0,1.83333333 C0,0.825 0.81,0 1.8,0 L12.2,0 C13.19,0 14,0.825 14,1.83333333 L14,9.16666667 Z M10.6,5.5 L5.2,2.5025 L5.2,8.48833333 L10.6,5.5 L10.6,5.5 Z" id="Shape"></path></svg>_ Ponte Preta vence o Atlético-PR e mantém esperanças de fugir do rebaixamento
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+O sacrifício de ir a campo contra o Atlético-PR depois de três injeções para diminuir a febre não é por acaso. Ao se propor a jogar – e decidir a partida com dois gols – mesmo em condições físicas desfavoráveis, Danilo Barcelos coloca o coração acima da razão. Um resumo do que significa para ele vestir a camisa da Ponte Preta.
+
+ 
+ 
+ 
+
+– Sinto alguma coisa diferente aqui na Ponte. Não que eu não sentisse em outros clubes que passei, pelo contrário, sempre fui muito identificado. Mas aqui na Ponte realmente o sangue está correndo mais quente – disse o jogador, que lembrou a transferência frustrada para a Macaca no início de 2017 (ele acabou no Atlético-MG).
+
+ 
+ 
+ 
+
+> "Senti uma coisa muito especial aqui por já ter uma chance de ter vindo. Foi no momento certo, as coisas se encaixaram na hora certa. Era uma coisa que eu queria muito. Não vim por acaso. Já sabia há muito tempo e tinha essa vontade imensa de jogar na Ponte pela torcida, que é bacana, pelo trato do clube com os funcionários. Espero fazer meu melhor a cada jogo". 
+ 
+ 
+ 
+ 
+ 
+
+  ![Cobrança de falta de Danilo abriu caminho para a vitória sobre o Atlético-PR (Foto: Fábio Leoni / PontePress)](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgARCAARABkDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUCBAYD/8QAGAEAAgMAAAAAAAAAAAAAAAAAAQMCBQb/2gAMAwEAAhADEAAAAa/Hc5arelvOWDVzvBmgvVhMf//EABwQAAICAwEBAAAAAAAAAAAAAAIDBAUAARAVFv/aAAgBAQABBQIoaQVYJTBh+aqUj5PWHPa0LpbbCtURKh+szNcPn//EABcRAQADAAAAAAAAAAAAAAAAAAEAEBH/2gAIAQMBAT8B0it//8QAGhEAAgIDAAAAAAAAAAAAAAAAAAEDBAIQQf/aAAgBAgEBPwFXYmY24X3SP//EACcQAAIABQMBCQAAAAAAAAAAAAECAAMREiEQEzEEMjM0UXKhotHh/9oACAEBAAY/AlSsybdkjyqYYpPq6gDcH7Fqz9pK5x2qtHiF+X1FpXHog9Ja1rNkhc05iTKtBtCYI4oI7se0DRtP/8QAIBABAAEEAgIDAAAAAAAAAAAAAREAITFREEGB8ZGx0f/aAAgBAQABPyEvFQh1bqRrwV1LMGMHTJepdKG62AWAuvV+AFCpRMAfqkIAmSA2TYfNKskyFKI9V7b8VlQxWPD/2gAMAwEAAgADAAAAEI+/AP/EABwRAAEDBQAAAAAAAAAAAAAAAAEAECERMWGx8P/aAAgBAwEBPxC7Jx1UUY2g3//EABsRAQABBQEAAAAAAAAAAAAAAAEAETFBcdGB/9oACAECAQE/EGClTYd3Abjw7Myyf//EACAQAQEAAgEEAwEAAAAAAAAAAAERACExEEFxoWGBwfH/2gAIAQEAAT8QrmlUgJ1UibpAtuNTO20qs8ovKm5vDs2QuQJCtqPNpn8LDey5ogRglFk+3JEBVZe67HDv8pigSgEKgx4d8BSvHS77pnPnufh0/9k= "Cobrança de falta de Danilo abriu caminho para a vitória sobre o Atlético-PR (Foto: Fábio Leoni / PontePress)") <picture itemscope itemtype="http://schema.org/ImageObject"> <!--[if IE 9]><video style="display: none;"><![endif]--> <source media="(max-width: 1024px)" data-src="https://s2.glbimg.com/J3-9K_B8InFMhVRqCGW3lM3wTM0=/0x0:1000x668/600x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/11/15/flf15112017-7.jpg 1x, https://s2.glbimg.com/gS3yBTDtRnn4amBmQrTUIl9_7u8=/0x0:1000x668/1200x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/11/15/flf15112017-7.jpg 2x"> <source media="(max-width: 1280px)" data-src="https://s2.glbimg.com/ZSV5D6CXoBfX4QqB7WI_wzNYq7M=/0x0:1000x668/640x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/11/15/flf15112017-7.jpg 1x, https://s2.glbimg.com/8JJYqi9ikjKyJrzYH0Sp2pAiv3g=/0x0:1000x668/1280x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/11/15/flf15112017-7.jpg 2x"> <source media="(max-width: 1360px)" data-src="https://s2.glbimg.com/Qi8_RKTAizqpNMcv6FciDzSMDqc=/0x0:1000x668/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/11/15/flf15112017-7.jpg 1x, https://s2.glbimg.com/iHMjqQ2l-IFMF7RQLYCZlDs4BZE=/0x0:1000x668/1968x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/11/15/flf15112017-7.jpg 2x"> <source media="(min-width: 1361px)" data-src="https://s2.glbimg.com/1Nz9Ypy3Set7VHhqzQ1xue2hxpw=/0x0:1000x668/1000x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/11/15/flf15112017-7.jpg 1x, https://s2.glbimg.com/TqxbuWtpWsWnVHWxCSz6iaakUN0=/0x0:1000x668/2000x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/11/15/flf15112017-7.jpg 2x"> <source data-src="https://s2.glbimg.com/Qi8_RKTAizqpNMcv6FciDzSMDqc=/0x0:1000x668/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/11/15/flf15112017-7.jpg"> <!--[if IE 9]></video><![endif]--> <img class="image content-media__image" itemprop="contentUrl" alt="Cobrança de falta de Danilo abriu caminho para a vitória sobre o Atlético-PR (Foto: Fábio Leoni / PontePress)" title="Cobrança de falta de Danilo abriu caminho para a vitória sobre o Atlético-PR (Foto: Fábio Leoni / PontePress)" data-src="https://s2.glbimg.com/Qi8_RKTAizqpNMcv6FciDzSMDqc=/0x0:1000x668/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/11/15/flf15112017-7.jpg"> </source></source></source></source></source></picture> 
+ 
+ 
+ 
+
+_<svg xmlns="http://www.w3.org/2000/svg" width="13.5px" height="11.25px" viewbox="0 0 13 12"> <ellipse id="Oval" cx="6.5" cy="6.7826087" rx="2" ry="2.08695652"></ellipse> <path d="M4.625,0.260869565 L3.48125,1.56521739 L1.5,1.56521739 C0.8125,1.56521739 0.25,2.15217391 0.25,2.86956522 L0.25,10.6956522 C0.25,11.4130435 0.8125,12 1.5,12 L11.5,12 C12.1875,12 12.75,11.4130435 12.75,10.6956522 L12.75,2.86956522 C12.75,2.15217391 12.1875,1.56521739 11.5,1.56521739 L9.51875,1.56521739 L8.375,0.260869565 L4.625,0.260869565 L4.625,0.260869565 Z M6.5,10.0434783 C4.775,10.0434783 3.375,8.5826087 3.375,6.7826087 C3.375,4.9826087 4.775,3.52173913 6.5,3.52173913 C8.225,3.52173913 9.625,4.9826087 9.625,6.7826087 C9.625,8.5826087 8.225,10.0434783 6.5,10.0434783 L6.5,10.0434783 Z" id="Shape"></path> </svg>_ Cobrança de falta de Danilo abriu caminho para a vitória sobre o Atlético-PR (Foto: Fábio Leoni / PontePress)
+
+ 
+ 
+ 
+ 
+ 
+
+Herói da vitória que fortaleceu a Macaca na briga contra o rebaixamento, Danilo Barcelos é presença confirmada na partida de segunda-feira, contra o Fluminense, no Rio de Janeiro. O meia fez questão de agradecer o apoio de Eduardo Baptista, técnico que bancou a sua escalação contra o Atlético-PR.
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+[**+ CLIQUE AQUI e leia mais sobre a Ponte**](http://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/)
+
+ 
+ 
+ 
+
+– A situação que a gente vem passando me incomoda muito. Vem jogando bem há muito tempo e não consegue os resultados. Eu não tinha condição nenhuma de jogar, mas eu queria jogar. Sabia da responsabilidade que eu tinha. Agradeço o professor, um cara que eu tenho um imenso respeito. Entraria em campo em qualquer situação pela Ponte Preta, mas pelo Eduardo eu faria novamente porque foi um cara que sempre me apoiou e ajudou.
+
+ 
+ 
+ 
+
+**Veja informações do próximo jogo da Ponte:**
+
+ 
+ 
+ 
+ 
+
+**Adversário:** Fluminense  
+**Local:** Maracanã, no Rio de Janeiro   
+**Provável escalação da Ponte:** Aranha, Nino Paraíba, Marllon, Yago e Jeferson; Naldo, Wendel (Jádson ou Fernando Bob), Danilo e Léo Artur; Lucca e Léo Gamalho   
+**Quem está fora:** Elton (três amarelos); Rodrigo (lesão na coxa direita); Emerson Sheik (desconforto muscular); John Kleber (lesão no joelho); Luis Alí (recuperação de cirurgia) e João Vitor (recuperação de cirurgia)  
+**Pendurados:** Aranha, Lucca, Marllon, Rodrigo  
+**Arbitragem:** Anderson Daronco (Fifa) apita o jogo, auxiliado por Rafael da Silva Alves e Elio Nepomuceno de Andrade Júnior, todos do Rio Grande do Sul   
+**Transmissão:** Premiere, Premiere HD e PFCI (com Jader Rocha e Edinho)  
+**Tempo Real:** GloboEsporte.com, a partir das 16h, com vídeos exclusivos
+
+ 
+ 
+ 
