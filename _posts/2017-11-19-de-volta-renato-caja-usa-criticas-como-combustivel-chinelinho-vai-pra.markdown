@@ -1,0 +1,102 @@
+---
+layout: post
+title: "De volta, Renato Cajá usa críticas como combustível: \"Chinelinho vai pra campo\" "
+date: 2017-11-19T10:48:57+00:00
+external_link: "https://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/noticia/de-volta-renato-caja-usa-criticas-como-combustivel-chinelinho-vai-pra-campo.ghtml"
+categories: news globo.com
+---
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+Renato Cajá tem um motivo especial para dar a volta por cima. Fora de boa parte dos momentos bons e ruins da Ponte Preta em 2017, o meia usa a desconfiança de parte da torcida para se motivar e colaborar efetivamente com a salvação da Macaca na elite do Campeonato Brasileiro.
+
+ 
+ 
+ 
+
+Parte dessa cobrança pôde ser vista na quarta-feira, quando Cajá começou a partida contra o Atlético-PR na reserva. Quando se dirigia para o banco, o meia foi vaiado, mas gesticulou pedindo que as cobranças ficassem para depois. Na hora de entrar, recebeu incentivo dos pontepretanos.
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+  ![Renato Cajá comenta situação no elenco da Macaca (Foto: Fabio Leoni / PontePress)](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgARCAAOABkDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgUEB//EABYBAQEBAAAAAAAAAAAAAAAAAAUABP/aAAwDAQACEAMQAAABiqk+EzRzM5dODX//xAAdEAABBAIDAAAAAAAAAAAAAAAEAAECAwUGExQV/9oACAEBAAEFAsdr1uSeepEAgFUM0eGKw4nnBvsEzIlXrsL/xAAYEQACAwAAAAAAAAAAAAAAAAAAARESIf/aAAgBAwEBPwGFbBo//8QAGhEAAgIDAAAAAAAAAAAAAAAAAAIBAwQRMf/aAAgBAgEBPwFcZEr3Z0SJP//EACEQAAEDAwUBAQAAAAAAAAAAAAEAAgMEETESEyJhgSFB/9oACAEBAAY/AqYh0bBfcbqOfEWtqRHHfk+MYaj91drCa82dIIw0kdKpBGmPb4j39RWF/8QAHhAAAgICAgMAAAAAAAAAAAAAAREAITFBEHFhgcH/2gAIAQEAAT8hAjTOpTT7AnaWV6CKDzAUcpRZIdNbXEAogtoGAPFn3LT4UGXRwSl4nZP/2gAMAwEAAgADAAAAENvv/8QAGREBAAIDAAAAAAAAAAAAAAAAAQARQVFh/9oACAEDAQE/EAAmzudyxuf/xAAaEQEAAgMBAAAAAAAAAAAAAAABABEhMUFx/9oACAECAQE/EAfg6G6xkdsYXP/EAB4QAQEAAgICAwAAAAAAAAAAAAERACExQVFhEHHw/9oACAEBAAE/EHSgXUOgCob6HjGg6KOsgcg1b0BxcRsyGClfBwWQvXxV3aSNZSkpPar1HKnDE7wwEEhZ5cR4i3PX3n4Jn//Z "Renato Cajá comenta situação no elenco da Macaca (Foto: Fabio Leoni / PontePress)") <picture itemscope itemtype="http://schema.org/ImageObject"> <!--[if IE 9]><video style="display: none;"><![endif]--> <source media="(max-width: 1024px)" data-src="https://s2.glbimg.com/TR4PEop2JfaKlk2Rqd6URydDapo=/0x45:1000x619/600x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/07/14/caja.3.jpg 1x, https://s2.glbimg.com/ACN-vCR7GDLVRqALnrPEFMeBjic=/0x45:1000x619/1200x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/07/14/caja.3.jpg 2x"> <source media="(max-width: 1280px)" data-src="https://s2.glbimg.com/pizettmtqHKIr3oNVTRY3xOY8Bs=/0x45:1000x619/640x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/07/14/caja.3.jpg 1x, https://s2.glbimg.com/y2gFQdxYCtE4vPiea9OjQVYGnSM=/0x45:1000x619/1280x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/07/14/caja.3.jpg 2x"> <source media="(max-width: 1360px)" data-src="https://s2.glbimg.com/dm9FWz3qm2up9SPRJ9MshvN7vU4=/0x45:1000x619/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/07/14/caja.3.jpg 1x, https://s2.glbimg.com/Cv9lfr7rkQ1lvvVQlhuZRF95IoE=/0x45:1000x619/1968x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/07/14/caja.3.jpg 2x"> <source media="(min-width: 1361px)" data-src="https://s2.glbimg.com/VqNjDSQ2wpMv6MyEbgA0VrCQC5o=/0x45:1000x619/1000x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/07/14/caja.3.jpg 1x, https://s2.glbimg.com/pDut9HrgHWVC67JgfM8otIqNYTs=/0x45:1000x619/2000x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/07/14/caja.3.jpg 2x"> <source data-src="https://s2.glbimg.com/dm9FWz3qm2up9SPRJ9MshvN7vU4=/0x45:1000x619/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/07/14/caja.3.jpg"> <!--[if IE 9]></video><![endif]--> <img class="image content-media__image" itemprop="contentUrl" alt="Renato Cajá comenta situação no elenco da Macaca (Foto: Fabio Leoni / PontePress)" title="Renato Cajá comenta situação no elenco da Macaca (Foto: Fabio Leoni / PontePress)" data-src="https://s2.glbimg.com/dm9FWz3qm2up9SPRJ9MshvN7vU4=/0x45:1000x619/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/07/14/caja.3.jpg"> </source></source></source></source></source></picture> 
+ 
+ 
+ 
+
+_<svg xmlns="http://www.w3.org/2000/svg" width="13.5px" height="11.25px" viewbox="0 0 13 12"> <ellipse id="Oval" cx="6.5" cy="6.7826087" rx="2" ry="2.08695652"></ellipse> <path d="M4.625,0.260869565 L3.48125,1.56521739 L1.5,1.56521739 C0.8125,1.56521739 0.25,2.15217391 0.25,2.86956522 L0.25,10.6956522 C0.25,11.4130435 0.8125,12 1.5,12 L11.5,12 C12.1875,12 12.75,11.4130435 12.75,10.6956522 L12.75,2.86956522 C12.75,2.15217391 12.1875,1.56521739 11.5,1.56521739 L9.51875,1.56521739 L8.375,0.260869565 L4.625,0.260869565 L4.625,0.260869565 Z M6.5,10.0434783 C4.775,10.0434783 3.375,8.5826087 3.375,6.7826087 C3.375,4.9826087 4.775,3.52173913 6.5,3.52173913 C8.225,3.52173913 9.625,4.9826087 9.625,6.7826087 C9.625,8.5826087 8.225,10.0434783 6.5,10.0434783 L6.5,10.0434783 Z" id="Shape"></path> </svg>_ Renato Cajá comenta situação no elenco da Macaca (Foto: Fabio Leoni / PontePress)
+
+ 
+ 
+ 
+ 
+ 
+
+– Muitos torcedores me xingando, falando que sou chinelinho. Eu poderia muito bem, em um momento complicado, ficar aí, sem jogar. Mas estou em campo, mesmo sem estar 100%. O chinelinho vai para o campo, se dedica, trabalha – disse o jogador, que completou.
+
+ 
+ 
+ 
+
+> "Eu peço a Deus para não deixar eu sair daqui envergonhado. Se eu ficar ou não, não importa. Só quero sair com o time na Série A. Nunca imaginei viver esse momento. Mas vamos passar por cima dele, para viver um 2018 melhor, para que os erros fiquem para trás". 
+ 
+ 
+
+Após um trabalho intenso e especial em uma academia parceira da Ponte, Renato Cajá conseguiu acelerar o retorno para ajudar o time em campo. O meia espera que a lesão na panturrilha esquerda tenha sido a última no ano. A comissão técnica também, pois o planejamento é aproveitar o jogador por tempos cada vez maiores.
+
+ 
+ 
+ 
+
+[+ CLIQUE AQUI para ler mais notícias da Ponte Preta](http://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/)
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+– Importante voltar a ajudar, entrar em momento decisivo. Espero entrar nos próximos três jogos e conseguir ajudar. Quero dar meu máximo para ajudar a equipe, seja como for, dando chutão para frente, lutando com todas as minhas forças.
+
+ 
+ 
+ 
+
+A Ponte volta a jogar nesta segunda-feira, às 17h, contra o Fluminense, no Maracanã. Cajá viaja com a delegação para o Rio de Janeiro e começa no banco de reservas, mas certamente será utilizado pelo técnico Eduardo Baptista. Com 39 pontos, a Macaca tenta deixar a zona de rebaixamento.
+
+ 
+ 
+ 
+
+**Veja informações do próximo jogo da Ponte:**
+
+ 
+ 
+ 
+ 
+
+**Adversário:** Fluminense  
+**Data e horário:** segunda-feira, 17h   
+**Local:** Maracanã, no Rio de Janeiro   
+**Provável escalação da Ponte:** Aranha, Nino Paraíba, Marllon, Yago e Jeferson; Naldo, Wendel (Jádson ou Fernando Bob), Danilo e Léo Artur; Lucca e Léo Gamalho   
+**Quem está fora:** Elton (três amarelos); Rodrigo (lesão na coxa direita); Emerson Sheik (desconforto muscular); John Kleber (lesão no joelho); Luis Alí (recuperação de cirurgia) e João Vitor (recuperação de cirurgia)  
+**Pendurados:** Aranha, Lucca, Marllon e Rodrigo  
+**Arbitragem:** Anderson Daronco (Fifa) apita o jogo, auxiliado por Rafael da Silva Alves e Elio Nepomuceno de Andrade Júnior, todos do Rio Grande do Sul   
+**Transmissão:** Premiere, Premiere HD e PFCI (com Jader Rocha e Edinho)  
+**Tempo Real:** GloboEsporte.com, a partir das 16h, com vídeos exclusivos
+
+ 
+ 
+ 
