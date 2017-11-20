@@ -1,0 +1,7 @@
+---
+layout: post
+title: ""
+date: 2017-11-20T17:30:15+00:00
+external_link: "http://globoesporte.globo.com/rj/futebol/brasileirao-serie-a/jogo/20-11-2017/fluminense-ponte-preta/"
+categories: news globo.com
+---
