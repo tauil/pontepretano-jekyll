@@ -1,0 +1,100 @@
+---
+layout: post
+title: "Wendel esquece demais concorentes da Ponte: \"Pensar no Vitória 24 horas por dia\""
+date: 2017-11-22T19:08:59+00:00
+external_link: "https://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/noticia/wendel-esquece-demais-concorrentes-da-ponte-pensar-no-vitoria-24-horas-por-dia.ghtml"
+categories: news globo.com
+---
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+A Ponte Preta só pensa na vitória. A Ponte Preta só pensa no Vitória. A Ponte Preta só pensa na vitória sobre o Vitória. Achou exagero tanta repetição assim?
+
+ 
+ 
+ 
+
+Mas essa palavra (VITÓRIA), seja no sentido dos três pontos ou para se referir ao próximo adversário da Macaca, está por todos os cantos do Majestoso nesta semana. Tal overdose retrata bem o tamanho da importância do duelo decisivo de domingo, às 17h, em Campinas.
+
+ 
+ 
+ 
+
+- É pensar no Vitória 24 horas por dia. É o jogo mais importante do ano para a Ponte, para nós atletas, para a diretoria, para Campinas eu diria. Tem que focar. O torcedor entendeu que a gente vem lutando, que ninguém desistiu. É tratar como uma grande final, respeitando o Vitória, para que os três pontos fiquem aqui com a Ponte - afirmou o experiente volante Wendel.
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+  ![Elenco da Ponte prega foco total no Vitória, domingo, em Campinas (Foto: Fabio Leoni/ PontePress)](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgARCAARABkDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgAHAgT/xAAVAQEBAAAAAAAAAAAAAAAAAAAEA//aAAwDAQACEAMQAAABQ5I/GwT5DTTMUHYnaNXkVSI//8QAHxAAAgIBBAMAAAAAAAAAAAAABAUAAwIBBhIxFBUh/9oACAEBAAEFAt20VkBpE3vamdvBZ8j9thljtggcbJpeDqJ5ekYwbtz3P//EABgRAAMBAQAAAAAAAAAAAAAAAAEQMQIR/9oACAEDAQE/AczpQi//xAAYEQACAwAAAAAAAAAAAAAAAAAQEQEhMv/aAAgBAgEBPwF2hOh//8QAJxAAAgAEBAUFAAAAAAAAAAAAAQIAAwQREiEicRATMUFyQmGxwdH/2gAIAQEABj8CqsRMvWhLoNXeGkrUsvMOksMsooZJmMZksupQnIWNv2OsTQrX5tgMO8TpdQAyKLr5RWqc3Axpf0NfoPbOO0S94fyHzFRun3w//8QAIBAAAgEDBAMAAAAAAAAAAAAAAREAIUGxEDFR8GFx0f/aAAgBAQABPyEekLcA2CPpCi7rrTECDOUUQEhctHA+tW4VDYcKq4Y1Vnr6oQEgmL9+Z1TTZOJ1XDXT/9oADAMBAAIAAwAAABD6n/8A/8QAHBEAAgICAwAAAAAAAAAAAAAAAAERMSFBUZHw/9oACAEDAQE/EEWBp6n3ZPJSOz//xAAbEQACAQUAAAAAAAAAAAAAAAAAAUEhMXGR8P/aAAgBAgEBPxBpTc47Q0oLwz//xAAeEAEBAAICAgMAAAAAAAAAAAABEQAhMWFBkSCB8P/aAAgBAQABPxAz/uJLKHNYF17xEq5jJdw1Ih5XUx+1GIPJGBsWk+84ryYCTQ0QFmvWWHN3T4N2d68rTDWdZu5gDY6Nt6Tp9TPz9PgE4//Z "Elenco da Ponte prega foco total no Vitória, domingo, em Campinas (Foto: Fabio Leoni/ PontePress)") <picture itemscope itemtype="http://schema.org/ImageObject"> <!--[if IE 9]><video style="display: none;"><![endif]--> <source media="(max-width: 1024px)" data-src="https://s2.glbimg.com/BzTto-pjKFt-_vpxObIrnazj9hI=/0x0:1000x667/600x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/A/l/uNowC3SrWQZvfOQ2Lbxw/elenco.ponte.jpg 1x, https://s2.glbimg.com/VqWLTStuz4XO0B9PQ_p1diG9B1k=/0x0:1000x667/1200x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/A/l/uNowC3SrWQZvfOQ2Lbxw/elenco.ponte.jpg 2x"> <source media="(max-width: 1280px)" data-src="https://s2.glbimg.com/U1EstIlbl-EWq6n8Aohd6LKoYOk=/0x0:1000x667/640x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/A/l/uNowC3SrWQZvfOQ2Lbxw/elenco.ponte.jpg 1x, https://s2.glbimg.com/3RqAQlVxzE4wLYRB1Tn1Ul-kp6Q=/0x0:1000x667/1280x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/A/l/uNowC3SrWQZvfOQ2Lbxw/elenco.ponte.jpg 2x"> <source media="(max-width: 1360px)" data-src="https://s2.glbimg.com/59Vp60uc8Zm-BCRinoK_5F5bxDw=/0x0:1000x667/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/A/l/uNowC3SrWQZvfOQ2Lbxw/elenco.ponte.jpg 1x, https://s2.glbimg.com/ZmXFqBQtIrQKEM2KoIsSfcmHztY=/0x0:1000x667/1968x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/A/l/uNowC3SrWQZvfOQ2Lbxw/elenco.ponte.jpg 2x"> <source media="(min-width: 1361px)" data-src="https://s2.glbimg.com/NOu6vDbU_P8na_sZmWm5bCONPGs=/0x0:1000x667/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/A/l/uNowC3SrWQZvfOQ2Lbxw/elenco.ponte.jpg 1x, https://s2.glbimg.com/7ukZoEHhT_3lCUP0rQal8MIK3o0=/0x0:1000x667/2000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/A/l/uNowC3SrWQZvfOQ2Lbxw/elenco.ponte.jpg 2x"> <source data-src="https://s2.glbimg.com/59Vp60uc8Zm-BCRinoK_5F5bxDw=/0x0:1000x667/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/A/l/uNowC3SrWQZvfOQ2Lbxw/elenco.ponte.jpg"> <!--[if IE 9]></video><![endif]--> <img class="image content-media__image" itemprop="contentUrl" alt="Elenco da Ponte prega foco total no Vitória, domingo, em Campinas (Foto: Fabio Leoni/ PontePress)" title="Elenco da Ponte prega foco total no Vitória, domingo, em Campinas (Foto: Fabio Leoni/ PontePress)" data-src="https://s2.glbimg.com/59Vp60uc8Zm-BCRinoK_5F5bxDw=/0x0:1000x667/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/A/l/uNowC3SrWQZvfOQ2Lbxw/elenco.ponte.jpg"> </source></source></source></source></source></picture> 
+ 
+ 
+ 
+
+_<svg xmlns="http://www.w3.org/2000/svg" width="13.5px" height="11.25px" viewbox="0 0 13 12"> <ellipse id="Oval" cx="6.5" cy="6.7826087" rx="2" ry="2.08695652"></ellipse> <path d="M4.625,0.260869565 L3.48125,1.56521739 L1.5,1.56521739 C0.8125,1.56521739 0.25,2.15217391 0.25,2.86956522 L0.25,10.6956522 C0.25,11.4130435 0.8125,12 1.5,12 L11.5,12 C12.1875,12 12.75,11.4130435 12.75,10.6956522 L12.75,2.86956522 C12.75,2.15217391 12.1875,1.56521739 11.5,1.56521739 L9.51875,1.56521739 L8.375,0.260869565 L4.625,0.260869565 L4.625,0.260869565 Z M6.5,10.0434783 C4.775,10.0434783 3.375,8.5826087 3.375,6.7826087 C3.375,4.9826087 4.775,3.52173913 6.5,3.52173913 C8.225,3.52173913 9.625,4.9826087 9.625,6.7826087 C9.625,8.5826087 8.225,10.0434783 6.5,10.0434783 L6.5,10.0434783 Z" id="Shape"></path> </svg>_ Elenco da Ponte prega foco total no Vitória, domingo, em Campinas (Foto: Fabio Leoni/ PontePress)
+
+ 
+ 
+ 
+ 
+ 
+
+Restam duas partidas para a Ponte definir sua vida no Brasileirão, mas tudo passa pelo jogo com o Vitória. Um jogo que, em caso de resultado positivo, dá uma sobrevida à Macaca na luta contra o rebaixamento, mas que também pode decretar a queda. Uma derrota em casa significa jogar a Série B em 2018. [**VEJA OS CENÁRIOS POSSÍVEIS CLICANDO AQUI!**](http://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/)
+
+ 
+ 
+ 
+
+Por isso, Wendel nem pensa nos demais concorrentes. Além de Ponte (39 pontos) e Vitória (40), estão ameaçados Sport (39), Avaí (39) e o Coritiba (43). Como o lanterna Atlético-GO já está rebaixado, restam três vagas no Z-4 para cinco times em disputa.
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Em um cenário de tanto equilíbrio assim, a ordem é esquecer as contas e deixar para projetar a última rodada, contra o Vasco, depois de domingo.
+
+ 
+ 
+ 
+
+> "Tem que pensar primeiro em fazer o nosso trabalho, que é principalmente vnecer o Vitória. Times pressionados, estádio lotado, os dois lados tentando errar o mínimo possível. Que às 19h de domingo possamos estar com os três pontos para cravar a permanência na Série A contra o Vasco", Wendel. 
+ 
+ 
+
+Diante de toda a carga da partida, o aspecto psicológico é tão ou mais importante que as questões táticas e técnicas. Principalmente para um time que tem demonstrado descontrole emocional nesta reta final e lidera o ranking de expulsões do Brasileirão, com oito.
+
+ 
+ 
+ 
+
+[**+ CLIQUE AQUI e leia mais sobre a Ponte**](http://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/)
+
+ 
+ 
+ 
+
+O último cartão vermelho recebido pela Ponte foi para Naldo, [**após cometer duas faltas em um intervalo de 12 segundos, ainda no primeiro tempo da derrota por 2 a 0 para o Fluminense, na segunda-feira.**](https://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/noticia/volante-da-ponte-e-expulso-por-duas-faltas-separadas-por-12-segundos-veja-lances.ghtml)
+
+ 
+ 
+ 
+ 
+
+- São oito expulsões em 36 rodadas. É um número alto. Mas tem sido mais por imprudência do que por cabeça quente. Você pode ver que não teve agressão. É vontade de ganhar. Ninguém pode falar que está faltando isso. É esquecer tudo isso, unir forças e corrigir os erros para sair com a vitória no domingo - completou Wendel.
+
+ 
+ 
+ 
