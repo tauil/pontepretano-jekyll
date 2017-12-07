@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<article id="main-content">
+  {% assign posts = site.data.br2017 | sort: 'datetime' %}
+  <section class="articles-list">
+    {% for post in posts %}
+    <div class="article full">
+      <section class="match">
+        <div class="content match-header">
+          <div class="home-team">{{post.home}} <img src="{{post.home_badge}}" /></div>
+          <div class="score">{{post.home_score}} <span class="score-divisor">X</span> {{post.visitor_score}}</div>
+          <div class="visitor-team"><img src="{{post.visitor_badge}}" /> {{post.visitor}}</div>
+        </div>
+        <nav class="meta-links">
+          <a class="post-link" href="/campeonatos/brasileirao/2017/rodada/{{post.round}}">Ver detalhes da partida.</a>
+        </nav>
+      </section>
+    </div>
+    {% endfor %}
+  </section>
+</article>

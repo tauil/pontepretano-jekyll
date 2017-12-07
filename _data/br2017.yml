@@ -1,0 +1,419 @@
+# coding: utf-8
+- home: Ponte Preta
+  home_badge: "/assets/images/team_badges/ponte_preta_60x60.png"
+  home_score: 4
+  visitor: Sport
+  visitor_badge: "/assets/images/team_badges/sport_65x65.png"
+  visitor_score: 0
+  date: 2017-05-14 16:00
+  round: 01
+  stadium: Moisés Lucarelli
+  globo_link: http://globoesporte.globo.com/sp/campinas-e-regiao/futebol/brasileirao-serie-a/jogo/14-05-2017/ponte-preta-sport/
+  youtube: ''
+- home: Botafogo
+  home_badge: "/assets/images/team_badges/botafogo_60x60.png"
+  home_score: 2
+  visitor: Ponte Preta
+  visitor_badge: "/assets/images/team_badges/ponte_preta_60x60.png"
+  visitor_score: 0
+  date: 2017-05-21 18:00
+  round: 02
+  stadium: Engenhão
+  globo_link: http://globoesporte.globo.com/rj/futebol/brasileirao-serie-a/jogo/21-05-2017/botafogo-ponte-preta
+  youtube: ''
+- home: Atletico MG
+  home_badge: "/assets/images/team_badges/atleticomg_60x60.png"
+  home_score: 2
+  visitor: Ponte Preta
+  visitor_badge: "/assets/images/team_badges/ponte_preta_65x65.png"
+  visitor_score: 2
+  date: 2017-05-28 11:00
+  round: 03
+  stadium: Independência
+  globo_link: http://globoesporte.globo.com/mg/futebol/brasileirao-serie-a/jogo/28-05-2017/atletico-mg-ponte-preta
+  youtube: ''
+- home: Ponte Preta
+  home_badge: "/assets/images/team_badges/ponte_preta_60x60.png"
+  home_score: 1
+  visitor: São Paulo
+  visitor_badge: "/assets/images/team_badges/saopaulo_65x65.png"
+  visitor_score: 0
+  date: 2017-06-04 16:00
+  round: 04
+  stadium: Moisés Lucarelli
+  globo_link: http://globoesporte.globo.com/sp/campinas-e-regiao/futebol/brasileirao-serie-a/jogo/04-06-2017/ponte-preta-sao-paulo
+  youtube: ''
+- home: Atletico GO
+  home_badge: "/assets/images/team_badges/atleticogo_60x60.png"
+  home_score: 3
+  visitor: Ponte Preta
+  visitor_badge: "/assets/images/team_badges/ponte_preta_65x65.png"
+  visitor_score: 0
+  date: 2017-06-08 19:30
+  round: 05
+  stadium: Olímpico (GO)
+  globo_link: http://globoesporte.globo.com/go/futebol/brasileirao-serie-a/jogo/08-06-2017/atletico-go-ponte-preta
+  youtube: ''
+- home: Ponte Preta
+  home_badge: "/assets/images/team_badges/ponte_preta_60x60.png"
+  home_score: 3
+  visitor: Chapecoense
+  visitor_badge: "/assets/images/team_badges/chapecoense_65x65.png"
+  visitor_score: 2
+  date: 2017-06-11 16:00
+  round: 04
+  stadium: Moisés Lucarelli
+  globo_link: http://globoesporte.globo.com/sp/campinas-e-regiao/futebol/brasileirao-serie-a/jogo/11-06-2017/ponte-preta-chapecoense
+  youtube: ''
+- home: Flamengo
+  home_badge: "/assets/images/team_badges/flamengo_60x60.png"
+  home_score: 2
+  visitor: Ponte Preta
+  visitor_badge: "/assets/images/team_badges/ponte_preta_65x65.png"
+  visitor_score: 0
+  date: 2017-06-14 21:00
+  round: 07
+  stadium: Luso Brasileiro
+  globo_link: http://globoesporte.globo.com/rj/futebol/brasileirao-serie-a/jogo/14-06-2017/flamengo-ponte-preta
+  youtube: ''
+- home: Santos
+  home_badge: "/assets/images/team_badges/santos_60x60.png"
+  home_score: 0
+  visitor: Ponte Preta
+  visitor_badge: "/assets/images/team_badges/ponte_preta_65x65.png"
+  visitor_score: 0
+  date: 2017-06-17 21:00
+  round: 08
+  stadium: Pacaembu
+  globo_link: http://globoesporte.globo.com/sp/santos-e-regiao/futebol/brasileirao-serie-a/jogo/17-06-2017/santos-ponte-preta
+  youtube: ''
+- home: Ponte Preta
+  home_badge: "/assets/images/team_badges/ponte_preta_60x60.png"
+  home_score: 1
+  visitor: Cruzeiro
+  visitor_badge: "/assets/images/team_badges/cruzeiro_65x65.png"
+  visitor_score: 0
+  date: 2017-06-22 19:30
+  round: 09
+  stadium: Moisés Lucarelli
+  globo_link: http://globoesporte.globo.com/sp/campinas-e-regiao/futebol/brasileirao-serie-a/jogo/22-06-2017/ponte-preta-cruzeiro
+  youtube: ''
+- home: Ponte Preta
+  home_badge: "/assets/images/team_badges/ponte_preta_60x60.png"
+  home_score: 1
+  visitor: Palmeiras
+  visitor_badge: "/assets/images/team_badges/palmeiras_65x65.png"
+  visitor_score: 2
+  date: 2017-06-25 16:00
+  round: 10
+  stadium: Moisés Lucarelli
+  globo_link: http://globoesporte.globo.com/sp/campinas-e-regiao/futebol/brasileirao-serie-a/jogo/25-06-2017/ponte-preta-palmeiras
+  youtube: ''
+- home: Avai
+  home_badge: "/assets/images/team_badges/avai_60x60.png"
+  home_score: 0
+  visitor: Ponte Preta
+  visitor_badge: "/assets/images/team_badges/ponte_preta_65x65.png"
+  visitor_score: 0
+  date: 2017-07-02 19:00
+  round: 11
+  stadium: Ressacada
+  globo_link: http://globoesporte.globo.com/sc/futebol/brasileirao-serie-a/jogo/02-07-2017/avai-ponte-preta
+  youtube: ''
+- home: Corinthians
+  home_badge: "/assets/images/team_badges/corinthians_60x60.png"
+  home_score: 2
+  visitor: Ponte Preta
+  visitor_badge: "/assets/images/team_badges/ponte_preta_65x65.png"
+  visitor_score: 0
+  date: 2017-07-08 19:00
+  round: 12
+  stadium: Arena Corinthians
+  globo_link: http://globoesporte.globo.com/sp/futebol/brasileirao-serie-a/jogo/08-07-2017/corinthians-ponte-preta
+  youtube: ''
+- home: Ponte Preta
+  home_badge: "/assets/images/team_badges/ponte_preta_60x60.png"
+  home_score: 0
+  visitor: Bahia
+  visitor_badge: "/assets/images/team_badges/bahia_65x65.png"
+  visitor_score: 3
+  date: 2017-07-12 19:30
+  round: 13
+  stadium: Moisés Lucarelli
+  globo_link: http://globoesporte.globo.com/sp/campinas-e-regiao/futebol/brasileirao-serie-a/jogo/12-07-2017/ponte-preta-bahia
+  youtube: ''
+- home: Gremio
+  home_badge: "/assets/images/team_badges/gremio_60x60.png"
+  home_score: 3
+  visitor: Ponte Preta
+  visitor_badge: "/assets/images/team_badges/ponte_preta_65x65.png"
+  visitor_score: 1
+  date: 2017-07-16 16:00
+  round: 14
+  stadium: Arena Gremio
+  globo_link: http://globoesporte.globo.com/rs/futebol/brasileirao-serie-a/jogo/16-07-2017/gremio-ponte-preta
+  youtube: ''
+- home: Ponte Preta
+  home_badge: "/assets/images/team_badges/ponte_preta_60x60.png"
+  home_score: 4
+  visitor: Coritiba
+  visitor_badge: "/assets/images/team_badges/coritiba_65x65.png"
+  visitor_score: 0
+  date: 2017-07-19 21:00
+  round: 15
+  stadium: Moisés Lucarelli
+  globo_link: http://globoesporte.globo.com/sp/campinas-e-regiao/futebol/brasileirao-serie-a/jogo/19-07-2017/ponte-preta-coritiba
+  youtube: ''
+- home: Atlético PR
+  home_badge: "/assets/images/team_badges/atleticopr_60x60.png"
+  home_score: 0
+  visitor: Ponte Preta
+  visitor_badge: "/assets/images/team_badges/ponte_preta_65x65.png"
+  visitor_score: 2
+  date: 2017-07-23 19:00
+  round: 16
+  stadium: Arena da Baixada
+  globo_link: http://globoesporte.globo.com/pr/futebol/brasileirao-serie-a/jogo/23-07-2017/atletico-pr-ponte-preta
+  youtube: ''
+- home: Ponte Preta
+  home_badge: "/assets/images/team_badges/ponte_preta_60x60.png"
+  home_score: 0
+  visitor: Fluminense
+  visitor_badge: "/assets/images/team_badges/fluminense_65x65.png"
+  visitor_score: 0
+  date: 2017-08-09 20:00
+  round: 17
+  stadium: Moisés Lucarelli
+  globo_link: http://globoesporte.globo.com/sp/campinas-e-regiao/futebol/brasileirao-serie-a/jogo/09-08-2017/ponte-preta-fluminense
+  youtube: ''
+- home: Vitória
+  home_badge: "/assets/images/team_badges/vitoria_60x60.png"
+  home_score: 3
+  visitor: Ponte Preta
+  visitor_badge: "/assets/images/team_badges/ponte_preta_65x65.png"
+  visitor_score: 1
+  date: 2017-08-02 21:00
+  round: 18
+  stadium: Barradão
+  globo_link: http://globoesporte.globo.com/ba/futebol/brasileirao-serie-a/jogo/02-08-2017/vitoria-ponte-preta
+  youtube: ''
+- home: Ponte Preta
+  home_badge: "/assets/images/team_badges/ponte_preta_60x60.png"
+  home_score: 0
+  visitor: Vasco
+  visitor_badge: "/assets/images/team_badges/vasco_65x65.png"
+  visitor_score: 0
+  date: 2017-08-06 19:00
+  round: 19
+  stadium: Moisés Lucarelli
+  globo_link: http://globoesporte.globo.com/sp/campinas-e-regiao/futebol/brasileirao-serie-a/jogo/06-08-2017/ponte-preta-vasco
+  youtube: ''
+- home: Sport
+  home_badge: "/assets/images/team_badges/sport_60x60.png"
+  home_score: 0
+  visitor: Ponte Preta
+  visitor_badge: "/assets/images/team_badges/ponte_preta_65x65.png"
+  visitor_score: 0
+  date: 2017-08-13 16:00
+  round: 20
+  stadium: Ilha do Retiro
+  globo_link: http://globoesporte.globo.com/pe/futebol/brasileirao-serie-a/jogo/13-08-2017/sport-ponte-preta
+  youtube: ''
+- home: Ponte Preta
+  home_badge: "/assets/images/team_badges/ponte_preta_60x60.png"
+  home_score: 2
+  visitor: Botafogo
+  visitor_badge: "/assets/images/team_badges/botafogo_65x65.png"
+  visitor_score: 1
+  date: 2017-08-20 16:00
+  round: 21
+  stadium: Moisés Lucarelli
+  globo_link: http://globoesporte.globo.com/sp/campinas-e-regiao/futebol/brasileirao-serie-a/jogo/20-08-2017/ponte-preta-botafogo
+  youtube: ''
+- home: Ponte Preta
+  home_badge: "/assets/images/team_badges/ponte_preta_60x60.png"
+  home_score: 1
+  visitor: Atlético MG
+  visitor_badge: "/assets/images/team_badges/atleticomg_65x65.png"
+  visitor_score: 2
+  date: 2017-08-27 16:00
+  round: 22
+  stadium: Moisés Lucarelli
+  globo_link: http://globoesporte.globo.com/sp/campinas-e-regiao/futebol/brasileirao-serie-a/jogo/27-08-2017/ponte-preta-atletico-mg
+  youtube: ''
+- home: São Paulo
+  home_badge: "/assets/images/team_badges/saopaulo_60x60.png"
+  home_score: 2
+  visitor: Ponte Preta
+  visitor_badge: "/assets/images/team_badges/ponte_preta_65x65.png"
+  visitor_score: 2
+  date: 2017-09-09 19:00
+  round: 23
+  stadium: Morumbi
+  globo_link: http://globoesporte.globo.com/sp/futebol/brasileirao-serie-a/jogo/09-09-2017/sao-paulo-ponte-preta
+  youtube: ''
+- home: Ponte Preta
+  home_badge: "/assets/images/team_badges/ponte_preta_60x60.png"
+  home_score: 1
+  visitor: Atlético GO
+  visitor_badge: "/assets/images/team_badges/atleticogo_65x65.png"
+  visitor_score: 3
+  date: 2017-08-27 16:00
+  round: 24
+  stadium: Moisés Lucarelli
+  globo_link: http://globoesporte.globo.com/sp/campinas-e-regiao/futebol/brasileirao-serie-a/jogo/16-09-2017/ponte-preta-atletico-go
+  youtube: ''
+- home: Chapecoense
+  home_badge: "/assets/images/team_badges/chapecoense_60x60.png"
+  home_score: 1
+  visitor: Ponte Preta
+  visitor_badge: "/assets/images/team_badges/ponte_preta_65x65.png"
+  visitor_score: 0
+  date: 2017-09-24 16:00
+  round: 25
+  stadium: Arena Condá
+  globo_link: http://globoesporte.globo.com/sc/futebol/brasileirao-serie-a/jogo/24-09-2017/chapecoense-ponte-preta
+  youtube: ''
+- home: Ponte Preta
+  home_badge: "/assets/images/team_badges/ponte_preta_60x60.png"
+  home_score: 1
+  visitor: Flamengo
+  visitor_badge: "/assets/images/team_badges/flamengo_65x65.png"
+  visitor_score: 0
+  date: 2017-10-02 20:00
+  round: 26
+  stadium: Moisés Lucarelli
+  globo_link: http://globoesporte.globo.com/sp/campinas-e-regiao/futebol/brasileirao-serie-a/jogo/02-10-2017/ponte-preta-flamengo
+  youtube: ''
+- home: Ponte Preta
+  home_badge: "/assets/images/team_badges/ponte_preta_60x60.png"
+  home_score: 1
+  visitor: Santos
+  visitor_badge: "/assets/images/team_badges/santos_65x65.png"
+  visitor_score: 1
+  date: 2017-10-12 17:00
+  round: 27
+  stadium: Moisés Lucarelli
+  globo_link: http://globoesporte.globo.com/sp/campinas-e-regiao/futebol/brasileirao-serie-a/jogo/12-10-2017/ponte-preta-santos
+  youtube: ''
+- home: Cruzeiro
+  home_badge: "/assets/images/team_badges/cruzeiro_60x60.png"
+  home_score: 2
+  visitor: Ponte Preta
+  visitor_badge: "/assets/images/team_badges/ponte_preta_65x65.png"
+  visitor_score: 1
+  date: 2017-10-07 16:00
+  round: 28
+  stadium: Mineirão
+  globo_link: http://globoesporte.globo.com/mg/futebol/brasileirao-serie-a/jogo/07-10-2017/cruzeiro-ponte-preta
+  youtube: ''
+- home: Palmeiras
+  home_badge: "/assets/images/team_badges/palmeiras_60x60.png"
+  home_score: 2
+  visitor: Ponte Preta
+  visitor_badge: "/assets/images/team_badges/ponte_preta_65x65.png"
+  visitor_score: 0
+  date: 2017-10-19 20:00
+  round: 29
+  stadium: Pacaembu
+  globo_link: http://globoesporte.globo.com/sp/futebol/brasileirao-serie-a/jogo/19-10-2017/palmeiras-ponte-preta
+  youtube: ''
+- home: Ponte Preta
+  home_badge: "/assets/images/team_badges/ponte_preta_60x60.png"
+  home_score: 1
+  visitor: Avai
+  visitor_badge: "/assets/images/team_badges/avai_65x65.png"
+  visitor_score: 2
+  date: 2017-10-22 19:00
+  round: 30
+  stadium: Moisés Lucarelli
+  globo_link: http://globoesporte.globo.com/sp/campinas-e-regiao/futebol/brasileirao-serie-a/jogo/22-10-2017/ponte-preta-avai
+  youtube: ''
+- home: Ponte Preta
+  home_badge: "/assets/images/team_badges/ponte_preta_60x60.png"
+  home_score: 1
+  visitor: Corinthians
+  visitor_badge: "/assets/images/team_badges/corinthians_65x65.png"
+  visitor_score: 0
+  date: 2017-10-29 17:00
+  round: 31
+  stadium: Moisés Lucarelli
+  globo_link: http://globoesporte.globo.com/sp/campinas-e-regiao/futebol/brasileirao-serie-a/jogo/29-10-2017/ponte-preta-corinthians
+  youtube: ''
+- home: Bahia
+  home_badge: "/assets/images/team_badges/bahia_60x60.png"
+  home_score: 2
+  visitor: Ponte Preta
+  visitor_badge: "/assets/images/team_badges/ponte_preta_65x65.png"
+  visitor_score: 0
+  date: 2017-10-19 20:00
+  round: 32
+  stadium: Fonte Nova
+  globo_link: http://globoesporte.globo.com/ba/futebol/brasileirao-serie-a/jogo/05-11-2017/bahia-ponte-preta
+  youtube: ''
+- home: Ponte Preta
+  home_badge: "/assets/images/team_badges/ponte_preta_60x60.png"
+  home_score: 0
+  visitor: Gremio
+  visitor_badge: "/assets/images/team_badges/gremio_65x65.png"
+  visitor_score: 1
+  date: 2017-11-08 19:30
+  round: 33
+  stadium: Moisés Lucarelli
+  globo_link: http://globoesporte.globo.com/sp/campinas-e-regiao/futebol/brasileirao-serie-a/jogo/08-11-2017/ponte-preta-gremio
+  youtube: ''
+- home: Coritiba
+  home_badge: "/assets/images/team_badges/coritiba_60x60.png"
+  home_score: 1
+  visitor: Ponte Preta
+  visitor_badge: "/assets/images/team_badges/ponte_preta_65x65.png"
+  visitor_score: 1
+  date: 2017-11-12 19:00
+  round: 34
+  stadium: Couto Pereira
+  globo_link: http://globoesporte.globo.com/pr/futebol/brasileirao-serie-a/jogo/12-11-2017/coritiba-ponte-preta
+  youtube: ''
+- home: Ponte Preta
+  home_badge: "/assets/images/team_badges/ponte_preta_60x60.png"
+  home_score: 2
+  visitor: Altlético PR
+  visitor_badge: "/assets/images/team_badges/atleticopr_65x65.png"
+  visitor_score: 1
+  date: 2017-11-15 17:00
+  round: 35
+  stadium: Moisés Lucarelli
+  globo_link: http://globoesporte.globo.com/sp/campinas-e-regiao/futebol/brasileirao-serie-a/jogo/15-11-2017/ponte-preta-atletico-pr
+  youtube: ''
+- home: Fluminense
+  home_badge: "/assets/images/team_badges/fluminense_60x60.png"
+  home_score: 2
+  visitor: Ponte Preta
+  visitor_badge: "/assets/images/team_badges/ponte_preta_65x65.png"
+  visitor_score: 0
+  date: 2017-11-20 17:00
+  round: 36
+  stadium: Maracanã
+  globo_link: http://globoesporte.globo.com/rj/futebol/brasileirao-serie-a/jogo/20-11-2017/fluminense-ponte-preta
+  youtube: ''
+- home: Ponte Preta
+  home_badge: "/assets/images/team_badges/ponte_preta_60x60.png"
+  home_score: 2
+  visitor: Vitória
+  visitor_badge: "/assets/images/team_badges/vitoria_65x65.png"
+  visitor_score: 3
+  date: 2017-11-26 17:00
+  round: 37
+  stadium: Moisés Lucarelli
+  globo_link: http://globoesporte.globo.com/sp/campinas-e-regiao/futebol/brasileirao-serie-a/jogo/26-11-2017/ponte-preta-vitoria
+  youtube: ''
+- home: Vasco
+  home_badge: "/assets/images/team_badges/vasco_60x60.png"
+  home_score: 2
+  visitor: Ponte Preta
+  visitor_badge: "/assets/images/team_badges/ponte_preta_65x65.png"
+  visitor_score: 1
+  date: 2017-12-03 17:00
+  round: 38
+  stadium: São Januário
+  globo_link: http://globoesporte.globo.com/rj/futebol/brasileirao-serie-a/jogo/03-12-2017/vasco-ponte-preta
+  youtube: ''
