@@ -1,5 +1,7 @@
 # coding: utf-8
 
+# ActionView::Base.full_sanitizer.sanitize
+
 class NewsParser
   attr_reader :news, :url, :loop_node, :source
 
@@ -99,7 +101,7 @@ class NewsParser
 
     page.search(loop_node).each do |article|
       begin
-        next if article.text.strip.chomp.empty?
+        next if article.nil? || article.empty? || article.text.strip.chomp.empty?
         parse_highlight_news(article)
       rescue Exception => e
         binding.pry
@@ -110,7 +112,7 @@ class NewsParser
 
     page.search("#feed-placeholder .post-item").each do |feed_item|
       begin
-        next if feed_item.text.strip.chomp.empty?
+        next if feed_item.at("a")['href'].empty? || feed_item.text.strip.chomp.empty?
         parse_news_feed(feed_item)
       rescue Exception => e
         binding.pry
