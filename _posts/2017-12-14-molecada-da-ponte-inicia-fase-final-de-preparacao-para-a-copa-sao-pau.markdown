@@ -1,0 +1,100 @@
+---
+layout: post
+title: "Molecada da Ponte inicia fase final de preparação para a Copa São Paulo"
+date: 2017-12-14T11:11:04+00:00
+external_link: "https://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/noticia/molecada-da-ponte-inicia-fase-final-de-preparacao-para-a-copa-sao-paulo.ghtml"
+categories: news globo.com
+---
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+A equipe sub-20 da Ponte Preta começa nesta quinta-feira a fase final de preparação para a Copa São Paulo de Futebol Júnior de 2018. Depois de ter sido eliminada na Copa RS ao empatar em 0 a 0 com o Juventude na fase de grupos, a molecada retorna aos treinos não só para entrar afiada na principal competição de base do país, como também para brigar por uma chance no time principal.
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+  ![Felippe Cardoso foi o destaque da Ponte na Copa Ipiranga (Foto: Rogério Ceregatti / AA Ponte Preta, Divulgação)](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgARCAATABkDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQBBQYD/8QAGAEAAwEBAAAAAAAAAAAAAAAAAQIDAAX/2gAMAwEAAhADEAAAAa7WZJGCWda8QKywc1e0gN//xAAfEAAABQQDAAAAAAAAAAAAAAAAAgMEBQEGERIUFRb/2gAIAQEAAQUCg7gmnblzOSCRaourgQ8gzCh91nmqrTnjsDA1RkUGR//EABgRAAIDAAAAAAAAAAAAAAAAAAESABBR/9oACAEDAQE/AVEUbf8A/8QAHBEAAQMFAAAAAAAAAAAAAAAAAgABBBARFDFi/9oACAECAQE/AQkCb20srmv/xAAnEAABAwMCBAcAAAAAAAAAAAACAQMRABIhBDITFCAjNEFCkZKhsf/aAAgBAQAGPwISLVA6yi5R8RH2qzjsCe1HIGLs4+vymeb13cGbSQox5wleLX5DQuKswKpC0ggLd6PIc+qsDW3p/8QAIBAAAgIBAwUAAAAAAAAAAAAAAREAITFBUXEQgaHB8P/aAAgBAQABPyEm/wB3tJLYlPWHYYQO3Bw6DAnLO6XZGJ4yxBwyZ8t7iIhU9WQX4isyHYrkDRcx3k5HSGAjs3rDqPP/2gAMAwEAAgADAAAAEBzP3P/EABoRAAICAwAAAAAAAAAAAAAAAAERADEQobH/2gAIAQMBAT8QQCbUZei4ocf/xAAaEQEAAwEBAQAAAAAAAAAAAAABABExYZGx/9oACAECAQE/EAbUPc5koYPb+3HYrc//xAAfEAEBAQEAAgEFAAAAAAAAAAABESEAMWFBUYGR4fD/2gAIAQEAAT8Qy8TDGChkgIETlC0QxoRiD1AArseqKOUEgJMZcMI89jKBs0mrvh9+K1YZIKPG2Xyrk2q6jsqT5+nf3P31YMd6pq4oUdSr3tPwd//Z "Felippe Cardoso foi o destaque da Ponte na Copa Ipiranga (Foto: Rogério Ceregatti / AA Ponte Preta, Divulgação)") <picture itemscope itemtype="http://schema.org/ImageObject"> <!--[if IE 9]><video style="display: none;"><![endif]--> <source media="(max-width: 1024px)" data-src="https://s2.glbimg.com/6htNI3l1nR01e-2fGucte2j-Ixg=/0x0:908x681/600x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/12/06/felippe_cardoso_06dez2017_b.jpg 1x, https://s2.glbimg.com/86w2N68qJgKbbjfJ7ZpgtTKJVgs=/0x0:908x681/1200x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/12/06/felippe_cardoso_06dez2017_b.jpg 2x"> <source media="(max-width: 1280px)" data-src="https://s2.glbimg.com/gXausJy-s7Mmmcqa9ira84EPIiA=/0x0:908x681/640x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/12/06/felippe_cardoso_06dez2017_b.jpg 1x, https://s2.glbimg.com/NVxl2Fle2CuR5yCx9wq2xo8ufGA=/0x0:908x681/1280x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/12/06/felippe_cardoso_06dez2017_b.jpg 2x"> <source media="(max-width: 1360px)" data-src="https://s2.glbimg.com/z-ZSgbXsOPufhsrwn-zGQktFIzU=/0x0:908x681/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/12/06/felippe_cardoso_06dez2017_b.jpg 1x, https://s2.glbimg.com/h8LNgMgs9kOJBaXNxcdxcItx7lY=/0x0:908x681/1968x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/12/06/felippe_cardoso_06dez2017_b.jpg 2x"> <source media="(min-width: 1361px)" data-src="https://s2.glbimg.com/uAcQZUl0qXB8Yr9HmM1c8Knry9k=/0x0:908x681/1000x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/12/06/felippe_cardoso_06dez2017_b.jpg 1x, https://s2.glbimg.com/0WweEHfQ1WkuDlylbWgiMMXoYZY=/0x0:908x681/2000x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/12/06/felippe_cardoso_06dez2017_b.jpg 2x"> <source data-src="https://s2.glbimg.com/z-ZSgbXsOPufhsrwn-zGQktFIzU=/0x0:908x681/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/12/06/felippe_cardoso_06dez2017_b.jpg"> <!--[if IE 9]></video><![endif]--> <img class="image content-media__image" itemprop="contentUrl" alt="Felippe Cardoso foi o destaque da Ponte na Copa Ipiranga (Foto: Rogério Ceregatti / AA Ponte Preta, Divulgação)" title="Felippe Cardoso foi o destaque da Ponte na Copa Ipiranga (Foto: Rogério Ceregatti / AA Ponte Preta, Divulgação)" data-src="https://s2.glbimg.com/z-ZSgbXsOPufhsrwn-zGQktFIzU=/0x0:908x681/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/12/06/felippe_cardoso_06dez2017_b.jpg"> </source></source></source></source></source></picture> 
+ 
+ 
+ 
+
+_<svg xmlns="http://www.w3.org/2000/svg" width="13.5px" height="11.25px" viewbox="0 0 13 12"> <ellipse id="Oval" cx="6.5" cy="6.7826087" rx="2" ry="2.08695652"></ellipse> <path d="M4.625,0.260869565 L3.48125,1.56521739 L1.5,1.56521739 C0.8125,1.56521739 0.25,2.15217391 0.25,2.86956522 L0.25,10.6956522 C0.25,11.4130435 0.8125,12 1.5,12 L11.5,12 C12.1875,12 12.75,11.4130435 12.75,10.6956522 L12.75,2.86956522 C12.75,2.15217391 12.1875,1.56521739 11.5,1.56521739 L9.51875,1.56521739 L8.375,0.260869565 L4.625,0.260869565 L4.625,0.260869565 Z M6.5,10.0434783 C4.775,10.0434783 3.375,8.5826087 3.375,6.7826087 C3.375,4.9826087 4.775,3.52173913 6.5,3.52173913 C8.225,3.52173913 9.625,4.9826087 9.625,6.7826087 C9.625,8.5826087 8.225,10.0434783 6.5,10.0434783 L6.5,10.0434783 Z" id="Shape"></path> </svg>_ Felippe Cardoso foi o destaque da Ponte na Copa Ipiranga (Foto: Rogério Ceregatti / AA Ponte Preta, Divulgação)
+
+ 
+ 
+ 
+ 
+ 
+
+Nos próximos dias, o coordenador técnico do profissional, Ricardo Almeida, deve anunciar se outros jogadores da base integrarão o elenco principal na reapresentação de 2 de janeiro. Almeida acompanhou o grupo durante a competição no Sul para avaliações. Já estão integrados ao time principal para a temporada 2018: o atacante Yuri, o lateral Emerson e o zagueiro Reynaldo.
+
+ 
+ 
+ 
+
+O atacante Felippe Cardoso, 19 anos, que veio do Osvaldo Cruz, foi um dos destaques da Macaca na Copa RS. Em quatro jogos, ele fez cinco gols e deu duas assistências.
+
+ 
+ 
+ 
+ <meta itemprop="name" content="Os gols de Flamengo 1 x 2 Ponte Preta pela Copa RS de futebol sub-20"> <meta itemprop="thumbnailUrl" content="https://s01.video.glbimg.com/x720/6347040.jpg"> <meta itemprop="datePublished" content="2017-12-13T18:29:54.049Z"> <meta itemprop="uploadDate" content="2017-12-13T18:29:54.049Z"> 
+
+ 
+
+ 
+  ![Os gols de Flamengo 1 x 2 Ponte Preta pela Copa RS de futebol sub-20](https://s01.video.glbimg.com/x720/6347040.jpg "Os gols de Flamengo 1 x 2 Ponte Preta pela Copa RS de futebol sub-20") 
+ 
+ 
+ 
+
+_<svg xmlns="http://www.w3.org/2000/svg" width="14px" height="11px" viewbox="0 0 14 11"><path d="M14,9.16666667 C14,10.175 13.19,11 12.2,11 L1.8,11 C0.81,11 0,10.175 0,9.16666667 L0,1.83333333 C0,0.825 0.81,0 1.8,0 L12.2,0 C13.19,0 14,0.825 14,1.83333333 L14,9.16666667 Z M10.6,5.5 L5.2,2.5025 L5.2,8.48833333 L10.6,5.5 L10.6,5.5 Z" id="Shape"></path></svg>_ Os gols de Flamengo 1 x 2 Ponte Preta pela Copa RS de futebol sub-20
+
+ 
+ 
+ 
+ 
+
+[CLIQUE AQUI e leia mais notícias da Ponte Preta](http://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/)
+
+ 
+ 
+ 
+
+A equipe da Ponte Preta na Copa São Paulo será formada por atletas do sub-20 e sub-17. O técnico Leandro Zago definirá de oito a dez jogadores do time mais jovem, que foi campeão paulista nesta temporada, que levará para disputar a competição estadual.
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+**Franca**
+
+ 
+ 
+ 
+
+A Ponte Preta está na chave 9 na Copa São Paulo e ficará sediada em Franca. Além da Macaca, completam o grupo a Francana, a Chapecoense e o Araxá-MG. A Copinha 2018 terá 128 equipes, que foram divididas em 32 chaves.
+
+ 
+ 
+ 
+ 
+
+O torneio começa a ser disputado no dia 2 de janeiro e tem final marcada para o dia 25, aniversário da cidade de São Paulo. A estreia da Macaca acontece no dia 3, diante da Chapecoense. Na edição de 2017, a Macaca foi eliminada nas oitavas de final pelo Batatais nos pênaltis.
+
+ 
+ 
+ 
