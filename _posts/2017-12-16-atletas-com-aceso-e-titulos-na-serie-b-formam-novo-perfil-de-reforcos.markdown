@@ -1,0 +1,132 @@
+---
+layout: post
+title: "Atletas com aceso e títulos na Série B formam novo perfil de reforços da Ponte"
+date: 2017-12-16T10:38:53+00:00
+external_link: "https://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/noticia/atletas-com-acesso-e-titulos-na-serie-b-formam-novo-perfil-de-reforcos-da-ponte.ghtml"
+categories: news globo.com
+---
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+Para encarar o desafio do acesso à elite na temporada 2018, a Ponte Preta mira em atletas que realmente conhecem as características da Série B e sabem como jogar essa divisão do Campeonato Brasileiro. O pacote inicial de reforços trouxe três atletas bem tarimbados.
+
+ 
+ 
+ 
+
+O zagueiro Wesley Matos, o meia Tiago Real e o atacante Silvinho são experientes no campeonato que será a prioridade da Macaca e já desbravaram o caminho das pedras para conquistar o acesso. A última vez que a Ponte disputou a Série B foi em 2014, quando foi vice-campeã.
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+  ![Wesley Matos tem grande experiência na Série B (Foto: Marcello Dantas / O Popular)](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgARCAAQABkDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUGAQP/xAAWAQEBAQAAAAAAAAAAAAAAAAAFBAb/2gAMAwEAAhADEAAAAaXvYpwkRXWmz53/xAAdEAACAgIDAQAAAAAAAAAAAAADBAACAQUREhMV/9oACAEBAAEFAuhVGashDA79Zk/1AQPI87QQ3LLVxWek/8QAHhEAAAUFAQAAAAAAAAAAAAAAAAEDIUECBAURUaH/2gAIAQMBAT8BQyhXa9KajF0twTdlhVeRr0f/xAAeEQACAAYDAAAAAAAAAAAAAAABAgADBRETYRIx8P/aAAgBAgEBPwGVUMrcUXfcLV8RItce1H//xAAlEAABAwMDAwUAAAAAAAAAAAABAgMSAAQhETFBEyJhNJGxweH/2gAIAQEABj8CW86kBlwgozxrnWmy4W0lzQjPnarxpm26btu53yQIq4wea9IPb8p0zKpqlnjxVu4bpKBarmpuJUVbaCg6lwqkn5VL7rev/8QAHhAAAgMAAwADAAAAAAAAAAAAAREAITFBUWGhsfH/2gAIAQEAAT8hRGAjhQg434lEUfZ9FWiBZDyYt9LErRPy0OymwXUBPK+5eUT4vBzWexOSYg4C5lD9p//aAAwDAQACAAMAAAAQlg//xAAcEQEBAAICAwAAAAAAAAAAAAABEQBBITFRYZH/2gAIAQMBAT8QMC5HY0IqgXlbwNyoBEv1rqs95//EABwRAQACAwADAAAAAAAAAAAAAAERIQAxQVFhsf/aAAgBAgEBPxDwlGVuew6x8nOxxSWyVW2Tep1rP//EAB8QAQACAgEFAQAAAAAAAAAAAAERIQAxURBBYXGR8P/aAAgBAQABPxAmE0yG4Sz8aYFNuQQoKlN4olyQTg/0lHJdqLgJBG+lxFCeiF8d2+3lglAEIWHYaqC0dThQxJk+zqZZyGfkc//Z "Wesley Matos tem grande experiência na Série B (Foto: Marcello Dantas / O Popular)") <picture itemscope itemtype="http://schema.org/ImageObject"> <!--[if IE 9]><video style="display: none;"><![endif]--> <source media="(max-width: 1024px)" data-src="https://s2.glbimg.com/Jj3yE88rb1Mls7J3JDPxghrSX7U=/0x0:990x620/600x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/03/06/wesleymatos-marcellodantas.jpg 1x, https://s2.glbimg.com/BGm4J9KCqsqkwzRiwrC0pAkpGvg=/0x0:990x620/1200x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/03/06/wesleymatos-marcellodantas.jpg 2x"> <source media="(max-width: 1280px)" data-src="https://s2.glbimg.com/US9o0NzohESl7t_2Hek0X_5-yuM=/0x0:990x620/640x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/03/06/wesleymatos-marcellodantas.jpg 1x, https://s2.glbimg.com/w7zTns_mCKkw6hcNqHmPVV2cMoM=/0x0:990x620/1280x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/03/06/wesleymatos-marcellodantas.jpg 2x"> <source media="(max-width: 1360px)" data-src="https://s2.glbimg.com/SpZGnqqj1RBQOlu1aEeXj01lGdU=/0x0:990x620/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/03/06/wesleymatos-marcellodantas.jpg 1x, https://s2.glbimg.com/KxPMQNpuyU9hhfiA9qoIWHtz3c8=/0x0:990x620/1968x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/03/06/wesleymatos-marcellodantas.jpg 2x"> <source media="(min-width: 1361px)" data-src="https://s2.glbimg.com/_VM-qAtYQmnmL_AOoULGltJPHP4=/0x0:990x620/1000x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/03/06/wesleymatos-marcellodantas.jpg 1x, https://s2.glbimg.com/p-e-jwnYpu9Dw1BxdK4jXzUZj_E=/0x0:990x620/2000x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/03/06/wesleymatos-marcellodantas.jpg 2x"> <source data-src="https://s2.glbimg.com/SpZGnqqj1RBQOlu1aEeXj01lGdU=/0x0:990x620/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/03/06/wesleymatos-marcellodantas.jpg"> <!--[if IE 9]></video><![endif]--> <img class="image content-media__image" itemprop="contentUrl" alt="Wesley Matos tem grande experiência na Série B (Foto: Marcello Dantas / O Popular)" title="Wesley Matos tem grande experiência na Série B (Foto: Marcello Dantas / O Popular)" data-src="https://s2.glbimg.com/SpZGnqqj1RBQOlu1aEeXj01lGdU=/0x0:990x620/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/03/06/wesleymatos-marcellodantas.jpg"> </source></source></source></source></source></picture> 
+ 
+ 
+ 
+
+_<svg xmlns="http://www.w3.org/2000/svg" width="13.5px" height="11.25px" viewbox="0 0 13 12"> <ellipse id="Oval" cx="6.5" cy="6.7826087" rx="2" ry="2.08695652"></ellipse> <path d="M4.625,0.260869565 L3.48125,1.56521739 L1.5,1.56521739 C0.8125,1.56521739 0.25,2.15217391 0.25,2.86956522 L0.25,10.6956522 C0.25,11.4130435 0.8125,12 1.5,12 L11.5,12 C12.1875,12 12.75,11.4130435 12.75,10.6956522 L12.75,2.86956522 C12.75,2.15217391 12.1875,1.56521739 11.5,1.56521739 L9.51875,1.56521739 L8.375,0.260869565 L4.625,0.260869565 L4.625,0.260869565 Z M6.5,10.0434783 C4.775,10.0434783 3.375,8.5826087 3.375,6.7826087 C3.375,4.9826087 4.775,3.52173913 6.5,3.52173913 C8.225,3.52173913 9.625,4.9826087 9.625,6.7826087 C9.625,8.5826087 8.225,10.0434783 6.5,10.0434783 L6.5,10.0434783 Z" id="Shape"></path> </svg>_ Wesley Matos tem grande experiência na Série B (Foto: Marcello Dantas / O Popular)
+
+ 
+ 
+ 
+ 
+ 
+
+Aos 31 anos, o zagueiro Wesley Matos nunca disputou a elite do futebol nacional, ou seja, tem uma longa experiência na Série B. Defensor aguerrido, o jogador conseguiu o acesso com o América-MG em 2015.
+
+ 
+ 
+ 
+
+Nas últimas três temporadas, Wesley Matos fez 137 partidas com as camisas de Vila Nova, Goiás e América-MG, sendo 98 destes jogos pela Série B. Neste período, além de uma atuação firme na zaga, também marcou dez gols. Chega provavelmente com status de "xerife" da zaga.
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+  ![Tiago Real tem dois títulos de Série B (Foto: Site oficial do Coritiba / Divulgação)](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgARCAATABkDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUCAwYH/8QAFwEBAQEBAAAAAAAAAAAAAAAABAACBf/aAAwDAQACEAMQAAABzdO0XgwpeNecHVswOGWNQV//xAAdEAABBQADAQAAAAAAAAAAAAACAAEDBAUQEhUT/9oACAEBAAEFAgoWitaEM+aoaFuQfNJHI82lv/a9THQnEPAZM66sz8f/xAAbEQABBAMAAAAAAAAAAAAAAAABAgMREgAQMf/aAAgBAwEBPwE2PMYdCJumd//EABwRAAIABwAAAAAAAAAAAAAAAAECAAQQERRCof/aAAgBAgEBPwFBKFhdobH1blf/xAAnEAACAQMCAwkAAAAAAAAAAAABAgMAERIEIRATQTEzUWGBkZLj8P/aAAgBAQAGPwJ9PgxnjALL1F6AlYo3aY8xcig4BsRcBmsfavtqXWGIB3RY8eZ0HpSKunjjW+T4bmS3nalXCLYW/bV3kPybhfr48f/EACAQAAICAgICAwAAAAAAAAAAAAERACExYUGBUcFxkfD/2gAIAQEAAT8hDsgsQnB3z7iCKQ4VcB7HiaC1BGBZvU+Cbg1AQsBezmcpIeGtBdkwr+XkthAX1n7D3DRiIR5DMInZ+5//2gAMAwEAAgADAAAAEBa4X//EABkRAQEBAQEBAAAAAAAAAAAAAAERAFGx8P/aAAgBAwEBPxBWIv3cGA4qnlxnf//EAB0RAQABAwUAAAAAAAAAAAAAAAEhABARMUFRobH/2gAIAQIBAT8QkAN4jopPGc51ehQtv//EAB8QAQACAgICAwAAAAAAAAAAAAERMQAhUWEQkUHR4f/aAAgBAQABPxCOzLRW6YTpXDEjVBYgBQswrLnLh8t5kFAhNidkZ0+/7xciwTzAHN7FRK3XakcFCthmHVY4AFUIEHZi17TwsUG/jI32joKKl6witNyZL+rP/9k= "Tiago Real tem dois títulos de Série B (Foto: Site oficial do Coritiba / Divulgação)") <picture itemscope itemtype="http://schema.org/ImageObject"> <!--[if IE 9]><video style="display: none;"><![endif]--> <source media="(max-width: 1024px)" data-src="https://s2.glbimg.com/MdA4G0V_XNiqYUh-9HsIsoL6LLE=/0x0:1598x1200/600x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/10/09/1g5a4260.jpg 1x, https://s2.glbimg.com/T5ny6bCdsqukMXL8ICC1_8HERrk=/0x0:1598x1200/1200x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/10/09/1g5a4260.jpg 2x"> <source media="(max-width: 1280px)" data-src="https://s2.glbimg.com/3NtKyc6E9HjqlU5qfRIaQwj1kZI=/0x0:1598x1200/640x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/10/09/1g5a4260.jpg 1x, https://s2.glbimg.com/oeW6MGCPOsDyKNnLQYvT5NxZmiw=/0x0:1598x1200/1280x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/10/09/1g5a4260.jpg 2x"> <source media="(max-width: 1360px)" data-src="https://s2.glbimg.com/fXBuhz_4_AunwqCn06A9Ec-lK5g=/0x0:1598x1200/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/10/09/1g5a4260.jpg 1x, https://s2.glbimg.com/OpSnbpxBaPn6KfcYuLu3AUCX7Uk=/0x0:1598x1200/1968x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/10/09/1g5a4260.jpg 2x"> <source media="(min-width: 1361px)" data-src="https://s2.glbimg.com/IOkH7slGtHnv8ik2sKiSpkKE9e4=/0x0:1598x1200/1000x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/10/09/1g5a4260.jpg 1x, https://s2.glbimg.com/va9La1g2dMK6SvzEizPKUuLvjOw=/0x0:1598x1200/2000x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/10/09/1g5a4260.jpg 2x"> <source data-src="https://s2.glbimg.com/fXBuhz_4_AunwqCn06A9Ec-lK5g=/0x0:1598x1200/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/10/09/1g5a4260.jpg"> <!--[if IE 9]></video><![endif]--> <img class="image content-media__image" itemprop="contentUrl" alt="Tiago Real tem dois títulos de Série B (Foto: Site oficial do Coritiba / Divulgação)" title="Tiago Real tem dois títulos de Série B (Foto: Site oficial do Coritiba / Divulgação)" data-src="https://s2.glbimg.com/fXBuhz_4_AunwqCn06A9Ec-lK5g=/0x0:1598x1200/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/10/09/1g5a4260.jpg"> </source></source></source></source></source></picture> 
+ 
+ 
+ 
+
+_<svg xmlns="http://www.w3.org/2000/svg" width="13.5px" height="11.25px" viewbox="0 0 13 12"> <ellipse id="Oval" cx="6.5" cy="6.7826087" rx="2" ry="2.08695652"></ellipse> <path d="M4.625,0.260869565 L3.48125,1.56521739 L1.5,1.56521739 C0.8125,1.56521739 0.25,2.15217391 0.25,2.86956522 L0.25,10.6956522 C0.25,11.4130435 0.8125,12 1.5,12 L11.5,12 C12.1875,12 12.75,11.4130435 12.75,10.6956522 L12.75,2.86956522 C12.75,2.15217391 12.1875,1.56521739 11.5,1.56521739 L9.51875,1.56521739 L8.375,0.260869565 L4.625,0.260869565 L4.625,0.260869565 Z M6.5,10.0434783 C4.775,10.0434783 3.375,8.5826087 3.375,6.7826087 C3.375,4.9826087 4.775,3.52173913 6.5,3.52173913 C8.225,3.52173913 9.625,4.9826087 9.625,6.7826087 C9.625,8.5826087 8.225,10.0434783 6.5,10.0434783 L6.5,10.0434783 Z" id="Shape"></path> </svg>_ Tiago Real tem dois títulos de Série B (Foto: Site oficial do Coritiba / Divulgação)
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Outro reforço com experiência parecida é o meia Tiago Real, que chega à Ponte Preta para assumir a titularidade. Ele carrega consigo dois títulos da Série B no currículo: Coritiba em 2010 e Palmeiras em 2013. O jogador de 28 anos se encaixa no planejamento da Macaca e desempenha uma função bastante carente no clube. Prova disso é que assinou com o clube por dois anos.
+
+ 
+ 
+ 
+
+[CLIQUE AQUI e leia mais notícias da Ponte Preta](http://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/)
+
+ 
+ 
+ 
+
+Tiago Real passou também por Joinville, Goiás e Vitória. Seu melhor momento da carreira foi em 2015, quando disputou 60 jogos com a camisa do Bahia e marcou seis gols.
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+  ![Silvinho vestiu a camisa da Macaca em 2014 (Foto: Carlos Velardi / EPTV)](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgARCAARABkDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAIGBwMFCP/EABYBAQEBAAAAAAAAAAAAAAAAAAMEAv/aAAwDAQACEAMQAAAB5lmb4ZVhSzBtlblRBM27YFH/xAAfEAABAgYDAAAAAAAAAAAAAAADAQIABAUQEjQTFCH/2gAIAQEAAQUC4SY0aRCwa+WAxxxCbiRZNip0RxQtKW3Lf//EABgRAAMBAQAAAAAAAAAAAAAAAAECEBFB/9oACAEDAQE/AVwHY/J//8QAGREAAgMBAAAAAAAAAAAAAAAAAAEDEBJB/9oACAECAQE/AW9I0R9r/8QAJRAAAQIDBwUAAAAAAAAAAAAAAQACAyExBBARElFyohQjQmGR/9oACAEBAAY/AmHI7uSbKqtXWNh5iBlBmfaPy5sCE5sj4imKfAq9rjgC3TVU4qnFN3hRNt//xAAfEAACAQMFAQAAAAAAAAAAAAABEQAhMUFRYXGR8BD/2gAIAQEAAT8hxWLhbrWAYoEZlNKtiBrAugxmHCyGpAWIY7j9BLQC5LqBV5bbVm17T0NZ6N4Pn//aAAwDAQACAAMAAAAQbzA8/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAEREDH/2gAIAQMBAT8QhoqQ4x//xAAZEQEAAgMAAAAAAAAAAAAAAAABABARIbH/2gAIAQIBAT8QdR1MZ1r/xAAeEAEBAAICAgMAAAAAAAAAAAABEQAhMXEQYUGR8P/aAAgBAQABPxAMSPUTuAdyGsAo60gIJoypeWAauKygHDEnNPh4PvOzLMyl4AE0tgDfO90QzaKKGkOlnUK4EoJJbTK8evKHH4vTz//Z "Silvinho vestiu a camisa da Macaca em 2014 (Foto: Carlos Velardi / EPTV)") <picture itemscope itemtype="http://schema.org/ImageObject"> <!--[if IE 9]><video style="display: none;"><![endif]--> <source media="(max-width: 1024px)" data-src="https://s2.glbimg.com/RZdZUgQKSzQCA-BqTP4sQk2Av7w=/0x0:980x678/600x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2014/03/10/silvinho.2.jpg 1x, https://s2.glbimg.com/c2UZnaGGGmN2-5PwPoCElmJSN1g=/0x0:980x678/1200x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2014/03/10/silvinho.2.jpg 2x"> <source media="(max-width: 1280px)" data-src="https://s2.glbimg.com/0xh1Aw89vK-IyfyfL1u5yCIoRKs=/0x0:980x678/640x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2014/03/10/silvinho.2.jpg 1x, https://s2.glbimg.com/1gGLNZzR2zkSIFb6AqzgZzDwBVw=/0x0:980x678/1280x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2014/03/10/silvinho.2.jpg 2x"> <source media="(max-width: 1360px)" data-src="https://s2.glbimg.com/BCL7UKENhCvD5KHh5ljc2oM9Hbc=/0x0:980x678/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2014/03/10/silvinho.2.jpg 1x, https://s2.glbimg.com/9TXx2tG8BoLCb2QjXVC88Vy11_E=/0x0:980x678/1968x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2014/03/10/silvinho.2.jpg 2x"> <source media="(min-width: 1361px)" data-src="https://s2.glbimg.com/P590NjTTpyz2x0wz3VxvSnRRbOc=/0x0:980x678/1000x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2014/03/10/silvinho.2.jpg 1x, https://s2.glbimg.com/d3jAE7q-l0HrsmDjDtCPYyAG7Nw=/0x0:980x678/2000x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2014/03/10/silvinho.2.jpg 2x"> <source data-src="https://s2.glbimg.com/BCL7UKENhCvD5KHh5ljc2oM9Hbc=/0x0:980x678/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2014/03/10/silvinho.2.jpg"> <!--[if IE 9]></video><![endif]--> <img class="image content-media__image" itemprop="contentUrl" alt="Silvinho vestiu a camisa da Macaca em 2014 (Foto: Carlos Velardi / EPTV)" title="Silvinho vestiu a camisa da Macaca em 2014 (Foto: Carlos Velardi / EPTV)" data-src="https://s2.glbimg.com/BCL7UKENhCvD5KHh5ljc2oM9Hbc=/0x0:980x678/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2014/03/10/silvinho.2.jpg"> </source></source></source></source></source></picture> 
+ 
+ 
+ 
+
+_<svg xmlns="http://www.w3.org/2000/svg" width="13.5px" height="11.25px" viewbox="0 0 13 12"> <ellipse id="Oval" cx="6.5" cy="6.7826087" rx="2" ry="2.08695652"></ellipse> <path d="M4.625,0.260869565 L3.48125,1.56521739 L1.5,1.56521739 C0.8125,1.56521739 0.25,2.15217391 0.25,2.86956522 L0.25,10.6956522 C0.25,11.4130435 0.8125,12 1.5,12 L11.5,12 C12.1875,12 12.75,11.4130435 12.75,10.6956522 L12.75,2.86956522 C12.75,2.15217391 12.1875,1.56521739 11.5,1.56521739 L9.51875,1.56521739 L8.375,0.260869565 L4.625,0.260869565 L4.625,0.260869565 Z M6.5,10.0434783 C4.775,10.0434783 3.375,8.5826087 3.375,6.7826087 C3.375,4.9826087 4.775,3.52173913 6.5,3.52173913 C8.225,3.52173913 9.625,4.9826087 9.625,6.7826087 C9.625,8.5826087 8.225,10.0434783 6.5,10.0434783 L6.5,10.0434783 Z" id="Shape"></path> </svg>_ Silvinho vestiu a camisa da Macaca em 2014 (Foto: Carlos Velardi / EPTV)
+
+ 
+ 
+ 
+ 
+ 
+
+Já o atacante Silvinho acumula na carreira a participação em três edições de Série B. Este ano fez nove gols na divisão com a camisa do Criciúma. É um nome conhecido do torcedor da Macaca, porque há três anos defendeu a camisa alvinegra, mas saiu antes da segunda divisão do Brasileiro começar.
+
+ 
+ 
+ 
+
+De volta a Campinas, o reforço passou recentemente pelo futebol da Coréia do Sul, e no Brasil se consolidou no futebol catarinense. Além do Criciúma, vestiu as camisas de Chapecoense e Joinville. No currículo, o atacante acumula também quatro edições da Série A, uma delas no São Paulo.
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+Quem fecha o pacotão de reforços da Ponte Preta é o goleiro Vinicius Silvestre, promessa da base do Palmeiras e que provavelmente chega para fazer sombra a Aranha. Aos 23 anos, ele tem pouca experiência no time profissional. É provável que mais reforços com o "perfil Série B" cheguem ao Majestoso nos próximos dias.
+
+ 
+ 
+ 
