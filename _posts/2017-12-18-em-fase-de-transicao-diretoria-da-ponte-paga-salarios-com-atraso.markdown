@@ -1,0 +1,90 @@
+---
+layout: post
+title: "Em fase de transição, diretoria da Ponte paga salários com atraso"
+date: 2017-12-18T20:11:53+00:00
+external_link: "https://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/noticia/em-fase-de-transicao-diretoria-da-ponte-paga-salario-de-funcionarios-com-atraso.ghtml"
+categories: news globo.com
+---
+ 
+ 
+ 
+ 
+ 
+
+  ![Abdalla, que assume a presidência em janeiro, terá que administrar o clube com grana mais curta (Foto: Assessoria Ponte Preta)](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgARCAARABkDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcDBAUG/8QAFwEAAwEAAAAAAAAAAAAAAAAAAwQFAf/aAAwDAQACEAMQAAABu51BVz7DRi3uhJqa5QCouWUEa3//xAAeEAABBAEFAAAAAAAAAAAAAAAFAAIDBBQBIjQ1Nv/aAAgBAQABBQKdkzFK3V1Jj7Llj20fJ4gqQzZmEh7k0wvYrHmx3QU+Av/EABwRAAIABwAAAAAAAAAAAAAAAAACAQMREjKx0f/aAAgBAwEBPwFnRawYtJuQ3NH/xAAdEQABAgcAAAAAAAAAAAAAAAAAAQIDEhMhMpGx/9oACAECAQE/AUR9pSoNIWO+n//EACsQAAEDAQUFCQAAAAAAAAAAAAEAAgMSBBETITEyQVGRsRAUQmFyc4Gys//aAAgBAQAGPwKqCG8DxsdnyTZ+8hztMPRUxPkIu0buWy/kjLBQXvOESM+Kwq3AxPDy8b+HVWZ8oplIpPnnqtpqtfx+gVt9xvQqy+sfXs//xAAfEAACAgAHAQAAAAAAAAAAAAABEQAhEDFBUXGh8PH/2gAIAQEAAT8hYjgWUmltQhnugTMAbqGCCGYxy2wcEmDqAAWfWR3iRLD8tjgjA/QPJ0rAapGe/wBnVwDb1duH/9oADAMBAAIAAwAAABBaGB//xAAbEQADAAIDAAAAAAAAAAAAAAAAARExcSGhsf/aAAgBAwEBPxB247OOi4m6YtGa14H/xAAdEQACAQQDAAAAAAAAAAAAAAAAAREhMXGxQdHw/9oACAECAQE/EGG8ITr7ojdJbOWS5nYf/8QAIRABAQACAQIHAAAAAAAAAAAAAREAITEgUUFhcZHR4fH/2gAIAQEAAT8QmgTdZOSCnjE7pcbp4TShj035984lDhhoaE5csz8H849V1kAkDICIJfcugnls4AVRBmxAmUDrSECBRFRuqui5fsPSwnDn/9k= "Abdalla, que assume a presidência em janeiro, terá que administrar o clube com grana mais curta (Foto: Assessoria Ponte Preta)") <picture itemscope itemtype="http://schema.org/ImageObject"> <!--[if IE 9]><video style="display: none;"><![endif]--> <source media="(max-width: 1024px)" data-src="https://s2.glbimg.com/pO6UO5M7Df084bBvomyFdjIiqh8=/0x0:1280x853/600x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/s/s/GyB5SARcmSvaFu1UJxBg/whatsapp-image-2017-12-11-at-17.55.36.jpeg 1x, https://s2.glbimg.com/dNY4-uWBnxZ6CUXkvVKz_SmuBaQ=/0x0:1280x853/1200x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/s/s/GyB5SARcmSvaFu1UJxBg/whatsapp-image-2017-12-11-at-17.55.36.jpeg 2x"> <source media="(max-width: 1280px)" data-src="https://s2.glbimg.com/gpNhDGl7fmCARGbdyfv7-Hs5NSU=/0x0:1280x853/640x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/s/s/GyB5SARcmSvaFu1UJxBg/whatsapp-image-2017-12-11-at-17.55.36.jpeg 1x, https://s2.glbimg.com/hppyC0yHU06RJoL4Y9PwUmfi5VM=/0x0:1280x853/1280x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/s/s/GyB5SARcmSvaFu1UJxBg/whatsapp-image-2017-12-11-at-17.55.36.jpeg 2x"> <source media="(max-width: 1360px)" data-src="https://s2.glbimg.com/0y54rj9_AUBC8pgawNxUzkQfNOU=/0x0:1280x853/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/s/s/GyB5SARcmSvaFu1UJxBg/whatsapp-image-2017-12-11-at-17.55.36.jpeg 1x, https://s2.glbimg.com/5y_6OJ-G30Ga1pZnSov2vuabGSA=/0x0:1280x853/1968x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/s/s/GyB5SARcmSvaFu1UJxBg/whatsapp-image-2017-12-11-at-17.55.36.jpeg 2x"> <source media="(min-width: 1361px)" data-src="https://s2.glbimg.com/WEr5q-BNFsKv1ogXLVrbr0IlH7U=/0x0:1280x853/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/s/s/GyB5SARcmSvaFu1UJxBg/whatsapp-image-2017-12-11-at-17.55.36.jpeg 1x, https://s2.glbimg.com/LhrE4YrnGUAs32VTU--gUsdty_o=/0x0:1280x853/2000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/s/s/GyB5SARcmSvaFu1UJxBg/whatsapp-image-2017-12-11-at-17.55.36.jpeg 2x"> <source data-src="https://s2.glbimg.com/0y54rj9_AUBC8pgawNxUzkQfNOU=/0x0:1280x853/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/s/s/GyB5SARcmSvaFu1UJxBg/whatsapp-image-2017-12-11-at-17.55.36.jpeg"> <!--[if IE 9]></video><![endif]--> <img class="image content-media__image" itemprop="contentUrl" alt="Abdalla, que assume a presidência em janeiro, terá que administrar o clube com grana mais curta (Foto: Assessoria Ponte Preta)" title="Abdalla, que assume a presidência em janeiro, terá que administrar o clube com grana mais curta (Foto: Assessoria Ponte Preta)" data-src="https://s2.glbimg.com/0y54rj9_AUBC8pgawNxUzkQfNOU=/0x0:1280x853/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/s/s/GyB5SARcmSvaFu1UJxBg/whatsapp-image-2017-12-11-at-17.55.36.jpeg"> </source></source></source></source></source></picture> 
+ 
+ 
+ 
+
+_<svg xmlns="http://www.w3.org/2000/svg" width="13.5px" height="11.25px" viewbox="0 0 13 12"> <ellipse id="Oval" cx="6.5" cy="6.7826087" rx="2" ry="2.08695652"></ellipse> <path d="M4.625,0.260869565 L3.48125,1.56521739 L1.5,1.56521739 C0.8125,1.56521739 0.25,2.15217391 0.25,2.86956522 L0.25,10.6956522 C0.25,11.4130435 0.8125,12 1.5,12 L11.5,12 C12.1875,12 12.75,11.4130435 12.75,10.6956522 L12.75,2.86956522 C12.75,2.15217391 12.1875,1.56521739 11.5,1.56521739 L9.51875,1.56521739 L8.375,0.260869565 L4.625,0.260869565 L4.625,0.260869565 Z M6.5,10.0434783 C4.775,10.0434783 3.375,8.5826087 3.375,6.7826087 C3.375,4.9826087 4.775,3.52173913 6.5,3.52173913 C8.225,3.52173913 9.625,4.9826087 9.625,6.7826087 C9.625,8.5826087 8.225,10.0434783 6.5,10.0434783 L6.5,10.0434783 Z" id="Shape"></path> </svg>_ Abdalla, que assume a presidência em janeiro, terá que administrar o clube com grana mais curta (Foto: Assessoria Ponte Preta)
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+Diferente do que foi nas últimas temporadas, a diretoria da Ponte Preta vive um fim de ano de atrasos. Os funcionários do clube que deveriam ter recebido o salário na primeira semana de dezembro, foram pagos somente nesta segunda-feira. Já décimo terceiro salário está totalmente em aberto e não há data para ser quitado. Os funcionários não receberam nem a primeira parcela em novembro.
+
+ 
+ 
+ 
+
+O presidente Vanderlei Pereira, que encerra seu mandato dia 31, declarou no começo deste mês que por conta do rebaixamento no Campeonato Brasileiro, a [Ponte Preta não teria direito a adiantar parte da cota de TV](https://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/noticia/vanderlei-pereira-encerra-ciclo-na-ponte-preta-com-reducao-de-r-26-milhoes-de-orcamento.ghtml), o que prejudica a previsão orçamentária. Sendo assim, o clube fechará o ano em déficit.
+
+ 
+ 
+ 
+
+A diretoria da Ponte, em nota oficial, alegou que os atrasos acontecem em razão do momento de transição do comando do clube, mas que fará todos os esforços para que os débitos sejam quitados ainda este mês.
+
+ 
+ 
+ 
+
+[CLIQUE AQUI e leia mais notícias da Ponte](http://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/)
+
+ 
+ 
+ 
+
+Profissionais que deixaram o clube ao longo desta temporada também ainda não receberam valores referentes às suas rescisões. O clube declarou que não irá se manifestar sobre dívidas com ex-funcionários.
+
+ 
+ 
+ 
+
+A Comissão de Transição, criada para que o presidente eleito da Ponte Preta, José Armando Abdalla, possa se inteirar melhor do status e necessidades dos departamentos da instituição, é formada pelo presidente eleito, pelo atual presidente Vanderlei Pereira, por Hélio Kazuo (segundo vice-presidente em ambas as gestões), pelo 1º vice-presidente eleito Sebastião Arcanjo, pelo diretor financeiro Gustavo Valio e o presidente de honra Sérgio Carnielli.
+
+ 
+ 
+ 
+
+**Leia na íntegra a nota oficial da Ponte sobre o atraso de pagamentos**
+
+ 
+ 
+ 
+
+_A Comissão de Transição das gestões da Diretoria Executiva da Ponte Preta informa que os salários dos funcionários que deveriam ser pagos no início de dezembro - referente ao mês de novembro - estão sendo pagos hoje (18)._
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+_Quanto a outros eventuais débitos em aberto (a Comissão não irá neste momento expor nomes ou abrir espaço para rebater especulações), eles foram gerados por um desequilíbrio decorrente da mudança de presidentes, que impede antecipações de verbas, e a expectativa da Ponte Preta é acertar tais débitos brevemente, até o final deste mês._
+
+ 
+ 
+ 
