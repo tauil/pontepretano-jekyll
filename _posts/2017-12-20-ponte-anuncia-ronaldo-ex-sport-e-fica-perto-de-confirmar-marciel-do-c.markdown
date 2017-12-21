@@ -1,0 +1,104 @@
+---
+layout: post
+title: "Ponte anuncia Ronaldo, ex-Sport, e fica perto de confirmar Marciel, do Corinthians"
+date: 2017-12-20T20:09:04+00:00
+external_link: "https://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/noticia/volantes-ronaldo-e-marciel-sao-contratados-por-emprestimo-de-um-ano.ghtml"
+categories: news globo.com
+---
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+A Ponte Preta confirmou oficialmente a quinta contratação para o ano de 2018. Quem chega agora é Ronaldo, volante cedido pelo Sport por empréstimo até novembro da próxima temporada. Aos 23 anos, ele se apresenta no Moisés Lucarelli no dia 2 de janeiro junto com o restante do elenco.
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+  ![Volante Ronaldo foi um pedido do técnico Eduardo Baptista (Foto: Marlon Costa / Pernambuco Press)](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgARCAARABkDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAIDBAUGB//EABgBAQADAQAAAAAAAAAAAAAAAAQAAQIF/9oADAMBAAIQAxAAAAGouOl43iJnJ0TNEXKA8hNAXP8A/8QAIBAAAgEDBAMAAAAAAAAAAAAAAgQDAAEFBhARMhIWIv/aAAgBAQABBQJJImp3MMkkgGk0JoPSFKiLm8ik+WzPwA+Q1F1Lpfb/xAAdEQABBAIDAAAAAAAAAAAAAAABAAIDEQQQISIy/9oACAEDAQE/AcZ0YlD5R1Rq+EfOv//EAB8RAAEBCQEAAAAAAAAAAAAAAAEAAgQQEhQhQ1Jh8P/aAAgBAgEBPwEPMwNlVsaLD7kP/8QAJxAAAgEDAgMJAAAAAAAAAAAAAQMCAAQREBIFE3EhMTVBQlFyk8H/2gAIAQEABj8CZG55tgiKxMbUGeSe8VbtVdvexzNm0w2Z6A9tQlDiFyIyHmqvFn/UK965zZhNpaMxFfqmRWBpL4ml9P3X/8QAIRAAAgIBAwUBAAAAAAAAAAAAAREAIUExUWEQobHB8PH/2gAIAQEAAT8hYzV16YBm4vruKeGENjgx6nAAmHg1PtfUWAW2AMpxyASmLsUNL/ZQOEHOQT6G0795TX0//9oADAMBAAIAAwAAABCoQH7/xAAcEQACAwEAAwAAAAAAAAAAAAABEQAhMWFBccH/2gAIAQMBAT8QaiBsLaKCYp9ruS4cTH2fk8T/xAAdEQEAAQUAAwAAAAAAAAAAAAABABEhMUFxkbHh/9oACAECAQE/EEUgAzfPhvKt0178m/X3Op//xAAgEAEBAAIBAwUAAAAAAAAAAAABEQAxIRBBUSBhcaHx/9oACAEBAAE/ENNvhmYpRa+JAg5Npw5i8K0hWw5hg6IOsEYbCo9hHx0kLaLpR+st0hgnSgN2FoQDnDKhoPlV17rn4XpSmX//2Q== "Volante Ronaldo foi um pedido do técnico Eduardo Baptista (Foto: Marlon Costa / Pernambuco Press)") <picture itemscope itemtype="http://schema.org/ImageObject"> <!--[if IE 9]><video style="display: none;"><![endif]--> <source media="(max-width: 1024px)" data-src="https://s2.glbimg.com/Wg0iruZaJAm06JI-oCNEST-UhI8=/0x0:2000x1333/600x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/05/26/ronaldo_1_Sx5eWqR.jpg 1x, https://s2.glbimg.com/f3ltz9goh-OBYZ5XtwvFK5ICzr4=/0x0:2000x1333/1200x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/05/26/ronaldo_1_Sx5eWqR.jpg 2x"> <source media="(max-width: 1280px)" data-src="https://s2.glbimg.com/qK2EVQMWSIicwm00rheKeJF7GgQ=/0x0:2000x1333/640x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/05/26/ronaldo_1_Sx5eWqR.jpg 1x, https://s2.glbimg.com/IuMnD9FUfgl1gVFXYRW8c1P8fz4=/0x0:2000x1333/1280x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/05/26/ronaldo_1_Sx5eWqR.jpg 2x"> <source media="(max-width: 1360px)" data-src="https://s2.glbimg.com/daIUPYc6cC8b2xbnIvuqUtZNpIY=/0x0:2000x1333/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/05/26/ronaldo_1_Sx5eWqR.jpg 1x, https://s2.glbimg.com/bWObUV2wIt-JSlyGl_ZfUatzJUs=/0x0:2000x1333/1968x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/05/26/ronaldo_1_Sx5eWqR.jpg 2x"> <source media="(min-width: 1361px)" data-src="https://s2.glbimg.com/dQ2NlwcbYcT6EldtT9v24dk-KxE=/0x0:2000x1333/1000x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/05/26/ronaldo_1_Sx5eWqR.jpg 1x, https://s2.glbimg.com/1nZ2VBI-YMbenwdisdxx3h_yE-o=/0x0:2000x1333/2000x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/05/26/ronaldo_1_Sx5eWqR.jpg 2x"> <source data-src="https://s2.glbimg.com/daIUPYc6cC8b2xbnIvuqUtZNpIY=/0x0:2000x1333/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/05/26/ronaldo_1_Sx5eWqR.jpg"> <!--[if IE 9]></video><![endif]--> <img class="image content-media__image" itemprop="contentUrl" alt="Volante Ronaldo foi um pedido do técnico Eduardo Baptista (Foto: Marlon Costa / Pernambuco Press)" title="Volante Ronaldo foi um pedido do técnico Eduardo Baptista (Foto: Marlon Costa / Pernambuco Press)" data-src="https://s2.glbimg.com/daIUPYc6cC8b2xbnIvuqUtZNpIY=/0x0:2000x1333/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/05/26/ronaldo_1_Sx5eWqR.jpg"> </source></source></source></source></source></picture> 
+ 
+ 
+ 
+
+_<svg xmlns="http://www.w3.org/2000/svg" width="13.5px" height="11.25px" viewbox="0 0 13 12"> <ellipse id="Oval" cx="6.5" cy="6.7826087" rx="2" ry="2.08695652"></ellipse> <path d="M4.625,0.260869565 L3.48125,1.56521739 L1.5,1.56521739 C0.8125,1.56521739 0.25,2.15217391 0.25,2.86956522 L0.25,10.6956522 C0.25,11.4130435 0.8125,12 1.5,12 L11.5,12 C12.1875,12 12.75,11.4130435 12.75,10.6956522 L12.75,2.86956522 C12.75,2.15217391 12.1875,1.56521739 11.5,1.56521739 L9.51875,1.56521739 L8.375,0.260869565 L4.625,0.260869565 L4.625,0.260869565 Z M6.5,10.0434783 C4.775,10.0434783 3.375,8.5826087 3.375,6.7826087 C3.375,4.9826087 4.775,3.52173913 6.5,3.52173913 C8.225,3.52173913 9.625,4.9826087 9.625,6.7826087 C9.625,8.5826087 8.225,10.0434783 6.5,10.0434783 L6.5,10.0434783 Z" id="Shape"></path> </svg>_ Volante Ronaldo foi um pedido do técnico Eduardo Baptista (Foto: Marlon Costa / Pernambuco Press)
+
+ 
+ 
+ 
+ 
+ 
+
+Aos 23 anos, o atleta do Leão quase desistiu da negociação com a Ponte por conta de uma proposta de um time português, mas a chance de trabalhar novamente com Eduardo Baptista, que o promoveu ao elenco profissional em 2014, pesou na decisão final. Ronaldo tem 79 jogos pelo Sport e os títulos da Copa do Nordeste (2014) e do Campeonato Pernambucano (2014 e 2017).
+
+ 
+ 
+ 
+
+Agora já são cinco reforços anunciados pela Macaca: o goleiro Vinicius Silvestre (ex-Palmeiras), o zagueiro Wesley Matos (ex-Vila Nova), o meia Tiago Real (ex-Coritiba) e o atacante Silvinho (ex-Criciúma). O próximo da lista será Marciel, do Corinthians. Assim como Ronaldo, ele é volante e também atua como lateral-esquerdo.
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+  ![Marciel pertence ao Corinthians e fica por um ano na Ponte (Foto: Daniel Augusto Jr/Ag. Corinthians)](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgARCAARABkDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQBBQYD/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIEAP/aAAwDAQACEAMQAAABq9BjU4Rf0rsKE+ARK4Am/8QAHhAAAQMFAQEAAAAAAAAAAAAABAACAwEFEBITETP/2gAIAQEAAQUCCvLpQR21usE1x7YHi0awTkRsvVVU+uP/xAAWEQEBAQAAAAAAAAAAAAAAAAARABD/2gAIAQMBAT8BWd//xAAdEQABAgcAAAAAAAAAAAAAAAABADECAxARFCEy/9oACAECAQE/AYJ+ySyyLuhzT//EACQQAAIBAgMJAAAAAAAAAAAAAAIDAQARISIxEBIgMlJhcYGR/9oACAEBAAY/Al3uJSOsDTwPeELQMtHCjEVZesyxrlH7S1QWmW8xRtNjRcWoiUwPjvwetv8A/8QAHhAAAQQDAAMAAAAAAAAAAAAAAQARITEQQVFx0fD/2gAIAQEAAT8hL4z57ZdNfEhO6r5spxcDmACEwAOIoUj65NCIJDT2hAh76F5BVKt+2hj/2gAMAwEAAgADAAAAEFRfAP/EABgRAAIDAAAAAAAAAAAAAAAAABARASFB/9oACAEDAQE/EIUqDR//xAAbEQACAQUAAAAAAAAAAAAAAAABEQAQITHh8P/aAAgBAgEBPxATux9uAAaOZqf/xAAiEAEAAgEDAwUAAAAAAAAAAAABESEAEDFBUXHwkaGx0fH/2gAIAQEAAT8QWQpkFsgmLIxHVIVFjZhglTrzkm8RNJ2QM0zTnh+cKWirSAk6uxkTTWaUAKChHmVZTBAh9T5M80/em9gxsO2n/9k= "Marciel pertence ao Corinthians e fica por um ano na Ponte (Foto: Daniel Augusto Jr/Ag. Corinthians)") <picture itemscope itemtype="http://schema.org/ImageObject"> <!--[if IE 9]><video style="display: none;"><![endif]--> <source media="(max-width: 1024px)" data-src="https://s2.glbimg.com/dhjr1XEjlR46ItdBllN6N9S36ks=/0x0:2048x1365/600x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/08/31/a3548f122704.jpg 1x, https://s2.glbimg.com/gcbtrE2BZfH7LsD6fJ-Oc05CBw8=/0x0:2048x1365/1200x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/08/31/a3548f122704.jpg 2x"> <source media="(max-width: 1280px)" data-src="https://s2.glbimg.com/pmkyZXdU9DtUn4UU5mjgAGVg474=/0x0:2048x1365/640x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/08/31/a3548f122704.jpg 1x, https://s2.glbimg.com/8f0EMOBiTTGnAmXc7qUC-KN1pRo=/0x0:2048x1365/1280x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/08/31/a3548f122704.jpg 2x"> <source media="(max-width: 1360px)" data-src="https://s2.glbimg.com/XCyOWSldIA9r3V55c9mOGhs_btw=/0x0:2048x1365/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/08/31/a3548f122704.jpg 1x, https://s2.glbimg.com/D_AWfLVr9npJe7XSkUXqt0voRyY=/0x0:2048x1365/1968x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/08/31/a3548f122704.jpg 2x"> <source media="(min-width: 1361px)" data-src="https://s2.glbimg.com/BrPXb5cwP4yXkEKKOTgqQD1Hd2Q=/0x0:2048x1365/1000x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/08/31/a3548f122704.jpg 1x, https://s2.glbimg.com/d0fjV4jauzqIL4vB3Ei2O5HuUOQ=/0x0:2048x1365/2000x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/08/31/a3548f122704.jpg 2x"> <source data-src="https://s2.glbimg.com/XCyOWSldIA9r3V55c9mOGhs_btw=/0x0:2048x1365/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/08/31/a3548f122704.jpg"> <!--[if IE 9]></video><![endif]--> <img class="image content-media__image" itemprop="contentUrl" alt="Marciel pertence ao Corinthians e fica por um ano na Ponte (Foto: Daniel Augusto Jr/Ag. Corinthians)" title="Marciel pertence ao Corinthians e fica por um ano na Ponte (Foto: Daniel Augusto Jr/Ag. Corinthians)" data-src="https://s2.glbimg.com/XCyOWSldIA9r3V55c9mOGhs_btw=/0x0:2048x1365/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/08/31/a3548f122704.jpg"> </source></source></source></source></source></picture> 
+ 
+ 
+ 
+
+_<svg xmlns="http://www.w3.org/2000/svg" width="13.5px" height="11.25px" viewbox="0 0 13 12"> <ellipse id="Oval" cx="6.5" cy="6.7826087" rx="2" ry="2.08695652"></ellipse> <path d="M4.625,0.260869565 L3.48125,1.56521739 L1.5,1.56521739 C0.8125,1.56521739 0.25,2.15217391 0.25,2.86956522 L0.25,10.6956522 C0.25,11.4130435 0.8125,12 1.5,12 L11.5,12 C12.1875,12 12.75,11.4130435 12.75,10.6956522 L12.75,2.86956522 C12.75,2.15217391 12.1875,1.56521739 11.5,1.56521739 L9.51875,1.56521739 L8.375,0.260869565 L4.625,0.260869565 L4.625,0.260869565 Z M6.5,10.0434783 C4.775,10.0434783 3.375,8.5826087 3.375,6.7826087 C3.375,4.9826087 4.775,3.52173913 6.5,3.52173913 C8.225,3.52173913 9.625,4.9826087 9.625,6.7826087 C9.625,8.5826087 8.225,10.0434783 6.5,10.0434783 L6.5,10.0434783 Z" id="Shape"></path> </svg>_ Marciel pertence ao Corinthians e fica por um ano na Ponte (Foto: Daniel Augusto Jr/Ag. Corinthians)
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Marciel, de 22 anos, foi revelado pelo Corinthians e destaque da Copa São de Futebol Junior 2015, mas não teve oportunidade no time principal do Timão ano passado e chegou a ser emprestado ao Cruzeiro. Nesta temporada, fez nove jogos pelo clube paulista, na maioria das vezes pela lateral-esquerda. O jogador tem contrato até 2020 com o Timão e é tratado como uma aposta, mas que ainda não alcançou condição ideal para jogar pelo time.
+
+ 
+ 
+ 
+
+Com o acordo com Ronaldo e Marciel, a Macaca fica com quatro volantes à disposição do técnico Eduardo Baptista (os remanescentes João Vitor e Jorge Mendoza completam a relação). Além dos reforços anunciados, quatro garotos da base estão integrados ao elenco profissional na próxima temporada: os atacantes Yuri e Fellipe Cardoso, o lateral-direito Emerson e o zagueiro Reinaldo. O grupo se reapresenta no dia 2 de janeiro para a pré-temporada.
+
+ 
+ 
+ 
+
+[+ CLIQUE AQUI e leia mais notícias da Ponte](http://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/)
+
+ 
+ 
+ 
+
+**Confira o elenco da Macaca até o momento:**
+
+ 
+ 
+ 
+ 
+
+- **Goleiro** : Aranha, Ivan e Vinicius Silvestre
+- **Lateral:** Jeferson e Emerson
+- **Zagueiro:** Luan Peres, Reinaldo e Wesley Matos
+- **Volante:** João Vitor e Ronaldo (Marciel é o próximo)
+- **Meias:** Danilo Barcelos, Léo Artur e Tiago Real
+- **Atacantes** : Claudinho, Saraiva, Luis Ali, Yuri, Fellipe Cardoso e Silvinho
+ 
+ 
+ 
