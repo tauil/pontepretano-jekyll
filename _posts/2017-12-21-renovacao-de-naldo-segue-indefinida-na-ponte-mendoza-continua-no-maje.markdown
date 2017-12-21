@@ -1,0 +1,110 @@
+---
+layout: post
+title: "Renovação de Naldo segue indefinida na Ponte; Mendoza continua no Majestoso"
+date: 2017-12-21T11:30:54+00:00
+external_link: "https://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/noticia/renovacao-de-naldo-segue-indefinida-na-ponte-mendoza-continua-no-majestoso.ghtml"
+categories: news globo.com
+---
+ 
+ 
+ 
+ 
+ 
+
+  ![Renovação de Naldo depende de fim de imbróglio com o Joinville (Foto: Carlos Velardi/ EPTV)](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgARCAAOABkDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAABQYAAQf/xAAWAQEBAQAAAAAAAAAAAAAAAAADAgX/2gAMAwEAAhADEAAAAc4KlU5yuNg7Pr//xAAbEAACAwEBAQAAAAAAAAAAAAABBAACAxIFE//aAAgBAQABBQJatju15tsrmcmZ1K6waOW7CFOvjP/EABkRAAIDAQAAAAAAAAAAAAAAAAABAhETQf/aAAgBAwEBPwGUs3T6Uz//xAAaEQACAgMAAAAAAAAAAAAAAAABAwACBDFR/9oACAECAQE/AcZQfU35A0HU/8QAIhAAAQMCBgMAAAAAAAAAAAAAAQIDEQAhBBIxQUJhEBOS/9oACAEBAAY/AmgBcqFqZbKC3iCgqKVK1vrUb+EhhWR91WQuxdCY4990jDmVOhzJ7Ce6ABkgwZ3rj81//8QAHhABAAIBBQEBAAAAAAAAAAAAAQARITFBUWGRcaH/2gAIAQEAAT8hd00YMuYWvB5q7nioWxHYudX7MpcRmO3GqE9eK5nGziFXDIKs7+z485//2gAMAwEAAgADAAAAEMff/8QAGREBAAMBAQAAAAAAAAAAAAAAAQARIZGh/9oACAEDAQE/EK6sri6eacYhP//EABoRAQEAAgMAAAAAAAAAAAAAAAERAHEhMVH/2gAIAQIBAT8Qv5e6HDPSkdU3gmP/xAAcEAEAAgIDAQAAAAAAAAAAAAABESEAQRAxUWH/2gAIAQEAAT8QFPY8smAItfMCKc5MYCAaIpGm3ABAKdgfHPuxTvv8KbSXqrUAErjpYVOy+zoodveE5v7v2kulVFxwT//Z "Renovação de Naldo depende de fim de imbróglio com o Joinville (Foto: Carlos Velardi/ EPTV)") <picture itemscope itemtype="http://schema.org/ImageObject"> <!--[if IE 9]><video style="display: none;"><![endif]--> <source media="(max-width: 1024px)" data-src="https://s2.glbimg.com/v6V3C6b6NyMlnn7iVYDFw85oVNw=/0x0:1027x589/600x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/05/26/naldo.jpg 1x, https://s2.glbimg.com/9Nrux6HievTaTP2d2ZCqyx0HgsU=/0x0:1027x589/1200x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/05/26/naldo.jpg 2x"> <source media="(max-width: 1280px)" data-src="https://s2.glbimg.com/AlIfEDia-hxxQBGUvYQhyozWnHw=/0x0:1027x589/640x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/05/26/naldo.jpg 1x, https://s2.glbimg.com/Xe_H71VPc3T1qrEuflNNyrb_vyM=/0x0:1027x589/1280x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/05/26/naldo.jpg 2x"> <source media="(max-width: 1360px)" data-src="https://s2.glbimg.com/mLNeOPzJy6JccQxYgE4PXvzzn1I=/0x0:1027x589/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/05/26/naldo.jpg 1x, https://s2.glbimg.com/5PkLjfXEol5kX15UU9AW6LtBLMU=/0x0:1027x589/1968x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/05/26/naldo.jpg 2x"> <source media="(min-width: 1361px)" data-src="https://s2.glbimg.com/lSIeTeZbMw7T7ulchFPiyAIGEEU=/0x0:1027x589/1000x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/05/26/naldo.jpg 1x, https://s2.glbimg.com/1zUWT0XCuS36N4LMi5mXIAlGkqk=/0x0:1027x589/2000x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/05/26/naldo.jpg 2x"> <source data-src="https://s2.glbimg.com/mLNeOPzJy6JccQxYgE4PXvzzn1I=/0x0:1027x589/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/05/26/naldo.jpg"> <!--[if IE 9]></video><![endif]--> <img class="image content-media__image" itemprop="contentUrl" alt="Renovação de Naldo depende de fim de imbróglio com o Joinville (Foto: Carlos Velardi/ EPTV)" title="Renovação de Naldo depende de fim de imbróglio com o Joinville (Foto: Carlos Velardi/ EPTV)" data-src="https://s2.glbimg.com/mLNeOPzJy6JccQxYgE4PXvzzn1I=/0x0:1027x589/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/05/26/naldo.jpg"> </source></source></source></source></source></picture> 
+ 
+ 
+ 
+
+_<svg xmlns="http://www.w3.org/2000/svg" width="13.5px" height="11.25px" viewbox="0 0 13 12"> <ellipse id="Oval" cx="6.5" cy="6.7826087" rx="2" ry="2.08695652"></ellipse> <path d="M4.625,0.260869565 L3.48125,1.56521739 L1.5,1.56521739 C0.8125,1.56521739 0.25,2.15217391 0.25,2.86956522 L0.25,10.6956522 C0.25,11.4130435 0.8125,12 1.5,12 L11.5,12 C12.1875,12 12.75,11.4130435 12.75,10.6956522 L12.75,2.86956522 C12.75,2.15217391 12.1875,1.56521739 11.5,1.56521739 L9.51875,1.56521739 L8.375,0.260869565 L4.625,0.260869565 L4.625,0.260869565 Z M6.5,10.0434783 C4.775,10.0434783 3.375,8.5826087 3.375,6.7826087 C3.375,4.9826087 4.775,3.52173913 6.5,3.52173913 C8.225,3.52173913 9.625,4.9826087 9.625,6.7826087 C9.625,8.5826087 8.225,10.0434783 6.5,10.0434783 L6.5,10.0434783 Z" id="Shape"></path> </svg>_ Renovação de Naldo depende de fim de imbróglio com o Joinville (Foto: Carlos Velardi/ EPTV)
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+Na primeira semana de dezembro, a Ponte Preta anunciou uma lista de dispensas com 16 nomes, entre eles os medalhões Emerson Sheik e Renato Cajá. Contudo, deixou alguns nomes em zona nebulosa, sem definição: o zagueiro Rodrigo, os volantes Naldo e Jorge Mendoza, o lateral-esquerdo Fernandinho e o atacante Formiga.
+
+ 
+ 
+ 
+
+Dos cinco, a Ponte tem interesse na renovação do volante Naldo, porém o atleta tem vínculo com o Joinville até janeiro de 2019. O clube catarinense teria pedido uma compensação financeira para liberar o atleta, porém a Macaca, com orçamento enxuto, não irá gastar nenhum centavo além do salário mensal para ter jogadores.
+
+ 
+ 
+ 
+
+Encargos trabalhistas não recolhidos podem facilitar o rompimento do jogador com o Joinville. A Ponte aguarda esta discussão entre o time catarinense e Naldo para então poder finalizar o novo acordo com ele.
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+  ![Jorge Mendoza atuou somente em dois jogos nesta temporada (Foto: Carlos Velardi / EPTV)](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgARCAAQABkDASIAAhEBAxEB/8QAGQAAAQUAAAAAAAAAAAAAAAAABwEDBAUG/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQP/2gAMAwEAAhADEAAAAQ3OUxqDWNtQ2h//xAAcEAACAgMBAQAAAAAAAAAAAAACBAEFAAMVBhP/2gAIAQEAAQUCE4kdihyouP0T51jlI8G+0Rf0p2XpbeHrbpZ//8QAGhEAAgIDAAAAAAAAAAAAAAAAAAECAxIhIv/aAAgBAwEBPwGvXTJPFn//xAAZEQACAwEAAAAAAAAAAAAAAAAAAQIDEiH/2gAIAQIBAT8Bs68xILaP/8QAKRAAAQIFAQYHAAAAAAAAAAAAAQIDAAQREiETBSIxNEFCcYGRkpPS8P/aAAgBAQAGPwJk3To1hubta+GMwSBNiY7ErTQnypmHEL1jtAqo23acjrHLP+yNnpm5irLCribyfTENvFC1y84pS5Zc1RRSvpZX9wh6Yy3MpTpVVixQPEUjm0fM79Y//8QAIhABAQABAwIHAAAAAAAAAAAAAREAITFRQWEQcYGxwdHx/9oACAEBAAE/IasCJ6HfsHjFs9rw+2Q46vsoeefp/rIrlKEDadkhTjGd5OhZWp6vThjumNcpDI3Sj8+CH//aAAwDAQACAAMAAAAQ/L//xAAbEQEAAgIDAAAAAAAAAAAAAAABABEhMVGhsf/aAAgBAwEBPxAIRs1nljMVffk//8QAHBEAAQMFAAAAAAAAAAAAAAAAAQARMYGhsfDx/9oACAECAQE/ECAp5oN6ghLtbK//xAAZEAEBAQEBAQAAAAAAAAAAAAABEQAhQYH/2gAIAQEAAT8QWgPxDoTBIRc8YA8ZFgleCe0BmZsjJQnQjpLvSHzIGkgAGqYwyUBUrZrU5mV9SYMQrR6F9y1z7iYErDtMvR//2Q== "Jorge Mendoza atuou somente em dois jogos nesta temporada (Foto: Carlos Velardi / EPTV)") <picture itemscope itemtype="http://schema.org/ImageObject"> <!--[if IE 9]><video style="display: none;"><![endif]--> <source media="(max-width: 1024px)" data-src="https://s2.glbimg.com/Tyf300qyrDOxJb2YNxQZIWnSFhA=/0x0:1500x950/600x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/08/01/mendoza2.jpg 1x, https://s2.glbimg.com/97VdXDNNuO7rSwy-rY8Qfh0_Oc8=/0x0:1500x950/1200x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/08/01/mendoza2.jpg 2x"> <source media="(max-width: 1280px)" data-src="https://s2.glbimg.com/1wQi8anBFJHiXX_oX5Ce4yc1FXA=/0x0:1500x950/640x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/08/01/mendoza2.jpg 1x, https://s2.glbimg.com/D5mPZSOaaWOgpz23XrD3L8DqIZc=/0x0:1500x950/1280x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/08/01/mendoza2.jpg 2x"> <source media="(max-width: 1360px)" data-src="https://s2.glbimg.com/75PvEM8XV49jenvGotimlRz-pKo=/0x0:1500x950/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/08/01/mendoza2.jpg 1x, https://s2.glbimg.com/2mEZj8UcTdk37zzrf29blS9KxgU=/0x0:1500x950/1968x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/08/01/mendoza2.jpg 2x"> <source media="(min-width: 1361px)" data-src="https://s2.glbimg.com/sBlRh20tq0Nyk1WZhyuBovaSNeI=/0x0:1500x950/1000x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/08/01/mendoza2.jpg 1x, https://s2.glbimg.com/izra1ql7v5lDnRvz3NN0szVFBqQ=/0x0:1500x950/2000x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/08/01/mendoza2.jpg 2x"> <source data-src="https://s2.glbimg.com/75PvEM8XV49jenvGotimlRz-pKo=/0x0:1500x950/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/08/01/mendoza2.jpg"> <!--[if IE 9]></video><![endif]--> <img class="image content-media__image" itemprop="contentUrl" alt="Jorge Mendoza atuou somente em dois jogos nesta temporada (Foto: Carlos Velardi / EPTV)" title="Jorge Mendoza atuou somente em dois jogos nesta temporada (Foto: Carlos Velardi / EPTV)" data-src="https://s2.glbimg.com/75PvEM8XV49jenvGotimlRz-pKo=/0x0:1500x950/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/08/01/mendoza2.jpg"> </source></source></source></source></source></picture> 
+ 
+ 
+ 
+
+_<svg xmlns="http://www.w3.org/2000/svg" width="13.5px" height="11.25px" viewbox="0 0 13 12"> <ellipse id="Oval" cx="6.5" cy="6.7826087" rx="2" ry="2.08695652"></ellipse> <path d="M4.625,0.260869565 L3.48125,1.56521739 L1.5,1.56521739 C0.8125,1.56521739 0.25,2.15217391 0.25,2.86956522 L0.25,10.6956522 C0.25,11.4130435 0.8125,12 1.5,12 L11.5,12 C12.1875,12 12.75,11.4130435 12.75,10.6956522 L12.75,2.86956522 C12.75,2.15217391 12.1875,1.56521739 11.5,1.56521739 L9.51875,1.56521739 L8.375,0.260869565 L4.625,0.260869565 L4.625,0.260869565 Z M6.5,10.0434783 C4.775,10.0434783 3.375,8.5826087 3.375,6.7826087 C3.375,4.9826087 4.775,3.52173913 6.5,3.52173913 C8.225,3.52173913 9.625,4.9826087 9.625,6.7826087 C9.625,8.5826087 8.225,10.0434783 6.5,10.0434783 L6.5,10.0434783 Z" id="Shape"></path> </svg>_ Jorge Mendoza atuou somente em dois jogos nesta temporada (Foto: Carlos Velardi / EPTV)
+
+ 
+ 
+ 
+ 
+ 
+
+Sem dinheiro em caixa para rescisões, a diretoria tenta fazer a melhor negociação que pode com os atletas com contrato vigente, seja com aproveitamento no time ou com empréstimos que ajudarão custear os salários. O lateral Fernandinho e o atacante Formiga devem ser emprestados, mas por enquanto o destino ainda não está definido. Já o volante Jorge Mendoza, que tem contrato até o final de 2018, irá se reapresentar junto com o elenco em 2 de janeiro.
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+[CLIQUE AQUI e leia mais notícias da Ponte](http://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/)
+
+ 
+ 
+ 
+
+Uma situação aparentemente certa envolve o zagueiro Rodrigo, que deve rescindir contrato, mesmo que o fim do relacionamento entre as partes não tenha sido anunciado de forma oficial. O atleta tem contrato vigente durante toda a temporada 2018, além de um acordo trabalhista de uma dívida passada que a Macaca ainda tem que arcar com 13 parcelas.
+
+ 
+ 
+ 
+
+Enquanto a novela sobre Rodrigo não tem o capítulo final definido, o protagonista do lance mais bizarro da penúltima rodada do Brasileirão curte férias em Orlando, nos Estados Unidos. Quando voltar, deve se reunir com a diretoria e sacramentar o futuro.
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  ![Rodrigo segue com situação indefinida na Macaca (Foto: Carlos Velardi/ EPTV)](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgARCAAOABkDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABQYHBP/EABYBAQEBAAAAAAAAAAAAAAAAAAUDBP/aAAwDAQACEAMQAAABTdAuoGIxIa+It8v/xAAeEAABAwQDAAAAAAAAAAAAAAADAAECBAUSFAYRE//aAAgBAQABBQIbjOW4t5jOUuHSppaKt5Na4ckiwpYr/8QAGREAAwADAAAAAAAAAAAAAAAAAAECAxES/9oACAEDAQE/AYycTsbP/8QAGREAAwADAAAAAAAAAAAAAAAAAAISASEy/9oACAECAQE/AZt8KcaP/8QAJBAAAgEDAgYDAAAAAAAAAAAAAQIDABEhBFEQEhMiMUEjcbL/2gAIAQEABj8C0EiBhzO0Wd/X6pXkBNviN97Ul7qpGNiOGmabKpqb9n1WuZo1l6cYFj4vzYNdIYVZ3IA8euH/xAAgEAEAAwABAwUAAAAAAAAAAAABABEhMUFRcWGBkaHB/9oACAEBAAE/IVu2RGtcPZLPDS9D+h+mZJd3xwrPiV7wne7pvA6+oRmYJTwGqUjszAgLE501nlP/2gAMAwEAAgADAAAAED6f/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQARIf/aAAgBAwEBPxAFRoMO8v/EABkRAQACAwAAAAAAAAAAAAAAAAEAESFB0f/aAAgBAgEBPxC5mzsAwz//xAAeEAEBAAMAAQUAAAAAAAAAAAABEQAhMUEQUWFxkf/aAAgBAQABPxCbweCSUB6Ke0wOV/BV4NIGK14WyGbKxSftmw76OfJ/HNNPZA3UJLXHxkmGI6kZtSuylUcEwSskIdJVZD0v/9k= "Rodrigo segue com situação indefinida na Macaca (Foto: Carlos Velardi/ EPTV)") <picture itemscope itemtype="http://schema.org/ImageObject"> <!--[if IE 9]><video style="display: none;"><![endif]--> <source media="(max-width: 1024px)" data-src="https://s2.glbimg.com/HE_4fMhwmlsUPpkxJ8eQfrLLRl8=/0x0:1060x585/600x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/R/r/JwAZrDQeqkQMaBMPdzvw/rodrigo..jpg 1x, https://s2.glbimg.com/3nOIQTybl8y3TkCp6KedSZX4Bs4=/0x0:1060x585/1200x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/R/r/JwAZrDQeqkQMaBMPdzvw/rodrigo..jpg 2x"> <source media="(max-width: 1280px)" data-src="https://s2.glbimg.com/DaM7zYj13zlk-dUt1R_lG66CjPM=/0x0:1060x585/640x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/R/r/JwAZrDQeqkQMaBMPdzvw/rodrigo..jpg 1x, https://s2.glbimg.com/1EBkelOckdvizAdmD9H4Yn7Lexk=/0x0:1060x585/1280x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/R/r/JwAZrDQeqkQMaBMPdzvw/rodrigo..jpg 2x"> <source media="(max-width: 1360px)" data-src="https://s2.glbimg.com/b-kdVBB_vk9s99wVi1K8ouJCP6w=/0x0:1060x585/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/R/r/JwAZrDQeqkQMaBMPdzvw/rodrigo..jpg 1x, https://s2.glbimg.com/c4tvNcaw362p85vYDrFcve9Dcc8=/0x0:1060x585/1968x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/R/r/JwAZrDQeqkQMaBMPdzvw/rodrigo..jpg 2x"> <source media="(min-width: 1361px)" data-src="https://s2.glbimg.com/x-c21y-GwXX8FN01Ud0EL_OvmgE=/0x0:1060x585/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/R/r/JwAZrDQeqkQMaBMPdzvw/rodrigo..jpg 1x, https://s2.glbimg.com/q4j4d98lQDRX42-AbGf125vUqws=/0x0:1060x585/2000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/R/r/JwAZrDQeqkQMaBMPdzvw/rodrigo..jpg 2x"> <source data-src="https://s2.glbimg.com/b-kdVBB_vk9s99wVi1K8ouJCP6w=/0x0:1060x585/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/R/r/JwAZrDQeqkQMaBMPdzvw/rodrigo..jpg"> <!--[if IE 9]></video><![endif]--> <img class="image content-media__image" itemprop="contentUrl" alt="Rodrigo segue com situação indefinida na Macaca (Foto: Carlos Velardi/ EPTV)" title="Rodrigo segue com situação indefinida na Macaca (Foto: Carlos Velardi/ EPTV)" data-src="https://s2.glbimg.com/b-kdVBB_vk9s99wVi1K8ouJCP6w=/0x0:1060x585/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/R/r/JwAZrDQeqkQMaBMPdzvw/rodrigo..jpg"> </source></source></source></source></source></picture> 
+ 
+ 
+ 
+
+_<svg xmlns="http://www.w3.org/2000/svg" width="13.5px" height="11.25px" viewbox="0 0 13 12"> <ellipse id="Oval" cx="6.5" cy="6.7826087" rx="2" ry="2.08695652"></ellipse> <path d="M4.625,0.260869565 L3.48125,1.56521739 L1.5,1.56521739 C0.8125,1.56521739 0.25,2.15217391 0.25,2.86956522 L0.25,10.6956522 C0.25,11.4130435 0.8125,12 1.5,12 L11.5,12 C12.1875,12 12.75,11.4130435 12.75,10.6956522 L12.75,2.86956522 C12.75,2.15217391 12.1875,1.56521739 11.5,1.56521739 L9.51875,1.56521739 L8.375,0.260869565 L4.625,0.260869565 L4.625,0.260869565 Z M6.5,10.0434783 C4.775,10.0434783 3.375,8.5826087 3.375,6.7826087 C3.375,4.9826087 4.775,3.52173913 6.5,3.52173913 C8.225,3.52173913 9.625,4.9826087 9.625,6.7826087 C9.625,8.5826087 8.225,10.0434783 6.5,10.0434783 L6.5,10.0434783 Z" id="Shape"></path> </svg>_ Rodrigo segue com situação indefinida na Macaca (Foto: Carlos Velardi/ EPTV)
+
+ 
+ 
+ 
+ 
+ 
