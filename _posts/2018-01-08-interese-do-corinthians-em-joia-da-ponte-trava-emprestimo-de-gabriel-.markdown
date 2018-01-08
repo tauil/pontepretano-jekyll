@@ -1,0 +1,90 @@
+---
+layout: post
+title: "Interese do Corinthians em joia da Ponte trava empréstimo de Gabriel Vasconcelos "
+date: 2018-01-08T20:16:07+00:00
+external_link: "https://globoesporte.globo.com/sp/campinas-e-regiao/futebol/noticia/interesse-do-corinthians-em-joia-da-ponte-trava-emprestimo-de-gabriel-vasconcelos.ghtml"
+categories: news globo.com
+---
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+Fora dos planos do técnico Fabio Carille, Gabriel Vasconcelos, artilheiro da Copa São Paulo de 2015, vai se reapresentar ao Corinthians nesta terça-feira e seguirá treinando no CT Joaquim Grava até resolver seu futuro.
+
+ 
+ 
+ 
+
+A Ponte Preta aparece como provável destino, mas uma condição colocada pelo Timão trava o negócio. Para liberar o jovem atacante até dezembro, o Corinthians deseja envolver na transação uma revelação das categorias de base da Ponte.
+
+ 
+ 
+ 
+
+O alvo corintiano seria Wallison, artilheiro do título do Paulista sub-17, com três gols na final contra o Palmeiras, e que atualmente disputa a Copinha.
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+  ![Gabriel Vasconcelos está na mira da Ponte (Foto: Daniel Augusto Jr/Ag. Corinthians)](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgARCAARABkDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQFBgcD/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwAB/9oADAMBAAIQAxAAAAFhCSgmLYG8bqJJ2qgWNV8Cv//EAB4QAAICAgIDAAAAAAAAAAAAAAMEAAIBBQY0FBY1/9oACAEBAAEFAmVrgeoA4oi2tYfk4ldm2pk+wLVvGwKjr/f35ft8m79Pjz//xAAYEQADAQEAAAAAAAAAAAAAAAABAhADEf/aAAgBAwEBPwHRyi9EE//EABkRAAIDAQAAAAAAAAAAAAAAAAECAAMREP/aAAgBAgEBPwGmsO2NCMPDP//EACcQAAEDAgQFBQAAAAAAAAAAAAEAAgMEESExMpEQEjNBYVFxc8HR/9oACAEBAAY/ApY20ZdBLHeSNr+a3kKMy6RDYuedIvkBuhJDZgdYFvlaBsqamtCZJ24Of2xyKkp5eo518uxUtTyQuuWtxHoMCujT7H9VMo/i+yofYcP/xAAiEAEAAgECBgMAAAAAAAAAAAABESEAQVEQMWFxofCRsfH/2gAIAQEAAT8hrjUgZr9KgcZKtbsQTcRs1vKvIeCI1WjHyZ+3xJl94S+BgtUJADcuw+sNiXxOcIIw8uGT3d88Vh7Trw//2gAMAwEAAgADAAAAEOYQI//EABsRAQACAgMAAAAAAAAAAAAAAAEAETFRcYGh/9oACAEDAQE/EFNOsW9QbB49mUJ//8QAGxEAAgEFAAAAAAAAAAAAAAAAAAEREDFRkbH/2gAIAQIBAT8QT+0bJBYbpef/xAAfEAEBAAIBBAMAAAAAAAAAAAABESExABAgQcFhofD/2gAIAQEAAT8Qj7lFEiEmVAvg4BHkGoSMhHyqycR49MFunYCTEJrn7f1zMlNWagMVIsLUOHWKU+GZbQSWIm9YVk4SlbCRTy7zOjr7/r2f7P/Z "Gabriel Vasconcelos está na mira da Ponte (Foto: Daniel Augusto Jr/Ag. Corinthians)") <picture itemscope itemtype="http://schema.org/ImageObject"> <!--[if IE 9]><video style="display: none;"><![endif]--> <source media="(max-width: 1024px)" data-src="https://s2.glbimg.com/T7v9lYQZgLBtBHHz4u75d5Mamgc=/0x0:2000x1333/600x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2016/01/28/a2706f89774_1.jpg 1x, https://s2.glbimg.com/EEEj2AzuhzPsJTYXtstPaqDKjw0=/0x0:2000x1333/1200x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2016/01/28/a2706f89774_1.jpg 2x"> <source media="(max-width: 1280px)" data-src="https://s2.glbimg.com/sMYf4Bgrx1OcTFcciWP2a2C1q9Y=/0x0:2000x1333/640x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2016/01/28/a2706f89774_1.jpg 1x, https://s2.glbimg.com/TTDzoYDXBhCeivd_FE7PDLBWQvI=/0x0:2000x1333/1280x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2016/01/28/a2706f89774_1.jpg 2x"> <source media="(max-width: 1360px)" data-src="https://s2.glbimg.com/OURztJQbw6V3bX6-lhzeeRyQ-Qo=/0x0:2000x1333/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2016/01/28/a2706f89774_1.jpg 1x, https://s2.glbimg.com/RYJmdNS0sdxtixaS1qVmrhvCxeg=/0x0:2000x1333/1968x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2016/01/28/a2706f89774_1.jpg 2x"> <source media="(min-width: 1361px)" data-src="https://s2.glbimg.com/a3cZwKWjJPaSx4N9hlpARnKXbcQ=/0x0:2000x1333/1000x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2016/01/28/a2706f89774_1.jpg 1x, https://s2.glbimg.com/89o-SZfPjWmvwl2cpcD-Csc_nuI=/0x0:2000x1333/2000x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2016/01/28/a2706f89774_1.jpg 2x"> <source data-src="https://s2.glbimg.com/OURztJQbw6V3bX6-lhzeeRyQ-Qo=/0x0:2000x1333/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2016/01/28/a2706f89774_1.jpg"> <!--[if IE 9]></video><![endif]--> <img class="image content-media__image" itemprop="contentUrl" alt="Gabriel Vasconcelos está na mira da Ponte (Foto: Daniel Augusto Jr/Ag. Corinthians)" title="Gabriel Vasconcelos está na mira da Ponte (Foto: Daniel Augusto Jr/Ag. Corinthians)" data-src="https://s2.glbimg.com/OURztJQbw6V3bX6-lhzeeRyQ-Qo=/0x0:2000x1333/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2016/01/28/a2706f89774_1.jpg"> </source></source></source></source></source></picture> 
+ 
+ 
+ 
+
+_<svg xmlns="http://www.w3.org/2000/svg" width="13.5px" height="11.25px" viewbox="0 0 13 12"> <ellipse id="Oval" cx="6.5" cy="6.7826087" rx="2" ry="2.08695652"></ellipse> <path d="M4.625,0.260869565 L3.48125,1.56521739 L1.5,1.56521739 C0.8125,1.56521739 0.25,2.15217391 0.25,2.86956522 L0.25,10.6956522 C0.25,11.4130435 0.8125,12 1.5,12 L11.5,12 C12.1875,12 12.75,11.4130435 12.75,10.6956522 L12.75,2.86956522 C12.75,2.15217391 12.1875,1.56521739 11.5,1.56521739 L9.51875,1.56521739 L8.375,0.260869565 L4.625,0.260869565 L4.625,0.260869565 Z M6.5,10.0434783 C4.775,10.0434783 3.375,8.5826087 3.375,6.7826087 C3.375,4.9826087 4.775,3.52173913 6.5,3.52173913 C8.225,3.52173913 9.625,4.9826087 9.625,6.7826087 C9.625,8.5826087 8.225,10.0434783 6.5,10.0434783 L6.5,10.0434783 Z" id="Shape"></path> </svg>_ Gabriel Vasconcelos está na mira da Ponte (Foto: Daniel Augusto Jr/Ag. Corinthians)
+
+ 
+ 
+ 
+ 
+ 
+
+A Macaca nunca escondeu o interesse em Gabriel Vasconcelos, porém, não está disposta a fechar o acordo nesses moldes. Se o Timão mudar a proposta, o clube campineiro volta à carga. Oficialmente, a diretoria do Corinthians diz que fez apenas uma consulta pelo jovem.
+
+ 
+ 
+ 
+
+Neste ano, Ponte e Corinthians já acertaram o empréstimo de Marciel para o Majestoso.
+
+ 
+ 
+ 
+
+Com contrato até 31 de dezembro de 2018, Gabriel Vasconcelos também acerta os últimos detalhes de uma renovação por mais um ano com o Corinthians antes de ser repassado a outro time. Na temporada passada, ele atuou pelo Oeste, onde fez três gols em 30 jogos.
+
+ 
+ 
+ 
+
+[**+ CLIQUE AQUI e saiba mais sobre a Ponte**](http://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/)
+
+ 
+ 
+ 
+
+Pelo Oeste, Vasconcelos assumiu rapidamente o posto de titular, principalmente pela versatilidade de atuar pelos lados do campo e variando como falso 9. Na reta final da Série B, foi com dois gols dele na vitória sobre o Paraná que o Oeste passou a sonhar com o acesso – que, no fim, não veio.
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+Aos 21 anos, ele também já atuou emprestado por América-RJ e Joinville.
+
+ 
+ 
+ 
