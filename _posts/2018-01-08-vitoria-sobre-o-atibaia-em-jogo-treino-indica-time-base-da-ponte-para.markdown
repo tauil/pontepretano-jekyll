@@ -1,0 +1,68 @@
+---
+layout: post
+title: "Vitória sobre o Atibaia em jogo-treino indica time-base da Ponte para 2018"
+date: 2018-01-08T12:26:18+00:00
+external_link: "https://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/noticia/vitoria-sobre-o-atibaia-em-jogo-treino-indica-time-base-da-ponte-para-2018.ghtml"
+categories: news globo.com
+---
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+A Ponte Preta venceu o primeiro jogo-treino da pré-temporada. Com gols de Léo Artur, Lincon e Saraiva, a Macaca bateu o Atibaia por 3 a 1 no domingo, em atividade realizada no centro de treinamento do Jardim Eulina, em Campinas.
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+  ![Ponte encara o Atibaia em jogo-treino no CT (Foto: PontePress / JH Semedo)](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgARCAAOABkDASIAAhEBAxEB/8QAGQAAAQUAAAAAAAAAAAAAAAAABwACAwQF/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAIDBf/aAAwDAQACEAMQAAABooRuzkLA4x4KH//EABwQAAEEAwEAAAAAAAAAAAAAAAMAAQQFAgYTEv/aAAgBAQABBQI+33cwcHb7eEG03G0mQ/ZU5snXfJlkV12df//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAEDAQE/Aar/xAAXEQADAQAAAAAAAAAAAAAAAAAAAQMT/9oACAECAQE/AdqCtQ//xAAhEAACAgECBwAAAAAAAAAAAAABAgMRAAQSFBUgITNhkf/aAAgBAQAGPwIxnXIAwo7I6xY+YCUXdyJuP3OHbVhe9llXaT6zzHp//8QAHxABAAIBAwUAAAAAAAAAAAAAAQARIRBBkTFRoeHw/9oACAEBAAE/IafnAVW7YXxBiIuILZqMmGAT91T5vcAy+YbyG6aX/9oADAMBAAIAAwAAABC7z//EABcRAAMBAAAAAAAAAAAAAAAAAAABEVH/2gAIAQMBAT8QtFYf/8QAGhEBAAEFAAAAAAAAAAAAAAAAAQARITGRof/aAAgBAgEBPxCxQTUDh5P/xAAdEAEBAAMAAgMAAAAAAAAAAAABEQAhYTFBUZHx/9oACAEBAAE/EHgAT6KEBh5ROYlGYGbuxVtZSfPrAx3VYKLrBRJy3P08KqodZo6ru3BAoJZdZwfvP//Z "Ponte encara o Atibaia em jogo-treino no CT (Foto: PontePress / JH Semedo)") <picture itemscope itemtype="http://schema.org/ImageObject"> <!--[if IE 9]><video style="display: none;"><![endif]--> <source media="(max-width: 1024px)" data-src="https://s2.glbimg.com/Vikurs6L2_CnmqI7efq-YqNnhZg=/0x0:960x540/600x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/l/D/bcAWwRRmAlziTd8Nv0yQ/ponte1.jpg 1x, https://s2.glbimg.com/pENjujyQkULO0lq1lN-Xnx0xzFY=/0x0:960x540/1200x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/l/D/bcAWwRRmAlziTd8Nv0yQ/ponte1.jpg 2x"> <source media="(max-width: 1280px)" data-src="https://s2.glbimg.com/5vktvrFM0ceFhg7o6nT69W22jFA=/0x0:960x540/640x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/l/D/bcAWwRRmAlziTd8Nv0yQ/ponte1.jpg 1x, https://s2.glbimg.com/YHcay_hKZibLup6h9hGAjz0yWEA=/0x0:960x540/1280x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/l/D/bcAWwRRmAlziTd8Nv0yQ/ponte1.jpg 2x"> <source media="(max-width: 1360px)" data-src="https://s2.glbimg.com/sBsVjYEmXOEvCfE-tHmEjQgH3XE=/0x0:960x540/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/l/D/bcAWwRRmAlziTd8Nv0yQ/ponte1.jpg 1x, https://s2.glbimg.com/99Ee3lJamoI7msxMIpMF-_O9Y6k=/0x0:960x540/1968x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/l/D/bcAWwRRmAlziTd8Nv0yQ/ponte1.jpg 2x"> <source media="(min-width: 1361px)" data-src="https://s2.glbimg.com/fKYvGisTs73yw3afINlFbKQpiXQ=/0x0:960x540/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/l/D/bcAWwRRmAlziTd8Nv0yQ/ponte1.jpg 1x, https://s2.glbimg.com/VcRrOHMB-XRQvCzZlDpGUy4Z92Q=/0x0:960x540/2000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/l/D/bcAWwRRmAlziTd8Nv0yQ/ponte1.jpg 2x"> <source data-src="https://s2.glbimg.com/sBsVjYEmXOEvCfE-tHmEjQgH3XE=/0x0:960x540/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/l/D/bcAWwRRmAlziTd8Nv0yQ/ponte1.jpg"> <!--[if IE 9]></video><![endif]--> <img class="image content-media__image" itemprop="contentUrl" alt="Ponte encara o Atibaia em jogo-treino no CT (Foto: PontePress / JH Semedo)" title="Ponte encara o Atibaia em jogo-treino no CT (Foto: PontePress / JH Semedo)" data-src="https://s2.glbimg.com/sBsVjYEmXOEvCfE-tHmEjQgH3XE=/0x0:960x540/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/l/D/bcAWwRRmAlziTd8Nv0yQ/ponte1.jpg"> </source></source></source></source></source></picture> 
+ 
+ 
+ 
+
+_<svg xmlns="http://www.w3.org/2000/svg" width="13.5px" height="11.25px" viewbox="0 0 13 12"> <ellipse id="Oval" cx="6.5" cy="6.7826087" rx="2" ry="2.08695652"></ellipse> <path d="M4.625,0.260869565 L3.48125,1.56521739 L1.5,1.56521739 C0.8125,1.56521739 0.25,2.15217391 0.25,2.86956522 L0.25,10.6956522 C0.25,11.4130435 0.8125,12 1.5,12 L11.5,12 C12.1875,12 12.75,11.4130435 12.75,10.6956522 L12.75,2.86956522 C12.75,2.15217391 12.1875,1.56521739 11.5,1.56521739 L9.51875,1.56521739 L8.375,0.260869565 L4.625,0.260869565 L4.625,0.260869565 Z M6.5,10.0434783 C4.775,10.0434783 3.375,8.5826087 3.375,6.7826087 C3.375,4.9826087 4.775,3.52173913 6.5,3.52173913 C8.225,3.52173913 9.625,4.9826087 9.625,6.7826087 C9.625,8.5826087 8.225,10.0434783 6.5,10.0434783 L6.5,10.0434783 Z" id="Shape"></path> </svg>_ Ponte encara o Atibaia em jogo-treino no CT (Foto: PontePress / JH Semedo)
+
+ 
+ 
+ 
+ 
+ 
+
+A atividade serviu para apresentar o primeiro esboço de time de Eduardo Baptista para 2018. A Ponte começou a atividade com: **Ivan; Emerson, Wesley Matos, Luan Peres e Jeferson; Marciel, Jorge Mendoza e Tiago Real; Léo Artur, Fellipe Cardoso e Silvinho**.
+
+ 
+ 
+ 
+
+A tendência é que boa parte dessa equipe seja escalada desde o início para a partida de estreia na temporada 2018. A Ponte vai a São Paulo para enfrentar o Corinthians, no dia 17, na arena. Será a reedição da final do Campeonato Paulista.
+
+ 
+ 
+ 
+
+[+ CLIQUE AQUI e leia mais sobre a Ponte Preta](http://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/)
+
+ 
+ 
+ 
+
+Na etapa final do jogo-treino, com uma equipe modificada, a Macaca foi a campo com: **Ivan; Léo, Renan Fonseca, Reynaldo e Zé Ricardo; Marquinho, Vitinho e Claudinho; Lincon, Erick e Saraiva**.
+
+ 
+ 
+ 
+ 
+
+Os goleiros Aranha e Vinicius Silvestre, os volantes João Vitor e Ronaldo e os atacantes Luis Ali e Yuri foram os desfalques na primeira atividade da Ponte, que deve realizar mais um teste antes da estreia no Paulistão.
+
+ 
+ 
+ 
