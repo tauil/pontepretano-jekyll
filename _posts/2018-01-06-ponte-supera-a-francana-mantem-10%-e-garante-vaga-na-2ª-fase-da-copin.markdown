@@ -1,0 +1,76 @@
+---
+layout: post
+title: "Ponte supera a Francana, mantém 10% e garante vaga na 2ª fase da Copinha"
+date: 2018-01-06T21:09:35+00:00
+external_link: "https://globoesporte.globo.com/sp/campinas-e-regiao/futebol/copa-sp-de-futebol-junior/noticia/ponte-supera-a-francana-mantem-100-e-fica-proxima-de-confirmar-classificacao.ghtml"
+categories: news globo.com
+---
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+A Ponte Preta somou neste sábado a segunda vitória em duas rodadas na Copa São Paulo de Futebol Júnior. Graças a dois gols contra e um por cobertura, marcado por Regino, a Macaca derrotou a Francana por 3 a 1, em Franca, e assumiu a liderança do Grupo 9.
+
+ 
+ 
+ 
+
+[Veja a classificação e os jogos da Copinha](http://globoesporte.globo.com/futebol/Copa-SP-de-futebol-junior/)
+
+ 
+ 
+ > [pic.twitter.com/vVfLxHvn01](https://t.co/vVfLxHvn01)
+> 
+> — [January 6, 2018](https://twitter.com/aapp_oficial/status/949744857177821184) 
+ 
+ 
+
+O time campineiro se beneficiou do [empate por 1 a 1 entre Araxá-MG e Chapecoense](https://globoesporte.globo.com/sp/ribeirao-preto-e-regiao/futebol/copa-sp-de-futebol-junior/noticia/araxa-e-chapecoense-empatam-e-mantem-chances-de-classificacao.ghtml), e garantiu sua classificação à segunda fase da Copa São Paulo. O time decidirá a liderança do Grupo 9 na terça-feira, em duelo contra o Araxá, às 18h. Em seguida, às 20h, jogam Francana e Chape.
+
+ 
+ 
+ 
+
+[+ CLIQUE AQUI e leia mais sobre a Ponte Preta](http://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/)
+
+ 
+ 
+ 
+
+De qualquer forma, a Ponte chega embalada para o encerramento da primeira fase. Depois de vencer a Chapecoense, o time criou muitas situações de gols contra a Francana, mas só saiu na frente depois dos 30 minutos, quando o zagueiro Caio tentou o corte e encobriu o próprio goleiro.
+
+ 
+ 
+ 
+
+A Francana ameaçou e conseguiu o empate em seguida, em cobrança de pênalti de Yago no canto esquerdo. O segundo gol da Macaca saiu de mais uma falha da defesa alviverde, pois Leonardo desviou para o próprio gol. No fim, Regino, por cobertura, deu números finais ao jogo.
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  ![Ponte consegue vencer a Francana pela segunda rodada da Copinha (Foto: Divulgação / PontePress)](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgARCAAOABkDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgIEB//EABYBAQEBAAAAAAAAAAAAAAAAAAABBP/aAAwDAQACEAMQAAABcDeR1gqoxgk//8QAHRAAAgICAwEAAAAAAAAAAAAAAwQAAQIGBRESFP/aAAgBAQABBQJDYk+QAyy2jZNjeaD8xYBywY27L7xnqf/EABYRAQEBAAAAAAAAAAAAAAAAAAARAf/aAAgBAwEBPwG4r//EABYRAAMAAAAAAAAAAAAAAAAAAAABE//aAAgBAgEBPwGzKs//xAAjEAACAQIEBwAAAAAAAAAAAAABAgADBBAhMUEREiJCkbHB/9oACAEBAAY/AgTbOjFQSH2jtQrpda5VAvoRwbegA2XMnEfZ2eI67ND06giDD//EAB0QAQEAAgIDAQAAAAAAAAAAAAERACExQRBRcWH/2gAIAQEAAT8h0TSAE9D39yMUEK7jDSuW7a3l+SvEnHc7OkzcjkDfZMkpo8Z8Z//aAAwDAQACAAMAAAAQDj//xAAXEQEBAQEAAAAAAAAAAAAAAAABABFR/9oACAEDAQE/EASzy//EABYRAQEBAAAAAAAAAAAAAAAAAAEAMf/aAAgBAgEBPxBVyWcv/8QAHRABAQADAAIDAAAAAAAAAAAAAREAITFRYXGRof/aAAgBAQABPxBYSGCZN8IAeBs844wlzBIFkBjrfzm5c4HdoWhBH0vc9H3YcDWECiifpjChXF2Mmce3EsBeCTIx/9k= "Ponte consegue vencer a Francana pela segunda rodada da Copinha (Foto: Divulgação / PontePress)") <picture itemscope itemtype="http://schema.org/ImageObject"> <!--[if IE 9]><video style="display: none;"><![endif]--> <source media="(max-width: 1024px)" data-src="https://s2.glbimg.com/ahtwmO2d_LBYFkIWYwEwcrjwNns=/0x0:1226x682/600x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/y/n/1LG4T9RkmfI4QcdIblcw/ponte1.jpg 1x, https://s2.glbimg.com/rYFOxD6GdQ14nGwMlhg2sbORXic=/0x0:1226x682/1200x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/y/n/1LG4T9RkmfI4QcdIblcw/ponte1.jpg 2x"> <source media="(max-width: 1280px)" data-src="https://s2.glbimg.com/r40mafYgpQ6v6DgKYRng0OuV_9E=/0x0:1226x682/640x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/y/n/1LG4T9RkmfI4QcdIblcw/ponte1.jpg 1x, https://s2.glbimg.com/-h-O80w1GSkVCzrMZC_FOTjoXkw=/0x0:1226x682/1280x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/y/n/1LG4T9RkmfI4QcdIblcw/ponte1.jpg 2x"> <source media="(max-width: 1360px)" data-src="https://s2.glbimg.com/0XFUAWnOo6uDmUqFyAdgzBTCHvE=/0x0:1226x682/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/y/n/1LG4T9RkmfI4QcdIblcw/ponte1.jpg 1x, https://s2.glbimg.com/XZ063HgH5KvIid_1yk7VuK_nB0k=/0x0:1226x682/1968x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/y/n/1LG4T9RkmfI4QcdIblcw/ponte1.jpg 2x"> <source media="(min-width: 1361px)" data-src="https://s2.glbimg.com/ZrPuGxw3EbSZuhmfjsixOozrjWE=/0x0:1226x682/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/y/n/1LG4T9RkmfI4QcdIblcw/ponte1.jpg 1x, https://s2.glbimg.com/XfF1Wlll5yaYu2O-RyTeW51lRMw=/0x0:1226x682/2000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/y/n/1LG4T9RkmfI4QcdIblcw/ponte1.jpg 2x"> <source data-src="https://s2.glbimg.com/0XFUAWnOo6uDmUqFyAdgzBTCHvE=/0x0:1226x682/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/y/n/1LG4T9RkmfI4QcdIblcw/ponte1.jpg"> <!--[if IE 9]></video><![endif]--> <img class="image content-media__image" itemprop="contentUrl" alt="Ponte consegue vencer a Francana pela segunda rodada da Copinha (Foto: Divulgação / PontePress)" title="Ponte consegue vencer a Francana pela segunda rodada da Copinha (Foto: Divulgação / PontePress)" data-src="https://s2.glbimg.com/0XFUAWnOo6uDmUqFyAdgzBTCHvE=/0x0:1226x682/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/y/n/1LG4T9RkmfI4QcdIblcw/ponte1.jpg"> </source></source></source></source></source></picture> 
+ 
+ 
+ 
+
+_<svg xmlns="http://www.w3.org/2000/svg" width="13.5px" height="11.25px" viewbox="0 0 13 12"> <ellipse id="Oval" cx="6.5" cy="6.7826087" rx="2" ry="2.08695652"></ellipse> <path d="M4.625,0.260869565 L3.48125,1.56521739 L1.5,1.56521739 C0.8125,1.56521739 0.25,2.15217391 0.25,2.86956522 L0.25,10.6956522 C0.25,11.4130435 0.8125,12 1.5,12 L11.5,12 C12.1875,12 12.75,11.4130435 12.75,10.6956522 L12.75,2.86956522 C12.75,2.15217391 12.1875,1.56521739 11.5,1.56521739 L9.51875,1.56521739 L8.375,0.260869565 L4.625,0.260869565 L4.625,0.260869565 Z M6.5,10.0434783 C4.775,10.0434783 3.375,8.5826087 3.375,6.7826087 C3.375,4.9826087 4.775,3.52173913 6.5,3.52173913 C8.225,3.52173913 9.625,4.9826087 9.625,6.7826087 C9.625,8.5826087 8.225,10.0434783 6.5,10.0434783 L6.5,10.0434783 Z" id="Shape"></path> </svg>_ Ponte consegue vencer a Francana pela segunda rodada da Copinha (Foto: Divulgação / PontePress)
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
