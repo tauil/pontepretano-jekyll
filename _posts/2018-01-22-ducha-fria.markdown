@@ -1,0 +1,7 @@
+---
+layout: post
+title: "Ducha fria"
+date: 2018-01-22T00:00:14+00:00
+external_link: "http://globoesporte.globo.com/sp/campinas-e-regiao/futebol/campeonato-paulista/jogo/21-01-2018/ponte-preta-linense/"
+categories: news globo.com
+---
