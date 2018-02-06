@@ -1,0 +1,7 @@
+---
+layout: post
+title: ""
+date: 2018-02-06T21:30:12+00:00
+external_link: "http://globoesporte.globo.com/am/futebol/copa-do-brasil/jogo/06-02-2018/nacional-ponte-preta/"
+categories: news globo.com
+---
