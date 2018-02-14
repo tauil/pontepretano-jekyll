@@ -1,0 +1,7 @@
+---
+layout: post
+title: ""
+date: 2018-02-14T21:30:14+00:00
+external_link: "http://globoesporte.globo.com/sp/ribeirao-preto-e-regiao/futebol/campeonato-paulista/jogo/14-02-2018/botafogo-sp-ponte-preta/"
+categories: news globo.com
+---
