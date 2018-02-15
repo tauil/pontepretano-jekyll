@@ -1,0 +1,84 @@
+---
+layout: post
+title: "Ponte perde Silvinho por suspensão e deve ficar sem Tiago Real contra Palmeiras "
+date: 2018-02-15T12:25:53+00:00
+external_link: "https://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/noticia/ponte-perde-silvinho-por-suspensao-e-deve-ficar-sem-tiago-real-contra-palmeiras.ghtml"
+categories: news globo.com
+---
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+Depois de contar com força máxima em Ribeirão Preto, onde empatou por 1 a 1 com o Botafogo-SP na noite da última quarta-feira, Eduardo Baptista será obrigado a mexer na Ponte Preta para o duelo contra o Palmeiras, domingo, às 19h30, no Majestoso.
+
+ 
+ 
+ 
+
+Com três cartões amarelos, o atacante Silvinho está suspenso e já é desfalque certo. A Macaca ainda corre o risco de perder Tiago Real, que deixou o campo ainda no primeiro tempo ao sentir uma fisgada no músculo posterior da coxa direita.
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+  ![Tiago Real passará por exames para avaliar o grau do problema na coxa direita (Foto: Rogério Moroti/ Divulgação Botafogo)](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgARCAARABkDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAEDBAYHAv/EABgBAAMBAQAAAAAAAAAAAAAAAAECBAMF/9oADAMBAAIQAxAAAAHAbC5YOc2YpoTGAizgjST0E5//xAAhEAACAgECBwAAAAAAAAAAAAACAwQFAAYSARETFTEzQv/aAAgBAQABBQKNXj0qXTsaxcyvAGdu4YR71aesGwmmTOe5mfMf0D4z/8QAGBEAAgMAAAAAAAAAAAAAAAAAAAEQESH/2gAIAQMBAT8BVGT/AP/EABsRAAEEAwAAAAAAAAAAAAAAAAABAgRREBQy/9oACAECAQE/AUk2huPodzj/xAAgEAABBAEEAwAAAAAAAAAAAAABAAIDERIQEzEyQVHh/9oACAEBAAY/AnTMks5Y4HyFJuSS2W2yOCPI/KRbb3CrBpdZE5h4I4UW3NgSCMnDgFXkb9rsUU3X/8QAHhAAAgICAgMAAAAAAAAAAAAAAAERMSFBEPFRgaH/2gAIAQEAAT8hiQRRRBnci8Y2C+78Fie4ob+jrCaqkp4IZqHKy7jwNNQwO/H8uPTx/9oADAMBAAIAAwAAABD1D33/xAAYEQEBAQEBAAAAAAAAAAAAAAABABEhMf/aAAgBAwEBPxBaMl1yPYv/xAAgEQABAwIHAAAAAAAAAAAAAAABABEhMUFxkaGxwdHh/9oACAECAQE/EHmMbgGdadYoMU5+LeHKuv/EACIQAQEAAgEDBAMAAAAAAAAAAAERACExQVGxEHGRodHw8f/aAAgBAQABPxBtJS96qYQaKcU74muTdmrAI4O5Lq5UEzYRYDtNJTo0us/RfjBCpgQTnj3D4M3QHRIR504jZ1sxSbZhVlqXtd5/ZZ954zxvOfR9P//Z "Tiago Real passará por exames para avaliar o grau do problema na coxa direita (Foto: Rogério Moroti/ Divulgação Botafogo)") <picture itemscope itemtype="http://schema.org/ImageObject"> <!--[if IE 9]><video style="display: none;"><![endif]--> <source media="(max-width: 1024px)" data-src="https://s2.glbimg.com/BJnBsE3JIw2gAJ9_7j8xaTRs_Lw=/0x0:2000x1333/600x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/02/14/botafogoxponte.tiagoreal_RUCeljm.jpg 1x, https://s2.glbimg.com/x0zKyUejgV2-7M0VsiiWCpNiHhg=/0x0:2000x1333/1200x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/02/14/botafogoxponte.tiagoreal_RUCeljm.jpg 2x"> <source media="(max-width: 1280px)" data-src="https://s2.glbimg.com/DcLOmEXIsHd7LWAldjYtPn9O2EM=/0x0:2000x1333/640x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/02/14/botafogoxponte.tiagoreal_RUCeljm.jpg 1x, https://s2.glbimg.com/EFibFc08OwML5H47aok9lsmnQNw=/0x0:2000x1333/1280x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/02/14/botafogoxponte.tiagoreal_RUCeljm.jpg 2x"> <source media="(max-width: 1360px)" data-src="https://s2.glbimg.com/FEfTCRP02ek5Il5OCpR_K-9EjNk=/0x0:2000x1333/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/02/14/botafogoxponte.tiagoreal_RUCeljm.jpg 1x, https://s2.glbimg.com/CFsaGE41_G44TdvtBhHlZ-HIl_U=/0x0:2000x1333/1968x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/02/14/botafogoxponte.tiagoreal_RUCeljm.jpg 2x"> <source media="(min-width: 1361px)" data-src="https://s2.glbimg.com/Mse6_9JWaRAVzRA4vu0rAT1Z-t4=/0x0:2000x1333/1000x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/02/14/botafogoxponte.tiagoreal_RUCeljm.jpg 1x, https://s2.glbimg.com/pAEsU8_AQMtsz6bXnUlfwnOUEL8=/0x0:2000x1333/2000x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/02/14/botafogoxponte.tiagoreal_RUCeljm.jpg 2x"> <source data-src="https://s2.glbimg.com/FEfTCRP02ek5Il5OCpR_K-9EjNk=/0x0:2000x1333/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/02/14/botafogoxponte.tiagoreal_RUCeljm.jpg"> <!--[if IE 9]></video><![endif]--> <img class="image content-media__image" itemprop="contentUrl" alt="Tiago Real passará por exames para avaliar o grau do problema na coxa direita (Foto: Rogério Moroti/ Divulgação Botafogo)" title="Tiago Real passará por exames para avaliar o grau do problema na coxa direita (Foto: Rogério Moroti/ Divulgação Botafogo)" data-src="https://s2.glbimg.com/FEfTCRP02ek5Il5OCpR_K-9EjNk=/0x0:2000x1333/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/02/14/botafogoxponte.tiagoreal_RUCeljm.jpg"> </source></source></source></source></source></picture> 
+ 
+ 
+ 
+
+_<svg xmlns="http://www.w3.org/2000/svg" width="13.5px" height="11.25px" viewbox="0 0 13 12"> <ellipse id="Oval" cx="6.5" cy="6.7826087" rx="2" ry="2.08695652"></ellipse> <path d="M4.625,0.260869565 L3.48125,1.56521739 L1.5,1.56521739 C0.8125,1.56521739 0.25,2.15217391 0.25,2.86956522 L0.25,10.6956522 C0.25,11.4130435 0.8125,12 1.5,12 L11.5,12 C12.1875,12 12.75,11.4130435 12.75,10.6956522 L12.75,2.86956522 C12.75,2.15217391 12.1875,1.56521739 11.5,1.56521739 L9.51875,1.56521739 L8.375,0.260869565 L4.625,0.260869565 L4.625,0.260869565 Z M6.5,10.0434783 C4.775,10.0434783 3.375,8.5826087 3.375,6.7826087 C3.375,4.9826087 4.775,3.52173913 6.5,3.52173913 C8.225,3.52173913 9.625,4.9826087 9.625,6.7826087 C9.625,8.5826087 8.225,10.0434783 6.5,10.0434783 L6.5,10.0434783 Z" id="Shape"></path> </svg>_ Tiago Real passará por exames para avaliar o grau do problema na coxa direita (Foto: Rogério Moroti/ Divulgação Botafogo)
+
+ 
+ 
+ 
+ 
+ 
+
+O volante ainda passará por exames para avaliar o grau do problema, mas dificilmente reunirá condições até domingo. Eduardo tem três dias para definir os substitutos.
+
+ 
+ 
+ 
+
+No meio de campo, Marciel surge como favorito para ficar com a vaga. Ele, aliás, entrou no lugar de Tiago Real durante a partida em Ribeirão Preto.
+
+ 
+ 
+ 
+
+- O Tiago lesionou, vinha jogando, achamos a posição dele. Com a saída dele, desequilibramos um pouco. Mas a entrada do Marciel foi tranquila, dá qualidade de passe - avaliou Eduardo.
+
+ 
+ 
+ 
+
+[**+ CLIQUE AQUI e leia mais sobre a Ponte**](http://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/)
+
+ 
+ 
+ 
+
+Além de Marciel, João Vitor e Ronaldo são as outras opções. Já para o lugar de Silvinho, Gabriel Vasconcelos pode receber a primeira chance como titular. O meia Daniel corre por fora. Ainda existe a possibilidade de o treinador realizar outras mudanças por questões técnicas e táticas.
+
+ 
+ 
+ 
+ 
+
+Sem perder há quatro rodadas, com com três empates consecutivos, a Ponte buscará a primeira vitória no Majestoso, onde perdeu para Linense e Santos e empatou com o Novorizontino até aqui na temporada.
+
+ 
+ 
+ 
+ 
+
+ 
+ 
