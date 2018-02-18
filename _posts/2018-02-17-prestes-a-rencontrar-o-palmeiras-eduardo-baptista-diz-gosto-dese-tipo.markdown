@@ -1,0 +1,72 @@
+---
+layout: post
+title: "Prestes a rencontrar o Palmeiras, Eduardo Baptista diz: \"Gosto dese tipo de jogo\""
+date: 2018-02-17T17:12:00+00:00
+external_link: "https://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/noticia/prestes-a-reencontrar-o-palmeiras-eduardo-baptista-diz-gosto-desse-tipo-de-jogo.ghtml"
+categories: news globo.com
+---
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+Sem vencer no Moisés Lucarelli em 2018, a Ponte Preta tem uma parada dura pela frente neste domingo: o Palmeiras, apontado pela maioria como favorito a todos os títulos da temporada. Se o torcedor pode estar preocupado, Eduardo Baptista aparenta tranquilidade para o duelo.
+
+ 
+ 
+ 
+
+– Particularmente eu gosto desse tipo de jogo, de enfrentar Palmeiras, Corinthians, São Paulo, Flamengo, Santos. Deixar jogar, hoje em dia, ninguém deixa. Todo mundo marca pesado, mas esses times têm uma proposta mais ofensiva, mais agressiva. A tendência é de ter um jogo mais aberto, assim como foi contra o Botafogo, com as duas equipes procurando jogar, ninguém se fechando demais – disse o treinador.
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+  ![Eduardo Baptista apronta a Macaca para a próxima rodada (Foto: Carlos Velardi/ EPTV)](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgARCAAOABkDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABgcBAgQF/8QAFgEBAQEAAAAAAAAAAAAAAAAABAAD/9oADAMBAAIQAxAAAAFMu0A3hTI52L53/8QAGxABAAICAwAAAAAAAAAAAAAAAwIEAAEFEhT/2gAIAQEAAQUCItoxgS2rgFTtdK+FxkIZcWI6BJvHzaz/xAAXEQEAAwAAAAAAAAAAAAAAAAAAASEx/9oACAEDAQE/AcRb/8QAGBEAAwEBAAAAAAAAAAAAAAAAAQIRAAP/2gAIAQIBAT8BHVWMzlbN/8QAJBAAAgEDAwMFAAAAAAAAAAAAAQIDABESBBMhIjNBMTJRobH/2gAIAQEABj8CTedjGWxIvSRamKDU5RCPcKXEI+fymgHKqWBvXbSvcfXxxWCJgsi2PUTUbSBZZMTdn812Yfuv/8QAIBABAAIBAwUBAAAAAAAAAAAAAQARITFB0VGBoeHw8f/aAAgBAQABPyGtT4lnTmX1PNwAW8Ju6xJ26hytZ74nwMzyjZrA6cRbZBLNhjyx6yBy6vU/a5z/2gAMAwEAAgADAAAAEGFP/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERYf/aAAgBAwEBPxBVdJWn/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERYf/aAAgBAgEBPxCfMewP/8QAHhABAQEAAQQDAAAAAAAAAAAAAREhABAxQWFxgZH/2gAIAQEAAT8QsCHlaJjcUW838O+RRipx1x4efEn6ZOsQL6Ojm92nZkFjpn9eJCMAGhFQPdYLNDjOIBTgFnZCD10tf//Z "Eduardo Baptista apronta a Macaca para a próxima rodada (Foto: Carlos Velardi/ EPTV)") <picture itemscope itemtype="http://schema.org/ImageObject"> <!--[if IE 9]><video style="display: none;"><![endif]--> <source media="(max-width: 1024px)" data-src="https://s2.glbimg.com/eOV76woOdvF44FmLJR7_qbhCmps=/0x0:1042x587/600x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/V/S/0vN9kGSz2CzwCWsQ6TWg/eduardobaptista.2.jpg 1x, https://s2.glbimg.com/GZSzkXgrgsKq-x_h-EBY1sUg3yo=/0x0:1042x587/1200x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/V/S/0vN9kGSz2CzwCWsQ6TWg/eduardobaptista.2.jpg 2x"> <source media="(max-width: 1280px)" data-src="https://s2.glbimg.com/OcSoKJs12nPQDRZrTYj-su-BA44=/0x0:1042x587/640x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/V/S/0vN9kGSz2CzwCWsQ6TWg/eduardobaptista.2.jpg 1x, https://s2.glbimg.com/hSLnIrA_zOzcuR7qp57UDcUMb6g=/0x0:1042x587/1280x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/V/S/0vN9kGSz2CzwCWsQ6TWg/eduardobaptista.2.jpg 2x"> <source media="(max-width: 1360px)" data-src="https://s2.glbimg.com/6ayZnsNREXBaIriyNUko3PF7o68=/0x0:1042x587/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/V/S/0vN9kGSz2CzwCWsQ6TWg/eduardobaptista.2.jpg 1x, https://s2.glbimg.com/DTnXEHzXwvNraHexzDfzTSEUnbE=/0x0:1042x587/1968x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/V/S/0vN9kGSz2CzwCWsQ6TWg/eduardobaptista.2.jpg 2x"> <source media="(min-width: 1361px)" data-src="https://s2.glbimg.com/55CL1-cM-CGhyzIJsnfCU70FZAQ=/0x0:1042x587/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/V/S/0vN9kGSz2CzwCWsQ6TWg/eduardobaptista.2.jpg 1x, https://s2.glbimg.com/Rkmft3uZE0ZMb45nwHRc7k-0Ixw=/0x0:1042x587/2000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/V/S/0vN9kGSz2CzwCWsQ6TWg/eduardobaptista.2.jpg 2x"> <source data-src="https://s2.glbimg.com/6ayZnsNREXBaIriyNUko3PF7o68=/0x0:1042x587/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/V/S/0vN9kGSz2CzwCWsQ6TWg/eduardobaptista.2.jpg"> <!--[if IE 9]></video><![endif]--> <img class="image content-media__image" itemprop="contentUrl" alt="Eduardo Baptista apronta a Macaca para a próxima rodada (Foto: Carlos Velardi/ EPTV)" title="Eduardo Baptista apronta a Macaca para a próxima rodada (Foto: Carlos Velardi/ EPTV)" data-src="https://s2.glbimg.com/6ayZnsNREXBaIriyNUko3PF7o68=/0x0:1042x587/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/V/S/0vN9kGSz2CzwCWsQ6TWg/eduardobaptista.2.jpg"> </source></source></source></source></source></picture> 
+ 
+ 
+ 
+
+_<svg xmlns="http://www.w3.org/2000/svg" width="13.5px" height="11.25px" viewbox="0 0 13 12"> <ellipse id="Oval" cx="6.5" cy="6.7826087" rx="2" ry="2.08695652"></ellipse> <path d="M4.625,0.260869565 L3.48125,1.56521739 L1.5,1.56521739 C0.8125,1.56521739 0.25,2.15217391 0.25,2.86956522 L0.25,10.6956522 C0.25,11.4130435 0.8125,12 1.5,12 L11.5,12 C12.1875,12 12.75,11.4130435 12.75,10.6956522 L12.75,2.86956522 C12.75,2.15217391 12.1875,1.56521739 11.5,1.56521739 L9.51875,1.56521739 L8.375,0.260869565 L4.625,0.260869565 L4.625,0.260869565 Z M6.5,10.0434783 C4.775,10.0434783 3.375,8.5826087 3.375,6.7826087 C3.375,4.9826087 4.775,3.52173913 6.5,3.52173913 C8.225,3.52173913 9.625,4.9826087 9.625,6.7826087 C9.625,8.5826087 8.225,10.0434783 6.5,10.0434783 L6.5,10.0434783 Z" id="Shape"></path> </svg>_ Eduardo Baptista apronta a Macaca para a próxima rodada (Foto: Carlos Velardi/ EPTV)
+
+ 
+ 
+ 
+ 
+ 
+
+A partida deste domingo marcará mais um encontro de Eduardo com o Palmeiras, equipe que dirigiu por alguns meses em 2017. Se não conseguiu sucesso com o estrelado elenco alviverde no ano passado, o técnico sabe mais do que ninguém que a Ponte não pode dar espaço ao rival, o único invicto no futebol paulista (seis vitórias e um empate).
+
+ 
+ 
+ 
+
+– Temos de buscar o equilíbrio. Nem se fechar atrás, nem ir muito para a frente. Se der espaço para os jogadores do Palmeiras, eles desequilibram. Tem que saber o momento de marcar mais alto, marcar um pouco atrás, e minimizar os erros quando tiver a posse, pois o Palmeiras é letal no contra-ataque.
+
+ 
+ 
+ 
+
+[+ CLIQUE AQUI e leia mais sobre a Ponte Preta](http://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/)
+
+ 
+ 
+ 
+ 
+
+Enquanto o Palmeiras parece com a classificação encaminhada, a Ponte joga para quebrar o jejum diante da torcida (até agora, um empate e duas derrotas) e também colocar uma mão em uma das vagas do Grupo B. A Macaca está em segundo lugar, com nove pontos, um abaixo do São Paulo.
+
+ 
+ 
+ 
+ 
+
+ 
+ 
