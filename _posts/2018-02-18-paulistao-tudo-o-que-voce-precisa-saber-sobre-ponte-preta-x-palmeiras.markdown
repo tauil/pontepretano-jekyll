@@ -1,0 +1,146 @@
+---
+layout: post
+title: "Paulistão: tudo o que você precisa saber sobre Ponte Preta x Palmeiras"
+date: 2018-02-18T09:00:12+00:00
+external_link: "https://globoesporte.globo.com/sp/campinas-e-regiao/futebol/campeonato-paulista/noticia/paulistao-tudo-o-que-voce-precisa-saber-sobre-ponte-preta-x-palmeiras.ghtml"
+categories: news globo.com
+---
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+Rivais da semifinal do Paulistão do ano passado, Ponte Preta e Palmeiras vão se reencontrar pelo torneio estadual neste domingo, em duelo que será disputado no estádio Moisés Lucarelli, em Campinas, às 19h30.
+
+ 
+ 
+ 
+
+Único invicto do torneio, o Verdão perdeu os 100% de aproveitamento ao empatar em casa com o Linense, na última quinta-feira. Mas a situação continua confortável - são sete pontos de vantagem para o segundo colocado do Grupo C, mesma diferença que os palmeirenses têm na liderança geral da competição.
+
+ 
+ 
+ 
+
+Com nove pontos, a Ponte chega para enfrentar o Palmeiras sem perder há quatro jogos pelo Paulistão, mas com três empates seguidos, e vai em busca da primeira vitória em casa no ano. Até aqui, a Macaca perdeu para Linense e Santos e empatou com o Novorizontino no Majestoso. Quebrar o jejum como mandante é fundamental para continuar no G-2 do Grupo B.
+
+ 
+ 
+ 
+
+**Arbitragem:** Vinicius Gonçalves Dias Araújo apita a partida, Miguel Cataneo Ribeiro da Costa e Vitor Carmona Metestaine
+
+ 
+ 
+ 
+
+**Transmissão:** Premiere 1 (com Jota JR e Raphael Rezende)
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+  ![](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgARCAAEABkDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAQDB//EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAe42hXqH/8QAGRAAAwEBAQAAAAAAAAAAAAAAAAECBAMU/9oACAEBAAEFAqx03zzWhZ6PPR//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAfEAABAwMFAAAAAAAAAAAAAAACAAMEATSSEiEiM3H/2gAIAQEABj8CLTKkN8y2E1dyK+mrh7Jd72S//8QAHhAAAgEDBQAAAAAAAAAAAAAAAAHRESFBUWGRofH/2gAIAQEAAT8hpE9fdtarGBKuCQM360HhIP/aAAwDAQACAAMAAAAQgg//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/ED//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAaEAEBAQEAAwAAAAAAAAAAAAABESEAEDFB/9oACAEBAAE/ENuqYxxDRgIPgvvixiJs66LPJk+FD//Z) <picture itemscope itemtype="http://schema.org/ImageObject"> <!--[if IE 9]><video style="display: none;"><![endif]--> <source media="(max-width: 1024px)" data-src="https://s2.glbimg.com/5l402yqVQTbIdJknhX1kymyU90k=/0x0:1000x159/600x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/W/N/7Yjib9TNyyPJdAmhDFuw/escalacoes-provaveis.png 1x, https://s2.glbimg.com/ER145jJfQ4wWXmTCvhX2NuihcXk=/0x0:1000x159/1200x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/W/N/7Yjib9TNyyPJdAmhDFuw/escalacoes-provaveis.png 2x"> <source media="(max-width: 1280px)" data-src="https://s2.glbimg.com/KrWB3Gj4Fr4ggw3NxJcodR-sXJ0=/0x0:1000x159/640x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/W/N/7Yjib9TNyyPJdAmhDFuw/escalacoes-provaveis.png 1x, https://s2.glbimg.com/iv7D0i3jEwHuIY-j579S-uUI7nc=/0x0:1000x159/1280x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/W/N/7Yjib9TNyyPJdAmhDFuw/escalacoes-provaveis.png 2x"> <source media="(max-width: 1360px)" data-src="https://s2.glbimg.com/881pkTRZnErznR8DNA48khmsEeE=/0x0:1000x159/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/W/N/7Yjib9TNyyPJdAmhDFuw/escalacoes-provaveis.png 1x, https://s2.glbimg.com/zT8t3rlzM3GIqO-QB8OIUu5eUtA=/0x0:1000x159/1968x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/W/N/7Yjib9TNyyPJdAmhDFuw/escalacoes-provaveis.png 2x"> <source media="(min-width: 1361px)" data-src="https://s2.glbimg.com/k0t4Krrly8qjuL2NAxCPRLIIzAQ=/0x0:1000x159/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/W/N/7Yjib9TNyyPJdAmhDFuw/escalacoes-provaveis.png 1x, https://s2.glbimg.com/wF8uONlzzi8PhT56U1XEcdcx78M=/0x0:1000x159/2000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/W/N/7Yjib9TNyyPJdAmhDFuw/escalacoes-provaveis.png 2x"> <source data-src="https://s2.glbimg.com/881pkTRZnErznR8DNA48khmsEeE=/0x0:1000x159/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/W/N/7Yjib9TNyyPJdAmhDFuw/escalacoes-provaveis.png"> <!--[if IE 9]></video><![endif]--> <img class="image content-media__image" itemprop="contentUrl" alt title data-src="https://s2.glbimg.com/881pkTRZnErznR8DNA48khmsEeE=/0x0:1000x159/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/W/N/7Yjib9TNyyPJdAmhDFuw/escalacoes-provaveis.png"> </source></source></source></source></source></picture> 
+ 
+ 
+ 
+
+_<svg xmlns="http://www.w3.org/2000/svg" width="13.5px" height="11.25px" viewbox="0 0 13 12"> <ellipse id="Oval" cx="6.5" cy="6.7826087" rx="2" ry="2.08695652"></ellipse> <path d="M4.625,0.260869565 L3.48125,1.56521739 L1.5,1.56521739 C0.8125,1.56521739 0.25,2.15217391 0.25,2.86956522 L0.25,10.6956522 C0.25,11.4130435 0.8125,12 1.5,12 L11.5,12 C12.1875,12 12.75,11.4130435 12.75,10.6956522 L12.75,2.86956522 C12.75,2.15217391 12.1875,1.56521739 11.5,1.56521739 L9.51875,1.56521739 L8.375,0.260869565 L4.625,0.260869565 L4.625,0.260869565 Z M6.5,10.0434783 C4.775,10.0434783 3.375,8.5826087 3.375,6.7826087 C3.375,4.9826087 4.775,3.52173913 6.5,3.52173913 C8.225,3.52173913 9.625,4.9826087 9.625,6.7826087 C9.625,8.5826087 8.225,10.0434783 6.5,10.0434783 L6.5,10.0434783 Z" id="Shape"></path> </svg>_
+
+ 
+ 
+ 
+ 
+ 
+
+## Ponte Preta
+
+ 
+ 
+ 
+
+Sem contar com Tiago Real e Silvinho, Eduardo preferiu o mistério sobre os substitutos, mas indicou que Marciel e Gabriel (emprestados pelo Corinthians) são os favoritos para entrar entre os titulares. Pelo pouco tempo de preparação entre um jogo e outro, a tendência é que o treinador não promova grandes surpresas na escalação.
+
+ 
+ 
+ 
+
+**Desfalques:** Tiago Real (edema na coxa direita) e Silvinho (suspenso por três cartões amarelos).
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+**Pendurados:** Jeferson, Luan Peres e Renan Fonseca.
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+  ![Provável escalação da Macaca para enfrentar o Palmeiras (Foto: Editoria de Arte)](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgARCAAmABkDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAwACAQT/xAAYAQEBAQEBAAAAAAAAAAAAAAABAAIGB//aAAwDAQACEAMQAAAB1rmfJeWlJoLeOOpySPO1EKUZ/8QAHRAAAgIDAAMAAAAAAAAAAAAAAAECEhARIRMxQf/aAAgBAQABBQL73RUajVN0jU4P32OOjSKsWsWQnGtkeQ//xAAWEQEBAQAAAAAAAAAAAAAAAAABEBH/2gAIAQMBAT8ByBCf/8QAGhEAAgIDAAAAAAAAAAAAAAAAAAERIQIxUf/aAAgBAgEBPwGLEhYvhAqNH//EAB4QAAEEAgMBAAAAAAAAAAAAABEAARBBITESUYEy/9oACAEBAAY/AqioJz0nbPG058jSA8Wo+s9KynJNSc8o0v/EACIQAAMAAgAFBQAAAAAAAAAAAAABESFBEDFRkbFhcYHB8P/aAAgBAQABPyF3DwF6UK1PofAtbIgHMqaFdWjS7uBnoHiaW1sVpoewgb/DZn7CmWIuVvIY6jryZejpO62cnDIH/9oADAMBAAIAAwAAABAflff6H//EABkRAQADAQEAAAAAAAAAAAAAAAEAETEh8f/aAAgBAwEBPxDdHeXyVwYrheRDTyKm5k//xAAdEQABBAIDAAAAAAAAAAAAAAABABEhQTFxUWGR/9oACAECAQE/EKswTGr1agc2jIDiWx4x2gAkXVjowEWQR4L/xAAgEAEAAgMBAAMAAwAAAAAAAAABESEAMUFRYYGhccHw/9oACAEBAAE/EFMNCqeYuUHIL/MlTstkPchjaGI3kI3qPO4BWcAdzU/PmOCSAmJkVp5Pn859sMiTXfjA0NDaycobn+8ASSzrk+GPkLBXkdfkZEK3IpI6Bb7WXXJYattyPXFpSUh15jmREjiFtPWo+8N54Z5n+bn/2Q== "Provável escalação da Macaca para enfrentar o Palmeiras (Foto: Editoria de Arte)") <picture itemscope itemtype="http://schema.org/ImageObject"> <!--[if IE 9]><video style="display: none;"><![endif]--> <source media="(max-width: 1024px)" data-src="https://s2.glbimg.com/ms9FKUgcS8B-8igJaMgMjanjlDM=/0x0:600x900/600x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/3/u/JZxc38RkaR0rv7nkPi3A/campinho.png 1x, https://s2.glbimg.com/o30LwTPU0lWcKrK_OSj6x15XAYU=/0x0:600x900/1200x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/3/u/JZxc38RkaR0rv7nkPi3A/campinho.png 2x"> <source media="(max-width: 1280px)" data-src="https://s2.glbimg.com/FYab0ndmaZx88BG9gglMerKPLTQ=/0x0:600x900/640x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/3/u/JZxc38RkaR0rv7nkPi3A/campinho.png 1x, https://s2.glbimg.com/Eich4n56zrJI2UL1G1kAtWx_WA0=/0x0:600x900/1280x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/3/u/JZxc38RkaR0rv7nkPi3A/campinho.png 2x"> <source media="(max-width: 1360px)" data-src="https://s2.glbimg.com/bIgpXSSPVqX0eBr3QUrPSZbjStw=/0x0:600x900/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/3/u/JZxc38RkaR0rv7nkPi3A/campinho.png 1x, https://s2.glbimg.com/wcgwnjUm3G2WeXXD1a1NmiE--ok=/0x0:600x900/1968x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/3/u/JZxc38RkaR0rv7nkPi3A/campinho.png 2x"> <source media="(min-width: 1361px)" data-src="https://s2.glbimg.com/5MSmMx2tOWQ88Z128lpo_ys3Y7M=/0x0:600x900/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/3/u/JZxc38RkaR0rv7nkPi3A/campinho.png 1x, https://s2.glbimg.com/DK_u4k1wmMhfRbdW9NXCuA__xfo=/0x0:600x900/2000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/3/u/JZxc38RkaR0rv7nkPi3A/campinho.png 2x"> <source data-src="https://s2.glbimg.com/bIgpXSSPVqX0eBr3QUrPSZbjStw=/0x0:600x900/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/3/u/JZxc38RkaR0rv7nkPi3A/campinho.png"> <!--[if IE 9]></video><![endif]--> <img class="image content-media__image" itemprop="contentUrl" alt="Provável escalação da Macaca para enfrentar o Palmeiras (Foto: Editoria de Arte)" title="Provável escalação da Macaca para enfrentar o Palmeiras (Foto: Editoria de Arte)" data-src="https://s2.glbimg.com/bIgpXSSPVqX0eBr3QUrPSZbjStw=/0x0:600x900/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/3/u/JZxc38RkaR0rv7nkPi3A/campinho.png"> </source></source></source></source></source></picture> 
+ 
+ 
+ 
+
+_<svg xmlns="http://www.w3.org/2000/svg" width="13.5px" height="11.25px" viewbox="0 0 13 12"> <ellipse id="Oval" cx="6.5" cy="6.7826087" rx="2" ry="2.08695652"></ellipse> <path d="M4.625,0.260869565 L3.48125,1.56521739 L1.5,1.56521739 C0.8125,1.56521739 0.25,2.15217391 0.25,2.86956522 L0.25,10.6956522 C0.25,11.4130435 0.8125,12 1.5,12 L11.5,12 C12.1875,12 12.75,11.4130435 12.75,10.6956522 L12.75,2.86956522 C12.75,2.15217391 12.1875,1.56521739 11.5,1.56521739 L9.51875,1.56521739 L8.375,0.260869565 L4.625,0.260869565 L4.625,0.260869565 Z M6.5,10.0434783 C4.775,10.0434783 3.375,8.5826087 3.375,6.7826087 C3.375,4.9826087 4.775,3.52173913 6.5,3.52173913 C8.225,3.52173913 9.625,4.9826087 9.625,6.7826087 C9.625,8.5826087 8.225,10.0434783 6.5,10.0434783 L6.5,10.0434783 Z" id="Shape"></path> </svg>_ Provável escalação da Macaca para enfrentar o Palmeiras (Foto: Editoria de Arte)
+
+ 
+ 
+ 
+ 
+ 
+
+## Palmeiras
+
+ 
+ 
+ 
+
+Roger Machado já abriu possibilidade de fazer testes no Palmeiras nas rodadas restantes do Paulistão, como ocorreu com Guerra contra o Linense. Mas, a ideia da comissão técnica é manter a base titular, até porque o time, mesmo com boa vantagem, ainda luta para confirmar a classificação e manter a liderança geral da primeira fase.
+
+ 
+ 
+ 
+
+**Desfalques:** Diogo Barbosa, Edu Dracena, Moisés (transição física), Jean (cirurgia no joelho direito) e Deyverson (cirurgia no pé direito).
+
+ 
+ 
+ 
+
+**Pendurados:** Felipe Melo e Victor Luis.
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  ![Provável escalação do Palmeiras para a partida contra a Ponte (Foto: GloboEsporte.com)](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgARCAAmABkDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAgMAAf/EABkBAAMAAwAAAAAAAAAAAAAAAAABAgMGB//aAAwDAQACEAMQAAABSB5JqrU6AaxpksvmmZPYQ7tC/8QAHhAAAgICAgMAAAAAAAAAAAAAAAECERIhIkEDEBP/2gAIAQEAAQUC72bKGlXUVb0Xt+T6TvlsaMZkcF6yRxq4mZ//xAAYEQADAQEAAAAAAAAAAAAAAAAAARARcf/aAAgBAwEBPwHpgop//8QAHREAAgEEAwAAAAAAAAAAAAAAAAERAhAhMUFh8P/aAAgBAgEBPwHTyRiSlPXp4OxW/8QAIRAAAAQFBQAAAAAAAAAAAAAAAAEQQRESITGBAiAiQlH/2gAIAQEABj8CZGSMcbLAzMquKFRD5YEnvUaprssUsP/EACAQAQACAgEEAwAAAAAAAAAAAAEAESExURBBgcFhcbH/2gAIAQEAAT8hVsfiXXWPqXY9J4zXF3XKCWO0HFQGW3oUanzHFmg0fEQ6PyejKsuKa59Qr3HLLcNO7SqveY5irdMLNXcMWGVj/9oADAMBAAIAAwAAABClfch0P//EAB4RAAIBAwUAAAAAAAAAAAAAAAERABAhMVFxgZHw/9oACAEDAQE/EEj5tGABgnGQV3dN8w3vrCVP/8QAIBEAAQQCAQUAAAAAAAAAAAAAAQARITFBcVGBobHh8P/aAAgBAgEBPxAiDtY695CBMIXpOyEgtXJ5P1dEGzOcAVPH0KJJ34Ril//EACEQAQACAgEEAwEAAAAAAAAAAAEAESExQVFhcYEQkaGx/9oACAEBAAE/EAgwDBSGFTDgV/IALs5KdZ5QRXFzKY34gwDbbX5fo+iEdgSqgOOqtHuX0MYOIm1mVpgaWnL2kIOcKLHi/wBngQLpsgKGl2XVOnhgsiVULXGe4XDNhhQL1eBE81K68SUlO0ZgyUCGdZW+z9wTw2+Ph//Z "Provável escalação do Palmeiras para a partida contra a Ponte (Foto: GloboEsporte.com)") <picture itemscope itemtype="http://schema.org/ImageObject"> <!--[if IE 9]><video style="display: none;"><![endif]--> <source media="(max-width: 1024px)" data-src="https://s2.glbimg.com/YZQEaIU1rG-4hOBFMFN9sLzd20M=/0x0:600x900/600x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/S/A/18d8kRSLGwoPltQ6K5Rw/campinho.png 1x, https://s2.glbimg.com/Cp6bqZ6ZsG8BjGJa4BGYNsnNQIo=/0x0:600x900/1200x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/S/A/18d8kRSLGwoPltQ6K5Rw/campinho.png 2x"> <source media="(max-width: 1280px)" data-src="https://s2.glbimg.com/vk3d-sqysFvGZ_5xjcitJ4kLHwg=/0x0:600x900/640x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/S/A/18d8kRSLGwoPltQ6K5Rw/campinho.png 1x, https://s2.glbimg.com/muQlSudD4MpG09sOO_kggTljWDU=/0x0:600x900/1280x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/S/A/18d8kRSLGwoPltQ6K5Rw/campinho.png 2x"> <source media="(max-width: 1360px)" data-src="https://s2.glbimg.com/JvqNNh6niNbEfk2WmaOQhUCpMuc=/0x0:600x900/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/S/A/18d8kRSLGwoPltQ6K5Rw/campinho.png 1x, https://s2.glbimg.com/JGofMEoker22zIaG35QHrta05Cc=/0x0:600x900/1968x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/S/A/18d8kRSLGwoPltQ6K5Rw/campinho.png 2x"> <source media="(min-width: 1361px)" data-src="https://s2.glbimg.com/C3VcvnDcqFijueh7Y0E4KPceUTM=/0x0:600x900/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/S/A/18d8kRSLGwoPltQ6K5Rw/campinho.png 1x, https://s2.glbimg.com/V6CQ1wE1xR7XA8RccDBEr9PKDD8=/0x0:600x900/2000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/S/A/18d8kRSLGwoPltQ6K5Rw/campinho.png 2x"> <source data-src="https://s2.glbimg.com/JvqNNh6niNbEfk2WmaOQhUCpMuc=/0x0:600x900/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/S/A/18d8kRSLGwoPltQ6K5Rw/campinho.png"> <!--[if IE 9]></video><![endif]--> <img class="image content-media__image" itemprop="contentUrl" alt="Provável escalação do Palmeiras para a partida contra a Ponte (Foto: GloboEsporte.com)" title="Provável escalação do Palmeiras para a partida contra a Ponte (Foto: GloboEsporte.com)" data-src="https://s2.glbimg.com/JvqNNh6niNbEfk2WmaOQhUCpMuc=/0x0:600x900/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/S/A/18d8kRSLGwoPltQ6K5Rw/campinho.png"> </source></source></source></source></source></picture> 
+ 
+ 
+ 
+
+_<svg xmlns="http://www.w3.org/2000/svg" width="13.5px" height="11.25px" viewbox="0 0 13 12"> <ellipse id="Oval" cx="6.5" cy="6.7826087" rx="2" ry="2.08695652"></ellipse> <path d="M4.625,0.260869565 L3.48125,1.56521739 L1.5,1.56521739 C0.8125,1.56521739 0.25,2.15217391 0.25,2.86956522 L0.25,10.6956522 C0.25,11.4130435 0.8125,12 1.5,12 L11.5,12 C12.1875,12 12.75,11.4130435 12.75,10.6956522 L12.75,2.86956522 C12.75,2.15217391 12.1875,1.56521739 11.5,1.56521739 L9.51875,1.56521739 L8.375,0.260869565 L4.625,0.260869565 L4.625,0.260869565 Z M6.5,10.0434783 C4.775,10.0434783 3.375,8.5826087 3.375,6.7826087 C3.375,4.9826087 4.775,3.52173913 6.5,3.52173913 C8.225,3.52173913 9.625,4.9826087 9.625,6.7826087 C9.625,8.5826087 8.225,10.0434783 6.5,10.0434783 L6.5,10.0434783 Z" id="Shape"></path> </svg>_ Provável escalação do Palmeiras para a partida contra a Ponte (Foto: GloboEsporte.com)
+
+ 
+ 
+ 
+ 
+ 
