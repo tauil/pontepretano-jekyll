@@ -1,0 +1,67 @@
+---
+layout: post
+title: "Ponte coloca ingresos a partir de R$ 5 na Copa do Brasil; veja esquema de venda"
+date: 2018-02-19T18:17:51+00:00
+external_link: "https://globoesporte.globo.com/sp/campinas-e-regiao/futebol/copa-do-brasil/noticia/ponte-coloca-ingressos-a-partir-de-r-5-na-copa-do-brasil-veja-esquema-de-venda.ghtml"
+categories: news globo.com
+---
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+A diretoria da Ponte Preta divulgou uma promoção de ingressos para o duelo da próxima quarta-feira, às 21h45, contra a Inter de Limeira, pela Copa do Brasil. A **EPTV** transmite o confronto **ao vivo** para a região de Campinas, enquanto o **GloboEsporte.com** acompanha em Tempo Real, com vídeos exclusivos.
+
+ 
+ 
+ 
+
+Em busca de apoio da torcida, o clube campineiro colocou os bilhetes a R$ 10 (inteira) e R$ 5 (meia) nas arquibancadas descobertas e também na geral. Nos demais setores, a Ponte vai cobrar R$ 40 (inteira) e R$ 20 (meia) para quem tem direito a cadeira VIP e camarotes.
+
+ 
+ 
+ > Vamos lotar o estádio e torcer pela Macaca na Copa do Brasil: ingressos para o jogo desta quarta estão à venda a R$ 10 (inteira) e R$ 5 (meia).  
+> Acesse: [https://t.co/YJgAOJh5Jt](https://t.co/YJgAOJh5Jt) [pic.twitter.com/fmmj6aMBPy](https://t.co/fmmj6aMBPy)
+> 
+> — [February 19, 2018](https://twitter.com/aapp_oficial/status/965597513204969472) 
+ 
+ 
+
+Já os sócios-torcedores com a mensalidade em dia têm acesso gratuito. Para esse jogo, ainda vale a determinação de torcida única. Ou seja: os torcedores da Inter estão impedidos de entrar no Moisés Lucarelli.
+
+ 
+ 
+ 
+
+As vendas começaram na manhã desta segunda-feira, nas bilheterias do Majestoso e em outros três postos físicos (Baby Sport Centro, Baby Sport Campinas Shopping e Baby Sport Parque Prado), além da internet pelo site Meu Bilhete.
+
+ 
+ 
+ 
+
+[**+ CLIQUE AQUI e leia mais sobre a Ponte**](http://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/)
+
+ 
+ 
+ 
+
+- É um jogo tarde da noite e queremos incentivar a torcida a estar presente, apoiando a Macaca, até porque só a vitória nos interessa - comenta Eric Silveira, diretor de marketing da Ponte.
+
+ 
+ 
+ 
+ 
+
+Ponte e Inter disputam a vaga em jogo único. Em caso de empate no tempo normal, a decisão vai para os pênaltis. Quem passar, terá pela frente na próxima fase o vencedor do duelo entre Sampaio Corrêa e Paraná.
+
+ 
+ 
+ 
+ 
+
+ 
+ 
