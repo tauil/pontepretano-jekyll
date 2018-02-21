@@ -1,0 +1,126 @@
+---
+layout: post
+title: "Léo Artur é vetado, e Eduardo deixa dúvidas na Ponte contra a Inter de Limeira "
+date: 2018-02-20T21:09:37+00:00
+external_link: "https://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/noticia/leo-artur-e-vetado-e-eduardo-deixa-duvidas-na-ponte-contra-a-inter-de-limeira.ghtml"
+categories: news globo.com
+---
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+A Ponte Preta tem mais um desfalque para enfrentar a Inter de Limeira nesta quarta-feira, às 21h45, no Majestoso, pela Copa do Brasil. Com uma amigdalite, Léo Artur está vetado pelo departamento médico e se junta a Tiago Real (edema na coxa) na lista de baixas.
+
+ 
+ 
+ 
+
+A ausência do camisa 10 aumentou as dúvidas de Eduardo Baptista para o duelo. Além de pensar no substituto de Léo, o treinador vai levar em consideração a situação física de outros jogadores para definir a equipe titular.
+
+ 
+ 
+ 
+
+Apesar de não revelar a escalação, o comandante alvinegro deu pistas. Segundo Eduardo, a tendência é que a formação inicial "seja muito parecida com aquela que vem atuando". A Macaca encerrou a preparação com um treino fechado para a imprensa na tarde desta terça, no CT do Jardim Eulina.
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+  ![Léo Artur, meia Ponte Preta (Foto: Fabio Leoni/ PontePress)](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgARCAARABkDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAgEBgcF/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwAC/9oADAMBAAIQAxAAAAHE73UGBkyjeF+YQpY+eC5htOB3/8QAIRAAAQIEBwAAAAAAAAAAAAAAAwQFAAEGEgITFBUyNDb/2gAIAQEAAQUCaiYRBPTpCqGwlzllwg0jao3o02hMcC2oL5Qp4E6rT6GP/8QAGBEBAAMBAAAAAAAAAAAAAAAAAAECERL/2gAIAQMBAT8B6xqyH//EABcRAAMBAAAAAAAAAAAAAAAAAAABAhD/2gAIAQIBAT8BpNl5R//EACkQAAECAwYFBQAAAAAAAAAAAAECAwARUQQQEyExcQUSIiPBQXSBgrH/2gAIAQEABj8CA1qB8QttTKzxIhK0tS9IsyaOJy+5uQ7J53CMy2oZE0hNvcYISOs9xPNKUMWlp0NBT6TgnXWu87l7jzDu/mGPcJ/bv//EACAQAAIBAwQDAAAAAAAAAAAAAAERACExURBBYXGRofD/2gAIAQEAAT8hYgssuvu15MoG5GRYXGd4EaC6sEhaWQadCdYw0URFwCLKsK8CIQFzGWkEbukvNj8NJIKK4pyajG+5jp//2gAMAwEAAgADAAAAEJX4If/EABsRAAIBBQAAAAAAAAAAAAAAAAABERAhMUFx/9oACAEDAQE/EIapyi4yfaP/xAAYEQADAQEAAAAAAAAAAAAAAAAAAREx4f/aAAgBAgEBPxCKrI7w2h6aP//EAB8QAQEBAAEFAAMAAAAAAAAAAAERIQAQMUFRYYGR8P/aAAgBAQABPxBRDKBNZ2+R04vkpIhJaRw4h7AvPHUQs5S8R7T8vI9OI0hhvhiFUw7QnIM5EVNJIUPRd9J45FsdQK4ualzfl/fRT+/662P/2Q== "Léo Artur, meia Ponte Preta (Foto: Fabio Leoni/ PontePress)") <picture itemscope itemtype="http://schema.org/ImageObject"> <!--[if IE 9]><video style="display: none;"><![endif]--> <source media="(max-width: 1024px)" data-src="https://s2.glbimg.com/jhIKHP0zFhIKVnj34xbBM5NKdTc=/0x0:1000x668/600x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/08/23/leoartur.jpg 1x, https://s2.glbimg.com/nFIy_xLfKRDVUAC_SNM4IOCjaX8=/0x0:1000x668/1200x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/08/23/leoartur.jpg 2x"> <source media="(max-width: 1280px)" data-src="https://s2.glbimg.com/WVpYXdBJVjSZmZ4vSbPMZv4W-60=/0x0:1000x668/640x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/08/23/leoartur.jpg 1x, https://s2.glbimg.com/Pk92SsIsUuKXqYrU8baB-83Xc98=/0x0:1000x668/1280x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/08/23/leoartur.jpg 2x"> <source media="(max-width: 1360px)" data-src="https://s2.glbimg.com/yQnibK_WGXrG2Lv51eicZSF9-dA=/0x0:1000x668/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/08/23/leoartur.jpg 1x, https://s2.glbimg.com/k5mBsrOLnURsMTm4dL-XlwXr5gE=/0x0:1000x668/1968x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/08/23/leoartur.jpg 2x"> <source media="(min-width: 1361px)" data-src="https://s2.glbimg.com/LGoxN6zC1-arYPAxPPKFuPP5ss8=/0x0:1000x668/1000x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/08/23/leoartur.jpg 1x, https://s2.glbimg.com/qmCU0AFNECHGeNkYO3J5Womq7sA=/0x0:1000x668/2000x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/08/23/leoartur.jpg 2x"> <source data-src="https://s2.glbimg.com/yQnibK_WGXrG2Lv51eicZSF9-dA=/0x0:1000x668/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/08/23/leoartur.jpg"> <!--[if IE 9]></video><![endif]--> <img class="image content-media__image" itemprop="contentUrl" alt="Léo Artur, meia Ponte Preta (Foto: Fabio Leoni/ PontePress)" title="Léo Artur, meia Ponte Preta (Foto: Fabio Leoni/ PontePress)" data-src="https://s2.glbimg.com/yQnibK_WGXrG2Lv51eicZSF9-dA=/0x0:1000x668/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/08/23/leoartur.jpg"> </source></source></source></source></source></picture> 
+ 
+ 
+ 
+
+_<svg xmlns="http://www.w3.org/2000/svg" width="13.5px" height="11.25px" viewbox="0 0 13 12"> <ellipse id="Oval" cx="6.5" cy="6.7826087" rx="2" ry="2.08695652"></ellipse> <path d="M4.625,0.260869565 L3.48125,1.56521739 L1.5,1.56521739 C0.8125,1.56521739 0.25,2.15217391 0.25,2.86956522 L0.25,10.6956522 C0.25,11.4130435 0.8125,12 1.5,12 L11.5,12 C12.1875,12 12.75,11.4130435 12.75,10.6956522 L12.75,2.86956522 C12.75,2.15217391 12.1875,1.56521739 11.5,1.56521739 L9.51875,1.56521739 L8.375,0.260869565 L4.625,0.260869565 L4.625,0.260869565 Z M6.5,10.0434783 C4.775,10.0434783 3.375,8.5826087 3.375,6.7826087 C3.375,4.9826087 4.775,3.52173913 6.5,3.52173913 C8.225,3.52173913 9.625,4.9826087 9.625,6.7826087 C9.625,8.5826087 8.225,10.0434783 6.5,10.0434783 L6.5,10.0434783 Z" id="Shape"></path> </svg>_ Léo Artur, meia Ponte Preta (Foto: Fabio Leoni/ PontePress)
+
+ 
+ 
+ 
+ 
+ 
+
+- Temos de acompanhar a evolução de outros jogadores. Será um jogo muito físico, tem de estar bem para atuar. Vamos observar e definir amanhã (quarta) em conjunto com a preparação física e o departamento médico. A tendência é que seja uma escalação muito parecida com aquela que vem atuando - afirmou o treinador, em entrevista coletiva.
+
+ 
+ 
+ 
+
+Diante da declaração de Eduardo, a principal dúvida fica realmente em cima da vaga deixada por Léo Artur. O meia Daniel e o atacante Silvinho são as principais opções. Os dois ainda podem aparecer juntos se o treinador optar por tirar um volante (João Vitor, Jeferson ou Marciel). Neste caso, a Macaca voltaria a atuar no 4-3-3.
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+A provável Ponte tem **Ivan, Emerson, Renan Fonseca, Luan Peres e Orinho; João Vitor, Jeferson, Marciel (Silvinho) e Daniel (Silvinho); Felipe Saraiva e Felippe Cardoso.**
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+  ![Daniel é opção para entrar no lugar de Léo Artur (Foto: Jeferson Barbosa/ EPTV)](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgARCAAOABkDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGAgf/xAAVAQEBAAAAAAAAAAAAAAAAAAADBf/aAAwDAQACEAMQAAABnm1TqSyk72TB/8QAHBAAAQQDAQAAAAAAAAAAAAAABAADBQYBAiEV/9oACAEBAAEFAgoXJjDNNMHw3XZUZ3ypxVfbZ6Zo0+2aR1dX/8QAGhEAAQUBAAAAAAAAAAAAAAAAAAECAxESIf/aAAgBAwEBPwGXDnXHxDCH/8QAHhEAAgIABwAAAAAAAAAAAAAAAQIAAwQREyJBgfD/2gAIAQIBAT8B12Wp9oJGUOObmpfdz//EACYQAAEDAwMCBwAAAAAAAAAAAAEAAgMEERIFITEToTI0QYGx0eH/2gAIAQEABj8CkpKdkj543nqRuYDj6bK9LL1zezsBuE6QUhkkcLZbD35Xkezfta1qZ8BjzZFfi5cfhvdSae2AxGOPMvvfLf8AVyuV/8QAHhAAAgICAgMAAAAAAAAAAAAAAREAITFBUWGBkfD/2gAIAQEAAT8hrshbASFiPMKTEgCNNsEparKgrqKCgh8OXc78/ordU1nL2UqNHJgXiMqOfan/2gAMAwEAAgADAAAAEP4f/8QAHBEBAAEEAwAAAAAAAAAAAAAAAREAITFBYZHh/9oACAEDAQE/EMjoAjGYvFuN3ihtvflf/8QAGhEBAAIDAQAAAAAAAAAAAAAAARFBACExcf/aAAgBAgEBPxAnAFXtezuGBqzFMsfHP//EABwQAQEBAQADAQEAAAAAAAAAAAERITEAEEFhgf/aAAgBAQABPxC/3oBAKp6I5TuPlm3ACBxpVDSlZ49ZUXGijbon819MGfZtMJUeIBbgKBXi1w4VcJhg37z7BFf6ep//2Q== "Daniel é opção para entrar no lugar de Léo Artur (Foto: Jeferson Barbosa/ EPTV)") <picture itemscope itemtype="http://schema.org/ImageObject"> <!--[if IE 9]><video style="display: none;"><![endif]--> <source media="(max-width: 1024px)" data-src="https://s2.glbimg.com/TqKXhfPh12ftVVCkH6l9tUY8Kl8=/0x0:1060x588/600x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/02/01/daniel.3.jpg 1x, https://s2.glbimg.com/1C3JQxHaDjdy_mRpce-lIYT8AhA=/0x0:1060x588/1200x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/02/01/daniel.3.jpg 2x"> <source media="(max-width: 1280px)" data-src="https://s2.glbimg.com/POygA3x0ED-c0Wc0lp25uKMDHDs=/0x0:1060x588/640x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/02/01/daniel.3.jpg 1x, https://s2.glbimg.com/Ww1FtLwAUR5TQ10U_Lu4JQC2gvw=/0x0:1060x588/1280x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/02/01/daniel.3.jpg 2x"> <source media="(max-width: 1360px)" data-src="https://s2.glbimg.com/XAih-m6vJV_1rS4If44RgKT6UNo=/0x0:1060x588/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/02/01/daniel.3.jpg 1x, https://s2.glbimg.com/X_db9G1AOhCqzy4qhX2gLuWXsQQ=/0x0:1060x588/1968x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/02/01/daniel.3.jpg 2x"> <source media="(min-width: 1361px)" data-src="https://s2.glbimg.com/BbYKCPaZBOeV7er1gR1EEUewtf4=/0x0:1060x588/1000x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/02/01/daniel.3.jpg 1x, https://s2.glbimg.com/eHOXzXq6etCgnvBeCIsmHC45xTE=/0x0:1060x588/2000x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/02/01/daniel.3.jpg 2x"> <source data-src="https://s2.glbimg.com/XAih-m6vJV_1rS4If44RgKT6UNo=/0x0:1060x588/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/02/01/daniel.3.jpg"> <!--[if IE 9]></video><![endif]--> <img class="image content-media__image" itemprop="contentUrl" alt="Daniel é opção para entrar no lugar de Léo Artur (Foto: Jeferson Barbosa/ EPTV)" title="Daniel é opção para entrar no lugar de Léo Artur (Foto: Jeferson Barbosa/ EPTV)" data-src="https://s2.glbimg.com/XAih-m6vJV_1rS4If44RgKT6UNo=/0x0:1060x588/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/02/01/daniel.3.jpg"> </source></source></source></source></source></picture> 
+ 
+ 
+ 
+
+_<svg xmlns="http://www.w3.org/2000/svg" width="13.5px" height="11.25px" viewbox="0 0 13 12"> <ellipse id="Oval" cx="6.5" cy="6.7826087" rx="2" ry="2.08695652"></ellipse> <path d="M4.625,0.260869565 L3.48125,1.56521739 L1.5,1.56521739 C0.8125,1.56521739 0.25,2.15217391 0.25,2.86956522 L0.25,10.6956522 C0.25,11.4130435 0.8125,12 1.5,12 L11.5,12 C12.1875,12 12.75,11.4130435 12.75,10.6956522 L12.75,2.86956522 C12.75,2.15217391 12.1875,1.56521739 11.5,1.56521739 L9.51875,1.56521739 L8.375,0.260869565 L4.625,0.260869565 L4.625,0.260869565 Z M6.5,10.0434783 C4.775,10.0434783 3.375,8.5826087 3.375,6.7826087 C3.375,4.9826087 4.775,3.52173913 6.5,3.52173913 C8.225,3.52173913 9.625,4.9826087 9.625,6.7826087 C9.625,8.5826087 8.225,10.0434783 6.5,10.0434783 L6.5,10.0434783 Z" id="Shape"></path> </svg>_ Daniel é opção para entrar no lugar de Léo Artur (Foto: Jeferson Barbosa/ EPTV)
+
+ 
+ 
+ 
+ 
+ 
+
+Eduardo também reforçou a importância que a Copa do Brasil tem para os cofres do clube, ainda mais na atual realidade, com a Ponte vivendo dificuldades financeiras. Até aqui, a participação no torneio já rendeu R$ 1,1 milhão. Se avançar à terceira fase, a Ponte embolsará mais R$ 1,4 milhão.
+
+ 
+ 
+ 
+
+> "Hoje, a importância da Copa do Brasil é financeira. Conforme você vai passando de fase, também alimenta um sonho, mas é fundamental para os cofres do clube. É uma verba relevante. Sem contar que, se você vai avançando, o time ganha moral e confiança também", Eduardo. 
+ 
+ 
+
+Por se tratar de jogo único (em caso de empate no tempo normal, a definição vai para os pênaltis), Eduardo pede atenção total aos comandados. Apesar de assumir o favoritismo da Ponte, ele lembra que a Copa do Brasil é um torneio traiçoeiro e que costuma protagonizar grandes zebras.
+
+ 
+ 
+ 
+
+[**+ CLIQUE AQUI e leia mais sobre a Ponte**](http://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/)
+
+ 
+ 
+ 
+
+- Lógico que a Ponte leva um certo favoritismo, é até natural, tem de assumir isso, mas precisamos saber que as coisas são resolvidas dentro de campo. Vamos ver uma Inter aguerrida, com um time organizado. É preciso muita atenção. A Copa do Brasil prega essas peças. O Botafogo já foi eliminado esse ano, o Sport também. Se achar que vai ganhar só com o nome, está fora.
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+O duelo decisivo pela Copa do Brasil terá transmissão ao vivo da **EPTV Campinas** na próxima quarta-feira. A narração será de Osvaldo Luis, com comentários de Alexandre Reis. O **GloboEsporte.com** também acompanha a partida em Tempo Real, com vídeos dos gols e dos melhores momentos.
+
+ 
+ 
+ 
