@@ -1,0 +1,68 @@
+---
+layout: post
+title: "Encontros marcados"
+date: 2018-02-23T18:19:38+00:00
+external_link: "https://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/noticia/com-datas-definidas-ponte-abre-serie-contra-sampaio-correa-na-proxima-quarta.ghtml"
+categories: news globo.com
+---
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+Com a vitória do Sampaio Corrêa por 1 a 0 sobre o Paraná, na noite da última quinta-feira, a Ponte Preta conheceu o adversário e também as datas dos confrontos da terceira fase da Copa do Brasil. A ordem dos duelos já estava definida, com a primeira partida em Campinas independentemente do rival.
+
+ 
+ 
+ 
+
+O jogo de ida está marcado **para a próxima quarta-feira, às 19h30, no Estádio Moisés Lucarelli.** Depois, os times voltam a se encontrar no dia **15 de março, às 19h15 (de Brasília), no Castelão**.
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+  ![Ponte volta a jogar em casa pela Copa do Brasil na próxima quarta-feira (Foto: Caio Maciel)](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgARCAAOABkDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAABgcDBAj/xAAWAQEBAQAAAAAAAAAAAAAAAAADAQX/2gAMAwEAAhADEAAAAV6dFFDHVTjWipSv/8QAHhAAAQQCAwEAAAAAAAAAAAAABAABAgMFBhEUFRb/2gAIAQEAAQUCL1ku59fBLwayOvG32fOkr1ZQa3IyecD5cd1f/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQACE//aAAgBAwEBPwFyXMv/xAAaEQACAgMAAAAAAAAAAAAAAAABEQAFFVKh/9oACAECAQE/ARYlNTKHTs//xAAlEAABAgMHBQAAAAAAAAAAAAACABEBISIDBBIjMUGRMjNhcpP/2gAIAQEABj8CK2xDEcTSGM1eJXe0fKq8oyytZ1aLuWH0XQB+wOoUiEGegWW/K35X/8QAHhABAAICAgMBAAAAAAAAAAAAASExABFBcRBR0fD/2gAIAQEAAT8hYd6bFpDkhnB5sszfIjKMxCIovjxDbipb+zDY1g6rzgRYembev11n/9oADAMBAAIAAwAAABDq7//EABcRAQEBAQAAAAAAAAAAAAAAAAEAESH/2gAIAQMBAT8Q3Qhxv//EABsRAAEEAwAAAAAAAAAAAAAAABEAASFRgeHw/9oACAECAQE/EHkc0dJzTxhf/8QAIBABAAICAQQDAAAAAAAAAAAAAREhADFBUWGB8ZGh0f/aAAgBAQABPxAoaCVRdF1Ds7kkFMD4ADg2l6veTmlKZBg+HGekfmLL8WcJNTGqwG/EUQgndmvnrlqFHJfVZ6fj/9k= "Ponte volta a jogar em casa pela Copa do Brasil na próxima quarta-feira (Foto: Caio Maciel)") <picture itemscope itemtype="http://schema.org/ImageObject"> <!--[if IE 9]><video style="display: none;"><![endif]--> <source media="(max-width: 1024px)" data-src="https://s2.glbimg.com/bG7nJWeyTa1mgaObHUViag7yLRo=/0x0:1280x720/600x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/02/21/ponte.inter.jpg 1x, https://s2.glbimg.com/QETcU3B6ZuIadltXY32VzQG638k=/0x0:1280x720/1200x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/02/21/ponte.inter.jpg 2x"> <source media="(max-width: 1280px)" data-src="https://s2.glbimg.com/1sOTscnkaKj38G5q-S0hbgqjORk=/0x0:1280x720/640x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/02/21/ponte.inter.jpg 1x, https://s2.glbimg.com/apdJrL-9bnTU-wV40X2lTMVyzfg=/0x0:1280x720/1280x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/02/21/ponte.inter.jpg 2x"> <source media="(max-width: 1360px)" data-src="https://s2.glbimg.com/gL8uqYKpjf305St8qlv9OV7Epwk=/0x0:1280x720/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/02/21/ponte.inter.jpg 1x, https://s2.glbimg.com/TgaTn2mH5q9wTkUE0t3wuL2DN9s=/0x0:1280x720/1968x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/02/21/ponte.inter.jpg 2x"> <source media="(min-width: 1361px)" data-src="https://s2.glbimg.com/1Xx4Ib5pB6SjYv6biW8dF7rOACI=/0x0:1280x720/1000x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/02/21/ponte.inter.jpg 1x, https://s2.glbimg.com/acoUh38Kc3kWu5YGgvivZEGEzwE=/0x0:1280x720/2000x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/02/21/ponte.inter.jpg 2x"> <source data-src="https://s2.glbimg.com/gL8uqYKpjf305St8qlv9OV7Epwk=/0x0:1280x720/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/02/21/ponte.inter.jpg"> <!--[if IE 9]></video><![endif]--> <img class="image content-media__image" itemprop="contentUrl" alt="Ponte volta a jogar em casa pela Copa do Brasil na próxima quarta-feira (Foto: Caio Maciel)" title="Ponte volta a jogar em casa pela Copa do Brasil na próxima quarta-feira (Foto: Caio Maciel)" data-src="https://s2.glbimg.com/gL8uqYKpjf305St8qlv9OV7Epwk=/0x0:1280x720/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/02/21/ponte.inter.jpg"> </source></source></source></source></source></picture> 
+ 
+ 
+ 
+
+_<svg xmlns="http://www.w3.org/2000/svg" width="13.5px" height="11.25px" viewbox="0 0 13 12"> <ellipse id="Oval" cx="6.5" cy="6.7826087" rx="2" ry="2.08695652"></ellipse> <path d="M4.625,0.260869565 L3.48125,1.56521739 L1.5,1.56521739 C0.8125,1.56521739 0.25,2.15217391 0.25,2.86956522 L0.25,10.6956522 C0.25,11.4130435 0.8125,12 1.5,12 L11.5,12 C12.1875,12 12.75,11.4130435 12.75,10.6956522 L12.75,2.86956522 C12.75,2.15217391 12.1875,1.56521739 11.5,1.56521739 L9.51875,1.56521739 L8.375,0.260869565 L4.625,0.260869565 L4.625,0.260869565 Z M6.5,10.0434783 C4.775,10.0434783 3.375,8.5826087 3.375,6.7826087 C3.375,4.9826087 4.775,3.52173913 6.5,3.52173913 C8.225,3.52173913 9.625,4.9826087 9.625,6.7826087 C9.625,8.5826087 8.225,10.0434783 6.5,10.0434783 L6.5,10.0434783 Z" id="Shape"></path> </svg>_ Ponte volta a jogar em casa pela Copa do Brasil na próxima quarta-feira (Foto: Caio Maciel)
+
+ 
+ 
+ 
+ 
+ 
+
+A partir deste ano, o gol fora de casa não conta mais como critério de desempate. Assim, em caso de igualdade no placar agregado das duas partidas, a disputa vai para os pênaltis. Os cruzamentos da quarta fase serão decididos por sorteio.
+
+ 
+ 
+ 
+
+[**+ CLIQUE AQUI e veja todos os confrontos da Copa do Brasil**](http://globoesporte.globo.com/futebol/copa-do-brasil/)
+
+ 
+ 
+ 
+
+Pela premiação, a Copa do Brasil virou uma das prioridades da Macaca na temporada. Até aqui, a participação já rendeu R$ 2,5 milhões ao clube campineiro. Se passar do Sampaio Corrêa, a Ponte vai embolsar mais R$ 1,8 milhão. Em dificuldades financeiras, a diretoria conta com tal verba para equilibrar o caixa.
+
+ 
+ 
+ 
+ 
+
+Antes de entrar em campo pela Copa do Brasil, porém, a Ponte tem pela frente o Mirassol, neste domingo, às 19h30, fora de casa, pelo Paulistão.
+
+ 
+ 
+ 
