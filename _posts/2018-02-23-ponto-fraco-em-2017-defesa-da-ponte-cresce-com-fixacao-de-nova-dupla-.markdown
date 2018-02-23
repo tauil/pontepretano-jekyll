@@ -1,0 +1,116 @@
+---
+layout: post
+title: "Ponto fraco em 2017, defesa da Ponte cresce com fixação de nova dupla de zaga"
+date: 2018-02-23T11:23:08+00:00
+external_link: "https://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/noticia/ponto-fraco-em-2017-defesa-da-ponte-cresce-com-fixacao-de-nova-dupla-de-zaga.ghtml"
+categories: news globo.com
+---
+ 
+ 
+ <meta itemprop="name" content="Desempenho defensivo da Ponte é trunfo para a temporada"> <meta itemprop="thumbnailUrl" content="https://s01.video.glbimg.com/x720/6524924.jpg"> <meta itemprop="datePublished" content="2018-02-22T22:31:28.251Z"> <meta itemprop="uploadDate" content="2018-02-22T22:31:28.251Z"> 
+
+ 
+
+ 
+  ![Desempenho defensivo da Ponte é trunfo para a temporada](https://s01.video.glbimg.com/x720/6524924.jpg "Desempenho defensivo da Ponte é trunfo para a temporada") 
+ 
+ 
+ 
+
+_<svg xmlns="http://www.w3.org/2000/svg" width="14px" height="11px" viewbox="0 0 14 11"><path d="M14,9.16666667 C14,10.175 13.19,11 12.2,11 L1.8,11 C0.81,11 0,10.175 0,9.16666667 L0,1.83333333 C0,0.825 0.81,0 1.8,0 L12.2,0 C13.19,0 14,0.825 14,1.83333333 L14,9.16666667 Z M10.6,5.5 L5.2,2.5025 L5.2,8.48833333 L10.6,5.5 L10.6,5.5 Z" id="Shape"></path></svg>_ Desempenho defensivo da Ponte é trunfo para a temporada
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+O ano de 2017 mal acabou, e por isso as lembranças ainda estão claras na memória do torcedor. A Ponte Preta acabou o Campeonato Brasileiro como uma das defesas mais vazadas (52 gols em 38 rodadas) e sem saber de fato qual era a zaga titular. Rodrigo e Luan Peres? Marllon e Yago? Marllon e Rodrigo? Luan e Marllon?
+
+ 
+ 
+ 
+
+Pois essa dúvida ficou no passado. Hoje, é moleza acertar qual a zaga da Macaca. E isso ajuda muito a explicar a boa fase do sistema defensivo, que sofreu seis gols em dez partidas na temporada (todos pelo Campeonato Paulista e nenhum na disputa da Copa do Brasil).
+
+ 
+ 
+ 
+
+Boa parte do mérito é de Renan Fonseca e Luan Peres. Os dois não saíram de campo em momento algum, o que aumenta cada vez mais o entrosamento e dá segurança aos companheiros. Ivan, destaque no gol, e mais Emerson e Orinho, nas laterais, completam a retaguarda pontepretana.
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+  ![Renan Fonseca elogia desempenho defensivo da Macaca (Foto: Jefferson Barbosa / EPTV)](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgARCAAOABkDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgcF/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgH/2gAMAwEAAhADEAAAAaFKX4yJlqj7Cx//xAAdEAACAwACAwAAAAAAAAAAAAADBQECBAAGExQV/9oACAEBAAEFAtCoMQ+DTPdeqrOf5IuPNok9mavQKvU/KY3oTz//xAAZEQACAwEAAAAAAAAAAAAAAAAAAgERITH/2gAIAQMBAT8BSdtoNXp//8QAGREBAAIDAAAAAAAAAAAAAAAAAQACERIi/9oACAECAQE/AbGTlhraf//EACgQAAIBAwEFCQAAAAAAAAAAAAEDAgAEIRESFDNBoRMiI1FzgZPB0f/aAAgBAQAGPwKQ3Cx09GlqhJVk05WER02s88ZobduiLJAGXhc64Np8NFMO3Y6OkgZsx5/VXjbi43lcsLMh315zofepW1y2bDAkRltnrXHZ0/K//8QAHxAAAgICAQUAAAAAAAAAAAAAAREAITFRYUHR4fDx/9oACAEBAAE/IU8wGB4xZebiFaYRdRuEwKUDYSno+0BSGMZXY5NYddzE94g8KA4IcQgKgBmARH14f//aAAwDAQACAAMAAAAQ/B//xAAYEQEAAwEAAAAAAAAAAAAAAAABABGR0f/aAAgBAwEBPxBAgTeRuoT/xAAYEQEBAAMAAAAAAAAAAAAAAAABABHB0f/aAAgBAgEBPxAMOjsAEb//xAAcEAEBAQACAwEAAAAAAAAAAAABESEAMRBBcYH/2gAIAQEAAT8QBnpJh++nDhtNZmfANM7pvEcCzTvanSTozwK/tYBL8ynUFBArwAiJgMVYAAQRUOI9n4pJQWKyTMbPD7//2Q== "Renan Fonseca elogia desempenho defensivo da Macaca (Foto: Jefferson Barbosa / EPTV)") <picture itemscope itemtype="http://schema.org/ImageObject"> <!--[if IE 9]><video style="display: none;"><![endif]--> <source media="(max-width: 1024px)" data-src="https://s2.glbimg.com/gcOPu8dq-d4W9fJfSEW_x9T6Gkc=/0x0:1360x768/600x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/02/08/untitled-1.jpg 1x, https://s2.glbimg.com/yg4EyH2cC-WYVZuIuTjSJ6IwtSw=/0x0:1360x768/1200x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/02/08/untitled-1.jpg 2x"> <source media="(max-width: 1280px)" data-src="https://s2.glbimg.com/loNpFEfeXoelMUdwQiYSBJ9IuFc=/0x0:1360x768/640x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/02/08/untitled-1.jpg 1x, https://s2.glbimg.com/asE-HGH4kZfvIX0A5goKA8JO44c=/0x0:1360x768/1280x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/02/08/untitled-1.jpg 2x"> <source media="(max-width: 1360px)" data-src="https://s2.glbimg.com/EJC3oRpraIKAiWUkhWYRpUgdUE8=/0x0:1360x768/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/02/08/untitled-1.jpg 1x, https://s2.glbimg.com/Ocrdm6SEVZw1LwJznVZTXN4jghY=/0x0:1360x768/1968x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/02/08/untitled-1.jpg 2x"> <source media="(min-width: 1361px)" data-src="https://s2.glbimg.com/IAu-gLFYlBcx9MY3O-pd1FUe4mU=/0x0:1360x768/1000x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/02/08/untitled-1.jpg 1x, https://s2.glbimg.com/V5tANCJTsOQ0BkjUNK7sqTC9pTg=/0x0:1360x768/2000x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/02/08/untitled-1.jpg 2x"> <source data-src="https://s2.glbimg.com/EJC3oRpraIKAiWUkhWYRpUgdUE8=/0x0:1360x768/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/02/08/untitled-1.jpg"> <!--[if IE 9]></video><![endif]--> <img class="image content-media__image" itemprop="contentUrl" alt="Renan Fonseca elogia desempenho defensivo da Macaca (Foto: Jefferson Barbosa / EPTV)" title="Renan Fonseca elogia desempenho defensivo da Macaca (Foto: Jefferson Barbosa / EPTV)" data-src="https://s2.glbimg.com/EJC3oRpraIKAiWUkhWYRpUgdUE8=/0x0:1360x768/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/02/08/untitled-1.jpg"> </source></source></source></source></source></picture> 
+ 
+ 
+ 
+
+_<svg xmlns="http://www.w3.org/2000/svg" width="13.5px" height="11.25px" viewbox="0 0 13 12"> <ellipse id="Oval" cx="6.5" cy="6.7826087" rx="2" ry="2.08695652"></ellipse> <path d="M4.625,0.260869565 L3.48125,1.56521739 L1.5,1.56521739 C0.8125,1.56521739 0.25,2.15217391 0.25,2.86956522 L0.25,10.6956522 C0.25,11.4130435 0.8125,12 1.5,12 L11.5,12 C12.1875,12 12.75,11.4130435 12.75,10.6956522 L12.75,2.86956522 C12.75,2.15217391 12.1875,1.56521739 11.5,1.56521739 L9.51875,1.56521739 L8.375,0.260869565 L4.625,0.260869565 L4.625,0.260869565 Z M6.5,10.0434783 C4.775,10.0434783 3.375,8.5826087 3.375,6.7826087 C3.375,4.9826087 4.775,3.52173913 6.5,3.52173913 C8.225,3.52173913 9.625,4.9826087 9.625,6.7826087 C9.625,8.5826087 8.225,10.0434783 6.5,10.0434783 L6.5,10.0434783 Z" id="Shape"></path> </svg>_ Renan Fonseca elogia desempenho defensivo da Macaca (Foto: Jefferson Barbosa / EPTV)
+
+ 
+ 
+ 
+ 
+ 
+
+– É uma primeira linha que expõe pouco o time. Poucas vezes o adversário chega de frente com Ivan. É conjunto que está sólido, com os zagueiros e os laterais. Renan vive um bom momento, seguro, bem no alto, dá a estabilidade, com dois laterais agressivos. É um setor que nós achamos – elogiou o técnico Eduardo Baptista.
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Renan Fonseca colabora para a discussão ao elogiar o comprometimento do time no geral. Para o zagueiro, que venceu a disputa com Wesley Matos logo na pré-temporada, o rendimento da Ponte na defesa só acontece pela dedicação de todos os jogadores.
+
+ 
+ 
+ 
+
+[+ CLIQUE AQUI e leia mais notícias da Ponte Preta](http://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/)
+
+ 
+ 
+ 
+
+– Isso é o sistema de jogo. A equipe toda se doa ao máximo. A marcação na Ponte começa com o centroavante. Temos um time muito compacto, uma linha de quatro muito forte, a segunda linha dá muito combate. Isso faz com que a bola chegue mais mascada para a gente. O nosso coletivo é o diferencial aqui. Isso faz com que a gente tome poucos gols.
+
+ 
+ 
+ 
+
+O próximo desafio da Ponte é no domingo, fora de casa, contra o Mirassol. Uma das defesas mais eficientes do Paulistão (só perde para Palmeiras e São Bento, ambos do Grupo C), a Macaca tenta assumir a liderança da chave B, em que disputa ponto a ponto com o São Paulo. Ambos estão com dez.
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  ![Eduardo Baptista está satisfeito com a organização da Ponte (Foto: Carlos Velardi/ EPTV)](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgARCAARABkDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYHCAIDBf/EABcBAQEBAQAAAAAAAAAAAAAAAAQDAgX/2gAMAwEAAhADEAAAAVbq7cRVUWmJrEkVErQCOXCNhglr/8QAHhAAAgEEAwEAAAAAAAAAAAAABAUDAAECExIVNTP/2gAIAQEAAQUC0GWmw5B4wMYCTtElAQzmjvBc1y9WPYgvopqafRr5yz1q/8QAGhEAAgMBAQAAAAAAAAAAAAAAAQIAAxESof/aAAgBAwEBPwFG6OGPXlaPo075Fgn/xAAcEQABBAMBAAAAAAAAAAAAAAACAAEDBBETMkH/2gAIAQIBAT8BmxCQiHqsWNRYZXOo1c6Zf//EACkQAAEDAgQDCQAAAAAAAAAAAAIAAQMEERIhIjIQc5ETMWFxcpOx0eH/2gAIAQEABj8CpRkDss8T+Vu5/pFMVA1SLDlqwj+qcxjaMZLM0bvtW2H3mUJPLgkkG+oMrqXHVR3MdLEz9fBPBTk5kbiw3yuS20/V1B6I/hlV8p1S8weH/8QAHxAAAgIBBQEBAAAAAAAAAAAAAREAITFBUXHB8CCR/9oACAEBAAE/IWiEQSqdSMPdfEB4S2g54aVGRwwRAip4TqHJhDGcLe/5CsIWCEA7kCgesY7U+dm9J4Xr5z11/9oADAMBAAIAAwAAABBV54L/xAAcEQACAgMBAQAAAAAAAAAAAAABEQAhMUFxUWH/2gAIAQMBAT8QGloFFeOzCJTCs0SB6S/iA25v2YT/xAAcEQACAgIDAAAAAAAAAAAAAAAAAREhsfCBocH/2gAIAQIBAT8QkpdrU+Cctqo18HVeT//EAB4QAQEAAQUBAQEAAAAAAAAAAAERIQAQMUFh8HGB/9oACAEBAAE/EFgIqqVsYrxy0umaBjS9pigphFC0poFDCaY2nOHmW/zY0dsCOTEdG9ve9Qhl9XIGBVEEDl09NuiRxCx3zU/d8oL5/mvi+bf/2Q== "Eduardo Baptista está satisfeito com a organização da Ponte (Foto: Carlos Velardi/ EPTV)") <picture itemscope itemtype="http://schema.org/ImageObject"> <!--[if IE 9]><video style="display: none;"><![endif]--> <source media="(max-width: 1024px)" data-src="https://s2.glbimg.com/slMcO6xTooFLdxLRnAbUWCZ0J6c=/0x0:885x592/600x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/H/W/b5BwdHQQe9OeNtq3YedQ/eduardobaptista.3.jpg 1x, https://s2.glbimg.com/uQFc3pmpW280yD0PGTG2xDHRMv0=/0x0:885x592/1200x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/H/W/b5BwdHQQe9OeNtq3YedQ/eduardobaptista.3.jpg 2x"> <source media="(max-width: 1280px)" data-src="https://s2.glbimg.com/8l3dR8hsL_kbsixwsqU6-MXvcfA=/0x0:885x592/640x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/H/W/b5BwdHQQe9OeNtq3YedQ/eduardobaptista.3.jpg 1x, https://s2.glbimg.com/U36KCJDb6BXA7qdtGYr5EdhnaG0=/0x0:885x592/1280x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/H/W/b5BwdHQQe9OeNtq3YedQ/eduardobaptista.3.jpg 2x"> <source media="(max-width: 1360px)" data-src="https://s2.glbimg.com/RmsqncD5yOXVA9_Oxbk23UOjDhM=/0x0:885x592/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/H/W/b5BwdHQQe9OeNtq3YedQ/eduardobaptista.3.jpg 1x, https://s2.glbimg.com/izomFFCPAxIB8LmQgxm3bslOU5c=/0x0:885x592/1968x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/H/W/b5BwdHQQe9OeNtq3YedQ/eduardobaptista.3.jpg 2x"> <source media="(min-width: 1361px)" data-src="https://s2.glbimg.com/HnKE7HyM0EtftloPpOkJFAxKQkA=/0x0:885x592/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/H/W/b5BwdHQQe9OeNtq3YedQ/eduardobaptista.3.jpg 1x, https://s2.glbimg.com/t0kZNDIKcbDufS4R1JkmRak5MRo=/0x0:885x592/2000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/H/W/b5BwdHQQe9OeNtq3YedQ/eduardobaptista.3.jpg 2x"> <source data-src="https://s2.glbimg.com/RmsqncD5yOXVA9_Oxbk23UOjDhM=/0x0:885x592/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/H/W/b5BwdHQQe9OeNtq3YedQ/eduardobaptista.3.jpg"> <!--[if IE 9]></video><![endif]--> <img class="image content-media__image" itemprop="contentUrl" alt="Eduardo Baptista está satisfeito com a organização da Ponte (Foto: Carlos Velardi/ EPTV)" title="Eduardo Baptista está satisfeito com a organização da Ponte (Foto: Carlos Velardi/ EPTV)" data-src="https://s2.glbimg.com/RmsqncD5yOXVA9_Oxbk23UOjDhM=/0x0:885x592/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/H/W/b5BwdHQQe9OeNtq3YedQ/eduardobaptista.3.jpg"> </source></source></source></source></source></picture> 
+ 
+ 
+ 
+
+_<svg xmlns="http://www.w3.org/2000/svg" width="13.5px" height="11.25px" viewbox="0 0 13 12"> <ellipse id="Oval" cx="6.5" cy="6.7826087" rx="2" ry="2.08695652"></ellipse> <path d="M4.625,0.260869565 L3.48125,1.56521739 L1.5,1.56521739 C0.8125,1.56521739 0.25,2.15217391 0.25,2.86956522 L0.25,10.6956522 C0.25,11.4130435 0.8125,12 1.5,12 L11.5,12 C12.1875,12 12.75,11.4130435 12.75,10.6956522 L12.75,2.86956522 C12.75,2.15217391 12.1875,1.56521739 11.5,1.56521739 L9.51875,1.56521739 L8.375,0.260869565 L4.625,0.260869565 L4.625,0.260869565 Z M6.5,10.0434783 C4.775,10.0434783 3.375,8.5826087 3.375,6.7826087 C3.375,4.9826087 4.775,3.52173913 6.5,3.52173913 C8.225,3.52173913 9.625,4.9826087 9.625,6.7826087 C9.625,8.5826087 8.225,10.0434783 6.5,10.0434783 L6.5,10.0434783 Z" id="Shape"></path> </svg>_ Eduardo Baptista está satisfeito com a organização da Ponte (Foto: Carlos Velardi/ EPTV)
+
+ 
+ 
+ 
+ 
+ 
