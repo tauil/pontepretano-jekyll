@@ -1,0 +1,110 @@
+---
+layout: post
+title: "Falta de gols em 2018 deixa atual time da Ponte Preta com o pior ataque do século"
+date: 2018-03-04T17:30:09+00:00
+external_link: "https://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/noticia/falta-de-gols-em-2018-deixa-atual-time-da-ponte-preta-com-o-pior-ataque-do-seculo.ghtml"
+categories: news globo.com
+---
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+A marca de **sete gols em 12 partidas** no ano [tira o sono de Eduardo Baptista](https://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/noticia/um-gol-nos-ultimos-quatro-jogos-producao-ofensiva-da-ponte-tira-o-sono-de-eduardo.ghtml) e também indica que o começo de temporada da Ponte Preta não é nada bom. A comparação com os últimos anos ainda é mais cruel com a equipe de 2018: a Macaca nunca havia marcado tão poucos gols no século XXI.
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+  ![Comemorar gol é cena rara nos jogos da Macaca em 2018 (Foto: Fabio Leoni/ PontePress)](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgARCAARABkDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYEBwECA//EABgBAAIDAAAAAAAAAAAAAAAAAAMFAAQG/9oADAMBAAIQAxAAAAFPxYMdaZc52HoKSmEMZYXkIGIv/8QAIhAAAQMDAwUAAAAAAAAAAAAAAgABAwQFEQYSExQVMTIz/9oACAEBAAEFAoLTJgM84wzuu7Eg084pukppyhtUbb6FUHzHxcvRf//EABgRAQADAQAAAAAAAAAAAAAAAAABAhJB/9oACAEDAQE/AcyzLiz/xAAeEQACAQMFAAAAAAAAAAAAAAAAAwECBDIRFTFhkf/aAAgBAgEBPwGL1VeM6m4p78GciMT/xAAkEAACAQQBAgcAAAAAAAAAAAABAhEAAxIhEDOhExQkUVJxgf/aAAgBAQAGPwLaMG+NeEjG60RKzE/dNKidNB1NdHuKN3z7YgTgkk6/aCX3K29ElLZxOzS+syj3cV1O4ocHj//EAB4QAQACAgIDAQAAAAAAAAAAAAERIQAxUWEQILHw/9oACAEBAAE/ITqElCTiHV/cCLIYE+8ciMrgQKwG5NWVedf9dYBJiMkgwGDHBk1LBIt1fWOSnrsnEegsfR4//9oADAMBAAIAAwAAABCeX9z/xAAYEQEBAAMAAAAAAAAAAAAAAAABABEhMf/aAAgBAwEBPxDAgyDqJ1f/xAAbEQABBAMAAAAAAAAAAAAAAAABABARMWGR0f/aAAgBAgEBPxCarYPECWNj9//EAB8QAQACAgICAwAAAAAAAAAAAAERIQAxQWEQoVFxsf/aAAgBAQABPxD4W84F0XeWrFYVMjJNtRAFuleKFUSBCU2SDsJJFp5yaUxrcgBwltA7zVKsTLagmDLRIiZWh41BmcITXBrOnn6pmr7Pwz1PD//Z "Comemorar gol é cena rara nos jogos da Macaca em 2018 (Foto: Fabio Leoni/ PontePress)") <picture itemscope itemtype="http://schema.org/ImageObject"> <!--[if IE 9]><video style="display: none;"><![endif]--> <source media="(max-width: 1024px)" data-src="https://s2.glbimg.com/BoGryJwDMmmNaZylNRD1gnsqtbA=/0x0:1000x668/600x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/02/22/yuri.ponte.2.jpg 1x, https://s2.glbimg.com/HUiQqRJtQ0YBwNgLtcby6BCX60M=/0x0:1000x668/1200x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/02/22/yuri.ponte.2.jpg 2x"> <source media="(max-width: 1280px)" data-src="https://s2.glbimg.com/jHOu5wVKrvqDtIBu-M4Aed__ZyE=/0x0:1000x668/640x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/02/22/yuri.ponte.2.jpg 1x, https://s2.glbimg.com/WUGCL0L92s1C655twwo8IewZv6g=/0x0:1000x668/1280x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/02/22/yuri.ponte.2.jpg 2x"> <source media="(max-width: 1360px)" data-src="https://s2.glbimg.com/WXfp5OlQou5qAReXZzCN8u8ZCf8=/0x0:1000x668/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/02/22/yuri.ponte.2.jpg 1x, https://s2.glbimg.com/U6VI6QLCiZqjy9sExymc5Iq5KnQ=/0x0:1000x668/1968x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/02/22/yuri.ponte.2.jpg 2x"> <source media="(min-width: 1361px)" data-src="https://s2.glbimg.com/-WSN2qjbDtnWHoj9Zwl7AuZXhzQ=/0x0:1000x668/1000x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/02/22/yuri.ponte.2.jpg 1x, https://s2.glbimg.com/lVvfcxnWYgw41nx0A6xu0crHVjw=/0x0:1000x668/2000x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/02/22/yuri.ponte.2.jpg 2x"> <source data-src="https://s2.glbimg.com/WXfp5OlQou5qAReXZzCN8u8ZCf8=/0x0:1000x668/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/02/22/yuri.ponte.2.jpg"> <!--[if IE 9]></video><![endif]--> <img class="image content-media__image" itemprop="contentUrl" alt="Comemorar gol é cena rara nos jogos da Macaca em 2018 (Foto: Fabio Leoni/ PontePress)" title="Comemorar gol é cena rara nos jogos da Macaca em 2018 (Foto: Fabio Leoni/ PontePress)" data-src="https://s2.glbimg.com/WXfp5OlQou5qAReXZzCN8u8ZCf8=/0x0:1000x668/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/02/22/yuri.ponte.2.jpg"> </source></source></source></source></source></picture> 
+ 
+ 
+ 
+
+_<svg xmlns="http://www.w3.org/2000/svg" width="13.5px" height="11.25px" viewbox="0 0 13 12"> <ellipse id="Oval" cx="6.5" cy="6.7826087" rx="2" ry="2.08695652"></ellipse> <path d="M4.625,0.260869565 L3.48125,1.56521739 L1.5,1.56521739 C0.8125,1.56521739 0.25,2.15217391 0.25,2.86956522 L0.25,10.6956522 C0.25,11.4130435 0.8125,12 1.5,12 L11.5,12 C12.1875,12 12.75,11.4130435 12.75,10.6956522 L12.75,2.86956522 C12.75,2.15217391 12.1875,1.56521739 11.5,1.56521739 L9.51875,1.56521739 L8.375,0.260869565 L4.625,0.260869565 L4.625,0.260869565 Z M6.5,10.0434783 C4.775,10.0434783 3.375,8.5826087 3.375,6.7826087 C3.375,4.9826087 4.775,3.52173913 6.5,3.52173913 C8.225,3.52173913 9.625,4.9826087 9.625,6.7826087 C9.625,8.5826087 8.225,10.0434783 6.5,10.0434783 L6.5,10.0434783 Z" id="Shape"></path> </svg>_ Comemorar gol é cena rara nos jogos da Macaca em 2018 (Foto: Fabio Leoni/ PontePress)
+
+ 
+ 
+ 
+ 
+ 
+
+O **GloboEsporte.com** foi atrás de quantos gols a Ponte fez nos primeiros 12 jogos de cada temporada a partir de 2001. O recorde é justamente no primeiro ano, quando Washington era o principal jogador do elenco. Desde então, nenhum time marcou mais vezes.
+
+ 
+ 
+ 
+
+**Veja os números ano a ano:**
+
+ 
+ 
+ 
+
+- 2001 - 25 gols
+- 2002 - 24 gols
+- 2003 - 20 gols
+- 2004 - 18 gols
+- 2005 - 18 gols
+- 2006 - 14 gols
+- 2007 - 13 gols
+- 2008 - 23 gols
+- 2009 - 17 gols
+- 2010 - 18 gols
+- 2011 - 16 gols
+- 2012 - 22 gols
+- 2013 - 19 gols
+- 2014 - 13 gols
+- 2015 - 18 gols
+- 2016 - 13 gols
+- 2017 - 18 gols
+- 2018 - 7 gols
+ 
+ 
+ 
+ 
+ 
+ 
+
+  ![Washington Cliderou o ataque da Macaca em 2001 (Foto: Osmar Rios/GloboEsporte.com)](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgARCAARABkDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUBBAYD/8QAFwEBAQEBAAAAAAAAAAAAAAAABAMCBf/aAAwDAQACEAMQAAAB3dKttirX5/ncjBMmDZG0BzFf/8QAHxAAAQMDBQAAAAAAAAAAAAAABAACAwUSMwEQERMV/9oACAEBAAEFAtLoWFgn9rhZWActUpjjCaaXfT4qhM1eyUosDc+3/8QAGhEAAgMBAQAAAAAAAAAAAAAAAAECAyERMv/aAAgBAwEBPwF35hYoOXXpb5Gf/8QAHxEAAgECBwAAAAAAAAAAAAAAAQIAAwQQETEzgaHR/9oACAECAQE/AabBzEu3GY078llucYf/xAApEAABAgMFCAMAAAAAAAAAAAACAAEDESISITNRkQQQEyMxQXFyobHR/9oACAEBAAY/AqoR8ykXktmaDCIGI6rp65KI3CKdqcnWNB1f8Vs2qzBERkNq+6fRYjuTd3ZYnwj8so/u302//8QAHxABAAEDBAMAAAAAAAAAAAAAAREAITEQUWFxQdHw/9oACAEBAAE/IZyy5wuKZfliQm3RN96WhPrLX0dAkEZZoYwJMVA+No2MZq7yLzl5r6n1rxc6f//aAAwDAQACAAMAAAAQn68+/8QAHREAAQQCAwAAAAAAAAAAAAAAAQARITFxgZGhsf/aAAgBAwEBPxAjDY30zIjmHXElVZV9DwL/xAAbEQACAgMBAAAAAAAAAAAAAAAAAREhMXGxUf/aAAgBAgEBPxBmSEKazUZL1zTV7O7qGf/EACEQAQEAAQMDBQAAAAAAAAAAAAERIQAQMSBBUWFxkaHw/9oACAEBAAE/ECMAjCjrFiiXJfvUTFRLxWalwqcM+YQCQBlOS8AL7DtnQ8qASRNA7UBPOmW0gyiADXY+cc6fIWUieSkztF+l69DB/9k= "Washington Cliderou o ataque da Macaca em 2001 (Foto: Osmar Rios/GloboEsporte.com)") <picture itemscope itemtype="http://schema.org/ImageObject"> <!--[if IE 9]><video style="display: none;"><![endif]--> <source media="(max-width: 1024px)" data-src="https://s2.glbimg.com/1zn2_sLLxMLX5u3hxz1jg3tQqOQ=/0x0:2000x1333/600x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/01/21/mg_0940_om62ify.jpg 1x, https://s2.glbimg.com/S5HmJP--sFFy5vwx_IJ28mxR354=/0x0:2000x1333/1200x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/01/21/mg_0940_om62ify.jpg 2x"> <source media="(max-width: 1280px)" data-src="https://s2.glbimg.com/0SVRS2EMuvK10xT4yAXp3yMjc2I=/0x0:2000x1333/640x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/01/21/mg_0940_om62ify.jpg 1x, https://s2.glbimg.com/qevDFi7h-JlXAlGlt0DQMopxNV4=/0x0:2000x1333/1280x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/01/21/mg_0940_om62ify.jpg 2x"> <source media="(max-width: 1360px)" data-src="https://s2.glbimg.com/4zh7jqdO53RzAOIySei_saflBhY=/0x0:2000x1333/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/01/21/mg_0940_om62ify.jpg 1x, https://s2.glbimg.com/LjeHoy4aE1YzULZOU2GU7mUKiXw=/0x0:2000x1333/1968x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/01/21/mg_0940_om62ify.jpg 2x"> <source media="(min-width: 1361px)" data-src="https://s2.glbimg.com/ysooarBv84oipruINdnMd1c12fc=/0x0:2000x1333/1000x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/01/21/mg_0940_om62ify.jpg 1x, https://s2.glbimg.com/UMcYV48Z_j0nLMzERu_Yv2Tthq8=/0x0:2000x1333/2000x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/01/21/mg_0940_om62ify.jpg 2x"> <source data-src="https://s2.glbimg.com/4zh7jqdO53RzAOIySei_saflBhY=/0x0:2000x1333/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/01/21/mg_0940_om62ify.jpg"> <!--[if IE 9]></video><![endif]--> <img class="image content-media__image" itemprop="contentUrl" alt="Washington Cliderou o ataque da Macaca em 2001 (Foto: Osmar Rios/GloboEsporte.com)" title="Washington Cliderou o ataque da Macaca em 2001 (Foto: Osmar Rios/GloboEsporte.com)" data-src="https://s2.glbimg.com/4zh7jqdO53RzAOIySei_saflBhY=/0x0:2000x1333/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/01/21/mg_0940_om62ify.jpg"> </source></source></source></source></source></picture> 
+ 
+ 
+ 
+
+_<svg xmlns="http://www.w3.org/2000/svg" width="13.5px" height="11.25px" viewbox="0 0 13 12"> <ellipse id="Oval" cx="6.5" cy="6.7826087" rx="2" ry="2.08695652"></ellipse> <path d="M4.625,0.260869565 L3.48125,1.56521739 L1.5,1.56521739 C0.8125,1.56521739 0.25,2.15217391 0.25,2.86956522 L0.25,10.6956522 C0.25,11.4130435 0.8125,12 1.5,12 L11.5,12 C12.1875,12 12.75,11.4130435 12.75,10.6956522 L12.75,2.86956522 C12.75,2.15217391 12.1875,1.56521739 11.5,1.56521739 L9.51875,1.56521739 L8.375,0.260869565 L4.625,0.260869565 L4.625,0.260869565 Z M6.5,10.0434783 C4.775,10.0434783 3.375,8.5826087 3.375,6.7826087 C3.375,4.9826087 4.775,3.52173913 6.5,3.52173913 C8.225,3.52173913 9.625,4.9826087 9.625,6.7826087 C9.625,8.5826087 8.225,10.0434783 6.5,10.0434783 L6.5,10.0434783 Z" id="Shape"></path> </svg>_ Washington Cliderou o ataque da Macaca em 2001 (Foto: Osmar Rios/GloboEsporte.com)
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+O rendimento ofensivo é o principal problema da Ponte neste início de ano. Dos 12 jogos, a equipe passou em branco cinco vezes e nunca conseguiu marcar mais de um gol por partida. O artilheiro é Felippe Cardoso, com três gols, longe dos números de outros que vestiram a camisa 9 por aqui.
+
+ 
+ 
+ 
+
+[+ CLIQUE AQUI e leia mais sobre a Ponte Preta](http://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/)
+
+ 
+ 
+ 
+ 
+
+Uma chance de melhorar os próprios números é nesta segunda-feira, quando a Ponte recebe o Bragantino, às 20h, em Campinas, pelo complemento da décima rodada do Paulistão. Se vencer, a Macaca ganha um respiro na luta contra o rebaixamento e também fôlego para brigar pela classificação às quartas de final.
+
+ 
+ 
+ 
