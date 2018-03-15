@@ -1,0 +1,118 @@
+---
+layout: post
+title: "Copa do Brasil: tudo o que você precisa saber sobre Sampaio x Ponte Preta"
+date: 2018-03-15T09:00:19+00:00
+external_link: "https://globoesporte.globo.com/ma/futebol/copa-do-brasil/noticia/copa-do-brasil-tudo-o-que-voce-precisa-saber-sobre-sampaio-x-ponte-preta.ghtml"
+categories: news globo.com
+---
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+Sampaio e Ponte Preta decidirão um dos classificados para a quarta fase da Copa do Brasil na noite desta quinta-feira, à partir das 19h15 no Castelão. Após o empate sem gols no jogo de ida, o vencedor carimba o passaporte para a próxima etapa do torneio e em caso de novo empate a decisão será nos pênaltis.
+
+ 
+ 
+ 
+
+O Sampaio tenta reencontrar o caminho das vitórias diante da Ponte Preta depois de perder por 2 a 1 para o Ceará na última rodada da Copa do Nordeste. Em caso de classificação, o Tricolor maranhense fará a melhor campanha de uma equipe do Estado na Copa do Brasil, já que o MAC, conseguiu chegar até às oitavas de final, até então terceira fase, do torneio em 2000, feito já igualado pelo Tubarão em 2017 e 2018.
+
+ 
+ 
+ 
+
+Desclassificada ainda na primeira fase do Campeonato Paulista, a Ponte conta com essa partida em São Luis para salvar o semestre. O jogo serve também para mostrar evolução, principalmente no ataque. Sem marcar gols há 477 minutos, a Macaca precisa quebrar esse jejum se quiser avançar no tempo normal.
+
+ 
+ 
+ 
+
+**Sampaio - técnico: Francisco Diá**  
+A boa notícia para o técnico Francisco Diá é o retorno do goleiro Andrey, que passou as duas últimas semanas em recuperação de uma lesão na mão. Apesar da derrota na Copa do Nordeste, o Tricolor mantém a boa fase no torneio regional e nacional. No meio-campo o Tubarão terá novidades, mas há dúvida entre a entrada de Rodrigo Fumaça ou do recém-contratado João Paulo.
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+  ![Sampaio Corrêa](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgARCAAmABkDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAECAwT/xAAYAQEBAAMAAAAAAAAAAAAAAAABAgMGB//aAAwDAQACEAMQAAABqs3yPVnWWqJT0OSGhnKgmZAD/8QAHRAAAQUBAAMAAAAAAAAAAAAAAQACERIhIhAxQf/aAAgBAQABBQL70tBhH3fvJxEnxXnURrWiW1DVYLmJCuv/xAAYEQEAAwEAAAAAAAAAAAAAAAABABARQf/aAAgBAwEBPwGgeMYOV//EABoRAAEFAQAAAAAAAAAAAAAAAAEAEBEhQTH/2gAIAQIBAT8BrVWIAzTTHG//xAAhEAAABgEEAwAAAAAAAAAAAAAAAQIQETFBAxIgITJhgf/aAAgBAQAGPwLHAxuzMio9MYmAlXV01/ASD1ISdmFT5YN6ah//xAAgEAACAgEEAwEAAAAAAAAAAAABEQAhURAxQWFxgbHw/9oACAEBAAE/IS2HxMF6UoArwp6wAYW8s7MZikcBsNASKjvcQdbSblLglDyGhhn9ZhgkcCkFQhQMiOrMrMLTRgZ2q4K6NRY//9oADAMBAAIAAwAAABCY9KB9/wD/xAAeEQACAwABBQAAAAAAAAAAAAABEQAhMUEQUWGB8P/aAAgBAwEBPxAAK4UysmzwatYVqu/C2CAks4+91UITHT//xAAeEQACAgICAwAAAAAAAAAAAAABESExAEFRcZHB8P/aAAgBAgEBPxAM5N8a36xETYajDZLjzo1HOucICCVafU93ETjG/jvDFZ//xAAgEAEBAAICAgIDAAAAAAAAAAABEQAhMUFhcVGBkaGx/9oACAEBAAE/EFO4GiMESd41c+piEpbteWe+GiMHe8WqVVXGyq+VygK4UwIAVWAZ9sWEUI7TjBBp+Us+Jdlf3muqIrwpF3u+us9DJJrJpu+XrUwbnkpx3zfEpm6s8XQXozeubxk+XEpJTxnBCuCb1I/3rBveXrPB/Of/2Q== "Sampaio Corrêa") <picture itemscope itemtype="http://schema.org/ImageObject"> <!--[if IE 9]><video style="display: none;"><![endif]--> <source media="(max-width: 1024px)" data-src="https://s2.glbimg.com/SpLgsqp3GaztJC5GD44XeU84E6M=/0x0:600x900/600x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/B/g/6XRkyMREmDr4TCxMKTgg/campinho-7-.png 1x, https://s2.glbimg.com/KI048a9uhMSCu_gjhmERqe4IKvA=/0x0:600x900/1200x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/B/g/6XRkyMREmDr4TCxMKTgg/campinho-7-.png 2x"> <source media="(max-width: 1280px)" data-src="https://s2.glbimg.com/VA1nU0mUxb9PM6HowZ_W6zZGfbI=/0x0:600x900/640x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/B/g/6XRkyMREmDr4TCxMKTgg/campinho-7-.png 1x, https://s2.glbimg.com/o9Z6kqm5jUG8kwCXGvrTIsQblxg=/0x0:600x900/1280x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/B/g/6XRkyMREmDr4TCxMKTgg/campinho-7-.png 2x"> <source media="(max-width: 1360px)" data-src="https://s2.glbimg.com/H5SljeTqsZBlzcL3Mg4Q0vn2AMc=/0x0:600x900/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/B/g/6XRkyMREmDr4TCxMKTgg/campinho-7-.png 1x, https://s2.glbimg.com/0ai9DVD89PCNcApXOG7ELvdrPIg=/0x0:600x900/1968x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/B/g/6XRkyMREmDr4TCxMKTgg/campinho-7-.png 2x"> <source media="(min-width: 1361px)" data-src="https://s2.glbimg.com/Zm4Nf2qZJBfB9PJ44DvJ0z_yhE8=/0x0:600x900/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/B/g/6XRkyMREmDr4TCxMKTgg/campinho-7-.png 1x, https://s2.glbimg.com/3K2hYTU802c1kFTAX5VQlUDVIpk=/0x0:600x900/2000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/B/g/6XRkyMREmDr4TCxMKTgg/campinho-7-.png 2x"> <source data-src="https://s2.glbimg.com/H5SljeTqsZBlzcL3Mg4Q0vn2AMc=/0x0:600x900/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/B/g/6XRkyMREmDr4TCxMKTgg/campinho-7-.png"> <!--[if IE 9]></video><![endif]--> <img class="image content-media__image" itemprop="contentUrl" alt="Sampaio Corrêa" title="Sampaio Corrêa" data-src="https://s2.glbimg.com/H5SljeTqsZBlzcL3Mg4Q0vn2AMc=/0x0:600x900/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/B/g/6XRkyMREmDr4TCxMKTgg/campinho-7-.png"> </source></source></source></source></source></picture> 
+ 
+ 
+ 
+
+_<svg xmlns="http://www.w3.org/2000/svg" width="13.5px" height="11.25px" viewbox="0 0 13 12"> <ellipse id="Oval" cx="6.5" cy="6.7826087" rx="2" ry="2.08695652"></ellipse> <path d="M4.625,0.260869565 L3.48125,1.56521739 L1.5,1.56521739 C0.8125,1.56521739 0.25,2.15217391 0.25,2.86956522 L0.25,10.6956522 C0.25,11.4130435 0.8125,12 1.5,12 L11.5,12 C12.1875,12 12.75,11.4130435 12.75,10.6956522 L12.75,2.86956522 C12.75,2.15217391 12.1875,1.56521739 11.5,1.56521739 L9.51875,1.56521739 L8.375,0.260869565 L4.625,0.260869565 L4.625,0.260869565 Z M6.5,10.0434783 C4.775,10.0434783 3.375,8.5826087 3.375,6.7826087 C3.375,4.9826087 4.775,3.52173913 6.5,3.52173913 C8.225,3.52173913 9.625,4.9826087 9.625,6.7826087 C9.625,8.5826087 8.225,10.0434783 6.5,10.0434783 L6.5,10.0434783 Z" id="Shape"></path> </svg>_ Sampaio Corrêa
+
+ 
+ 
+ 
+ 
+ 
+
+**Desfalques:** O meia Marlon está com uma lesão grau um na coxa e o lateral-direito Junio Rocha só retornará aos gramados no segundo semestre.
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+**Ponte Preta – técnico: João Brigatti**  
+O interino não conta com o lateral Jeferson, suspenso, e o meia Léo Artur, poupado por conta de problemas físicos. Brigatti preferiu não confirmar a equipe, mas deve começar com Marciel na ala esquerda e um sistema com três volantes. Quem ganha chance é Lucas Mineiro, contratado junto à Chapecoense e que fará sua estreia no novo clube.
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+  ![Ponte Preta](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgARCAAmABkDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAECA//EABkBAAMAAwAAAAAAAAAAAAAAAAABAgMGB//aAAwDAQACEAMQAAABqKXJNWoy0SdJZKqWpJ0AnICV/8QAHRAAAgMAAgMAAAAAAAAAAAAAAAIBERIQQRMhIv/aAAgBAQABBQLvy0/DZNfNLfo7JbTDUZIpZNQQ0Y1Bo//EABkRAAIDAQAAAAAAAAAAAAAAAAEQACExUf/aAAgBAwEBPwGmemYv/8QAGxEAAQQDAAAAAAAAAAAAAAAAAAEhMWECEBH/2gAIAQIBAT8Bbr6oysiBT//EAB8QAAEEAgIDAAAAAAAAAAAAAAEAEBEhEjECQVGBkf/aAAgBAQAGPwLpDhIyImENNq/KjpA21ilqlOMNXtRkPqM2XNP/AP/EAB8QAQADAAMAAgMAAAAAAAAAAAEAESExQVFhwRCBkf/aAAgBAQABPyFu30iEwYPYcwu/olPsXDs2Ci7m+INzJxTn4LvTtTTL7M/WZIfAmwNBI9lljnX5iEj4lODP3F1xlErTt1v9haY5K+T/2gAMAwEAAgADAAAAEPj8WnYf/8QAIBEBAAIBAgcAAAAAAAAAAAAAAQARIRAxQVFhscHR8P/aAAgBAwEBPxCg5iAFNwMVdnlOvLj32l1Utd/vUFyNP//EAB4RAQACAgIDAQAAAAAAAAAAAAERMQAhQWFRgfCR/9oACAECAQE/ENbEjjzxfd9ZAgzPqsBBsda2mrJg547pwMyhVZj6PzBd/k3mlZ//xAAfEAEAAgIDAAMBAAAAAAAAAAABABEhMUFRcWGBkbH/2gAIAQEAAT8QxpgairiJ84S1q4iTs5Kdz4EUIZe2bOCpS+sil2azsjOQxSnbNlZnh/YVVo0Lw5p4YYOuFZa4HtxupTh1MmDjip9Zk8XQL2dFTGzAe36/1jxtAO+xuxpP2Y7xoqvyEK6iZTV4OA8+EGu9fHc+DP/Z "Ponte Preta") <picture itemscope itemtype="http://schema.org/ImageObject"> <!--[if IE 9]><video style="display: none;"><![endif]--> <source media="(max-width: 1024px)" data-src="https://s2.glbimg.com/rG5WmpoP5pM5FN0AeD6oqxZ-vRM=/0x0:600x900/600x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/03/14/campinho.png 1x, https://s2.glbimg.com/VJVMmLV8qvyImyjfvigvMm-DLdg=/0x0:600x900/1200x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/03/14/campinho.png 2x"> <source media="(max-width: 1280px)" data-src="https://s2.glbimg.com/OhIDKazQqu3axB5_EazsvMsN4I0=/0x0:600x900/640x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/03/14/campinho.png 1x, https://s2.glbimg.com/_iBurnNh7Jct4A1-4as3AcfgLS0=/0x0:600x900/1280x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/03/14/campinho.png 2x"> <source media="(max-width: 1360px)" data-src="https://s2.glbimg.com/zuGEhtYO7h5nhnvFutRYTPPii18=/0x0:600x900/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/03/14/campinho.png 1x, https://s2.glbimg.com/V2WT3zczRFla3H8ZLSIvh-hbVac=/0x0:600x900/1968x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/03/14/campinho.png 2x"> <source media="(min-width: 1361px)" data-src="https://s2.glbimg.com/77evve6vBYEeP-xt_HxuI4Mkcfc=/0x0:600x900/1000x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/03/14/campinho.png 1x, https://s2.glbimg.com/pLdT7qv9B91ncMly_8k9QFG_9Xw=/0x0:600x900/2000x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/03/14/campinho.png 2x"> <source data-src="https://s2.glbimg.com/zuGEhtYO7h5nhnvFutRYTPPii18=/0x0:600x900/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/03/14/campinho.png"> <!--[if IE 9]></video><![endif]--> <img class="image content-media__image" itemprop="contentUrl" alt="Ponte Preta" title="Ponte Preta" data-src="https://s2.glbimg.com/zuGEhtYO7h5nhnvFutRYTPPii18=/0x0:600x900/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/03/14/campinho.png"> </source></source></source></source></source></picture> 
+ 
+ 
+ 
+
+_<svg xmlns="http://www.w3.org/2000/svg" width="13.5px" height="11.25px" viewbox="0 0 13 12"> <ellipse id="Oval" cx="6.5" cy="6.7826087" rx="2" ry="2.08695652"></ellipse> <path d="M4.625,0.260869565 L3.48125,1.56521739 L1.5,1.56521739 C0.8125,1.56521739 0.25,2.15217391 0.25,2.86956522 L0.25,10.6956522 C0.25,11.4130435 0.8125,12 1.5,12 L11.5,12 C12.1875,12 12.75,11.4130435 12.75,10.6956522 L12.75,2.86956522 C12.75,2.15217391 12.1875,1.56521739 11.5,1.56521739 L9.51875,1.56521739 L8.375,0.260869565 L4.625,0.260869565 L4.625,0.260869565 Z M6.5,10.0434783 C4.775,10.0434783 3.375,8.5826087 3.375,6.7826087 C3.375,4.9826087 4.775,3.52173913 6.5,3.52173913 C8.225,3.52173913 9.625,4.9826087 9.625,6.7826087 C9.625,8.5826087 8.225,10.0434783 6.5,10.0434783 L6.5,10.0434783 Z" id="Shape"></path> </svg>_ Ponte Preta
+
+ 
+ 
+ 
+ 
+ 
+
+**Desfalques:** Jeferson (suspensão) e Léo Artur (dores musculares na coxa).
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+  ![](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgARCAAEABkDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAQDB//EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAe6UBZsH/8QAGxAAAgEFAAAAAAAAAAAAAAAAAgQAAQMRExT/2gAIAQEAAQUCvI12gqeBWKc5T//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EAB0QAAEEAgMAAAAAAAAAAAAAAAEAAgSSAzQREjP/2gAIAQEABj8CLmypDCSeer1tybrZz2Xvmsv/xAAdEAABBAIDAAAAAAAAAAAAAAABACFB0TFxEYHx/9oACAEBAAE/IXFO2R2GIjaPDk3SkHNsaXhKX//aAAwDAQACAAMAAAAQAg//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/ED//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAbEAEBAAIDAQAAAAAAAAAAAAABEQAhEDFxQf/aAAgBAQABPxCdJAZKKV6lB8ru4YRN1Zfcxb65xof/2Q==) <picture itemscope itemtype="http://schema.org/ImageObject"> <!--[if IE 9]><video style="display: none;"><![endif]--> <source media="(max-width: 1024px)" data-src="https://s2.glbimg.com/Caw8sDxZJZRN24D0Id__ZRn7SwA=/0x0:1600x255/600x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/I/H/6dR7YeRzaYpVuT86nwSg/apresentacao-do-brasileirao-arbitragem.png 1x, https://s2.glbimg.com/0j8DHX9kqbMKh8hwmOcuiGOVwbQ=/0x0:1600x255/1200x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/I/H/6dR7YeRzaYpVuT86nwSg/apresentacao-do-brasileirao-arbitragem.png 2x"> <source media="(max-width: 1280px)" data-src="https://s2.glbimg.com/7Qh8l8SFGzxDR8Zc1pRv3A3cJAo=/0x0:1600x255/640x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/I/H/6dR7YeRzaYpVuT86nwSg/apresentacao-do-brasileirao-arbitragem.png 1x, https://s2.glbimg.com/wFNTPy2J7rgI1xtHSiI6PSQU_18=/0x0:1600x255/1280x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/I/H/6dR7YeRzaYpVuT86nwSg/apresentacao-do-brasileirao-arbitragem.png 2x"> <source media="(max-width: 1360px)" data-src="https://s2.glbimg.com/lQS2A5KBRORPwOpfXO07WGXLz3M=/0x0:1600x255/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/I/H/6dR7YeRzaYpVuT86nwSg/apresentacao-do-brasileirao-arbitragem.png 1x, https://s2.glbimg.com/AJHoLWLiosmZ7KE6lEKawZmrcD0=/0x0:1600x255/1968x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/I/H/6dR7YeRzaYpVuT86nwSg/apresentacao-do-brasileirao-arbitragem.png 2x"> <source media="(min-width: 1361px)" data-src="https://s2.glbimg.com/9ov0vlcSLdJ-cQrHyo6rdMHWz2Y=/0x0:1600x255/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/I/H/6dR7YeRzaYpVuT86nwSg/apresentacao-do-brasileirao-arbitragem.png 1x, https://s2.glbimg.com/3dVoFD6ebuzlTtEfXu2zCXHB5Ls=/0x0:1600x255/2000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/I/H/6dR7YeRzaYpVuT86nwSg/apresentacao-do-brasileirao-arbitragem.png 2x"> <source data-src="https://s2.glbimg.com/lQS2A5KBRORPwOpfXO07WGXLz3M=/0x0:1600x255/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/I/H/6dR7YeRzaYpVuT86nwSg/apresentacao-do-brasileirao-arbitragem.png"> <!--[if IE 9]></video><![endif]--> <img class="image content-media__image" itemprop="contentUrl" alt title data-src="https://s2.glbimg.com/lQS2A5KBRORPwOpfXO07WGXLz3M=/0x0:1600x255/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/I/H/6dR7YeRzaYpVuT86nwSg/apresentacao-do-brasileirao-arbitragem.png"> </source></source></source></source></source></picture> 
+ 
+ 
+ 
+
+_<svg xmlns="http://www.w3.org/2000/svg" width="13.5px" height="11.25px" viewbox="0 0 13 12"> <ellipse id="Oval" cx="6.5" cy="6.7826087" rx="2" ry="2.08695652"></ellipse> <path d="M4.625,0.260869565 L3.48125,1.56521739 L1.5,1.56521739 C0.8125,1.56521739 0.25,2.15217391 0.25,2.86956522 L0.25,10.6956522 C0.25,11.4130435 0.8125,12 1.5,12 L11.5,12 C12.1875,12 12.75,11.4130435 12.75,10.6956522 L12.75,2.86956522 C12.75,2.15217391 12.1875,1.56521739 11.5,1.56521739 L9.51875,1.56521739 L8.375,0.260869565 L4.625,0.260869565 L4.625,0.260869565 Z M6.5,10.0434783 C4.775,10.0434783 3.375,8.5826087 3.375,6.7826087 C3.375,4.9826087 4.775,3.52173913 6.5,3.52173913 C8.225,3.52173913 9.625,4.9826087 9.625,6.7826087 C9.625,8.5826087 8.225,10.0434783 6.5,10.0434783 L6.5,10.0434783 Z" id="Shape"></path> </svg>_
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+Elmo Alves (GO) apita o jogo, auxiliado por Cristhian Passos (GO) e Hugo Savio (GO).
+
+ 
+ 
+ 
