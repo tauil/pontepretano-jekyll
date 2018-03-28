@@ -1,0 +1,82 @@
+---
+layout: post
+title: "Doriva fica de observador em treino comandado por Brigati na Ponte Preta"
+date: 2018-03-27T20:13:44+00:00
+external_link: "https://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/noticia/doriva-fica-de-observador-em-treino-comandado-por-brigatti-na-ponte-preta.ghtml"
+categories: news globo.com
+---
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+O primeiro contato de Doriva com o elenco da Ponte Preta foi à distância. O novo técnico alvinegro foi ao gramado do Moisés Lucarelli nesta terça-feira, mas como espectador. Quem dirigiu a atividade inteira foi João Brigatti, que, de fato, comandará o time na final do Troféu do Interior.
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+  ![João Brigatti comanda treino sob olhares de Doriva (Foto: Márcio Silveira / EPTV)](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgARCAAOABkDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAYIB//EABUBAQEAAAAAAAAAAAAAAAAAAAID/9oADAMBAAIQAxAAAAHQS5yR5upWmRHkL//EAB0QAAEEAwEBAAAAAAAAAAAAAAYBAgMEAAURFRb/2gAIAQEAAQUCICzw3OKI21tYQpumcTDO1GpI+brB69NBf+wt5//EABkRAAIDAQAAAAAAAAAAAAAAAAABAxExQf/aAAgBAwEBPwHBz0lw/8QAGhEBAAIDAQAAAAAAAAAAAAAAAQACBBIhMf/aAAgBAgEBPwEdukrillfZ/8QAIxAAAgEFAAEEAwAAAAAAAAAAAQIDABESEyFRIiMxMkGi8P/aAAgBAQAGPwKFdUcztctHsxIXzU74qrxIr4u1gchcC9bfa2/mGNr495Xwtb3i2gojYk25ajPiNZdrRX4P69Ryo+DJ6eAdB819/wBBX//EACAQAQABAwMFAAAAAAAAAAAAAAERACFBEDFRYXGRsfH/2gAIAQEAAT8hGy3QDHLlteplhxkw0buLVN+aYRskRv1r61OSz8gwMMdqQEBJGCPHpSA5Bzguy+n/AP/aAAwDAQACAAMAAAAQrv8A/8QAHBEAAgICAwAAAAAAAAAAAAAAAREAMSFBoeHx/9oACAEDAQE/EGLZIvjzEMU0rel1P//EABoRAAIDAQEAAAAAAAAAAAAAAAERACFBMcH/2gAIAQIBAT8QCDKPKhiBjea/XP/EAB0QAQADAQEAAwEAAAAAAAAAAAEAESExQVFh0fH/2gAIAQEAAT8Qu0BMsoAPwMGZbRDneRiUBEL9LMuVKF9wNaJEBa7fnJ/L/kQXaMsBJ3ixOxKANUUxV6QD6a7CmDiFU2XYJfKxKn0of//Z "João Brigatti comanda treino sob olhares de Doriva (Foto: Márcio Silveira / EPTV)") <picture itemscope itemtype="http://schema.org/ImageObject"> <!--[if IE 9]><video style="display: none;"><![endif]--> <source media="(max-width: 1024px)" data-src="https://s2.glbimg.com/bl0GvDJPrCcq27pC9gS2yJE1ZNA=/0x0:1038x586/600x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/03/27/ponte1.jpg 1x, https://s2.glbimg.com/Hx_F3tXTsqapzfEOZyuGW2GyP44=/0x0:1038x586/1200x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/03/27/ponte1.jpg 2x"> <source media="(max-width: 1280px)" data-src="https://s2.glbimg.com/fy38J2r1zwDQtiZ4JfsOHZy6q2M=/0x0:1038x586/640x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/03/27/ponte1.jpg 1x, https://s2.glbimg.com/H6ILtxdvI2xusMoneE0jTCX7YDo=/0x0:1038x586/1280x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/03/27/ponte1.jpg 2x"> <source media="(max-width: 1360px)" data-src="https://s2.glbimg.com/vj-pSK__fv6ss9-jW6YBgJ2vzIc=/0x0:1038x586/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/03/27/ponte1.jpg 1x, https://s2.glbimg.com/sdrbpo18dYUq4DkYJuFT0VWXdLA=/0x0:1038x586/1968x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/03/27/ponte1.jpg 2x"> <source media="(min-width: 1361px)" data-src="https://s2.glbimg.com/KMx-ePnWBqFgfMtE7_2H2wFZ1W0=/0x0:1038x586/1000x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/03/27/ponte1.jpg 1x, https://s2.glbimg.com/DP8rDsaqKQyTUNjqNECaivJx1PY=/0x0:1038x586/2000x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/03/27/ponte1.jpg 2x"> <source data-src="https://s2.glbimg.com/vj-pSK__fv6ss9-jW6YBgJ2vzIc=/0x0:1038x586/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/03/27/ponte1.jpg"> <!--[if IE 9]></video><![endif]--> <img class="image content-media__image" itemprop="contentUrl" alt="João Brigatti comanda treino sob olhares de Doriva (Foto: Márcio Silveira / EPTV)" title="João Brigatti comanda treino sob olhares de Doriva (Foto: Márcio Silveira / EPTV)" data-src="https://s2.glbimg.com/vj-pSK__fv6ss9-jW6YBgJ2vzIc=/0x0:1038x586/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/03/27/ponte1.jpg"> </source></source></source></source></source></picture> 
+ 
+ 
+ 
+
+_<svg xmlns="http://www.w3.org/2000/svg" width="13.5px" height="11.25px" viewbox="0 0 13 12"> <ellipse id="Oval" cx="6.5" cy="6.7826087" rx="2" ry="2.08695652"></ellipse> <path d="M4.625,0.260869565 L3.48125,1.56521739 L1.5,1.56521739 C0.8125,1.56521739 0.25,2.15217391 0.25,2.86956522 L0.25,10.6956522 C0.25,11.4130435 0.8125,12 1.5,12 L11.5,12 C12.1875,12 12.75,11.4130435 12.75,10.6956522 L12.75,2.86956522 C12.75,2.15217391 12.1875,1.56521739 11.5,1.56521739 L9.51875,1.56521739 L8.375,0.260869565 L4.625,0.260869565 L4.625,0.260869565 Z M6.5,10.0434783 C4.775,10.0434783 3.375,8.5826087 3.375,6.7826087 C3.375,4.9826087 4.775,3.52173913 6.5,3.52173913 C8.225,3.52173913 9.625,4.9826087 9.625,6.7826087 C9.625,8.5826087 8.225,10.0434783 6.5,10.0434783 L6.5,10.0434783 Z" id="Shape"></path> </svg>_ João Brigatti comanda treino sob olhares de Doriva (Foto: Márcio Silveira / EPTV)
+
+ 
+ 
+ 
+ 
+ 
+
+Ao lado de auxiliares e demais integrantes da comissão técnica, Doriva acompanhou toda a movimentação do meio-campo, sem intervir no trabalho do colega. Brigatti, por outro lado, separou o elenco da Ponte em pequenos grupos e comandou um treino de campo reduzido.
+
+ 
+ 
+ 
+
+A tendência é que essa formatação se mantenha nos próximos dias, já que Brigatti vai dirigir a Ponte nas partidas contra o Mirassol (Doriva estava no Novorizontino). O primeiro embate acontece nesta quinta-feira, às 18h30, em Mirassol, e o segundo será na segunda, às 20h, ambos com cobertura em Tempo Real do **GloboEsporte.com**.
+
+ 
+ 
+ 
+
+[+ CLIQUE AQUI e leia mais sobre a Ponte Preta](http://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/)
+
+ 
+ 
+ 
+
+Enquanto isso, Doriva ganha tempo para observar de perto o elenco, conhecer melhor os jogadores pontepretanos e esboçar, ainda que na teoria, uma equipe para sua estreia. O novo treinador fará sua primeira partida no dia 11 de abril, contra o Náutico, pela quarta fase da Copa do Brasil.
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  ![Doriva assiste ao treino do gramado do Majestoso (Foto: Márcio Silveira / EPTV)](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgARCAAPABkDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABQYHCP/EABUBAQEAAAAAAAAAAAAAAAAAAAID/9oADAMBAAIQAxAAAAEWww8BGukXuFXVH//EAB0QAAICAwADAAAAAAAAAAAAAAMFAAIBBAYHExT/2gAIAQEAAQUCf9QQ9R9Zm7LmWu9tz6MRyuqncnJUk8eFHZh6rT//xAAYEQADAQEAAAAAAAAAAAAAAAAAAQIRIf/aAAgBAwEBPwFVzR2f/8QAFhEAAwAAAAAAAAAAAAAAAAAAARAx/9oACAECAQE/ATV//8QAIxAAAgEDAwQDAAAAAAAAAAAAAgMBAAQRITFhBRJCkSIzo//aAAgBAQAGPwLpx2fUIQzGWKUXlzxSVGaotSDV2o5nG++kZq6m6ZDlifxIdPXFeXumIcUkscdpBpvFdsF7q5Wo5jKczkea+384r//EAB0QAQACAgIDAAAAAAAAAAAAAAEAESFhMVFBcZH/2gAIAQEAAT8hIAM3Fk5PsVcHqdQS6uXSVn3EVSl7PyUwjubPtLloR2qwxncatieeDuYAlYpYKq+rfs3Y/wD/2gAMAwEAAgADAAAAEF8v/8QAGREAAwADAAAAAAAAAAAAAAAAAAExEVGh/9oACAEDAQE/EFvNZRCeun//xAAaEQEAAgMBAAAAAAAAAAAAAAABABEhUXGh/9oACAECAQE/ELFRxyC1vyf/xAAdEAEBAAMAAwEBAAAAAAAAAAABEQAhMUHB8GGR/9oACAEBAAE/EBwAflYsBAWLu+3DJQyxCKAN192ZmoJF4eIIXk2pKLPpvWM57Sl0tmaJX+YaN4IMitw6k0Hn8w0Noor2JOhK0aM+k95//9k= "Doriva assiste ao treino do gramado do Majestoso (Foto: Márcio Silveira / EPTV)") <picture itemscope itemtype="http://schema.org/ImageObject"> <!--[if IE 9]><video style="display: none;"><![endif]--> <source media="(max-width: 1024px)" data-src="https://s2.glbimg.com/cVz6MS_yoUsKKYC9lbeJU1Avu4c=/0x0:955x585/600x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/03/27/ponte5.jpg 1x, https://s2.glbimg.com/dtr0hVLdxMNwsGgaB2nw_Qp_E2k=/0x0:955x585/1200x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/03/27/ponte5.jpg 2x"> <source media="(max-width: 1280px)" data-src="https://s2.glbimg.com/6qx8uuoESZWoowYuiJ2o5Q6vT5U=/0x0:955x585/640x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/03/27/ponte5.jpg 1x, https://s2.glbimg.com/qqnL34Op8UEkM9Wyoj6hU4gdkRo=/0x0:955x585/1280x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/03/27/ponte5.jpg 2x"> <source media="(max-width: 1360px)" data-src="https://s2.glbimg.com/euOH91BdCQHGSp9_jwT18CoyPq4=/0x0:955x585/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/03/27/ponte5.jpg 1x, https://s2.glbimg.com/4T0-1u-8LdMM7K_iPqXrnKV5N7Y=/0x0:955x585/1968x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/03/27/ponte5.jpg 2x"> <source media="(min-width: 1361px)" data-src="https://s2.glbimg.com/y7BAD-Sa0R4Kw9J0agEzTdop1hA=/0x0:955x585/1000x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/03/27/ponte5.jpg 1x, https://s2.glbimg.com/-x3ZQ_Qvs_WmaPz9O_5By7IwE7E=/0x0:955x585/2000x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/03/27/ponte5.jpg 2x"> <source data-src="https://s2.glbimg.com/euOH91BdCQHGSp9_jwT18CoyPq4=/0x0:955x585/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/03/27/ponte5.jpg"> <!--[if IE 9]></video><![endif]--> <img class="image content-media__image" itemprop="contentUrl" alt="Doriva assiste ao treino do gramado do Majestoso (Foto: Márcio Silveira / EPTV)" title="Doriva assiste ao treino do gramado do Majestoso (Foto: Márcio Silveira / EPTV)" data-src="https://s2.glbimg.com/euOH91BdCQHGSp9_jwT18CoyPq4=/0x0:955x585/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/03/27/ponte5.jpg"> </source></source></source></source></source></picture> 
+ 
+ 
+ 
+
+_<svg xmlns="http://www.w3.org/2000/svg" width="13.5px" height="11.25px" viewbox="0 0 13 12"> <ellipse id="Oval" cx="6.5" cy="6.7826087" rx="2" ry="2.08695652"></ellipse> <path d="M4.625,0.260869565 L3.48125,1.56521739 L1.5,1.56521739 C0.8125,1.56521739 0.25,2.15217391 0.25,2.86956522 L0.25,10.6956522 C0.25,11.4130435 0.8125,12 1.5,12 L11.5,12 C12.1875,12 12.75,11.4130435 12.75,10.6956522 L12.75,2.86956522 C12.75,2.15217391 12.1875,1.56521739 11.5,1.56521739 L9.51875,1.56521739 L8.375,0.260869565 L4.625,0.260869565 L4.625,0.260869565 Z M6.5,10.0434783 C4.775,10.0434783 3.375,8.5826087 3.375,6.7826087 C3.375,4.9826087 4.775,3.52173913 6.5,3.52173913 C8.225,3.52173913 9.625,4.9826087 9.625,6.7826087 C9.625,8.5826087 8.225,10.0434783 6.5,10.0434783 L6.5,10.0434783 Z" id="Shape"></path> </svg>_ Doriva assiste ao treino do gramado do Majestoso (Foto: Márcio Silveira / EPTV)
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
