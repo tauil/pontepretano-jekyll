@@ -1,0 +1,128 @@
+---
+layout: post
+title: "Final do Troféu do Interior: tudo o que você precisa saber sobre Ponte Preta x Mirasol"
+date: 2018-04-02T10:05:08+00:00
+external_link: "https://globoesporte.globo.com/sp/campinas-e-regiao/futebol/campeonato-paulista/noticia/final-do-trofeu-do-interior-tudo-o-que-voce-precisa-saber-sobre-ponte-preta-x-mirassol.ghtml"
+categories: news globo.com
+---
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+Ponte Preta e Mirassol decidem nesta segunda-feira o título do Troféu do Interior do Campeonato Paulista. A partida acontece às 20h, no Estádio Moisés Lucarelli, em Campinas. Quem vencer será campeão, já que houve empate por 1 a 1 no primeiro jogo, disputado quinta-feira, no Maião.
+
+ 
+ 
+ 
+
+Além do título, os clubes também disputam nesta noite uma vaga na Copa do Brasil de 2019 e uma premiação de R$ 360 mil, ambos destinados ao time campeão. Com o apoio da torcida, a Ponte busca o quarto título, pois venceu em 2009, 2013 e 2015. Já o Mirassol busca a primeira conquista.
+
+ 
+ 
+ 
+
+**Arbitragem:** Salim Fende Chavez apita, auxiliado por Gustavo Rodrigues de Oliveira e Fabricio Porfirio de Moura.
+
+ 
+ 
+ 
+
+**Transmissão:** SporTV (com Jota Jr. e Wagner Vilaron). Tempo Real no GloboEsporte.com.
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+  ![(Foto: Infografia)](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgARCAAEABkDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAQDB//EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAe42hXqH/8QAGRAAAwEBAQAAAAAAAAAAAAAAAAECBAMU/9oACAEBAAEFAqx03zzWhZ6PPR//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAfEAABAwMFAAAAAAAAAAAAAAACAAMEATSSEiEiM3H/2gAIAQEABj8CLTKkN8y2E1dyK+mrh7Jd72S//8QAHhAAAgEDBQAAAAAAAAAAAAAAAAHRESFBUWGRofH/2gAIAQEAAT8hpE9fdtarGBKuCQM360HhIP/aAAwDAQACAAMAAAAQgg//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/ED//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAaEAEBAQEAAwAAAAAAAAAAAAABESEAEDFB/9oACAEBAAE/ENuqYxxDRgIPgvvixiJs66LPJk+FD//Z " (Foto: Infografia)") <picture itemscope itemtype="http://schema.org/ImageObject"> <!--[if IE 9]><video style="display: none;"><![endif]--> <source media="(max-width: 1024px)" data-src="https://s2.glbimg.com/2k3BtP5UUDiNl5TJpRtsoy_-Hds=/0x0:1000x159/600x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/T/W/j51WbjTkmepT5Ni4clWQ/escalacoes-provaveis.png 1x, https://s2.glbimg.com/GbMZmDtn4mRvuHgtPt76_2GJ4y8=/0x0:1000x159/1200x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/T/W/j51WbjTkmepT5Ni4clWQ/escalacoes-provaveis.png 2x"> <source media="(max-width: 1280px)" data-src="https://s2.glbimg.com/14NFtIU8lCeWXwSM1yPA74yeNro=/0x0:1000x159/640x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/T/W/j51WbjTkmepT5Ni4clWQ/escalacoes-provaveis.png 1x, https://s2.glbimg.com/r0XSn_DWVPxG8IKoNETUCj5n9uQ=/0x0:1000x159/1280x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/T/W/j51WbjTkmepT5Ni4clWQ/escalacoes-provaveis.png 2x"> <source media="(max-width: 1360px)" data-src="https://s2.glbimg.com/_75izyxfAm9HY6BTo_AcAXx_PVA=/0x0:1000x159/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/T/W/j51WbjTkmepT5Ni4clWQ/escalacoes-provaveis.png 1x, https://s2.glbimg.com/2eFb_epKiSwxpc5eIB3GSFc5unI=/0x0:1000x159/1968x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/T/W/j51WbjTkmepT5Ni4clWQ/escalacoes-provaveis.png 2x"> <source media="(min-width: 1361px)" data-src="https://s2.glbimg.com/LQAt-8BPzHUGAM9uwHbbkuhPyTc=/0x0:1000x159/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/T/W/j51WbjTkmepT5Ni4clWQ/escalacoes-provaveis.png 1x, https://s2.glbimg.com/cGtSi83pmfJ4LXcCdgIUNeQhXIw=/0x0:1000x159/2000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/T/W/j51WbjTkmepT5Ni4clWQ/escalacoes-provaveis.png 2x"> <source data-src="https://s2.glbimg.com/_75izyxfAm9HY6BTo_AcAXx_PVA=/0x0:1000x159/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/T/W/j51WbjTkmepT5Ni4clWQ/escalacoes-provaveis.png"> <!--[if IE 9]></video><![endif]--> <img class="image content-media__image" itemprop="contentUrl" alt=" (Foto: Infografia)" title=" (Foto: Infografia)" data-src="https://s2.glbimg.com/_75izyxfAm9HY6BTo_AcAXx_PVA=/0x0:1000x159/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/T/W/j51WbjTkmepT5Ni4clWQ/escalacoes-provaveis.png"> </source></source></source></source></source></picture> 
+ 
+ 
+ 
+
+_<svg xmlns="http://www.w3.org/2000/svg" width="13.5px" height="11.25px" viewbox="0 0 13 12"> <ellipse id="Oval" cx="6.5" cy="6.7826087" rx="2" ry="2.08695652"></ellipse> <path d="M4.625,0.260869565 L3.48125,1.56521739 L1.5,1.56521739 C0.8125,1.56521739 0.25,2.15217391 0.25,2.86956522 L0.25,10.6956522 C0.25,11.4130435 0.8125,12 1.5,12 L11.5,12 C12.1875,12 12.75,11.4130435 12.75,10.6956522 L12.75,2.86956522 C12.75,2.15217391 12.1875,1.56521739 11.5,1.56521739 L9.51875,1.56521739 L8.375,0.260869565 L4.625,0.260869565 L4.625,0.260869565 Z M6.5,10.0434783 C4.775,10.0434783 3.375,8.5826087 3.375,6.7826087 C3.375,4.9826087 4.775,3.52173913 6.5,3.52173913 C8.225,3.52173913 9.625,4.9826087 9.625,6.7826087 C9.625,8.5826087 8.225,10.0434783 6.5,10.0434783 L6.5,10.0434783 Z" id="Shape"></path> </svg>_ (Foto: Infografia)
+
+ 
+ 
+ 
+ 
+ 
+
+## Ponte Preta – técnico: João Brigatti
+
+ 
+ 
+ 
+
+Para a partida de volta da decisão, a Macaca conta com mais duas opções para armar o time: o volante João Vitor, livre de suspensão, e o atacante Aaron, liberado pelo departamento médico. João Vitor provavelmente entrará no lugar de Jeferson no meio, enquanto Aaron disputa uma vaga com Yuri. Neste caso, a Macaca jogaria sem uma referência ofensiva e com três velocistas na frente: Saraiva, Orinho e Aaron.
+
+ 
+ 
+ 
+
+**Desfalques:** Fellipe Cardoso e Tiago Real (em transição).
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+  ![Provável formação da Macaca para a final (Foto: Infografia)](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgARCAAmABkDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAgMAAf/EABgBAAMBAQAAAAAAAAAAAAAAAAABAgYH/9oADAMBAAIQAxAAAAFdMuSZayKEWTdPp6iVdpmXdkv/xAAcEAACAwEBAQEAAAAAAAAAAAAAAgEREiFBECL/2gAIAQEAAQUC978obJlLSVOF98ltMTRnsUsmoIf8aU2f/8QAGREAAgMBAAAAAAAAAAAAAAAAARAAITFR/9oACAEDAQE/AaZ6Zi//xAAbEQABBQEBAAAAAAAAAAAAAAAAAREhMfBRYf/aAAgBAgEBPwGHkaDzZBeqVRR//8QAIRAAAAUEAgMAAAAAAAAAAAAAAAEQEUECEiExIlJhcYH/2gAIAQEABj8ChITWRdby7A3+JoOVLUlDh2TzIa4vYN8qZQaaH//EACEQAQACAQMFAQEAAAAAAAAAAAEAESExQVEQYXGBkbHB/9oACAEBAAE/IW7H4l9szZ/HQtAuTcWKKCimQ4gcCqbNHoaaT7hsFAyfI+NL4mZegWblytLXxKx2RHHme43uGAF5k8QwYZSP/9oADAMBAAIAAwAAABDAfEr/AP8A/8QAGxEBAQEAAgMAAAAAAAAAAAAAAREAITEQkcH/2gAIAQMBAT8Qge9CDccEtOPc+a1Uq94VUfH/xAAgEQEAAgICAQUAAAAAAAAAAAABESEAQTFhwVGRseHw/9oACAECAQE/EIMFUaNxxcbpfnAIefGEkhErq4b8te+BlSVWf3eS3p984+jP/8QAHxABAAICAgMBAQAAAAAAAAAAAQARITFBUXGBofBh/9oACAEBAAE/EMIwDBSBAVStUU/IJF2clO55kSUBW2wnGOIryzstsPTz4ICRIItkM7K+z2jKpBLMLhB0ALFHAefcsh6MKg0TxIHQi2pHWjiiVkYmyjzWwuGqUloQ9NX+xKO8SlSmTEIRGK2VtWfbBPHf5P0Z/9k= "Provável formação da Macaca para a final (Foto: Infografia)") <picture itemscope itemtype="http://schema.org/ImageObject"> <!--[if IE 9]><video style="display: none;"><![endif]--> <source media="(max-width: 1024px)" data-src="https://s2.glbimg.com/30Aw-GaZ13QdLO1Qrw8E2b3Ppjg=/0x0:600x900/600x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/Q/Y/b4Cr7zSrynoAJiQrQqoA/campinho-2-.png 1x, https://s2.glbimg.com/6gHu9VhhhDg4l0QduZgITnw6iWo=/0x0:600x900/1200x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/Q/Y/b4Cr7zSrynoAJiQrQqoA/campinho-2-.png 2x"> <source media="(max-width: 1280px)" data-src="https://s2.glbimg.com/dWLuq_69Youxxa9Uk14xNFPlrqA=/0x0:600x900/640x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/Q/Y/b4Cr7zSrynoAJiQrQqoA/campinho-2-.png 1x, https://s2.glbimg.com/CLMojno7HbvXKeQpsA-9hCp0XGY=/0x0:600x900/1280x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/Q/Y/b4Cr7zSrynoAJiQrQqoA/campinho-2-.png 2x"> <source media="(max-width: 1360px)" data-src="https://s2.glbimg.com/Wu-ihOfE3gweCsqpksBkalWi-kQ=/0x0:600x900/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/Q/Y/b4Cr7zSrynoAJiQrQqoA/campinho-2-.png 1x, https://s2.glbimg.com/xiosTW4L4VcihuXSaBp0CWSTdQA=/0x0:600x900/1968x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/Q/Y/b4Cr7zSrynoAJiQrQqoA/campinho-2-.png 2x"> <source media="(min-width: 1361px)" data-src="https://s2.glbimg.com/JA4P331_VvqylNEERXcx2QkxlTA=/0x0:600x900/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/Q/Y/b4Cr7zSrynoAJiQrQqoA/campinho-2-.png 1x, https://s2.glbimg.com/oxiGa227VpmqMYWkmTFHovhdHdI=/0x0:600x900/2000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/Q/Y/b4Cr7zSrynoAJiQrQqoA/campinho-2-.png 2x"> <source data-src="https://s2.glbimg.com/Wu-ihOfE3gweCsqpksBkalWi-kQ=/0x0:600x900/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/Q/Y/b4Cr7zSrynoAJiQrQqoA/campinho-2-.png"> <!--[if IE 9]></video><![endif]--> <img class="image content-media__image" itemprop="contentUrl" alt="Provável formação da Macaca para a final (Foto: Infografia)" title="Provável formação da Macaca para a final (Foto: Infografia)" data-src="https://s2.glbimg.com/Wu-ihOfE3gweCsqpksBkalWi-kQ=/0x0:600x900/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/Q/Y/b4Cr7zSrynoAJiQrQqoA/campinho-2-.png"> </source></source></source></source></source></picture> 
+ 
+ 
+ 
+
+_<svg xmlns="http://www.w3.org/2000/svg" width="13.5px" height="11.25px" viewbox="0 0 13 12"> <ellipse id="Oval" cx="6.5" cy="6.7826087" rx="2" ry="2.08695652"></ellipse> <path d="M4.625,0.260869565 L3.48125,1.56521739 L1.5,1.56521739 C0.8125,1.56521739 0.25,2.15217391 0.25,2.86956522 L0.25,10.6956522 C0.25,11.4130435 0.8125,12 1.5,12 L11.5,12 C12.1875,12 12.75,11.4130435 12.75,10.6956522 L12.75,2.86956522 C12.75,2.15217391 12.1875,1.56521739 11.5,1.56521739 L9.51875,1.56521739 L8.375,0.260869565 L4.625,0.260869565 L4.625,0.260869565 Z M6.5,10.0434783 C4.775,10.0434783 3.375,8.5826087 3.375,6.7826087 C3.375,4.9826087 4.775,3.52173913 6.5,3.52173913 C8.225,3.52173913 9.625,4.9826087 9.625,6.7826087 C9.625,8.5826087 8.225,10.0434783 6.5,10.0434783 L6.5,10.0434783 Z" id="Shape"></path> </svg>_ Provável formação da Macaca para a final (Foto: Infografia)
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+## Mirassol – técnico: Moisés Egert
+
+ 
+ 
+ 
+
+Em meio ao desmanche após o fim da primeira fase do Paulistão, o Mirassol divide as atenções da final do Troféu Interior com a montagem do elenco para a disputa da Série B do Brasileiro na sequência da temporada.
+
+ 
+ 
+ 
+
+Apesar do empate em casa na primeira partida, o discurso do técnico Moisés Egert é otimista com relação ao título, apesar de reconhecer os problemas gerados pela saída de diversos jogadores. Por isso, o treinador manterá o time do primeiro confronto, com destaques para os experientes Edson Silva e Xuxa.
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  ![Provável Mirassol contra a Ponte Preta (Foto: GloboEsporte.com )](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgARCAAmABkDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIDAf/EABcBAQEBAQAAAAAAAAAAAAAAAAECBgf/2gAMAwEAAhADEAAAAWpFeTZejSrMruF1lMJJMALoB//EAB4QAAICAgIDAAAAAAAAAAAAAAABERICEAMhIjFB/9oACAEBAAEFAvsOvZA62fR46fvHkrktNkE1ZZCqWxLn/8QAFREBAQAAAAAAAAAAAAAAAAAAASD/2gAIAQMBAT8BCv/EABkRAAMBAQEAAAAAAAAAAAAAAAABMREhUf/aAAgBAgEBPwFLzpwSVRmEhD//xAAdEAACAgIDAQAAAAAAAAAAAAAAERAxASESQVGR/9oACAEBAAY/AuhmKjcYUUVtMqELn8yeuWoo/8QAIBABAAMAAgAHAAAAAAAAAAAAAQARITFBEFFhcYGxwf/aAAgBAQABPyFux9IcsVxVTl+HgGgVON9JQl2XWe8KICb233MlrRgA8wXkTZGyzqba1rBAMvaYQDBQ7Oz5je4zB5ape6hhjKR//9oADAMBAAIAAwAAABCMNmT/AP8A/8QAHhEBAAIBBAMAAAAAAAAAAAAAAQARMRAhQWFxgdH/2gAIAQMBAT8QsLC+PfHnEQGhuAZOut/kSmoKY0//xAAdEQACAQUBAQAAAAAAAAAAAAABEQAhMUFRcWHB/9oACAECAQE/EGhhotEtdtExAqORg4F4Wc8B+QBQ4zUV4dJ//8QAIBABAAIBBQEAAwAAAAAAAAAAAREhADFBUWGBcaHB8P/aAAgBAQABPxClUCqYt1Scr8fvBAOpsRzn2YmRhpElRZF6z5lJ1whmVAJzKV3hENJWQqng5g6DPeMpFJiZxxfGxCUTZEz7iKupv3nyYUwhQw4Jdwlj64LTRYBtinqLjWcS+CLEVcNbrcbZXPEpEpZWSlEhAsFY10lX3BO3es/o5//Z "Provável Mirassol contra a Ponte Preta (Foto: GloboEsporte.com )") <picture itemscope itemtype="http://schema.org/ImageObject"> <!--[if IE 9]><video style="display: none;"><![endif]--> <source media="(max-width: 1024px)" data-src="https://s2.glbimg.com/UgYiMIz60XMycgAdBm-_hLWfTT8=/0x0:600x900/600x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/f/J/cgTpQJScaOosUvDVhQAw/campinho.png 1x, https://s2.glbimg.com/5kzlkx_IGAFgnQE8vx7-ma1DrqA=/0x0:600x900/1200x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/f/J/cgTpQJScaOosUvDVhQAw/campinho.png 2x"> <source media="(max-width: 1280px)" data-src="https://s2.glbimg.com/_7GUnuBXodfYyUrGTkS01tccExU=/0x0:600x900/640x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/f/J/cgTpQJScaOosUvDVhQAw/campinho.png 1x, https://s2.glbimg.com/QxbjPmzyxFjFJnMj7T8HabYQekk=/0x0:600x900/1280x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/f/J/cgTpQJScaOosUvDVhQAw/campinho.png 2x"> <source media="(max-width: 1360px)" data-src="https://s2.glbimg.com/9WBdxUGAuhcHsI1uYVKPi6IDP2w=/0x0:600x900/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/f/J/cgTpQJScaOosUvDVhQAw/campinho.png 1x, https://s2.glbimg.com/kQF_yXYWdRv0VnfEoxpLmRsNqAI=/0x0:600x900/1968x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/f/J/cgTpQJScaOosUvDVhQAw/campinho.png 2x"> <source media="(min-width: 1361px)" data-src="https://s2.glbimg.com/m83TXBAUBVmPdHIL1wI__DAXihY=/0x0:600x900/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/f/J/cgTpQJScaOosUvDVhQAw/campinho.png 1x, https://s2.glbimg.com/cjSQVt0KjSGpg0JRm7xSFxHe5yU=/0x0:600x900/2000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/f/J/cgTpQJScaOosUvDVhQAw/campinho.png 2x"> <source data-src="https://s2.glbimg.com/9WBdxUGAuhcHsI1uYVKPi6IDP2w=/0x0:600x900/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/f/J/cgTpQJScaOosUvDVhQAw/campinho.png"> <!--[if IE 9]></video><![endif]--> <img class="image content-media__image" itemprop="contentUrl" alt="Provável Mirassol contra a Ponte Preta (Foto: GloboEsporte.com )" title="Provável Mirassol contra a Ponte Preta (Foto: GloboEsporte.com )" data-src="https://s2.glbimg.com/9WBdxUGAuhcHsI1uYVKPi6IDP2w=/0x0:600x900/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/f/J/cgTpQJScaOosUvDVhQAw/campinho.png"> </source></source></source></source></source></picture> 
+ 
+ 
+ 
+
+_<svg xmlns="http://www.w3.org/2000/svg" width="13.5px" height="11.25px" viewbox="0 0 13 12"> <ellipse id="Oval" cx="6.5" cy="6.7826087" rx="2" ry="2.08695652"></ellipse> <path d="M4.625,0.260869565 L3.48125,1.56521739 L1.5,1.56521739 C0.8125,1.56521739 0.25,2.15217391 0.25,2.86956522 L0.25,10.6956522 C0.25,11.4130435 0.8125,12 1.5,12 L11.5,12 C12.1875,12 12.75,11.4130435 12.75,10.6956522 L12.75,2.86956522 C12.75,2.15217391 12.1875,1.56521739 11.5,1.56521739 L9.51875,1.56521739 L8.375,0.260869565 L4.625,0.260869565 L4.625,0.260869565 Z M6.5,10.0434783 C4.775,10.0434783 3.375,8.5826087 3.375,6.7826087 C3.375,4.9826087 4.775,3.52173913 6.5,3.52173913 C8.225,3.52173913 9.625,4.9826087 9.625,6.7826087 C9.625,8.5826087 8.225,10.0434783 6.5,10.0434783 L6.5,10.0434783 Z" id="Shape"></path> </svg>_ Provável Mirassol contra a Ponte Preta (Foto: GloboEsporte.com )
+
+ 
+ 
+ 
+ 
+ 
