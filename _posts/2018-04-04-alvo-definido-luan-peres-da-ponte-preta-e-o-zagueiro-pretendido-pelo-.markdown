@@ -1,0 +1,78 @@
+---
+layout: post
+title: "Alvo definido: Luan Peres, da Ponte Preta, é o zagueiro pretendido pelo Fluminense"
+date: 2018-04-04T16:29:05+00:00
+external_link: "https://globoesporte.globo.com/rj/futebol/noticia/alvo-definido-luan-peres-da-ponte-preta-e-o-zagueiro-pretendido-pelo-fluminense.ghtml"
+categories: news globo.com
+---
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+Luan Peres, emprestado pelo Ituano a Ponte Preta, é o zagueiro pretendido pelo Fluminense. Canhoto e jovem (tem 23 anos), o defensor se enquadra nas características pedidas por Abel Braga.
+
+ 
+ 
+ 
+
+A negociação está em andamento e há otimismo nas Laranjeiras quanto ao desfecho positivo - em um primeiro momento, a ideia é tê-lo até o fim do ano. Luan tem contrato com a Ponte até 30 de maio.
+
+ 
+ 
+ 
+
+A Macaca, aliás, tinha interesse na permanência, mas o assédio de clubes da Série A, como o Flu, inviabilizou a renovação - pretende mantê-lo até o fim do contrato. O Santos também demonstrou interesse. O vínculo com o Ituano, clube que terá de concordar com a negociação, é até a metade de 2017.
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+  ![Luan Peres atuou no Paulistão pela , zagueiro Ponte Preta (Foto: Fabio Leoni/ PontePress)](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgARCAAUABkDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUEBwIDBv/EABgBAAIDAAAAAAAAAAAAAAAAAAIDAAEG/9oADAMBAAIQAxAAAAFYzg9oDK6rexntg6yDON2Rwgf/xAAfEAACAgIBBQAAAAAAAAAAAAACAwEEABMFBhEVITP/2gAIAQEAAQUCQMFMpg09QJpKra7GBxD1Z9KjaXIG7x7cAfRz3WUbC1xn/8QAGhEBAQACAwAAAAAAAAAAAAAAAQADETFBUf/aAAgBAwEBPwFwp3HG29i//8QAGhEAAwEAAwAAAAAAAAAAAAAAAAECAwQRMv/aAAgBAgEBPwGeZlZLy7aqySvTP//EACUQAAEDAwIGAwAAAAAAAAAAAAEAAgMEERIh0RAxQVFxkjM1Qv/aAAgBAQAGPwKH8NZ0VQ/Kz2vxx7juohT07DUWaX5HR9wvr4/U7rRjXXHSUqGKWja2QsEZnBucbqSN8OUVwBLpkBfZfLJ7t2XMoeETy8cP/8QAHRABAQACAgMBAAAAAAAAAAAAAREAITFhEEFxgf/aAAgBAQABPyGESWBFIJH8zUTIVdeupy94ukW5S9lInHjwXCtiCXk+94idSDgj9m8oANxmjR78H1L9VxQLQfP3KF6GtTOxz//aAAwDAQACAAMAAAAQBwhd/8QAHBEBAAICAwEAAAAAAAAAAAAAAQARIWExcbHB/9oACAEDAQE/EAeDe5WgOdewcdPpEoXP/8QAHREAAQQCAwAAAAAAAAAAAAAAAQARIVExkUGh8P/aAAgBAgEBPxA8chpnXD2myHBsHUoGPrC7hX//xAAcEAEAAgMBAQEAAAAAAAAAAAABESEAMUEQgfH/2gAIAQEAAT8QDtjI1A0ApYnvMhncCK0eMAIQBFkwxBCGwm5CITM+Wm0U6WKI1oA2n65ro6pGJIoUVkVTbItkviopKAGkE3M14aYGronsZJKiFgtJHTe8FGtagq4aNZ+nn//Z "Luan Peres atuou no Paulistão pela , zagueiro Ponte Preta (Foto: Fabio Leoni/ PontePress)") <picture itemscope itemtype="http://schema.org/ImageObject"> <!--[if IE 9]><video style="display: none;"><![endif]--> <source media="(max-width: 1024px)" data-src="https://s2.glbimg.com/BvG3b9ny_lPZrY3WIMW7FAWXDB4=/66x0:591x414/600x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/02/27/luanperes.2.jpg 1x, https://s2.glbimg.com/6lXg8je9GtVGSk3v6xdSbQdn6Xs=/66x0:591x414/1200x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/02/27/luanperes.2.jpg 2x"> <source media="(max-width: 1280px)" data-src="https://s2.glbimg.com/kbJS1Jfpr6Z9pB_zMXpyXQOS5Hg=/66x0:591x414/640x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/02/27/luanperes.2.jpg 1x, https://s2.glbimg.com/UwDrgFZUxafVfgoladLOntes9UA=/66x0:591x414/1280x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/02/27/luanperes.2.jpg 2x"> <source media="(max-width: 1360px)" data-src="https://s2.glbimg.com/BDJMUYkCrykLbiCKMVMPeDOZjhM=/66x0:591x414/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/02/27/luanperes.2.jpg 1x, https://s2.glbimg.com/aRYOFoXSmizJ6NFlSVALKuv-fNI=/66x0:591x414/1968x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/02/27/luanperes.2.jpg 2x"> <source media="(min-width: 1361px)" data-src="https://s2.glbimg.com/bVSj1JtRFEdM3W8qd8HTNVtqbwA=/66x0:591x414/1000x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/02/27/luanperes.2.jpg 1x, https://s2.glbimg.com/YygdV5tX1v20j2AA2sPkIkkyPnM=/66x0:591x414/2000x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/02/27/luanperes.2.jpg 2x"> <source data-src="https://s2.glbimg.com/BDJMUYkCrykLbiCKMVMPeDOZjhM=/66x0:591x414/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/02/27/luanperes.2.jpg"> <!--[if IE 9]></video><![endif]--> <img class="image content-media__image" itemprop="contentUrl" alt="Luan Peres atuou no Paulistão pela , zagueiro Ponte Preta (Foto: Fabio Leoni/ PontePress)" title="Luan Peres atuou no Paulistão pela , zagueiro Ponte Preta (Foto: Fabio Leoni/ PontePress)" data-src="https://s2.glbimg.com/BDJMUYkCrykLbiCKMVMPeDOZjhM=/66x0:591x414/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/02/27/luanperes.2.jpg"> </source></source></source></source></source></picture> 
+ 
+ 
+ 
+
+_<svg xmlns="http://www.w3.org/2000/svg" width="13.5px" height="11.25px" viewbox="0 0 13 12"> <ellipse id="Oval" cx="6.5" cy="6.7826087" rx="2" ry="2.08695652"></ellipse> <path d="M4.625,0.260869565 L3.48125,1.56521739 L1.5,1.56521739 C0.8125,1.56521739 0.25,2.15217391 0.25,2.86956522 L0.25,10.6956522 C0.25,11.4130435 0.8125,12 1.5,12 L11.5,12 C12.1875,12 12.75,11.4130435 12.75,10.6956522 L12.75,2.86956522 C12.75,2.15217391 12.1875,1.56521739 11.5,1.56521739 L9.51875,1.56521739 L8.375,0.260869565 L4.625,0.260869565 L4.625,0.260869565 Z M6.5,10.0434783 C4.775,10.0434783 3.375,8.5826087 3.375,6.7826087 C3.375,4.9826087 4.775,3.52173913 6.5,3.52173913 C8.225,3.52173913 9.625,4.9826087 9.625,6.7826087 C9.625,8.5826087 8.225,10.0434783 6.5,10.0434783 L6.5,10.0434783 Z" id="Shape"></path> </svg>_ Luan Peres atuou no Paulistão pela , zagueiro Ponte Preta (Foto: Fabio Leoni/ PontePress)
+
+ 
+ 
+ 
+ 
+ 
+
+Com 1,90m, Luan Peres foi titular da Ponte no Paulistão. Atuou em 15 partidas. Ele está no clube de Campinas desde o ano passado, [quando reprovou a expulsão de Rodrigo diante do Vitória, partida que determinou o rebaixamento da Macaca para a Série B do Brasileirão.](http://globoesporte.globo.com/sp/campinas-e-regiao/corrida-integracao/videos/t/todos-os-videos/v/luan-peres-reprova-atitude-do-colega-de-time-rodrigo-durante-partida-da-ponte-preta/6316602/)
+
+ 
+ 
+ 
+
+Paulo Autuori, diretor esportivo de futebol, em entrevista coletiva no CT na última segunda-feira, disse que o Tricolor estava perto de contratar reforços. Segundo ele, a busca é por jogadores “experientes e de vitória”, que saibam lidar com momentos de pressão, “como o do final de jogo do Vasco”. O dirigente revelou que o Flu pretende contratar um zagueiro, um meia e um atacante.
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+[O atacante é Kleber Gladiador, do Coritiba.](https://globoesporte.globo.com/futebol/times/fluminense/noticia/fluminense-negocia-com-kleber-gladiador-do-coritiba.ghtml) A negociação também está em andamento. Além do trio, para compor o grupo, o Flu acertou com João Carlos, atacante da Cabofriense que se destacou no Carioca.
+
+ 
+ 
+ 
+ 
+
+_\*Colaborou Heitor Esmeriz._
+
+ 
+ 
+ 
