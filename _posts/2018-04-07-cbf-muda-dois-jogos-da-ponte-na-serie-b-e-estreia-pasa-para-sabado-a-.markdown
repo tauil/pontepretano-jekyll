@@ -1,0 +1,68 @@
+---
+layout: post
+title: "CBF muda dois jogos da Ponte na Série B, e estreia pasa para sábado à noite"
+date: 2018-04-07T21:37:34+00:00
+external_link: "https://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/noticia/cbf-muda-dois-jogos-da-ponte-na-serie-b-e-estreia-passa-para-sabado-a-noite.ghtml"
+categories: news globo.com
+---
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+A Confederação Brasileira de Futebol realizou quatro alterações na tabela da Série B do Brasileiro. Duas deles atingem a Ponte Preta, a começar do horário da estreia, contra o Paysandu, no Majestoso.
+
+ 
+ 
+ 
+
+Inicialmente marcado para as 16h30 do próximo sábado, o duelo passou para as 21h. Segundo a CBF, a mudança foi realizada em concordância com a televisão.
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+  ![Moisés Lucarelli será o palco da estreia da Ponte na Série B (Foto: Heitor Esmeriz)](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgARCAATABkDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAIEBQcIA//EABgBAAIDAAAAAAAAAAAAAAAAAAECAAME/9oADAMBAAIQAxAAAAHNbDS8XnNDr0HCWSuI4A/dwBT/xAAfEAACAgIBBQAAAAAAAAAAAAABAgAEAwYREhMUFSX/2gAIAQEAAQUCNNynRKtPLbyeI0x19eNf0+uBq1HXKg+JMyBYHaKOT2Un/8QAGBEAAgMAAAAAAAAAAAAAAAAAAAEQERL/2gAIAQMBAT8ByynDP//EABoRAAICAwAAAAAAAAAAAAAAAAIDAAQQITH/2gAIAQIBAT8BO0odQXrLmf/EACUQAAICAQIEBwAAAAAAAAAAAAECAAMREjEQITKRIjVBQnGB0v/aAAgBAQAGPwJnCEqu5xtwCVI1jn2qMmbR003aHPPSSM/WZqrsvQeu5jPWLbTg8yzAzy+zuf1ARkeDO86m7zmSfkzpn//EAB8QAAICAQQDAAAAAAAAAAAAAAABESExUWFxoYGRsf/aAAgBAQABPyFmKoTTkxtMQYQ4SjwboZVGnexPRQmblpqCq5hHawoU+0QC25HibMjs/admQzbH/9oADAMBAAIAAwAAABAa6H3/xAAXEQEBAQEAAAAAAAAAAAAAAAABQQAQ/9oACAEDAQE/ECjkrmcf/8QAGxEBAAICAwAAAAAAAAAAAAAAAQARIXGRobH/2gAIAQIBAT8QXst6XwglrnHTTBxLn//EACAQAQEAAgICAgMAAAAAAAAAAAERACExURBBYXGBwfH/2gAIAQEAAT8QORRYs2HALGXmOVQl6DKtUswCsG2Av48YHmD7X0EsrT7O80u5jPo7Xka/J1jHOTgREApSGj34fm7hCK0Lz1ioSDoP3mrJQEER+3P7Dn//2Q== "Moisés Lucarelli será o palco da estreia da Ponte na Série B (Foto: Heitor Esmeriz)") <picture itemscope itemtype="http://schema.org/ImageObject"> <!--[if IE 9]><video style="display: none;"><![endif]--> <source media="(max-width: 1024px)" data-src="https://s2.glbimg.com/0BnPF_k8mkDqhJ4aRkNMH-gBZOY=/0x0:1280x960/600x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/03/08/whatsapp_image_2018-03-08_at_21.28.00.jpeg 1x, https://s2.glbimg.com/Qbd_jiT0cSgTlvGOr2cCXE_p14s=/0x0:1280x960/1200x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/03/08/whatsapp_image_2018-03-08_at_21.28.00.jpeg 2x"> <source media="(max-width: 1280px)" data-src="https://s2.glbimg.com/r472hlm4LDA1OBpoN-AyC8WXZOs=/0x0:1280x960/640x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/03/08/whatsapp_image_2018-03-08_at_21.28.00.jpeg 1x, https://s2.glbimg.com/mXzptak-q46vP1aZ2IHsTZEy0j4=/0x0:1280x960/1280x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/03/08/whatsapp_image_2018-03-08_at_21.28.00.jpeg 2x"> <source media="(max-width: 1360px)" data-src="https://s2.glbimg.com/s76JrOHTeaBexwUm6IDTL2wQAg8=/0x0:1280x960/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/03/08/whatsapp_image_2018-03-08_at_21.28.00.jpeg 1x, https://s2.glbimg.com/nQp9XxSTbT_PszzAuA8yDEXSBDE=/0x0:1280x960/1968x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/03/08/whatsapp_image_2018-03-08_at_21.28.00.jpeg 2x"> <source media="(min-width: 1361px)" data-src="https://s2.glbimg.com/YtPHu1Rnsh4raDfSGxYU2Crwhe8=/0x0:1280x960/1000x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/03/08/whatsapp_image_2018-03-08_at_21.28.00.jpeg 1x, https://s2.glbimg.com/rtHyt7rFzTjZm8OpWsK-OgjpZ_g=/0x0:1280x960/2000x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/03/08/whatsapp_image_2018-03-08_at_21.28.00.jpeg 2x"> <source data-src="https://s2.glbimg.com/s76JrOHTeaBexwUm6IDTL2wQAg8=/0x0:1280x960/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/03/08/whatsapp_image_2018-03-08_at_21.28.00.jpeg"> <!--[if IE 9]></video><![endif]--> <img class="image content-media__image" itemprop="contentUrl" alt="Moisés Lucarelli será o palco da estreia da Ponte na Série B (Foto: Heitor Esmeriz)" title="Moisés Lucarelli será o palco da estreia da Ponte na Série B (Foto: Heitor Esmeriz)" data-src="https://s2.glbimg.com/s76JrOHTeaBexwUm6IDTL2wQAg8=/0x0:1280x960/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/03/08/whatsapp_image_2018-03-08_at_21.28.00.jpeg"> </source></source></source></source></source></picture> 
+ 
+ 
+ 
+
+_<svg xmlns="http://www.w3.org/2000/svg" width="13.5px" height="11.25px" viewbox="0 0 13 12"> <ellipse id="Oval" cx="6.5" cy="6.7826087" rx="2" ry="2.08695652"></ellipse> <path d="M4.625,0.260869565 L3.48125,1.56521739 L1.5,1.56521739 C0.8125,1.56521739 0.25,2.15217391 0.25,2.86956522 L0.25,10.6956522 C0.25,11.4130435 0.8125,12 1.5,12 L11.5,12 C12.1875,12 12.75,11.4130435 12.75,10.6956522 L12.75,2.86956522 C12.75,2.15217391 12.1875,1.56521739 11.5,1.56521739 L9.51875,1.56521739 L8.375,0.260869565 L4.625,0.260869565 L4.625,0.260869565 Z M6.5,10.0434783 C4.775,10.0434783 3.375,8.5826087 3.375,6.7826087 C3.375,4.9826087 4.775,3.52173913 6.5,3.52173913 C8.225,3.52173913 9.625,4.9826087 9.625,6.7826087 C9.625,8.5826087 8.225,10.0434783 6.5,10.0434783 L6.5,10.0434783 Z" id="Shape"></path> </svg>_ Moisés Lucarelli será o palco da estreia da Ponte na Série B (Foto: Heitor Esmeriz)
+
+ 
+ 
+ 
+ 
+ 
+
+A outra situação envolve a partida contra o Oeste, pela oitava rodada. Neste caso, as mudanças foram de dia e horário. Em vez de jogarem em 29 de maio (terça-feira), as equipes vão se enfrentar em 2 de junho (sábado), às 19h, também no Moisés Lucarelli.
+
+ 
+ 
+ 
+
+[**+ CLIQUE AQUI e leia mais sobre a Ponte**](http://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/)
+
+ 
+ 
+ 
+
+Vale lembrar que, devido à punição de seis jogos que a Macaca recebeu do STJD pelos incidentes no rebaixamento do ano passado, esses dois confrontos serão disputados com portões fechados.
+
+ 
+ 
+ 
+ 
+
+Antes de iniciar a caminhada na Série B do Brasileiro, a Macaca tem pela frente o Náutico, quarta-feira, às 21h45, no Majestoso (com presença da torcida), pelo jogo de ida da quarta fase da Copa do Brasil.
+
+ 
+ 
+ 
