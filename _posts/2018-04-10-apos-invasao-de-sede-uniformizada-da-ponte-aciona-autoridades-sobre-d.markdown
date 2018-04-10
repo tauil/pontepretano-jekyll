@@ -1,0 +1,104 @@
+---
+layout: post
+title: "Após invasão de sede, uniformizada da Ponte aciona autoridades sobre dérbi"
+date: 2018-04-10T16:18:57+00:00
+external_link: "https://globoesporte.globo.com/sp/campinas-e-regiao/futebol/noticia/apos-invasao-de-sede-uniformizada-da-ponte-aciona-autoridades-sobre-derbi.ghtml"
+categories: news globo.com
+---
+ 
+ 
+ <meta itemprop="name" content="Sede de uniformizada da Ponte é invadida após título do Guarani na Série A"> <meta itemprop="thumbnailUrl" content="https://s02.video.glbimg.com/x720/6650789.jpg"> <meta itemprop="datePublished" content="2018-04-10T15:09:13.472Z"> <meta itemprop="uploadDate" content="2018-04-10T15:09:13.472Z"> 
+
+ 
+
+ 
+  ![Sede de uniformizada da Ponte é invadida após título do Guarani na Série A](https://s02.video.glbimg.com/x720/6650789.jpg "Sede de uniformizada da Ponte é invadida após título do Guarani na Série A") 
+ 
+ 
+ 
+
+_<svg xmlns="http://www.w3.org/2000/svg" width="14px" height="11px" viewbox="0 0 14 11"><path d="M14,9.16666667 C14,10.175 13.19,11 12.2,11 L1.8,11 C0.81,11 0,10.175 0,9.16666667 L0,1.83333333 C0,0.825 0.81,0 1.8,0 L12.2,0 C13.19,0 14,0.825 14,1.83333333 L14,9.16666667 Z M10.6,5.5 L5.2,2.5025 L5.2,8.48833333 L10.6,5.5 L10.6,5.5 Z" id="Shape"></path></svg>_ Sede de uniformizada da Ponte é invadida após título do Guarani na Série A
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+Um novo episódio de violência ligou o alerta sobre a segurança do dérbi entre Guarani e Ponte Preta, dia 5 de maio, no Brinco de Ouro, pela Série B do Brasileiro. Após o título da Série A2, no último sábado, um grupo de bugrinos invadiu a sede da Torcida Jovem, que registrou um boletim de ocorrência e também acionou as autoridades.
+
+ 
+ 
+ 
+
+Em ofício enviado nesta terça-feira para o promotor Paulo Castilho, do Juizado Especial do Torcedor, para o Comando do 1º Batalhão de Ações Especiais de Polícia, para a Federação Paulista de Futebol e para a Confederação Brasileira de Futebol, o advogado da torcida falou "em clima de guerra" e, indiretamente, chegou a sugerir a realização da partida fora de Campinas.
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+  ![Sede teve o portão arrombado (Foto: Reprodução Redes Sociais)](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgARCAAhABkDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAABwgABAUGAf/EABkBAQACAwAAAAAAAAAAAAAAAAQAAwECBf/aAAwDAQACEAMQAAABBxTC5FzGh204YCVqjplHvwu3O3s0+QtW26kRpS8kJd//xAAhEAABBAIBBQEAAAAAAAAAAAACAAMEBQEGFBESFiMyNP/aAAgBAQABBQICcZWq7PawirN6gTV5PAWH3gDWHgbFsCn3vBkrMXCCH79XookKFzWE3W1MRVOlgFiY9cdq1H98b5c+V//EABwRAAMAAQUAAAAAAAAAAAAAAAABAgMSEzIzQf/aAAgBAwEBPwFQqZU5FxNikxTqK6zw/8QAHBEAAgICAwAAAAAAAAAAAAAAAAEDEQIEITNC/9oACAECAQE/AXI8UKSP0PZxrkbt2S9iEf/EAC0QAAEDAQMJCQAAAAAAAAAAAAEAAgMREhMxBBQiIzNRYYGSECEyNXFyoaPR/9oACAEBAAY/Ag4GrT3VanCHWRtFp0chRjmOaZS3GOTfwK2h6D+Iabgspq7WHfuRujW3LUECq85+lQBpreNqmgWjaOCv7qw0jE4u4+nBbN3SrAkzrKvDRo0AhPObyJoqGKvwsFD7lzXPs//EACIQAAEDBAICAwAAAAAAAAAAAAEAETEQIUFRYXGh8IHB0f/aAAgBAQABPyEO5hhnBOkR7GEI4dGyz4FWOlD1IkLi/CgowGKb3nlZdYUJlqZIGQxovCedhoQE+UAu3oNrbRYT1H6i7ULBKTdzn4QkAgLJ0fvcILvysCm7UX2dKHtT/9oADAMBAAIAAwAAABCBGN577//EABsRAAMAAgMAAAAAAAAAAAAAAAABESExQYGx/9oACAEDAQE/EIFD6Jehoo8ciE3D3Fof/8QAHBEBAAIBBQAAAAAAAAAAAAAAAQARECExQWHB/9oACAECAQE/ELu15NzouBbYeO47Jyn/xAAiEAEBAAICAQQDAQAAAAAAAAABEQAhMUFREGFxobHw8dH/2gAIAQEAAT8QrcGLkrRu+0yJ+oa+XQj1ROMN+A0GN8FXoYtOfTkxEZCKcEn55yoOj3cUvQQvtXEHWES0UAVKMPjP1L/M45aIEEfQy5DhmIxKFE2vi46yxpACxavfYRbZn83jbkxrAoOnO1eN3BPFco+5Q13ocIlwkga068oPM66z+IZ9d+c5vnn9l49P/9k= "Sede teve o portão arrombado (Foto: Reprodução Redes Sociais)") <picture itemscope itemtype="http://schema.org/ImageObject"> <!--[if IE 9]><video style="display: none;"><![endif]--> <source media="(max-width: 1024px)" data-src="https://s2.glbimg.com/BIwhDQM7YQKv6iT1f4-NmGuA6Gs=/0x0:864x1152/600x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/Z/t/ngetD0SsAVAmbtlEjnlg/sede.3.jpg 1x, https://s2.glbimg.com/LabjAW9Ql6EwhKQZKm_yDUHnAWk=/0x0:864x1152/1200x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/Z/t/ngetD0SsAVAmbtlEjnlg/sede.3.jpg 2x"> <source media="(max-width: 1280px)" data-src="https://s2.glbimg.com/OuDErwF_1UtWbZzFpBquexpZKt8=/0x0:864x1152/640x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/Z/t/ngetD0SsAVAmbtlEjnlg/sede.3.jpg 1x, https://s2.glbimg.com/BRMi7JgkllNBuWGwU2sSBS3KGdQ=/0x0:864x1152/1280x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/Z/t/ngetD0SsAVAmbtlEjnlg/sede.3.jpg 2x"> <source media="(max-width: 1360px)" data-src="https://s2.glbimg.com/T6e2_U-cV5JtVZMvMjfzn0JCKgM=/0x0:864x1152/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/Z/t/ngetD0SsAVAmbtlEjnlg/sede.3.jpg 1x, https://s2.glbimg.com/XSFBG72ws8iKFDnJ_29djpbisFA=/0x0:864x1152/1968x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/Z/t/ngetD0SsAVAmbtlEjnlg/sede.3.jpg 2x"> <source media="(min-width: 1361px)" data-src="https://s2.glbimg.com/ClepeqCHkyUzriU1lhiIWkNpvoI=/0x0:864x1152/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/Z/t/ngetD0SsAVAmbtlEjnlg/sede.3.jpg 1x, https://s2.glbimg.com/QjNuVRl3lGeF3Wg3CTeMkGJJMXU=/0x0:864x1152/2000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/Z/t/ngetD0SsAVAmbtlEjnlg/sede.3.jpg 2x"> <source data-src="https://s2.glbimg.com/T6e2_U-cV5JtVZMvMjfzn0JCKgM=/0x0:864x1152/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/Z/t/ngetD0SsAVAmbtlEjnlg/sede.3.jpg"> <!--[if IE 9]></video><![endif]--> <img class="image content-media__image" itemprop="contentUrl" alt="Sede teve o portão arrombado (Foto: Reprodução Redes Sociais)" title="Sede teve o portão arrombado (Foto: Reprodução Redes Sociais)" data-src="https://s2.glbimg.com/T6e2_U-cV5JtVZMvMjfzn0JCKgM=/0x0:864x1152/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/Z/t/ngetD0SsAVAmbtlEjnlg/sede.3.jpg"> </source></source></source></source></source></picture> 
+ 
+ 
+ 
+
+_<svg xmlns="http://www.w3.org/2000/svg" width="13.5px" height="11.25px" viewbox="0 0 13 12"> <ellipse id="Oval" cx="6.5" cy="6.7826087" rx="2" ry="2.08695652"></ellipse> <path d="M4.625,0.260869565 L3.48125,1.56521739 L1.5,1.56521739 C0.8125,1.56521739 0.25,2.15217391 0.25,2.86956522 L0.25,10.6956522 C0.25,11.4130435 0.8125,12 1.5,12 L11.5,12 C12.1875,12 12.75,11.4130435 12.75,10.6956522 L12.75,2.86956522 C12.75,2.15217391 12.1875,1.56521739 11.5,1.56521739 L9.51875,1.56521739 L8.375,0.260869565 L4.625,0.260869565 L4.625,0.260869565 Z M6.5,10.0434783 C4.775,10.0434783 3.375,8.5826087 3.375,6.7826087 C3.375,4.9826087 4.775,3.52173913 6.5,3.52173913 C8.225,3.52173913 9.625,4.9826087 9.625,6.7826087 C9.625,8.5826087 8.225,10.0434783 6.5,10.0434783 L6.5,10.0434783 Z" id="Shape"></path> </svg>_ Sede teve o portão arrombado (Foto: Reprodução Redes Sociais)
+
+ 
+ 
+ 
+ 
+ 
+
+Segundo o boletim de ocorrência, o portão da sede foi arrombado e vários objetos foram quebrados. Fotos que circulam pelas redes sociais mostram como o interior do local ficou danificado. Até uma mesa de sinuca foi alvo de vandalismo.
+
+ 
+ 
+ 
+
+Um vídeo exibe um grupo de torcedores quebrando um troféu, que, segundo o boletim de ocorrência, era do "Dérbi da Paz" de 2002. Em outro vídeo, é possível ver fogos de artifício explodindo dentro da sede.
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+  ![Interior do local ficou destruído após a invasão (Foto: Reprodução Redes Sociais)](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgARCAAsABkDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAABQYHBAMI/8QAFwEBAQEBAAAAAAAAAAAAAAAABAIDBf/aAAwDAQACEAMQAAABRWSNV1Jibz54a8LCUaYE43adwpyElNIOQRRxXTNt57f/xAAeEAABBAMBAQEAAAAAAAAAAAADAQIEBQATFBUGFv/aAAgBAQABBQIJB/qvqyjDe05BGLpTBKaXNr6/neU69fnOyNWtrU+MlONKBDGab5Ass0MBtcyVoh1p4svuj4kR6NGBzGmHsTS7KiM3z4TnSKdSL2Z//8QAGxEAAgMBAQEAAAAAAAAAAAAAAAECAxEhEiL/2gAIAQMBAT8BeEVwnBP4iV+oxxlFjzH00//EABwRAAICAgMAAAAAAAAAAAAAAAECAAMRIQQQIv/aAAgBAgEBPwFCZY3qKxCi5zqWlGbInIqXOV11/8QAKxAAAgEDAgMGBwAAAAAAAAAAAQIDABESBDEhMnEFEBMiQVEjNEKRkqHw/9oACAEBAAY/AtJFqFDRNOmS+4NRwQoIoWjHkXa9yKliAvgvGuWoZH1Ry3EpBNiPSpZ9bpZe1plXJRkwbm/jUxRZ1YtfCw/dfMT/AGFS+HMJGPDivAVMshPCMrv0rXRYj4Enhx+XiUAtWwqJIXyDG2Qq66mTSzNzOosTUc79oTTgHJlJ5q3k/CkTHEup5PSgr3yHuLVvbpWxrXS3OUEkgToKOodiWaXEL6L0pU+nAnu//8QAIhAAAgIBAwQDAAAAAAAAAAAAAREAITFBUfAQYXGRocHx/9oACAEBAAE/IQ3jwwgCDDnMRXZs+IdEQr7ucwgFg8SkxUN1pCeuZeGuu6EkmjYIZruzlazgP3AcPGV2g8uVXFZIEY7RfAMKgQMjM4Rg8NCWz5gmO6qB0OxQnxBBwT9jHpFQq7LEaqAGXD3UKAMhaJOccy5R9IoFCw41kgGsAn213l0XQWr6f//aAAwDAQACAAMAAAAQQD0ap4//xAAbEQEBAAIDAQAAAAAAAAAAAAABADFRESFhQf/aAAgBAwEBPxDdfISifeYALEovy2+3i//EABsRAQACAgMAAAAAAAAAAAAAAAEAESExQVHh/9oACAECAQE/EDYIha5upKryI9bL0gPBrEDuf//EACMQAQEBAAIBBAEFAAAAAAAAAAERIQAxQRBhcYGRUcHR8PH/2gAIAQEAAT8QLcPTX1HW8N4GuNMK3PzONJsbEGsIERNHz9893+HIAiTjBragEQfYeE761Fis0Et0Ee7eI/xMdJZBEyF1l9ByuFmmugqv0JDPPC+u5YIy9NZwwUy0ABAyAtO+jn+1/PjoVMsBnlB18Sd8wqKUUrTQpDxeIHp2Kms6RqunP67+3M4GclLgbEo6bR64Wl6xMOzS98Z49By8Kb9+irwq/ba6keHd+d4DL6FQCWoq0rrdBM70MtEDZfq8nz+ef//Z "Interior do local ficou destruído após a invasão (Foto: Reprodução Redes Sociais)") <picture itemscope itemtype="http://schema.org/ImageObject"> <!--[if IE 9]><video style="display: none;"><![endif]--> <source media="(max-width: 1024px)" data-src="https://s2.glbimg.com/mR6CTf3-7KTlgoGNZOTlR7eLe-I=/0x0:720x1280/600x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/g/L/yn49BkQVavVBjQhnqYuA/sede.4.jpg 1x, https://s2.glbimg.com/Tj--AT5lMsy1pUuSYXB66h5QMxs=/0x0:720x1280/1200x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/g/L/yn49BkQVavVBjQhnqYuA/sede.4.jpg 2x"> <source media="(max-width: 1280px)" data-src="https://s2.glbimg.com/1xDHAtBSVwbEV_4nRdx2f4u0y9o=/0x0:720x1280/640x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/g/L/yn49BkQVavVBjQhnqYuA/sede.4.jpg 1x, https://s2.glbimg.com/c2AHbApb01wGGyTBEE7cRuTbRU0=/0x0:720x1280/1280x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/g/L/yn49BkQVavVBjQhnqYuA/sede.4.jpg 2x"> <source media="(max-width: 1360px)" data-src="https://s2.glbimg.com/rI2J4pQlYTwxTRQ_w4IapA8blOY=/0x0:720x1280/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/g/L/yn49BkQVavVBjQhnqYuA/sede.4.jpg 1x, https://s2.glbimg.com/VwbSXj7NKkN6E45jlrMv0LqESCI=/0x0:720x1280/1968x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/g/L/yn49BkQVavVBjQhnqYuA/sede.4.jpg 2x"> <source media="(min-width: 1361px)" data-src="https://s2.glbimg.com/i39XqIfSTcjlRN26y89zC9LWkS4=/0x0:720x1280/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/g/L/yn49BkQVavVBjQhnqYuA/sede.4.jpg 1x, https://s2.glbimg.com/u_rtVMNb4rGLhmaVBG3fhrbUCos=/0x0:720x1280/2000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/g/L/yn49BkQVavVBjQhnqYuA/sede.4.jpg 2x"> <source data-src="https://s2.glbimg.com/rI2J4pQlYTwxTRQ_w4IapA8blOY=/0x0:720x1280/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/g/L/yn49BkQVavVBjQhnqYuA/sede.4.jpg"> <!--[if IE 9]></video><![endif]--> <img class="image content-media__image" itemprop="contentUrl" alt="Interior do local ficou destruído após a invasão (Foto: Reprodução Redes Sociais)" title="Interior do local ficou destruído após a invasão (Foto: Reprodução Redes Sociais)" data-src="https://s2.glbimg.com/rI2J4pQlYTwxTRQ_w4IapA8blOY=/0x0:720x1280/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/g/L/yn49BkQVavVBjQhnqYuA/sede.4.jpg"> </source></source></source></source></source></picture> 
+ 
+ 
+ 
+
+_<svg xmlns="http://www.w3.org/2000/svg" width="13.5px" height="11.25px" viewbox="0 0 13 12"> <ellipse id="Oval" cx="6.5" cy="6.7826087" rx="2" ry="2.08695652"></ellipse> <path d="M4.625,0.260869565 L3.48125,1.56521739 L1.5,1.56521739 C0.8125,1.56521739 0.25,2.15217391 0.25,2.86956522 L0.25,10.6956522 C0.25,11.4130435 0.8125,12 1.5,12 L11.5,12 C12.1875,12 12.75,11.4130435 12.75,10.6956522 L12.75,2.86956522 C12.75,2.15217391 12.1875,1.56521739 11.5,1.56521739 L9.51875,1.56521739 L8.375,0.260869565 L4.625,0.260869565 L4.625,0.260869565 Z M6.5,10.0434783 C4.775,10.0434783 3.375,8.5826087 3.375,6.7826087 C3.375,4.9826087 4.775,3.52173913 6.5,3.52173913 C8.225,3.52173913 9.625,4.9826087 9.625,6.7826087 C9.625,8.5826087 8.225,10.0434783 6.5,10.0434783 L6.5,10.0434783 Z" id="Shape"></path> </svg>_ Interior do local ficou destruído após a invasão (Foto: Reprodução Redes Sociais)
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+O local fica ao lado do Majestoso, casa da Ponte Preta. Os estádios dos times são separados pela Avenida Ayrton Senna e ficam a menos de um quilômetor entre eles.
+
+ 
+ 
+ 
+ 
+
+Por enquanto, nenhuma autoridade se manifestou. Independentemente das decisões que forem tomadas daqui para a frente, os dois dérbis da Série B, tanto no Brinco, como no Majestoso, já serão disputados com torcida única por solicitação do Ministério Público.
+
+ 
+ 
+ 
