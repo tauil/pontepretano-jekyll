@@ -1,0 +1,134 @@
+---
+layout: post
+title: "Jejum de um ano e quatro meses sem jogar: Cristaldo busca recomeço na Ponte"
+date: 2018-04-18T14:08:17+00:00
+external_link: "https://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/noticia/jejum-de-um-ano-e-quatro-meses-sem-jogar-cristaldo-busca-recomeco-na-ponte.ghtml"
+categories: news globo.com
+---
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+Jonathan Cristaldo [**chega com status de principal contratação da Ponte Preta na temporada**](https://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/noticia/bienvenido-ponte-anuncia-atacante-argentino-cristaldo-como-reforco-para-a-serie-b.ghtml). Mas, para corresponder à expectativa criada pela torcida alvinegra, o atacante argentino precisa superar um passado recente de frustrações.
+
+ 
+ 
+ 
+
+Os problemas físicos atrapalharam Cristaldo nos últimos clubes. Tanto que ele chega à Macaca sem jogar há quase cinco meses e com apenas um gol em um ano. O período inativo e o longo jejum fazem da passagem pelo Majestoso um recomeço para o jogador de 29 anos.
+
+ 
+ 
+ 
+
+Cristaldo marcou pela última vez em 3 de abril de 2017, quando ainda defendia o Monterrey, do México. Ele deixou sua marca na vitória por 4 a 1 sobre o Querétaro, pelo campeonato nacional. De lá para cá, sofreu com uma tendinite no joelho e entrou em campo apenas mais 11 vezes.
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+  ![Cristaldo teve passagem marcante pelo Palmeiras (Foto: César Greco / Ag. Palmeiras / Divulgação)](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgARCAAUABkDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQP/xAAXAQADAQAAAAAAAAAAAAAAAAABAgME/9oADAMBAAIQAxAAAAGwYPSZNOk7iDQEaKqYTNVfw3x//8QAHBAAAgIDAQEAAAAAAAAAAAAAAwUABAECBhEU/9oACAEBAAEFAo+JuFSkyfdZ5KrUNvLewb7eWbgsBnVXTIrdlqdgu4cWmnPT/8QAHBEBAAIBBQAAAAAAAAAAAAAAAQACEyIjMlFS/9oACAEDAQE/AVx6kj67l3bZXiT/xAAfEQACAQIHAAAAAAAAAAAAAAABAgADIRMjMjRBccH/2gAIAQIBAT8BXNfBQ3IMpuGLJytjF3Cd+yrraf/EACYQAAIBAwEHBQAAAAAAAAAAAAECAwAEESEQEhMiMTJhFEFCUaH/2gAIAQEABj8Cq5eORonA7k6jWoWuHMjn5HqR7bLwLkG1kMT5+6W7neexTtifh5U1NHxOYzNubzFv07LhrR931iAyKdRkaZHmm45DquOXGlQ4UZLuc+c7P//EAB4QAAICAgMBAQAAAAAAAAAAAAERACExQRBRYYGR/9oACAEBAAE/IYHEEg1SNfI+lRA0zY+rfBZcQOQDqAG+DG/dus4IxDEPdMCwEPvu5cPVEDQD5JIaalntprv0QoMFSzQ/wAcf/9oADAMBAAIAAwAAABDPRz3/xAAdEQEAAgEFAQAAAAAAAAAAAAABABEhUWGBobHx/9oACAEDAQE/EKRcBLPu0zqlGRzEb3XydQn/xAAdEQEAAgICAwAAAAAAAAAAAAABABEhQTGxcYGh/9oACAECAQE/EODBgu6KwXQuVrA8LTUNN35DZvw6hPU6T6nuf//EAB0QAQEBAQADAAMAAAAAAAAAAAERACExQVFhcZH/2gAIAQEAAT8QFUhMJQYhENxjSUKW+sJlzpdcoXhUC8Xro/P9wWmiCXffRGHvn6wL9MJBBDKGUqFnQ0Dtw4YQ5FB6AQpNPo0jg52gaVgC1s8aP3HWKfM4Aog221NV8NFo2fvQPRND4b//2Q== "Cristaldo teve passagem marcante pelo Palmeiras (Foto: César Greco / Ag. Palmeiras / Divulgação)") <picture itemscope itemtype="http://schema.org/ImageObject"> <!--[if IE 9]><video style="display: none;"><![endif]--> <source media="(max-width: 1024px)" data-src="https://s2.glbimg.com/OClkj6J2DTBMGiMP58-wuqmLqv4=/0x0:670x546/600x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2016/06/28/cris.jpg 1x, https://s2.glbimg.com/E0T6cj8YNS47fq0tc_BWJOwgYso=/0x0:670x546/1200x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2016/06/28/cris.jpg 2x"> <source media="(max-width: 1280px)" data-src="https://s2.glbimg.com/dnCYl4x5lst3j8V86250NCFcP4E=/0x0:670x546/640x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2016/06/28/cris.jpg 1x, https://s2.glbimg.com/PrBxh2Pq5OBriOUoE2rCdrz1ehQ=/0x0:670x546/1280x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2016/06/28/cris.jpg 2x"> <source media="(max-width: 1360px)" data-src="https://s2.glbimg.com/tF0NFFgOznS1MIkdXrqu2hdDxH4=/0x0:670x546/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2016/06/28/cris.jpg 1x, https://s2.glbimg.com/c-DZuZqeAieUQONke0RmXZe6Z1E=/0x0:670x546/1968x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2016/06/28/cris.jpg 2x"> <source media="(min-width: 1361px)" data-src="https://s2.glbimg.com/2TcMB4CoqqVaLGnsIqwFIvXoCqM=/0x0:670x546/1000x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2016/06/28/cris.jpg 1x, https://s2.glbimg.com/jNXYRAOMmYbxxqhdnPejBSWQfqQ=/0x0:670x546/2000x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2016/06/28/cris.jpg 2x"> <source data-src="https://s2.glbimg.com/tF0NFFgOznS1MIkdXrqu2hdDxH4=/0x0:670x546/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2016/06/28/cris.jpg"> <!--[if IE 9]></video><![endif]--> <img class="image content-media__image" itemprop="contentUrl" alt="Cristaldo teve passagem marcante pelo Palmeiras (Foto: César Greco / Ag. Palmeiras / Divulgação)" title="Cristaldo teve passagem marcante pelo Palmeiras (Foto: César Greco / Ag. Palmeiras / Divulgação)" data-src="https://s2.glbimg.com/tF0NFFgOznS1MIkdXrqu2hdDxH4=/0x0:670x546/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2016/06/28/cris.jpg"> </source></source></source></source></source></picture> 
+ 
+ 
+ 
+
+_<svg xmlns="http://www.w3.org/2000/svg" width="13.5px" height="11.25px" viewbox="0 0 13 12"> <ellipse id="Oval" cx="6.5" cy="6.7826087" rx="2" ry="2.08695652"></ellipse> <path d="M4.625,0.260869565 L3.48125,1.56521739 L1.5,1.56521739 C0.8125,1.56521739 0.25,2.15217391 0.25,2.86956522 L0.25,10.6956522 C0.25,11.4130435 0.8125,12 1.5,12 L11.5,12 C12.1875,12 12.75,11.4130435 12.75,10.6956522 L12.75,2.86956522 C12.75,2.15217391 12.1875,1.56521739 11.5,1.56521739 L9.51875,1.56521739 L8.375,0.260869565 L4.625,0.260869565 L4.625,0.260869565 Z M6.5,10.0434783 C4.775,10.0434783 3.375,8.5826087 3.375,6.7826087 C3.375,4.9826087 4.775,3.52173913 6.5,3.52173913 C8.225,3.52173913 9.625,4.9826087 9.625,6.7826087 C9.625,8.5826087 8.225,10.0434783 6.5,10.0434783 L6.5,10.0434783 Z" id="Shape"></path> </svg>_ Cristaldo teve passagem marcante pelo Palmeiras (Foto: César Greco / Ag. Palmeiras / Divulgação)
+
+ 
+ 
+ 
+ 
+ 
+
+A última vez que o atacante atuou foi em 27 de novembro. Na oportunidade, foi titular do Vélez Sarsfield contra o Olimpo e participou de 59 minutos da vitória por 3 a 0. Desde então, não conseguiu recuperar a melhor forma.
+
+ 
+ 
+ 
+
+Sem espaço, acabou devolvido pelo Vélez ao Cruz Azul. Como os mexicanos também não tinham mais interesse em aproveitá-lo, rescindiu o contrato em janeiro e ficou livre no mercado. Ele até chegou a negociar com o Bahia, mas não houve acerto.
+
+ 
+ 
+ 
+
+[**+ CLIQUE AQUI e leia mais sobre a Ponte**](http://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/)
+
+ 
+ 
+ 
+
+Enquanto esperava um novo clube, Cristaldo treinou por conta para aperfeiçoar a parte física. Em postagem de dezembro nas redes sociais, já é possível perceber uma evolução em relação a setembro, quando ainda estava no Vélez. **Veja as duas fotos abaixo e compare:**
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+## **Em setembro...**
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+  ![Cristaldo é o último da esquerda para a direita (Foto: Reprodução Redes Sociais)](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgARCAAZABkDASIAAhEBAxEB/8QAHAAAAQQDAQAAAAAAAAAAAAAABQMEBggAAQIH/8QAGAEAAwEBAAAAAAAAAAAAAAAAAQIDAAT/2gAMAwEAAhADEAAAAX+n0fBMYmMokhW9tK8dqzi7S9Pv/8QAIBAAAAYCAgMAAAAAAAAAAAAAAAECAwQFBhQHFxUyM//aAAgBAQABBQJGa3DUFvkq3Muy7Mldk3IOqkSKROPuNRWmVvt6jgqvMxS18hWs6vIHYunlAR7B74j/xAAZEQEAAwEBAAAAAAAAAAAAAAABAAIDESH/2gAIAQMBAT8BtloZjX1lstswVHsLoRu25P/EABoRAAMBAQEBAAAAAAAAAAAAAAECAwARBFH/2gAIAQIBAT8BleDVIfoXJbzUZgOjn3NFWOWarv/EAC8QAAEDAgMECAcAAAAAAAAAAAIBAxEABBITIQUQIjElMjQ1QUNRknGBkZOisdH/2gAIAQEABj8CF4dntZKzEuuT60XR9rwxpJqq1BWdsnv1ruy39y/2gbZazAxqvGvP5UhNuACuEqODl8o8afeuEF17DCn1dIryPvDQncbKdcVERAZA0ABVSWkaJh8LU0WQFZjVdJp4nWrrPlzAWMUgI4UrsN1+FfT97j+G7//EACIQAQACAQIGAwAAAAAAAAAAAAERIQAxQRBRYaGx0XHw8f/aAAgBAQABPyGyVl+Opb154dCNBIO+OiWYSUjbXgQUveClEjViK0MVw9WNjK6DprkK1GiCI8Ezn2+7AFYpQDvNEd8pVTKthSNfCTki+NKgF2T55Z+z7Zo8HvHD/9oADAMBAAIAAwAAABD2eub/xAAcEQEAAgEFAAAAAAAAAAAAAAABAEEhETFhgaH/2gAIAQMBAT8Qdkw3gFO9Q3jGAVUEBx5CA1P/xAAeEQEAAgEEAwAAAAAAAAAAAAABESEAMUFh8JGhsf/aAAgBAgEBPxAERTtch4haPcaggAg5VtHfmKFW+xkpBrwZ/8QAIBABAQACAQUAAwAAAAAAAAAAAREAMSEQQVFhcYGhsf/aAAgBAQABPxAHoXm2khfaCZ8weLAkim3PBWt784jDrHgqkhoO9e+kogmILyRYuGBzLzcGYjWG3KCDV8PMXA3XdLRsFIJn4LnqyVvWErQiB7albZncb9euDagJWKi4LFuYtLv02QggvT/+l/TPHzrL/9k= "Cristaldo é o último da esquerda para a direita (Foto: Reprodução Redes Sociais)") <picture itemscope itemtype="http://schema.org/ImageObject"> <!--[if IE 9]><video style="display: none;"><![endif]--> <source media="(max-width: 1024px)" data-src="https://s2.glbimg.com/Yzpmfy14G_0lEuNWsfb7f2RprL8=/0x0:620x612/600x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/6/Q/PXiADaQrypVjWAB2EUGw/cristaldo.3.jpg 1x, https://s2.glbimg.com/fc-7EC-AhqUfs61hfCL0UfwjL0g=/0x0:620x612/1200x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/6/Q/PXiADaQrypVjWAB2EUGw/cristaldo.3.jpg 2x"> <source media="(max-width: 1280px)" data-src="https://s2.glbimg.com/pn9Rv4W0bV9Y0pW99y2nwLSUW1Q=/0x0:620x612/640x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/6/Q/PXiADaQrypVjWAB2EUGw/cristaldo.3.jpg 1x, https://s2.glbimg.com/femZJivO5f_wP59GPl5X39HEDnQ=/0x0:620x612/1280x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/6/Q/PXiADaQrypVjWAB2EUGw/cristaldo.3.jpg 2x"> <source media="(max-width: 1360px)" data-src="https://s2.glbimg.com/K5pXezLLecPPVbfuYPjW_7JX-h4=/0x0:620x612/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/6/Q/PXiADaQrypVjWAB2EUGw/cristaldo.3.jpg 1x, https://s2.glbimg.com/FL_6npmTn1rlRfMa2m1aiw5SsE0=/0x0:620x612/1968x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/6/Q/PXiADaQrypVjWAB2EUGw/cristaldo.3.jpg 2x"> <source media="(min-width: 1361px)" data-src="https://s2.glbimg.com/XwiKun003hN-l4oP0b_K6BkwzoM=/0x0:620x612/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/6/Q/PXiADaQrypVjWAB2EUGw/cristaldo.3.jpg 1x, https://s2.glbimg.com/QaVw1R3bqIF7IpoeazfCFdsKFno=/0x0:620x612/2000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/6/Q/PXiADaQrypVjWAB2EUGw/cristaldo.3.jpg 2x"> <source data-src="https://s2.glbimg.com/K5pXezLLecPPVbfuYPjW_7JX-h4=/0x0:620x612/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/6/Q/PXiADaQrypVjWAB2EUGw/cristaldo.3.jpg"> <!--[if IE 9]></video><![endif]--> <img class="image content-media__image" itemprop="contentUrl" alt="Cristaldo é o último da esquerda para a direita (Foto: Reprodução Redes Sociais)" title="Cristaldo é o último da esquerda para a direita (Foto: Reprodução Redes Sociais)" data-src="https://s2.glbimg.com/K5pXezLLecPPVbfuYPjW_7JX-h4=/0x0:620x612/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/6/Q/PXiADaQrypVjWAB2EUGw/cristaldo.3.jpg"> </source></source></source></source></source></picture> 
+ 
+ 
+ 
+
+_<svg xmlns="http://www.w3.org/2000/svg" width="13.5px" height="11.25px" viewbox="0 0 13 12"> <ellipse id="Oval" cx="6.5" cy="6.7826087" rx="2" ry="2.08695652"></ellipse> <path d="M4.625,0.260869565 L3.48125,1.56521739 L1.5,1.56521739 C0.8125,1.56521739 0.25,2.15217391 0.25,2.86956522 L0.25,10.6956522 C0.25,11.4130435 0.8125,12 1.5,12 L11.5,12 C12.1875,12 12.75,11.4130435 12.75,10.6956522 L12.75,2.86956522 C12.75,2.15217391 12.1875,1.56521739 11.5,1.56521739 L9.51875,1.56521739 L8.375,0.260869565 L4.625,0.260869565 L4.625,0.260869565 Z M6.5,10.0434783 C4.775,10.0434783 3.375,8.5826087 3.375,6.7826087 C3.375,4.9826087 4.775,3.52173913 6.5,3.52173913 C8.225,3.52173913 9.625,4.9826087 9.625,6.7826087 C9.625,8.5826087 8.225,10.0434783 6.5,10.0434783 L6.5,10.0434783 Z" id="Shape"></path> </svg>_ Cristaldo é o último da esquerda para a direita (Foto: Reprodução Redes Sociais)
+
+ 
+ 
+ 
+ 
+ 
+
+## **Em dezembro...** 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+  ![Cristaldo faz pose após treino em academia (Foto: Reprodução Redes Sociais)](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgARCAAiABkDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYABAcD/8QAGAEBAAMBAAAAAAAAAAAAAAAABAABAwX/2gAMAwEAAhADEAAAASYXmM5rzFzLiKxqDYoX01S2TOmTYijbkjDrlJoD/8QAIxAAAQQBAwQDAAAAAAAAAAAAAgEDBAUABxETFBUWIiMyM//aAAgBAQABBQKyvrCG41qJeA0Go10aee3GTbCMTpjCYrC9c4ix5wgV2+5o0Z+QK9+jZOD593TcYjqI9GGOfoYokGJ9tkz/xAAeEQACAQMFAAAAAAAAAAAAAAAAAQIDESEyQUJR8P/aAAgBAwEBPwGrGHEwXc8Ib7KWmft0SP/EABwRAAIBBQEAAAAAAAAAAAAAAAABAgMREiIxQf/aAAgBAgEBPwGhKphubGMY9VxRuPwR/8QALRAAAQMCAwUHBQAAAAAAAAAAAQACEQMhEjFBBBMyUXEQFCIzcpHSgZOi0eH/2gAIAQEABj8Cc2kNkAEuuydUCRsrW6DdaRlmrv2cdKI+S86j9pvyVQ3expwyyu4yiw096ajrVAOCeX6TWhgAZbHgjEs2+38QE2mYXd2UR4iDHRNG/qNZrhMLh/JOgWmyDhIdAHVAGQsh7djHRfn9UPSFkv/EACMQAQABAwMEAwEAAAAAAAAAAAERACExQXGREFFhoYHh8PH/2gAIAQEAAT8hBvmNTc8rSC9iVhoQqR3HMD30jFO3KHhgW96vIZcnEbCPagAwFGe+ZZ46XGhgPampsBHRKSnAa4q5LC5Ua61435vTTpO5FDG3B+FaymvP1X8pQBGkYojA7Rejd2XivE4r/9oADAMBAAIAAwAAABC7PKsAD//EABoRAAMBAAMAAAAAAAAAAAAAAAABESExobH/2gAIAQMBAT8QrqpeD0LUNXJKITwdJFzP/8QAGxEBAAICAwAAAAAAAAAAAAAAAQAxEbEQIYH/2gAIAQIBAT8QaM3Li7gqDbRXaaiUl/WuP//EACAQAQEAAwABBAMAAAAAAAAAAAERACExQRBhgfFxwfD/2gAIAQEAAT8Qjt6LYrb8hnlXGK0qTcMCHkbOmAwTHITZOvolreVMiXwgp3ok1XcgSMjJUGAo2sdo0liCV6d2WOaD8+nwizF7FEZ8ZsvXqOPiQrZpyhUN77NEipemfdcwWohBPEx5YILD0nuWmvnBISIDV0iJuY/sv3ghAdINKm9YWPqhCgTfdZ3TtbdUVc+pZ//Z "Cristaldo faz pose após treino em academia (Foto: Reprodução Redes Sociais)") <picture itemscope itemtype="http://schema.org/ImageObject"> <!--[if IE 9]><video style="display: none;"><![endif]--> <source media="(max-width: 1024px)" data-src="https://s2.glbimg.com/v4OFSIL85lU9z5iPmeKH6gCVuTk=/0x0:620x850/600x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/9/3/jPKq1HTTmArbNB9XzAqw/cristaldo.4.jpg 1x, https://s2.glbimg.com/c4YWW6jixPtIBvVl7qcZ7fha8uM=/0x0:620x850/1200x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/9/3/jPKq1HTTmArbNB9XzAqw/cristaldo.4.jpg 2x"> <source media="(max-width: 1280px)" data-src="https://s2.glbimg.com/BlsI4_3d33SMrxTufPlrSnnu-3A=/0x0:620x850/640x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/9/3/jPKq1HTTmArbNB9XzAqw/cristaldo.4.jpg 1x, https://s2.glbimg.com/xivfqToohUfoaXyRFCboopQEUqs=/0x0:620x850/1280x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/9/3/jPKq1HTTmArbNB9XzAqw/cristaldo.4.jpg 2x"> <source media="(max-width: 1360px)" data-src="https://s2.glbimg.com/txj5j4hqWj5Ooa-VdzAlEWuTLig=/0x0:620x850/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/9/3/jPKq1HTTmArbNB9XzAqw/cristaldo.4.jpg 1x, https://s2.glbimg.com/tsm7PCxXcD_Rpso2s-3AtfjYkEM=/0x0:620x850/1968x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/9/3/jPKq1HTTmArbNB9XzAqw/cristaldo.4.jpg 2x"> <source media="(min-width: 1361px)" data-src="https://s2.glbimg.com/u_fxagW4-1RwrMRMB-_HBXQny4w=/0x0:620x850/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/9/3/jPKq1HTTmArbNB9XzAqw/cristaldo.4.jpg 1x, https://s2.glbimg.com/ZI1i2yx0pT9jOzGb-cVwV2K4fBw=/0x0:620x850/2000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/9/3/jPKq1HTTmArbNB9XzAqw/cristaldo.4.jpg 2x"> <source data-src="https://s2.glbimg.com/txj5j4hqWj5Ooa-VdzAlEWuTLig=/0x0:620x850/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/9/3/jPKq1HTTmArbNB9XzAqw/cristaldo.4.jpg"> <!--[if IE 9]></video><![endif]--> <img class="image content-media__image" itemprop="contentUrl" alt="Cristaldo faz pose após treino em academia (Foto: Reprodução Redes Sociais)" title="Cristaldo faz pose após treino em academia (Foto: Reprodução Redes Sociais)" data-src="https://s2.glbimg.com/txj5j4hqWj5Ooa-VdzAlEWuTLig=/0x0:620x850/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/9/3/jPKq1HTTmArbNB9XzAqw/cristaldo.4.jpg"> </source></source></source></source></source></picture> 
+ 
+ 
+ 
+
+_<svg xmlns="http://www.w3.org/2000/svg" width="13.5px" height="11.25px" viewbox="0 0 13 12"> <ellipse id="Oval" cx="6.5" cy="6.7826087" rx="2" ry="2.08695652"></ellipse> <path d="M4.625,0.260869565 L3.48125,1.56521739 L1.5,1.56521739 C0.8125,1.56521739 0.25,2.15217391 0.25,2.86956522 L0.25,10.6956522 C0.25,11.4130435 0.8125,12 1.5,12 L11.5,12 C12.1875,12 12.75,11.4130435 12.75,10.6956522 L12.75,2.86956522 C12.75,2.15217391 12.1875,1.56521739 11.5,1.56521739 L9.51875,1.56521739 L8.375,0.260869565 L4.625,0.260869565 L4.625,0.260869565 Z M6.5,10.0434783 C4.775,10.0434783 3.375,8.5826087 3.375,6.7826087 C3.375,4.9826087 4.775,3.52173913 6.5,3.52173913 C8.225,3.52173913 9.625,4.9826087 9.625,6.7826087 C9.625,8.5826087 8.225,10.0434783 6.5,10.0434783 L6.5,10.0434783 Z" id="Shape"></path> </svg>_ Cristaldo faz pose após treino em academia (Foto: Reprodução Redes Sociais)
+
+ 
+ 
+ 
+ 
+ 
+
+Como está há quase cinco meses sem atuar, Cristaldo ainda vai precisar de um tempo para adquirir ritmo. Ainda não há uma previsão para a sua estreia, que, além da questão física, depende também da documentação.
+
+ 
+ 
+ 
+ 
+
+Com contrato até o fim do ano, ele é aguardado durante a semana para começar a trajetória na Macaca. E tentar recomeçar a carreira.
+
+ 
+ 
+ 
