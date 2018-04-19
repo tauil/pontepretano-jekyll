@@ -1,0 +1,106 @@
+---
+layout: post
+title: "Doriva minimiza derota da Ponte na Copa do Brasil: \"Conseguimos noso objetivo\""
+date: 2018-04-19T16:49:17+00:00
+external_link: "https://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/noticia/doriva-minimiza-derrota-da-ponte-na-copa-do-brasil-conseguimos-nosso-objetivo.ghtml"
+categories: news globo.com
+---
+ 
+ 
+ <meta itemprop="name" content="Melhores momentos: Náutico 1 x 0 Ponte Preta pela quarta fase da Copa do Brasil"> <meta itemprop="thumbnailUrl" content="https://s01.video.glbimg.com/x720/6673740.jpg"> <meta itemprop="datePublished" content="2018-04-19T03:25:01.747Z"> <meta itemprop="uploadDate" content="2018-04-19T03:25:01.747Z"> 
+
+ 
+
+ 
+  ![Melhores momentos: Náutico 1 x 0 Ponte Preta pela quarta fase da Copa do Brasil](https://s01.video.glbimg.com/x720/6673740.jpg "Melhores momentos: Náutico 1 x 0 Ponte Preta pela quarta fase da Copa do Brasil") 
+ 
+ 
+ 
+
+_<svg xmlns="http://www.w3.org/2000/svg" width="14px" height="11px" viewbox="0 0 14 11"><path d="M14,9.16666667 C14,10.175 13.19,11 12.2,11 L1.8,11 C0.81,11 0,10.175 0,9.16666667 L0,1.83333333 C0,0.825 0.81,0 1.8,0 L12.2,0 C13.19,0 14,0.825 14,1.83333333 L14,9.16666667 Z M10.6,5.5 L5.2,2.5025 L5.2,8.48833333 L10.6,5.5 L10.6,5.5 Z" id="Shape"></path></svg>_ Melhores momentos: Náutico 1 x 0 Ponte Preta pela quarta fase da Copa do Brasil
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+Doriva preferiu ficar com o lado positivo da passagem da Ponte Preta por Recife. Com a vaga carimbada para as oitavas de final da Copa do Brasil, o treinador minimizou a derrota por 1 a 0 para o Náutico, na noite da última quarta-feira, na Arena Pernambuco.
+
+ 
+ 
+ 
+
+Depois de fazer 3 a 0 em Campinas, a Macaca poderia perder por até dois gols de diferença para avançar direto. Ainda que tenha sido suficiente, o resultado não foi o esperado, mas Doriva viu uma atuação satisfatória e valorizou a classificação.
+
+ 
+ 
+ 
+
+- A classificação tem sua importância pelo que fizemos em casa, mas a equipe se comportou bem aqui também, soubemos jogar o jogo, não sofremos. Tivemos chances de marcar também. Queria um resultado melhor, mas estamos felizes, pois conseguimos nosso objetivo - disse.
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+  ![Doriva avalia classificação da Ponte às oitavas de final da Copa do Brasil (Foto: Aldo Carneiro/Pernambuco Press)](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgARCAARABkDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUCBgcD/8QAFwEAAwEAAAAAAAAAAAAAAAAAAgQFA//aAAwDAQACEAMQAAABxJi9W5OVGV67GpcMsCQu9ahSH//EAB4QAAICAgIDAAAAAAAAAAAAAAMEAAISEwEyBSI0/9oACAEBAAEFAqi9hrU025uS+usqri+d0iUTXwHiGG6ed+hzvP/EABoRAAMAAwEAAAAAAAAAAAAAAAABAhEUITH/2gAIAQMBAT8B2XjiHTr0gs//xAAZEQABBQAAAAAAAAAAAAAAAAAQAQIEETL/2gAIAQIBAT8BRtiDof/EACYQAAEEAQEHBQAAAAAAAAAAAAEAAgMRITEEEBITMlFxIjNBkZL/2gAIAQEABj8Cqs9lK4kiQVy2AdaLaLO9r5+kJTJGGg3nwmQv9mRrfWDqKzSe6TiAccOl1pdUv5RWzIeRu//EACEQAAIBAgYDAAAAAAAAAAAAAAERACExEEFxodHwYYHB/9oACAEBAAE/ISI/SrDhfmcs61h4gCy73O4pnyhCDTRLYkRhCAJExxKMAEQODync8TaTcfZ0nnD/2gAMAwEAAgADAAAAEB7Xf//EABgRAAMBAQAAAAAAAAAAAAAAAAABETEh/9oACAEDAQE/EHwJowr1mjaP/8QAGREBAQADAQAAAAAAAAAAAAAAAQARITFx/9oACAECAQE/ECe3FgNF28i//8QAJBABAAIBAgQHAAAAAAAAAAAAAQARITFBEFGh8GFxgZGx0fH/2gAIAQEAAT8QMlMA3CDp6fENWJalQmyjPtdRYKoJDXR5TtfVARQ2GWbOvEKGNaM4jSJSKLhi7jNQ8jEQuogjStq8p+gjsPCdX4+//9k= "Doriva avalia classificação da Ponte às oitavas de final da Copa do Brasil (Foto: Aldo Carneiro/Pernambuco Press)") <picture itemscope itemtype="http://schema.org/ImageObject"> <!--[if IE 9]><video style="display: none;"><![endif]--> <source media="(max-width: 1024px)" data-src="https://s2.glbimg.com/X0bFqNuFEH4DsLBtVcRheor_gPU=/0x0:5472x3648/600x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/04/18/img_8694.jpg 1x, https://s2.glbimg.com/LPimB26q1yAuhSdM4R2-IdZrrE4=/0x0:5472x3648/1200x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/04/18/img_8694.jpg 2x"> <source media="(max-width: 1280px)" data-src="https://s2.glbimg.com/vEwKN9AdmVNzlOamXiWjYWV03Dg=/0x0:5472x3648/640x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/04/18/img_8694.jpg 1x, https://s2.glbimg.com/vH0Hj2t7RI1Kd0km8tp4oTvmInI=/0x0:5472x3648/1280x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/04/18/img_8694.jpg 2x"> <source media="(max-width: 1360px)" data-src="https://s2.glbimg.com/BK_Dszy1jq202RZ-iMsHs6SXhVE=/0x0:5472x3648/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/04/18/img_8694.jpg 1x, https://s2.glbimg.com/KlrU4p3DjGX9HUwOEM7I0Ec9n5M=/0x0:5472x3648/1968x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/04/18/img_8694.jpg 2x"> <source media="(min-width: 1361px)" data-src="https://s2.glbimg.com/XGYMZHOUo7vu5QV1g6nmYj7WuqA=/0x0:5472x3648/1000x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/04/18/img_8694.jpg 1x, https://s2.glbimg.com/pwjlbldr4bCNHBl7CiwXjhDdMLY=/0x0:5472x3648/2000x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/04/18/img_8694.jpg 2x"> <source data-src="https://s2.glbimg.com/BK_Dszy1jq202RZ-iMsHs6SXhVE=/0x0:5472x3648/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/04/18/img_8694.jpg"> <!--[if IE 9]></video><![endif]--> <img class="image content-media__image" itemprop="contentUrl" alt="Doriva avalia classificação da Ponte às oitavas de final da Copa do Brasil (Foto: Aldo Carneiro/Pernambuco Press)" title="Doriva avalia classificação da Ponte às oitavas de final da Copa do Brasil (Foto: Aldo Carneiro/Pernambuco Press)" data-src="https://s2.glbimg.com/BK_Dszy1jq202RZ-iMsHs6SXhVE=/0x0:5472x3648/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/04/18/img_8694.jpg"> </source></source></source></source></source></picture> 
+ 
+ 
+ 
+
+_<svg xmlns="http://www.w3.org/2000/svg" width="13.5px" height="11.25px" viewbox="0 0 13 12"> <ellipse id="Oval" cx="6.5" cy="6.7826087" rx="2" ry="2.08695652"></ellipse> <path d="M4.625,0.260869565 L3.48125,1.56521739 L1.5,1.56521739 C0.8125,1.56521739 0.25,2.15217391 0.25,2.86956522 L0.25,10.6956522 C0.25,11.4130435 0.8125,12 1.5,12 L11.5,12 C12.1875,12 12.75,11.4130435 12.75,10.6956522 L12.75,2.86956522 C12.75,2.15217391 12.1875,1.56521739 11.5,1.56521739 L9.51875,1.56521739 L8.375,0.260869565 L4.625,0.260869565 L4.625,0.260869565 Z M6.5,10.0434783 C4.775,10.0434783 3.375,8.5826087 3.375,6.7826087 C3.375,4.9826087 4.775,3.52173913 6.5,3.52173913 C8.225,3.52173913 9.625,4.9826087 9.625,6.7826087 C9.625,8.5826087 8.225,10.0434783 6.5,10.0434783 L6.5,10.0434783 Z" id="Shape"></path> </svg>_ Doriva avalia classificação da Ponte às oitavas de final da Copa do Brasil (Foto: Aldo Carneiro/Pernambuco Press)
+
+ 
+ 
+ 
+ 
+ 
+
+A Ponte não ficou com a vaga ameaçada em nenhum momento. O único gol do Náutico saiu apenas aos 37 minutos, em pênalti contestado por Doriva. No lance, Nathan derrubou o adversário dentro da área.
+
+ 
+ 
+ 
+
+- Fiquei com dúvida no pênalti e achei a arbitragem tendenciosa em alguns lances.
+
+ 
+ 
+ 
+
+Mas o treinador também fez ponderações sobre o rendimento da equipe. Segundo Doriva, a Macaca tinha condições de fazer um placar melhor se tivesse mais apetite no ataque, principalmente no segundo tempo, quando teve espaços para puxar contra-ataques.
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+[**+ CLIQUE AQUI e leia mais sobre a Ponte**](http://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/)
+
+ 
+ 
+ 
+
+- Até poderíamos ter sido mais contundentes. Tivemos chance para fazer gol. Faltou um pouco de ambição para fazer o gol. Não vejo como uma má atuação, mas com certeza vitórias são importantes e nós precisamos ir atrás dela - completou Doriva, lembrando que, classificação à parte, foi a segunda derrota consecutiva, já que o time havia perdido por 1 a 0 para o Paysandu, no Majestoso, pela estreia da Série B.
+
+ 
+ 
+ 
+ 
+
+Agora, a Ponte espera o sorteio de sexta-feira, na sede da CBF, para conhecer o adversário das oitavas de final e também a ordem dos confrontos. Pela Série B, o time volta a campo no sábado, quando busca a reabilitação contra o Criciúma, também fora de casa, às 19h.
+
+ 
+ 
+ 
