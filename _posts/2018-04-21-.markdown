@@ -1,0 +1,7 @@
+---
+layout: post
+title: ""
+date: 2018-04-21T22:00:15+00:00
+external_link: "http://globoesporte.globo.com/sc/futebol/brasileirao-serie-b/jogo/21-04-2018/criciuma-ponte-preta/"
+categories: news globo.com
+---
