@@ -1,0 +1,7 @@
+---
+layout: post
+title: "CAIU DE PÉ"
+date: 2018-05-11T00:30:11+00:00
+external_link: "http://globoesporte.globo.com/rj/futebol/copa-do-brasil/jogo/10-05-2018/flamengo-ponte-preta/"
+categories: news globo.com
+---
