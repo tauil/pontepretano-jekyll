@@ -1,0 +1,7 @@
+---
+layout: post
+title: ""
+date: 2018-05-13T19:00:15+00:00
+external_link: "https://globoesporte.globo.com/go/futebol/brasileirao-serie-b/jogo/13-05-2018/vila-nova-ponte-preta.ghtml"
+categories: news globo.com
+---
