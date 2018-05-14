@@ -1,0 +1,122 @@
+---
+layout: post
+title: "Ponte pasa invicta por série fora de casa e ganha moral para embalar na temporada"
+date: 2018-05-14T13:57:34+00:00
+external_link: "https://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/noticia/ponte-passa-invicta-por-serie-fora-de-casa-e-ganha-moral-para-embalar-na-temporada.ghtml"
+categories: news globo.com
+---
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+A sequência de resultados contra Guarani, Flamengo e Vila Nova, em vez de prejudicar um time que tinha dificuldades de mostrar um padrão de jogo na temporada, serviu como fortalecimento para a Ponte Preta embalar de vez na Série B do Campeonato Brasileiro.
+
+ 
+ 
+ 
+
+Ao passar sem derrotas pelo eterno rival, por um dos times de maior investimento no país e pela então única equipe com 100% de aproveitamento no nacional, a Ponte aumentou a invencibilidade como visitante para quase um mês e mostrou o quanto se sente à vontade fora do Moisés Lucarelli.
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+  ![Elenco da Macaca tem possibilidade de embalar na Série B (Foto: Marcos Ribolli)](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgARCAAQABkDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUHAQb/xAAXAQADAQAAAAAAAAAAAAAAAAABAgMG/9oADAMBAAIQAxAAAAE5zpOYtPubsiNh/8QAGxAAAgMBAQEAAAAAAAAAAAAAAwQAAQIGExb/2gAIAQEAAQUC1W1U2EDg30fKnc38Nc01ZxaeKaMNXoXsKf/EABcRAQEBAQAAAAAAAAAAAAAAAAEAAhH/2gAIAQMBAT8BOSZv/8QAHhEAAQMEAwAAAAAAAAAAAAAAAQACBRESITEjUfD/2gAIAQIBAT8BbKjN41TXu0ZU1424X//EACYQAAIABgAEBwAAAAAAAAAAAAECAAMEERIhBRMycTVBUVJhkqH/2gAIAQEABj8CoKicuAqTjiu8D5b+YmS81bFScwnT3EUIquIS5fNsURJZst/W8eML9DEqW8rNE2A1tGAtsAN6tc94lK1mRVKhfaI6B+R//8QAIRAAAgEDAwUAAAAAAAAAAAAAAREAITFRQWFxgaHB8PH/2gAIAQEAAT8hD7bwXibgIAgLnNbYMtdNYNhBuP1wkZpxPTPMtMGhVGwIGVzww1GwpLrCmlApsoO0+NH/2gAMAwEAAgADAAAAEARP/8QAGREAAgMBAAAAAAAAAAAAAAAAAAEhMfBh/9oACAEDAQE/EEd1HdrEHLP/xAAcEQEAAgEFAAAAAAAAAAAAAAABESFBADFRYYH/2gAIAQIBAT8Qh1kIpkBL4T5Gd6yWA32DFOv/xAAdEAEBAAMAAgMAAAAAAAAAAAABEQAhMRBRYcHw/9oACAEBAAE/ELYJODJUS0AFWbDlelZVJFShdAFHVcrxQqmCiFIUQHHjssUaDKxxEtHo2acU9O0hb9WEh6Mb4UPZUGbr6D8kuftfrP/Z "Elenco da Macaca tem possibilidade de embalar na Série B (Foto: Marcos Ribolli)") <picture itemscope itemtype="http://schema.org/ImageObject"> <!--[if IE 9]><video style="display: none;"><![endif]--> <source media="(max-width: 1024px)" data-src="https://s2.glbimg.com/V9NrxaQ5zNT8hnEb88zexvG_v4A=/0x0:2000x1319/600x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/05/02/rib9358_XDI3nkV.jpg 1x, https://s2.glbimg.com/OziPxgYbWk9W4xrmOmImFDetvs8=/0x0:2000x1319/1200x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/05/02/rib9358_XDI3nkV.jpg 2x"> <source media="(max-width: 1280px)" data-src="https://s2.glbimg.com/CfASkfXKtEZ53Q9G4pMWyJu8Azc=/0x0:2000x1319/640x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/05/02/rib9358_XDI3nkV.jpg 1x, https://s2.glbimg.com/j53JEoEGwBH9L_Vp3dwCclvEJ64=/0x0:2000x1319/1280x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/05/02/rib9358_XDI3nkV.jpg 2x"> <source media="(max-width: 1360px)" data-src="https://s2.glbimg.com/yPcTw6w7XbBtmkTUKiDtSNaObOQ=/0x0:2000x1319/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/05/02/rib9358_XDI3nkV.jpg 1x, https://s2.glbimg.com/HPBmGUrjXewJkKquRsNXzmip344=/0x0:2000x1319/1968x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/05/02/rib9358_XDI3nkV.jpg 2x"> <source media="(min-width: 1361px)" data-src="https://s2.glbimg.com/JmC5ZzM03zAInfjvhnyKVxcH2Hg=/0x0:2000x1319/1000x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/05/02/rib9358_XDI3nkV.jpg 1x, https://s2.glbimg.com/k2mGmtD5kq2Dxzi41diRvN-Me5o=/0x0:2000x1319/2000x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/05/02/rib9358_XDI3nkV.jpg 2x"> <source data-src="https://s2.glbimg.com/yPcTw6w7XbBtmkTUKiDtSNaObOQ=/0x0:2000x1319/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/05/02/rib9358_XDI3nkV.jpg"> <!--[if IE 9]></video><![endif]--> <img class="image content-media__image" itemprop="contentUrl" alt="Elenco da Macaca tem possibilidade de embalar na Série B (Foto: Marcos Ribolli)" title="Elenco da Macaca tem possibilidade de embalar na Série B (Foto: Marcos Ribolli)" data-src="https://s2.glbimg.com/yPcTw6w7XbBtmkTUKiDtSNaObOQ=/0x0:2000x1319/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/05/02/rib9358_XDI3nkV.jpg"> </source></source></source></source></source></picture> 
+ 
+ 
+ 
+
+_<svg xmlns="http://www.w3.org/2000/svg" width="13.5px" height="11.25px" viewbox="0 0 13 12"> <ellipse id="Oval" cx="6.5" cy="6.7826087" rx="2" ry="2.08695652"></ellipse> <path d="M4.625,0.260869565 L3.48125,1.56521739 L1.5,1.56521739 C0.8125,1.56521739 0.25,2.15217391 0.25,2.86956522 L0.25,10.6956522 C0.25,11.4130435 0.8125,12 1.5,12 L11.5,12 C12.1875,12 12.75,11.4130435 12.75,10.6956522 L12.75,2.86956522 C12.75,2.15217391 12.1875,1.56521739 11.5,1.56521739 L9.51875,1.56521739 L8.375,0.260869565 L4.625,0.260869565 L4.625,0.260869565 Z M6.5,10.0434783 C4.775,10.0434783 3.375,8.5826087 3.375,6.7826087 C3.375,4.9826087 4.775,3.52173913 6.5,3.52173913 C8.225,3.52173913 9.625,4.9826087 9.625,6.7826087 C9.625,8.5826087 8.225,10.0434783 6.5,10.0434783 L6.5,10.0434783 Z" id="Shape"></path> </svg>_ Elenco da Macaca tem possibilidade de embalar na Série B (Foto: Marcos Ribolli)
+
+ 
+ 
+ 
+ 
+ 
+
+Em 2018, a Macaca fez 15 jogos no Majestoso e outros 15 fora de casa **(compare os números abaixo)**. Os resultados são melhores longe da torcida, principalmente pela característica de um time que se notabiliza por defender bem e sabe contra-atacar, apesar da dificuldade de impor seu estilo quando precisa propor o jogo.
+
+ 
+ 
+ 
+
+**Ponte Preta como visitante:**
+
+ 
+ 
+ 
+
+- 5 vitórias
+- 7 empates
+- 3 derrotas
+- 48% de aproveitamento
+ 
+ 
+ 
+
+**Ponte Preta como mandante:**
+
+ 
+ 
+ 
+
+- 4 vitórias
+- 5 empates
+- 6 derrotas
+- 37% de aproveitamento
+ 
+ 
+ 
+ <meta itemprop="name" content="Os melhores momentos de Vila Nova 0x0 Ponte Preta"> <meta itemprop="thumbnailUrl" content="https://s02.video.glbimg.com/x720/6732925.jpg"> <meta itemprop="datePublished" content="2018-05-14T13:37:11.200Z"> <meta itemprop="uploadDate" content="2018-05-14T13:37:11.200Z"> 
+
+ 
+
+ 
+  ![Os melhores momentos de Vila Nova 0x0 Ponte Preta](https://s02.video.glbimg.com/x720/6732925.jpg "Os melhores momentos de Vila Nova 0x0 Ponte Preta") 
+ 
+ 
+ 
+
+_<svg xmlns="http://www.w3.org/2000/svg" width="14px" height="11px" viewbox="0 0 14 11"><path d="M14,9.16666667 C14,10.175 13.19,11 12.2,11 L1.8,11 C0.81,11 0,10.175 0,9.16666667 L0,1.83333333 C0,0.825 0.81,0 1.8,0 L12.2,0 C13.19,0 14,0.825 14,1.83333333 L14,9.16666667 Z M10.6,5.5 L5.2,2.5025 L5.2,8.48833333 L10.6,5.5 L10.6,5.5 Z" id="Shape"></path></svg>_ Os melhores momentos de Vila Nova 0x0 Ponte Preta
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Após o empate sem gols com o Vila Nova, o técnico Doriva comentou a campanha da Ponte sob seu comando e valorizou os pontos somados como visitante na Série B. Em três jogos, foram duas vitórias, sobre Criciúma (1 a 0) e Guarani (3 a 2), além do 0 a 0 em Goiânia.
+
+ 
+ 
+ 
+
+– Fizemos um bom jogo. óbvio que buscava a vitória, mas ninguém é líder por acaso. Tem uma grande equipe e muito bem treinada pelo Hemerson. Dos nove pontos que jogamos fora, conseguimos sete. Precisamos melhorar o comportamento em casa – disse o treinador.
+
+ 
+ 
+ 
+
+[+ CLIQUE AQUI para ler mais notícias da Ponte Preta](http://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/)
+
+ 
+ 
+ 
+ 
+
+A Macaca volta a campo no sábado para enfrentar o Atlético-GO, em Bragança Paulista, pela sexta rodada da Série B. O **GloboEsporte.com** faz a cobertura em Tempo Real da partida, com vídeos exclusivos, a partir de 16h.
+
+ 
+ 
+ 
