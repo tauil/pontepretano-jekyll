@@ -1,0 +1,94 @@
+---
+layout: post
+title: "Análise: Ponte evolui dentro do mesmo jogo e colhe frutos por ser mais confiante"
+date: 2018-05-14T11:16:17+00:00
+external_link: "https://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/noticia/analise-ponte-evolui-dentro-do-mesmo-jogo-e-colhe-frutos-por-ser-mais-confiante.ghtml"
+categories: news globo.com
+---
+ 
+ 
+ <meta itemprop="name" content="Os melhores momentos de Vila Nova 0x0 Ponte Preta"> <meta itemprop="thumbnailUrl" content="https://s02.video.glbimg.com/x720/6732925.jpg"> <meta itemprop="datePublished" content="2018-05-13T22:03:25.312Z"> <meta itemprop="uploadDate" content="2018-05-13T22:03:25.312Z"> 
+
+ 
+
+ 
+  ![Os melhores momentos de Vila Nova 0x0 Ponte Preta](https://s02.video.glbimg.com/x720/6732925.jpg "Os melhores momentos de Vila Nova 0x0 Ponte Preta") 
+ 
+ 
+ 
+
+_<svg xmlns="http://www.w3.org/2000/svg" width="14px" height="11px" viewbox="0 0 14 11"><path d="M14,9.16666667 C14,10.175 13.19,11 12.2,11 L1.8,11 C0.81,11 0,10.175 0,9.16666667 L0,1.83333333 C0,0.825 0.81,0 1.8,0 L12.2,0 C13.19,0 14,0.825 14,1.83333333 L14,9.16666667 Z M10.6,5.5 L5.2,2.5025 L5.2,8.48833333 L10.6,5.5 L10.6,5.5 Z" id="Shape"></path></svg>_ Os melhores momentos de Vila Nova 0x0 Ponte Preta
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+Parece besteira, mas a confiança é tão importante quanto a qualidade técnica, a capacidade física e a obediência tática no futebol moderno. A Ponte Preta que segurou o Vila Nova, único time da Série B que ostentava 100% de aproveitamento após quatro rodadas, é prova viva disso.
+
+ 
+ 
+ 
+
+Se alguém falasse, há duas semanas, que a Macaca, recém-derrotada pelo Londrina no Moisés Lucarelli, seria capaz de dar trabalho ao Flamengo, vencer o dérbi contra o Guarani com autoridade e tirar pontos do líder da Série B, provavelmente esse alguém seria taxado, no mais educado dos comentários, de "clubista".
+
+ 
+ 
+ 
+
+Mas a Ponte que joga hoje não é a mesma de duas semanas atrás. Essa sequência dura contra Flamengo, Guarani e Vila Nova deu força a um time que, por mais limitações que ainda tenha, agora parece confiante para exercer o seu estilo contra qualquer adversário que aparecer no caminho.
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+  ![Macaca não dá espaços ao Vila Nova (Foto: Marcello Dantas/O Popular)](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgARCAAPABkDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAUGB//EABUBAQEAAAAAAAAAAAAAAAAAAAIE/9oADAMBAAIQAxAAAAFayGpJEHie7yrm/8QAHBAAAgIDAQEAAAAAAAAAAAAAAgQBAwAFExYU/9oACAEBAAEFAtgXxwLMdyW6JejvxrVjtL4XsMXoO5XzyGf/xAAdEQAABQUAAAAAAAAAAAAAAAAAAQIREwMEISKh/9oACAEDAQE/AaB2ZPMjAVA+pcH/xAAcEQAABgMAAAAAAAAAAAAAAAAAAQIDBbERIUH/2gAIAQIBAT8BXIFrDthMijrlj//EACYQAAEDAgUDBQAAAAAAAAAAAAEAAgMREwQSITFBYZHwIkKSk9H/2gAIAQEABj8Cibfnq4g1D+uyxLHyyR2xobtRVCcPlNWZtXkL3fYs8np1FCzho47q1LM98OXfSpPXzlYqIuJu7ed1u/4M/F//xAAfEAEAAgICAgMAAAAAAAAAAAABESEAMUFRcfAQYaH/2gAIAQEAAT8hcM2OwA5pbP5jCeAimcrVWV5wZLxQpBcy0V5z3vCjyC3idqu6w6MiJQ00cWqon7ozGWp6JihCfXfwI//aAAwDAQACAAMAAAAQ0p//xAAbEQEAAgMBAQAAAAAAAAAAAAABETEAIUFxgf/aAAgBAwEBPxBiAwEobJiOpJv3mIuEGtG9x8r3P//EABsRAAEEAwAAAAAAAAAAAAAAAAEAESFxgZHR/9oACAECAQE/EHIGe5bQInOeV//EABoQAQEBAQEBAQAAAAAAAAAAAAERITEQAEH/2gAIAQEAAT8QqyeBAxgui4DvQV3TorcCsLgYRsqv+p7S9hKxsfi+SSrQnrwC02whE78vADEvKAUXEBCQC0y5PjpCJKKJOOeb/wD/2Q== "Macaca não dá espaços ao Vila Nova (Foto: Marcello Dantas/O Popular)") <picture itemscope itemtype="http://schema.org/ImageObject"> <!--[if IE 9]><video style="display: none;"><![endif]--> <source media="(max-width: 1024px)" data-src="https://s2.glbimg.com/-LDAn9npCggnt3Vtr8LVwVYywmM=/0x0:800x492/600x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/05/13/vila_x_ponte.jpeg 1x, https://s2.glbimg.com/xTdXMZzY41pIGvrn2lm_fMkWrbQ=/0x0:800x492/1200x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/05/13/vila_x_ponte.jpeg 2x"> <source media="(max-width: 1280px)" data-src="https://s2.glbimg.com/INyAjZ5hteVSWBnyLdWZj2I9RD4=/0x0:800x492/640x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/05/13/vila_x_ponte.jpeg 1x, https://s2.glbimg.com/32YbhxFUJ_mpUjpImajwB6ju6VU=/0x0:800x492/1280x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/05/13/vila_x_ponte.jpeg 2x"> <source media="(max-width: 1360px)" data-src="https://s2.glbimg.com/u6nG9dK3ASDcYXFtNbiR1htAf-w=/0x0:800x492/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/05/13/vila_x_ponte.jpeg 1x, https://s2.glbimg.com/wRbiCooS4EWoOo8jGh39ELL2DM8=/0x0:800x492/1968x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/05/13/vila_x_ponte.jpeg 2x"> <source media="(min-width: 1361px)" data-src="https://s2.glbimg.com/KKUSFyT5Rd_mP9vMEGmdtMeFNNE=/0x0:800x492/1000x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/05/13/vila_x_ponte.jpeg 1x, https://s2.glbimg.com/WZb_NACg2QC3_dylnS4hruZQRtI=/0x0:800x492/2000x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/05/13/vila_x_ponte.jpeg 2x"> <source data-src="https://s2.glbimg.com/u6nG9dK3ASDcYXFtNbiR1htAf-w=/0x0:800x492/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/05/13/vila_x_ponte.jpeg"> <!--[if IE 9]></video><![endif]--> <img class="image content-media__image" itemprop="contentUrl" alt="Macaca não dá espaços ao Vila Nova (Foto: Marcello Dantas/O Popular)" title="Macaca não dá espaços ao Vila Nova (Foto: Marcello Dantas/O Popular)" data-src="https://s2.glbimg.com/u6nG9dK3ASDcYXFtNbiR1htAf-w=/0x0:800x492/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/05/13/vila_x_ponte.jpeg"> </source></source></source></source></source></picture> 
+ 
+ 
+ 
+
+_<svg xmlns="http://www.w3.org/2000/svg" width="13.5px" height="11.25px" viewbox="0 0 13 12"> <ellipse id="Oval" cx="6.5" cy="6.7826087" rx="2" ry="2.08695652"></ellipse> <path d="M4.625,0.260869565 L3.48125,1.56521739 L1.5,1.56521739 C0.8125,1.56521739 0.25,2.15217391 0.25,2.86956522 L0.25,10.6956522 C0.25,11.4130435 0.8125,12 1.5,12 L11.5,12 C12.1875,12 12.75,11.4130435 12.75,10.6956522 L12.75,2.86956522 C12.75,2.15217391 12.1875,1.56521739 11.5,1.56521739 L9.51875,1.56521739 L8.375,0.260869565 L4.625,0.260869565 L4.625,0.260869565 Z M6.5,10.0434783 C4.775,10.0434783 3.375,8.5826087 3.375,6.7826087 C3.375,4.9826087 4.775,3.52173913 6.5,3.52173913 C8.225,3.52173913 9.625,4.9826087 9.625,6.7826087 C9.625,8.5826087 8.225,10.0434783 6.5,10.0434783 L6.5,10.0434783 Z" id="Shape"></path> </svg>_ Macaca não dá espaços ao Vila Nova (Foto: Marcello Dantas/O Popular)
+
+ 
+ 
+ 
+ 
+ 
+
+Foi essa confiança que fez a Macaca suportar um início agressivo do Vila Nova sem permitir grandes situações. A escalação do adversário, sem um homem de referência no ataque, trouxe problemas aos zagueiros, que não sabiam se formavam a linha defensiva sem marcar ninguém ou avançavam com risco de deixar espaços nas costas.
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+[+ CLIQUE AQUI para ler mais notícias da Ponte Preta](http://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/)
+
+ 
+ 
+ 
+
+A situação foi corrigida no intervalo, quando a Ponte foi mais organizada que o Vila Nova e correu mínimos riscos. Poderia ter tido até um resultado melhor se fosse uma equipe com mais qualidade no campo ofensivo. Falta(m) a Doriva uma ou duas peças capazes de desequilibrar o jogo a favor, principalmente no último terço. Ainda é um time que vive de lampejos no ataque.
+
+ 
+ 
+ 
+ 
+
+Mas, diante do cenário apresentado no Campeonato Paulista e até no começo de trabalho do atual treinador, a Ponte evoluiu. Tem um jeito definido de jogar, que logicamente precisa de ajustes, mas dá esperança de um segundo semestre melhor do que o primeiro. Com o reforço da tal confiança, o cenário parece mais promissor. É bom dar um jeito de mantê-la no Majestoso.
+
+ 
+ 
+ 
