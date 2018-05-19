@@ -1,0 +1,200 @@
+---
+layout: post
+title: "Rodada #6: tudo que você precisa saber sobre Ponte Preta x Atlético-GO"
+date: 2018-05-19T10:01:17+00:00
+external_link: "https://globoesporte.globo.com/sp/campinas-e-regiao/futebol/brasileirao-serie-b/noticia/rodada-6-tudo-que-voce-precisa-saber-sobre-ponte-preta-x-atletico-go.ghtml"
+categories: news globo.com
+---
+ 
+ 
+ 
+ 
+ 
+
+  ![Nabi Abi Chedid será a casa da Ponte neste fim de semana (Foto: Danilo Sardinha / GloboEsporte.com)](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgARCAATABkDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUCBAYD/8QAGAEAAwEBAAAAAAAAAAAAAAAAAgMEBQb/2gAMAwEAAhADEAAAAdQutYK3OcK7VqZ6joHNESBJ/wD/xAAdEAACAgMAAwAAAAAAAAAAAAADBAACAQURExYy/9oACAEBAAEFArayFWAvGtqilb2tGNbMzora1MMqIAieakxnmcfPeTs//8QAGxEAAQQDAAAAAAAAAAAAAAAAAQACAwQQQVH/2gAIAQMBAT8BNUdTa0Ozn//EABsRAAEEAwAAAAAAAAAAAAAAAAABAgURAyEy/9oACAECAQE/AUm7TkdMZb1Q4U//xAAoEAABAwICCgMAAAAAAAAAAAACAAEDESEQ0QQjMTIzNEFSU3KSoaL/2gAIAQEABj8C2LWTRB7GyoTyyE3jiJ/tcvpPwbNPCW6VqDZ0YuBhV+9M4nNalqtkuJN+ckT9WwbD/8QAHxABAAIBAwUAAAAAAAAAAAAAAQARMRBRYSFBkaHx/9oACAEBAAE/IWYyA7AfFxd2wC44V70WXcA2W6HJ5daOL4g91FSrBvHyooLgsY4UKS+8/9oADAMBAAIAAwAAABBw0MH/xAAZEQEBAQADAAAAAAAAAAAAAAABACERkfD/2gAIAQMBAT8QS8uYBp7qYv/EABwRAAEDBQAAAAAAAAAAAAAAAAAhMYEBEUHR8P/aAAgBAgEBPxBATN9DYo6TAef/xAAeEAEAAgICAwEAAAAAAAAAAAABESEAMUFREIGRYf/aAAgBAQABPxCEl2hR3kw9wO3pS4fmCfkW+Qlg6TwMyygcliyTiPWLSvShgJEpE6TrrN73JIcVmvDpCIN0mQ95couVgN4xq0i76z9f3P/Z "Nabi Abi Chedid será a casa da Ponte neste fim de semana (Foto: Danilo Sardinha / GloboEsporte.com)") <picture itemscope itemtype="http://schema.org/ImageObject"> <!--[if IE 9]><video style="display: none;"><![endif]--> <source media="(max-width: 1024px)" data-src="https://s2.glbimg.com/RXm0TjHwKqUcNbH42PILlMQoSLk=/0x0:1280x960/600x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/09/15/nabi.jpg 1x, https://s2.glbimg.com/daAfb9LQg4-qiA4MBwyCjyMgsjQ=/0x0:1280x960/1200x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/09/15/nabi.jpg 2x"> <source media="(max-width: 1280px)" data-src="https://s2.glbimg.com/c8NqRXBEOW9CUNU2ONH4Xw2jL94=/0x0:1280x960/640x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/09/15/nabi.jpg 1x, https://s2.glbimg.com/F1Y7WuiXXZnDQEuw744hhB0mRRQ=/0x0:1280x960/1280x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/09/15/nabi.jpg 2x"> <source media="(max-width: 1360px)" data-src="https://s2.glbimg.com/9YzygXraj8pIf11WT8V4aWwOiZM=/0x0:1280x960/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/09/15/nabi.jpg 1x, https://s2.glbimg.com/_Rmmbku9R8sSycShXd2foRN9U2o=/0x0:1280x960/1968x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/09/15/nabi.jpg 2x"> <source media="(min-width: 1361px)" data-src="https://s2.glbimg.com/vYDZUWU9Xm_eCfFFi0IrCMNvMBI=/0x0:1280x960/1000x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/09/15/nabi.jpg 1x, https://s2.glbimg.com/QskzwWF3gC3Xe76gzzxu0gJWhe0=/0x0:1280x960/2000x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/09/15/nabi.jpg 2x"> <source data-src="https://s2.glbimg.com/9YzygXraj8pIf11WT8V4aWwOiZM=/0x0:1280x960/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/09/15/nabi.jpg"> <!--[if IE 9]></video><![endif]--> <img class="image content-media__image" itemprop="contentUrl" alt="Nabi Abi Chedid será a casa da Ponte neste fim de semana (Foto: Danilo Sardinha / GloboEsporte.com)" title="Nabi Abi Chedid será a casa da Ponte neste fim de semana (Foto: Danilo Sardinha / GloboEsporte.com)" data-src="https://s2.glbimg.com/9YzygXraj8pIf11WT8V4aWwOiZM=/0x0:1280x960/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2017/09/15/nabi.jpg"> </source></source></source></source></source></picture> 
+ 
+ 
+ 
+
+_<svg xmlns="http://www.w3.org/2000/svg" width="13.5px" height="11.25px" viewbox="0 0 13 12"> <ellipse id="Oval" cx="6.5" cy="6.7826087" rx="2" ry="2.08695652"></ellipse> <path d="M4.625,0.260869565 L3.48125,1.56521739 L1.5,1.56521739 C0.8125,1.56521739 0.25,2.15217391 0.25,2.86956522 L0.25,10.6956522 C0.25,11.4130435 0.8125,12 1.5,12 L11.5,12 C12.1875,12 12.75,11.4130435 12.75,10.6956522 L12.75,2.86956522 C12.75,2.15217391 12.1875,1.56521739 11.5,1.56521739 L9.51875,1.56521739 L8.375,0.260869565 L4.625,0.260869565 L4.625,0.260869565 Z M6.5,10.0434783 C4.775,10.0434783 3.375,8.5826087 3.375,6.7826087 C3.375,4.9826087 4.775,3.52173913 6.5,3.52173913 C8.225,3.52173913 9.625,4.9826087 9.625,6.7826087 C9.625,8.5826087 8.225,10.0434783 6.5,10.0434783 L6.5,10.0434783 Z" id="Shape"></path> </svg>_ Nabi Abi Chedid será a casa da Ponte neste fim de semana (Foto: Danilo Sardinha / GloboEsporte.com)
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+Mesmo com a ausência do Bragantino, a cidade de Bragança Paulista volta a receber neste sábado uma partida válida pela Série B do Campeonato Brasileiro. Ponte Preta e Atlético-GO duelam a partir das 16h30, no Estádio Nabi Abi Chedid, pela continuação da sexta rodada. O Moisés Lucarelli, que sediaria o confronto, passa por reformas no gramado.
+
+ 
+ 
+ 
+
+Em campo, as equipes buscam uma vitória para embalar e deixar o meio da tabela da competição. Ambos chegam ao duelo de Bragança Paulista com sete pontos, entre o décimo (Ponte) e o 11º lugar (Atlético). Por isso o resultado é fundamental para os dois: a Macaca busca a primeira vitória como mandante, assim como o Dragão, que tem duas derrotas como visitante.
+
+ 
+ 
+ 
+
+[+ Veja a tabela completa e os jogos da Série B](https://globoesporte.globo.com/futebol/brasileirao-serie-b/)
+
+ 
+ 
+ 
+
+Vale lembrar que a partida será disputada com portões fechados, dando sequência à punição imposta pelo STJD à Ponte Preta, por causa dos incidentes violentos no ano passado, contra o Vitória. A Macaca organiza [uma fan fest no Majestoso](https://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/noticia/ponte-abre-majestoso-no-sabado-para-torcida-acompanhar-partida-em-teloes.ghtml) para entreter os torcedores.
+
+ 
+ 
+ 
+
+**Transmissão:** SporTV menos Campinas e Premiere (com Jota Jr. e Wagner Vilaron). O **GloboEsporte.com** acompanha em **Tempo Real** , a partir das 16h, com vídeos exclusivos.
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+  ![(Foto: Infografia)](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgARCAAEABkDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAQDB//EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAe42BZqH/8QAGRAAAwEBAQAAAAAAAAAAAAAAAAECBAMU/9oACAEBAAEFAqx03zzWhZ6PPR//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAfEAABAwMFAAAAAAAAAAAAAAAAAgMEATSSEiEiM3H/2gAIAQEABj8CrplSG+atkrLuRX1ZcPZHe9kf/8QAHhAAAQQBBQAAAAAAAAAAAAAAAQARIdFBMVFxofH/2gAIAQEAAT8haN39HJG4xhDQ/BKRM9al4Sl//9oADAMBAAIAAwAAABByD//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABsQAQACAgMAAAAAAAAAAAAAAAERIQAQMUFR/9oACAEBAAE/ELZqYapDIwCPAvOBVF3MuirqKnSh/9k= " (Foto: Infografia)") <picture itemscope itemtype="http://schema.org/ImageObject"> <!--[if IE 9]><video style="display: none;"><![endif]--> <source media="(max-width: 1024px)" data-src="https://s2.glbimg.com/db0Uw1iiW_30c7V1LAF0g0sJV3E=/0x0:1600x254/600x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/n/h/FehC1SQgSvM3M6F9xEwQ/escalacoes-provaveis.png 1x, https://s2.glbimg.com/fJePK58s92diVb2IK1VBR-gpILw=/0x0:1600x254/1200x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/n/h/FehC1SQgSvM3M6F9xEwQ/escalacoes-provaveis.png 2x"> <source media="(max-width: 1280px)" data-src="https://s2.glbimg.com/NKakr5C33H1l9SUsNtIM9CR1WaM=/0x0:1600x254/640x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/n/h/FehC1SQgSvM3M6F9xEwQ/escalacoes-provaveis.png 1x, https://s2.glbimg.com/wJ91c4FqBELPKQWCugs2KQ7auk4=/0x0:1600x254/1280x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/n/h/FehC1SQgSvM3M6F9xEwQ/escalacoes-provaveis.png 2x"> <source media="(max-width: 1360px)" data-src="https://s2.glbimg.com/OqOEHZY_BFHVoDRaRA4pE6QLZbM=/0x0:1600x254/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/n/h/FehC1SQgSvM3M6F9xEwQ/escalacoes-provaveis.png 1x, https://s2.glbimg.com/vj8Xeolf9G82D-HNCJBo_dn8PHU=/0x0:1600x254/1968x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/n/h/FehC1SQgSvM3M6F9xEwQ/escalacoes-provaveis.png 2x"> <source media="(min-width: 1361px)" data-src="https://s2.glbimg.com/Umg9GoNjIIuNceQZrmLyqC_Fg6M=/0x0:1600x254/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/n/h/FehC1SQgSvM3M6F9xEwQ/escalacoes-provaveis.png 1x, https://s2.glbimg.com/7molsLBeCk_g_9NGFRFyZfFDI2w=/0x0:1600x254/2000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/n/h/FehC1SQgSvM3M6F9xEwQ/escalacoes-provaveis.png 2x"> <source data-src="https://s2.glbimg.com/OqOEHZY_BFHVoDRaRA4pE6QLZbM=/0x0:1600x254/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/n/h/FehC1SQgSvM3M6F9xEwQ/escalacoes-provaveis.png"> <!--[if IE 9]></video><![endif]--> <img class="image content-media__image" itemprop="contentUrl" alt=" (Foto: Infografia)" title=" (Foto: Infografia)" data-src="https://s2.glbimg.com/OqOEHZY_BFHVoDRaRA4pE6QLZbM=/0x0:1600x254/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/n/h/FehC1SQgSvM3M6F9xEwQ/escalacoes-provaveis.png"> </source></source></source></source></source></picture> 
+ 
+ 
+ 
+
+_<svg xmlns="http://www.w3.org/2000/svg" width="13.5px" height="11.25px" viewbox="0 0 13 12"> <ellipse id="Oval" cx="6.5" cy="6.7826087" rx="2" ry="2.08695652"></ellipse> <path d="M4.625,0.260869565 L3.48125,1.56521739 L1.5,1.56521739 C0.8125,1.56521739 0.25,2.15217391 0.25,2.86956522 L0.25,10.6956522 C0.25,11.4130435 0.8125,12 1.5,12 L11.5,12 C12.1875,12 12.75,11.4130435 12.75,10.6956522 L12.75,2.86956522 C12.75,2.15217391 12.1875,1.56521739 11.5,1.56521739 L9.51875,1.56521739 L8.375,0.260869565 L4.625,0.260869565 L4.625,0.260869565 Z M6.5,10.0434783 C4.775,10.0434783 3.375,8.5826087 3.375,6.7826087 C3.375,4.9826087 4.775,3.52173913 6.5,3.52173913 C8.225,3.52173913 9.625,4.9826087 9.625,6.7826087 C9.625,8.5826087 8.225,10.0434783 6.5,10.0434783 L6.5,10.0434783 Z" id="Shape"></path> </svg>_ (Foto: Infografia)
+
+ 
+ 
+ 
+ 
+ 
+
+## Ponte Preta – Técnico: Doriva
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+A Macaca vai a campo com mistério. Como Orinho não se recuperou de um problema muscular na coxa esquerda, a grande dúvida está na lateral esquerda. Doriva pode manter Marciel e repetir o time que empatou com o Vila Nova no domingo ou recuar Danilo Barcelos e abrir espaço para um jogador mais ofensivo no ataque. A maior chance é pela segunda opção.
+
+ 
+ 
+ 
+
+**Desfalque:** Orinho (lesão na coxa esquerda).
+
+ 
+ 
+ 
+
+**Pendurados:** Nathan e Renan Fonseca
+
+ 
+ 
+ 
+
+[**+ CLIQUE AQUI e leia mais sobre a Ponte**](http://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/)
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+  ![Provável formação da Ponte Preta para enfrentar o Atlético-GO (Foto: Infografia)](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgARCAAmABkDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAgABA//EABgBAQEAAwAAAAAAAAAAAAAAAAIBAAYH/9oADAMBAAIQAxAAAAFYjybV9RRJUErodyc+lGctqT//xAAdEAACAwACAwAAAAAAAAAAAAAAAQIREiJBECEx/9oACAEBAAEFAu98iiUlVcYuND++0dksszTXHxpCksaibP/EABgRAAIDAAAAAAAAAAAAAAAAAAAQAREx/9oACAEDAQE/AacmL//EABcRAAMBAAAAAAAAAAAAAAAAAAABETH/2gAIAQIBAT8BibISDMww/8QAHhAAAgEFAAMAAAAAAAAAAAAAABEBEBIhMUFRcoH/2gAIAQEABj8C4WuGmjlEO2PZZJxmmhTCPNIW+iuj4cms4po//8QAIRAAAgIDAAAHAAAAAAAAAAAAAREAITFBURBhcZGxwdH/2gAIAQEAAT8hLYfCYPOyGuqWx9PBgZy4Bfa/A+QEBYkjyVCOqFtjsE4goAhhcuICRGwzMeoVQwRBtCefaV2F5oxEVG2rgooxI//aAAwDAQACAAMAAAAQgDWnf/8A/8QAHBEBAAMAAgMAAAAAAAAAAAAAAQARIRAxUbHR/9oACAEDAQE/EALRuXKKNlAZT166+zygqs4//8QAIREBAAECBgMBAAAAAAAAAAAAAREAITFBUWGx8HGBweH/2gAIAQIBAT8QGAVstjOON6Ag4/O40gKQ3L+mSOfG9AlbSrYy/NIqW/qcadFf/8QAIBABAAICAgMAAwAAAAAAAAAAAQARITFBcVFhgZGh8P/aAAgBAQABPxBVWhgpMci0Zi9PJV4uCRdnJTzO5F7oubKcdXeXnxjEWdAA0U/ZtqO3X07nnmfcQjkq7lBXMIZV4NxIVCiVLcW/mdSAiFdYbqudHRuVBCqGz7I1r5LuQgLA4ymn7UryxKVKeoazqJlNcDwPPRBPHfU/oz//2Q== "Provável formação da Ponte Preta para enfrentar o Atlético-GO (Foto: Infografia)") <picture itemscope itemtype="http://schema.org/ImageObject"> <!--[if IE 9]><video style="display: none;"><![endif]--> <source media="(max-width: 1024px)" data-src="https://s2.glbimg.com/h-4VUZTF182w_ZIw4itFKcovQtg=/0x0:600x900/600x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/P/1/eKlWRvRquCG1OR7Kk7Mw/campinho-1-.png 1x, https://s2.glbimg.com/PzXES7A7it1DW_gOaQgdlQ3DhlY=/0x0:600x900/1200x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/P/1/eKlWRvRquCG1OR7Kk7Mw/campinho-1-.png 2x"> <source media="(max-width: 1280px)" data-src="https://s2.glbimg.com/dzxxTmTRusDsM9IWmUdRHv_yyZI=/0x0:600x900/640x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/P/1/eKlWRvRquCG1OR7Kk7Mw/campinho-1-.png 1x, https://s2.glbimg.com/cQqeqenb9oKYoCC3aOZe44W5cOQ=/0x0:600x900/1280x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/P/1/eKlWRvRquCG1OR7Kk7Mw/campinho-1-.png 2x"> <source media="(max-width: 1360px)" data-src="https://s2.glbimg.com/lPNbBp7rOnZ_L0_ptZtXd-U2G_k=/0x0:600x900/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/P/1/eKlWRvRquCG1OR7Kk7Mw/campinho-1-.png 1x, https://s2.glbimg.com/zdv1EdfxV-yYrAbxdnmQWvwC85o=/0x0:600x900/1968x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/P/1/eKlWRvRquCG1OR7Kk7Mw/campinho-1-.png 2x"> <source media="(min-width: 1361px)" data-src="https://s2.glbimg.com/v47WMkdr58D4HOOABprBf3cR5oQ=/0x0:600x900/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/P/1/eKlWRvRquCG1OR7Kk7Mw/campinho-1-.png 1x, https://s2.glbimg.com/dR3ownQaIi6zqKCI_FGwyKW6SbQ=/0x0:600x900/2000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/P/1/eKlWRvRquCG1OR7Kk7Mw/campinho-1-.png 2x"> <source data-src="https://s2.glbimg.com/lPNbBp7rOnZ_L0_ptZtXd-U2G_k=/0x0:600x900/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/P/1/eKlWRvRquCG1OR7Kk7Mw/campinho-1-.png"> <!--[if IE 9]></video><![endif]--> <img class="image content-media__image" itemprop="contentUrl" alt="Provável formação da Ponte Preta para enfrentar o Atlético-GO (Foto: Infografia)" title="Provável formação da Ponte Preta para enfrentar o Atlético-GO (Foto: Infografia)" data-src="https://s2.glbimg.com/lPNbBp7rOnZ_L0_ptZtXd-U2G_k=/0x0:600x900/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/P/1/eKlWRvRquCG1OR7Kk7Mw/campinho-1-.png"> </source></source></source></source></source></picture> 
+ 
+ 
+ 
+
+_<svg xmlns="http://www.w3.org/2000/svg" width="13.5px" height="11.25px" viewbox="0 0 13 12"> <ellipse id="Oval" cx="6.5" cy="6.7826087" rx="2" ry="2.08695652"></ellipse> <path d="M4.625,0.260869565 L3.48125,1.56521739 L1.5,1.56521739 C0.8125,1.56521739 0.25,2.15217391 0.25,2.86956522 L0.25,10.6956522 C0.25,11.4130435 0.8125,12 1.5,12 L11.5,12 C12.1875,12 12.75,11.4130435 12.75,10.6956522 L12.75,2.86956522 C12.75,2.15217391 12.1875,1.56521739 11.5,1.56521739 L9.51875,1.56521739 L8.375,0.260869565 L4.625,0.260869565 L4.625,0.260869565 Z M6.5,10.0434783 C4.775,10.0434783 3.375,8.5826087 3.375,6.7826087 C3.375,4.9826087 4.775,3.52173913 6.5,3.52173913 C8.225,3.52173913 9.625,4.9826087 9.625,6.7826087 C9.625,8.5826087 8.225,10.0434783 6.5,10.0434783 L6.5,10.0434783 Z" id="Shape"></path> </svg>_ Provável formação da Ponte Preta para enfrentar o Atlético-GO (Foto: Infografia)
+
+ 
+ 
+ 
+ 
+ 
+
+## Atlético-GO – Técnico: Cláudio Tencati
+
+ 
+ 
+ 
+
+O treinador rubro-negro já tinha esboçado equipe sem William Alves, Tomas Bastos e Tito. Curiosamente, o Atlético-GO perdeu os três jogadores por motivos diferentes ao longo da semana. Na zaga, Lucas Rocha entra ao lado de René. No meio, Rômulo retorna à equipe titular. No ataque, Renato Kayser é o escolhido. As mudanças deixam o Dragão, em tese, mais veloz.
+
+ 
+ 
+ 
+
+**Desfalques:** William Alves já seria sacado, mas não fica nem no banco de reservas por conta de tendinite no joelho. Tomas Bastos foi suspenso em mais um jogo pela expulsão na segunda rodada diante do Coritiba. Tito vive imbróglio judicial com o Confiança, seu ex-clube, e não será mais escalado pelo Atlético-GO enquanto a situação não for resolvida.
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+**Pendurados:** Bruno Santos e Fernandes.
+
+ 
+ 
+ 
+
+[**+ CLIQUE AQUI e leia mais sobre o Atlético-GO**](http://globoesporte.globo.com/go/futebol/times/atletico-go/)
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+  ![Provável escalação do Atlético-GO para enfrentar a Ponte Preta (Foto: GloboEsporte.com)](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgARCAAmABkDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIDAf/EABkBAAMAAwAAAAAAAAAAAAAAAAABAgMGB//aAAwDAQACEAMQAAABbZ15JqytKolZcvJtJUmJMAl0JX//xAAfEAACAQQCAwAAAAAAAAAAAAAAARECEBIhA0ETIjH/2gAIAQEAAQUC7l2gcSl5atTof18mR3saKaciItkj1MkZn//EABkRAAIDAQAAAAAAAAAAAAAAAAABAhARMf/aAAgBAwEBPwFLaijgnlf/xAAbEQABBAMAAAAAAAAAAAAAAAABABARMQISIf/aAAgBAgEBPwEDbgtsQVEKm//EAB8QAAEEAgIDAAAAAAAAAAAAAAABEBExIUECIjJRgf/aAAgBAQAGPwLTJT4QqGo6pxlNSU3l8PRbzlqP/8QAIhAAAgIBAwQDAAAAAAAAAAAAAREAITEQQVFhcYGRobHB/9oACAEBAAE/IS2H0gTsoCX+E8ZclSIVhofMZCuwNBFqe4VlBLDfWA8GdASSUhsAWxdS692JXMJS0YGAyB71LRRix//aAAwDAQACAAMAAAAQ2dWAdD//xAAbEQEAAgMBAQAAAAAAAAAAAAABABExQVEQIf/aAAgBAwEBPxDAM6IhbWIlUF3Xzrx5uJCKzz//xAAcEQEAAgMAAwAAAAAAAAAAAAABABEhMUFRcfD/2gAIAQIBAT8QZZFOCtyhWsnqAuixTHlvT07LbQb2fXHGp//EACAQAQACAgIDAAMAAAAAAAAAAAEAESExQXFRYYEQkbH/2gAIAQEAAT8QVQYGCkQAFTgK/kDZs5w8ztHBO5Qpy19XeV7vctFCwNBPqGyEMvGCroaRq/cQIIcr3mdCZZXa771VRFg14LULl/a/fcDp0Ac7vL1K8sSUlPUDkJ0CiGtnNVjxcBRem+Pw/wD/2Q== "Provável escalação do Atlético-GO para enfrentar a Ponte Preta (Foto: GloboEsporte.com)") <picture itemscope itemtype="http://schema.org/ImageObject"> <!--[if IE 9]><video style="display: none;"><![endif]--> <source media="(max-width: 1024px)" data-src="https://s2.glbimg.com/3H88JfTLz6sOxY8umIH02jAsIVk=/0x0:600x900/600x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/F/q/rWxezVSTANPWmPAMPr4A/atletico.png 1x, https://s2.glbimg.com/sg151Ih7YhV9EdTaO1--WFPrixI=/0x0:600x900/1200x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/F/q/rWxezVSTANPWmPAMPr4A/atletico.png 2x"> <source media="(max-width: 1280px)" data-src="https://s2.glbimg.com/yxKhO8QZ-VHho0rFVWJurpWA8XI=/0x0:600x900/640x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/F/q/rWxezVSTANPWmPAMPr4A/atletico.png 1x, https://s2.glbimg.com/4p3ng1t1UtSav5ttiCBGI6vLS7U=/0x0:600x900/1280x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/F/q/rWxezVSTANPWmPAMPr4A/atletico.png 2x"> <source media="(max-width: 1360px)" data-src="https://s2.glbimg.com/u6hx5ZZ1Hm01v_2pDwaSeHkJaX4=/0x0:600x900/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/F/q/rWxezVSTANPWmPAMPr4A/atletico.png 1x, https://s2.glbimg.com/k9IyJ3kKAD9qwF8UjtnSDWEpV_Q=/0x0:600x900/1968x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/F/q/rWxezVSTANPWmPAMPr4A/atletico.png 2x"> <source media="(min-width: 1361px)" data-src="https://s2.glbimg.com/iQzSPriguESeAOinfT_YMgg5lGw=/0x0:600x900/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/F/q/rWxezVSTANPWmPAMPr4A/atletico.png 1x, https://s2.glbimg.com/aF9xbe3Vdk_yJJfwveopaPrVLkw=/0x0:600x900/2000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/F/q/rWxezVSTANPWmPAMPr4A/atletico.png 2x"> <source data-src="https://s2.glbimg.com/u6hx5ZZ1Hm01v_2pDwaSeHkJaX4=/0x0:600x900/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/F/q/rWxezVSTANPWmPAMPr4A/atletico.png"> <!--[if IE 9]></video><![endif]--> <img class="image content-media__image" itemprop="contentUrl" alt="Provável escalação do Atlético-GO para enfrentar a Ponte Preta (Foto: GloboEsporte.com)" title="Provável escalação do Atlético-GO para enfrentar a Ponte Preta (Foto: GloboEsporte.com)" data-src="https://s2.glbimg.com/u6hx5ZZ1Hm01v_2pDwaSeHkJaX4=/0x0:600x900/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/F/q/rWxezVSTANPWmPAMPr4A/atletico.png"> </source></source></source></source></source></picture> 
+ 
+ 
+ 
+
+_<svg xmlns="http://www.w3.org/2000/svg" width="13.5px" height="11.25px" viewbox="0 0 13 12"> <ellipse id="Oval" cx="6.5" cy="6.7826087" rx="2" ry="2.08695652"></ellipse> <path d="M4.625,0.260869565 L3.48125,1.56521739 L1.5,1.56521739 C0.8125,1.56521739 0.25,2.15217391 0.25,2.86956522 L0.25,10.6956522 C0.25,11.4130435 0.8125,12 1.5,12 L11.5,12 C12.1875,12 12.75,11.4130435 12.75,10.6956522 L12.75,2.86956522 C12.75,2.15217391 12.1875,1.56521739 11.5,1.56521739 L9.51875,1.56521739 L8.375,0.260869565 L4.625,0.260869565 L4.625,0.260869565 Z M6.5,10.0434783 C4.775,10.0434783 3.375,8.5826087 3.375,6.7826087 C3.375,4.9826087 4.775,3.52173913 6.5,3.52173913 C8.225,3.52173913 9.625,4.9826087 9.625,6.7826087 C9.625,8.5826087 8.225,10.0434783 6.5,10.0434783 L6.5,10.0434783 Z" id="Shape"></path> </svg>_ Provável escalação do Atlético-GO para enfrentar a Ponte Preta (Foto: GloboEsporte.com)
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  ![(Foto: infoesporte)](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgARCAAEABkDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAQDB//EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAe6UBZsH/8QAGxAAAgEFAAAAAAAAAAAAAAAAAgQAAQMRExT/2gAIAQEAAQUCvI12gqeBWKc5T//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EAB0QAAEEAgMAAAAAAAAAAAAAAAEAAgSSAzQREjP/2gAIAQEABj8CLmypDCSeer1tybrZz2Xvmsv/xAAdEAABBAIDAAAAAAAAAAAAAAABACFB0TFxEYHx/9oACAEBAAE/IXFO2R2GIjaPDk3SkHNsaXhKX//aAAwDAQACAAMAAAAQAg//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/ED//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAbEAEBAAIDAQAAAAAAAAAAAAABEQAhEDFxQf/aAAgBAQABPxCdJAZKKV6lB8ru4YRN1Zfcxb65xof/2Q== " (Foto: infoesporte)") <picture itemscope itemtype="http://schema.org/ImageObject"> <!--[if IE 9]><video style="display: none;"><![endif]--> <source media="(max-width: 1024px)" data-src="https://s2.glbimg.com/Caw8sDxZJZRN24D0Id__ZRn7SwA=/0x0:1600x255/600x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/I/H/6dR7YeRzaYpVuT86nwSg/apresentacao-do-brasileirao-arbitragem.png 1x, https://s2.glbimg.com/0j8DHX9kqbMKh8hwmOcuiGOVwbQ=/0x0:1600x255/1200x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/I/H/6dR7YeRzaYpVuT86nwSg/apresentacao-do-brasileirao-arbitragem.png 2x"> <source media="(max-width: 1280px)" data-src="https://s2.glbimg.com/7Qh8l8SFGzxDR8Zc1pRv3A3cJAo=/0x0:1600x255/640x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/I/H/6dR7YeRzaYpVuT86nwSg/apresentacao-do-brasileirao-arbitragem.png 1x, https://s2.glbimg.com/wFNTPy2J7rgI1xtHSiI6PSQU_18=/0x0:1600x255/1280x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/I/H/6dR7YeRzaYpVuT86nwSg/apresentacao-do-brasileirao-arbitragem.png 2x"> <source media="(max-width: 1360px)" data-src="https://s2.glbimg.com/lQS2A5KBRORPwOpfXO07WGXLz3M=/0x0:1600x255/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/I/H/6dR7YeRzaYpVuT86nwSg/apresentacao-do-brasileirao-arbitragem.png 1x, https://s2.glbimg.com/AJHoLWLiosmZ7KE6lEKawZmrcD0=/0x0:1600x255/1968x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/I/H/6dR7YeRzaYpVuT86nwSg/apresentacao-do-brasileirao-arbitragem.png 2x"> <source media="(min-width: 1361px)" data-src="https://s2.glbimg.com/9ov0vlcSLdJ-cQrHyo6rdMHWz2Y=/0x0:1600x255/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/I/H/6dR7YeRzaYpVuT86nwSg/apresentacao-do-brasileirao-arbitragem.png 1x, https://s2.glbimg.com/3dVoFD6ebuzlTtEfXu2zCXHB5Ls=/0x0:1600x255/2000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/I/H/6dR7YeRzaYpVuT86nwSg/apresentacao-do-brasileirao-arbitragem.png 2x"> <source data-src="https://s2.glbimg.com/lQS2A5KBRORPwOpfXO07WGXLz3M=/0x0:1600x255/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/I/H/6dR7YeRzaYpVuT86nwSg/apresentacao-do-brasileirao-arbitragem.png"> <!--[if IE 9]></video><![endif]--> <img class="image content-media__image" itemprop="contentUrl" alt=" (Foto: infoesporte)" title=" (Foto: infoesporte)" data-src="https://s2.glbimg.com/lQS2A5KBRORPwOpfXO07WGXLz3M=/0x0:1600x255/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/I/H/6dR7YeRzaYpVuT86nwSg/apresentacao-do-brasileirao-arbitragem.png"> </source></source></source></source></source></picture> 
+ 
+ 
+ 
+
+_<svg xmlns="http://www.w3.org/2000/svg" width="13.5px" height="11.25px" viewbox="0 0 13 12"> <ellipse id="Oval" cx="6.5" cy="6.7826087" rx="2" ry="2.08695652"></ellipse> <path d="M4.625,0.260869565 L3.48125,1.56521739 L1.5,1.56521739 C0.8125,1.56521739 0.25,2.15217391 0.25,2.86956522 L0.25,10.6956522 C0.25,11.4130435 0.8125,12 1.5,12 L11.5,12 C12.1875,12 12.75,11.4130435 12.75,10.6956522 L12.75,2.86956522 C12.75,2.15217391 12.1875,1.56521739 11.5,1.56521739 L9.51875,1.56521739 L8.375,0.260869565 L4.625,0.260869565 L4.625,0.260869565 Z M6.5,10.0434783 C4.775,10.0434783 3.375,8.5826087 3.375,6.7826087 C3.375,4.9826087 4.775,3.52173913 6.5,3.52173913 C8.225,3.52173913 9.625,4.9826087 9.625,6.7826087 C9.625,8.5826087 8.225,10.0434783 6.5,10.0434783 L6.5,10.0434783 Z" id="Shape"></path> </svg>_ (Foto: infoesporte)
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+Caio Max Augusto Vieira apita a partida em Bragança, auxiliado por Jean Márcio dos Santos e Vinicius Melo de Lima, todos do Rio Grande do Norte. O quarto árbitro será Lucas Canetto Bellote, de São Paulo.
+
+ 
+ 
+ 
