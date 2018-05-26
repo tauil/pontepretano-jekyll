@@ -1,0 +1,70 @@
+---
+layout: post
+title: "De volta ao time titular, Nathan busca reconquistar espaço no meio da Ponte"
+date: 2018-05-25T19:37:46+00:00
+external_link: "https://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/noticia/de-volta-ao-time-titular-nathan-busca-reconquistar-espaco-no-meio-da-ponte.ghtml"
+categories: news globo.com
+---
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+Entre as [mudanças confirmadas por Doriva](https://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/noticia/sem-orinho-e-cardoso-com-nathan-e-roberto-doriva-explica-trocas-na-ponte.ghtml) para a partida de segunda-feira, contra o Sampaio Corrêa, a volta de Nathan chama atenção. O volante perdeu espaço assim que André Castro foi regularizado, mas reassumiu a condição de titular na vaga do companheiro. Agora, ele promete se esforçar para não deixar a chance escapar de novo.
+
+ 
+ 
+ 
+ 
+
+– Foi opção do Doriva me tirar. Acredito que tenho feito ótimos jogos, mantendo uma regularidade. Contra o Londrina não fui tão bem, então é opção do técnico. Hoje estou reconquistando meu espaço através do meu trabalho. Sempre busquei evoluir para voltar à equipe – disse.
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+  ![Nathan é uma das novidades da Macaca para segunda-feira (Foto: Carlos Velardi / EPTV)](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgARCAAOABkDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgcF/8QAFgEBAQEAAAAAAAAAAAAAAAAABAAB/9oADAMBAAIQAxAAAAGnS/awiIXoJ20s/8QAGxAAAgIDAQAAAAAAAAAAAAAAAwQCBQAGFBX/2gAIAQEAAQUCXQHCO5CmEmtJjsabxF8ENkY2681sKglwNdmf/8QAGREAAwADAAAAAAAAAAAAAAAAAAECAxIi/9oACAEDAQE/AcV9rdFUkz//xAAZEQACAwEAAAAAAAAAAAAAAAAAAQIDERL/2gAIAQIBAT8BnXkXyzGf/8QAJhAAAgEDAgQHAAAAAAAAAAAAAgMBAAQhETESE1FhFCJBQnOBk//aAAgBAQAGPwLXjdM/JVstNw9UTElhvekMuGE54Ry5ZB9JxrW7f2Khkrwzkc7b406/dLtmN4yRmGlOS19Jq58MR+UoS2D2PvpXur//xAAgEAEBAAMAAQQDAAAAAAAAAAABEQAhMWFBUXHB0fDx/9oACAEBAAE/IVamTfHPxjb/AMoVBN+O52dNTESb2Nvd5+9feJXIpUBqTr7ZBCrAF19ia+Z6YFisUkcANJsPHcj+s//aAAwDAQACAAMAAAAQJi//xAAaEQACAgMAAAAAAAAAAAAAAAAAARExQXHh/9oACAEDAQE/EJKFzwbUqxo//8QAGREAAwADAAAAAAAAAAAAAAAAAAERMVGB/9oACAECAQE/EFPXandikrk//8QAHhABAQACAgIDAAAAAAAAAAAAAREAITFBEGFR4fD/2gAIAQEAAT8QPVQbIOgcblfa+p0XvIKBsFAdvyYU7LqyVKR0Bb7t8GA0+dKAKadraN45IdfWEBQGEXggwihend666hVVEwT9Pvn/2Q== "Nathan é uma das novidades da Macaca para segunda-feira (Foto: Carlos Velardi / EPTV)") <picture itemscope itemtype="http://schema.org/ImageObject"> <!--[if IE 9]><video style="display: none;"><![endif]--> <source media="(max-width: 1024px)" data-src="https://s2.glbimg.com/yeIqHOB0wlXcZIxLRCVgQzSGCFE=/0x0:1034x587/600x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/05/25/nathan1.jpg 1x, https://s2.glbimg.com/s_56KRcM7kv9cfIY00TQJrp19YQ=/0x0:1034x587/1200x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/05/25/nathan1.jpg 2x"> <source media="(max-width: 1280px)" data-src="https://s2.glbimg.com/BQiwtqYeUs7C34CK5EcSW3Ga6dE=/0x0:1034x587/640x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/05/25/nathan1.jpg 1x, https://s2.glbimg.com/r8kILkM2rvIfbxjxpUChAs8yits=/0x0:1034x587/1280x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/05/25/nathan1.jpg 2x"> <source media="(max-width: 1360px)" data-src="https://s2.glbimg.com/qeHACWfm-TICdqvnTqWvDTszNE4=/0x0:1034x587/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/05/25/nathan1.jpg 1x, https://s2.glbimg.com/VFTnzicXlqrO8LQTSqegZYwX6RA=/0x0:1034x587/1968x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/05/25/nathan1.jpg 2x"> <source media="(min-width: 1361px)" data-src="https://s2.glbimg.com/U8CTccIPZTcB3o5IhddeAqiKa_c=/0x0:1034x587/1000x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/05/25/nathan1.jpg 1x, https://s2.glbimg.com/ts42PlW7QussfWv2_tM7qGouRKY=/0x0:1034x587/2000x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/05/25/nathan1.jpg 2x"> <source data-src="https://s2.glbimg.com/qeHACWfm-TICdqvnTqWvDTszNE4=/0x0:1034x587/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/05/25/nathan1.jpg"> <!--[if IE 9]></video><![endif]--> <img class="image content-media__image" itemprop="contentUrl" alt="Nathan é uma das novidades da Macaca para segunda-feira (Foto: Carlos Velardi / EPTV)" title="Nathan é uma das novidades da Macaca para segunda-feira (Foto: Carlos Velardi / EPTV)" data-src="https://s2.glbimg.com/qeHACWfm-TICdqvnTqWvDTszNE4=/0x0:1034x587/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/05/25/nathan1.jpg"> </source></source></source></source></source></picture> 
+ 
+ 
+ 
+
+_<svg xmlns="http://www.w3.org/2000/svg" width="13.5px" height="11.25px" viewbox="0 0 13 12"> <ellipse id="Oval" cx="6.5" cy="6.7826087" rx="2" ry="2.08695652"></ellipse> <path d="M4.625,0.260869565 L3.48125,1.56521739 L1.5,1.56521739 C0.8125,1.56521739 0.25,2.15217391 0.25,2.86956522 L0.25,10.6956522 C0.25,11.4130435 0.8125,12 1.5,12 L11.5,12 C12.1875,12 12.75,11.4130435 12.75,10.6956522 L12.75,2.86956522 C12.75,2.15217391 12.1875,1.56521739 11.5,1.56521739 L9.51875,1.56521739 L8.375,0.260869565 L4.625,0.260869565 L4.625,0.260869565 Z M6.5,10.0434783 C4.775,10.0434783 3.375,8.5826087 3.375,6.7826087 C3.375,4.9826087 4.775,3.52173913 6.5,3.52173913 C8.225,3.52173913 9.625,4.9826087 9.625,6.7826087 C9.625,8.5826087 8.225,10.0434783 6.5,10.0434783 L6.5,10.0434783 Z" id="Shape"></path> </svg>_ Nathan é uma das novidades da Macaca para segunda-feira (Foto: Carlos Velardi / EPTV)
+
+ 
+ 
+ 
+ 
+ 
+
+Dos nove jogos de Doriva à frente da Ponte, Nathan participou de seis, todos como titulares e por 90 minutos. Ele só não atuou contra Flamengo, na primeira partida pela Copa do Brasil, Guarani e Vila Nova. Para o defensor, que tem atuado de volante, a Macaca precisa de mais equilíbrio.
+
+ 
+ 
+ 
+
+– Estamos buscando ser uma equipe equilibrada em todos os aspectos, porque vamos fazer um jogo fora de casa. Não tivemos bons resultados em casa, mas fora a gente já teve uma vitória e um empate. Não vai ser diferente na segunda-feira.
+
+ 
+ 
+ 
+
+[+ CLIQUE AQUI para ler mais notícias da Ponte Preta](http://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/)
+
+ 
+ 
+ 
+ 
+ 
+
+A Ponte encara o Sampaio Corrêa na próxima segunda, às 20h, em São Luis, pelo complemento da sétima rodada da Série B. Como perdeu para o Atlético-GO na partida anterior, a Macaca busca a recuperação. O **GloboEsporte.com** faz a cobertura em Tempo Real, com vídeos exclusivos.
+
+ 
+ 
+ 
