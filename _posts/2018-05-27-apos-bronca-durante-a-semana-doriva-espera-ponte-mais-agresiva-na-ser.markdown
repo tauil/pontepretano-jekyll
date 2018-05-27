@@ -1,0 +1,80 @@
+---
+layout: post
+title: "Após bronca durante a semana, Doriva espera Ponte mais agresiva na Série B"
+date: 2018-05-27T11:38:17+00:00
+external_link: "https://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/noticia/apos-bronca-durante-a-semana-doriva-espera-ponte-mais-agressiva-na-serie-b.ghtml"
+categories: news globo.com
+---
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+A Ponte Preta tem nesta segunda-feira, contra o Sampaio Corrêa, a oportunidade de provar que a [conversa séria entre Doriva e jogadores](https://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/noticia/reapresentacao-da-ponte-tem-conversa-entre-diretoria-doriva-e-jogadores.ghtml), na terça passada, não foi em vão. Após uma lavagem de roupa suja pela irregularidade na Série B, o treinador quer ver um efeito prático em campo, principalmente na questão de postura.
+
+ 
+ 
+ 
+ 
+
+– É uma cobrança sadia para o bem comum. É muito bom quando consegue auxiliar harmonia com os resultados. O ambiente fica leve, saudável e vitorioso. Quando perde, traz dúvida para todo mundo, e a gente não quer ter esse período de dúvida. Queremos brigar lá em cima. O puxão de orelha foi nesse sentido. A gente já perdeu muitas oportunidades e não pode perder mais – disse.
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+  ![Doriva confia na reação do elenco pontepretano (Foto: Carlos Velardi / EPTV)](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgARCAAOABkDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAwUABAYH/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgH/2gAMAwEAAhADEAAAAeTxikN0hzVSP//EABsQAAICAwEAAAAAAAAAAAAAAAMEAAECBRQR/9oACAEBAAEFAvOSPmxK2HThpHmTmOxICawlixtxYg+xCf/EABoRAAICAwAAAAAAAAAAAAAAAAABAgMREyL/2gAIAQMBAT8Brdji1Me3PJ//xAAbEQACAgMBAAAAAAAAAAAAAAABAgARAwQTsf/aAAgBAgEBPwHKutYOIexV1Co6Xc//xAAkEAACAgECBQUAAAAAAAAAAAABAgMRAAQSISIxNEFRk6Gj4f/aAAgBAQAGPwJUCWRxLKbyMx7gCgPN6+fnI9TLq1iElgLV53q+2ckcng7FnAXqarNZMaNbARXW2/MCz6NJdt0ennOx+1s//8QAHhABAAICAgMBAAAAAAAAAAAAAQARITFBYYGR8MH/2gAIAQEAAT8hQQMBJ04si2U+e6V6hPEZWaKS2nG9T479jhNZVEXKFTzBYMWQHcyBTRU7Px3P/9oADAMBAAIAAwAAABAgX//EABoRAAIDAQEAAAAAAAAAAAAAAAERACFBMVH/2gAIAQMBAT8QJEnyhSDz2KKiyf/EABoRAAIDAQEAAAAAAAAAAAAAAAEhADFBEVH/2gAIAQIBAT8Qbqm7Fb5DgBb5U//EABsQAQEBAQEBAQEAAAAAAAAAAAERITEAEEFh/9oACAEBAAE/EIYbfhSnMm0tEfE517DychoANTN9UtEcsIsdUw/X5UGRMMDMbljF7u88TXLZlLrxH+rXz9wzGmMyFefCv//Z "Doriva confia na reação do elenco pontepretano (Foto: Carlos Velardi / EPTV)") <picture itemscope itemtype="http://schema.org/ImageObject"> <!--[if IE 9]><video style="display: none;"><![endif]--> <source media="(max-width: 1024px)" data-src="https://s2.glbimg.com/CO505QO5pgvW9rmkZmHSY88bnY8=/0x0:1046x584/600x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/C/v/kkMQSqR22OSdM7JE1RdA/doriva.5.jpg 1x, https://s2.glbimg.com/rFxlucUdwq4F6ZvDzZEScYhDzbs=/0x0:1046x584/1200x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/C/v/kkMQSqR22OSdM7JE1RdA/doriva.5.jpg 2x"> <source media="(max-width: 1280px)" data-src="https://s2.glbimg.com/CphIwTMgnUwAp_OZ0EHViSc2qb0=/0x0:1046x584/640x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/C/v/kkMQSqR22OSdM7JE1RdA/doriva.5.jpg 1x, https://s2.glbimg.com/UQiImNxQyARgIhKVGg0y52r8D8U=/0x0:1046x584/1280x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/C/v/kkMQSqR22OSdM7JE1RdA/doriva.5.jpg 2x"> <source media="(max-width: 1360px)" data-src="https://s2.glbimg.com/9TWb87rd7yqS4vCQAiYbHPDAj5s=/0x0:1046x584/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/C/v/kkMQSqR22OSdM7JE1RdA/doriva.5.jpg 1x, https://s2.glbimg.com/QSQc5_wD2_3lz3lbrgjVS8QgXkk=/0x0:1046x584/1968x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/C/v/kkMQSqR22OSdM7JE1RdA/doriva.5.jpg 2x"> <source media="(min-width: 1361px)" data-src="https://s2.glbimg.com/GBrRTyntzMmExqHdKvItTj94BFs=/0x0:1046x584/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/C/v/kkMQSqR22OSdM7JE1RdA/doriva.5.jpg 1x, https://s2.glbimg.com/XstUfgDO_zoPJ0PVTdz3hT99PSY=/0x0:1046x584/2000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/C/v/kkMQSqR22OSdM7JE1RdA/doriva.5.jpg 2x"> <source data-src="https://s2.glbimg.com/9TWb87rd7yqS4vCQAiYbHPDAj5s=/0x0:1046x584/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/C/v/kkMQSqR22OSdM7JE1RdA/doriva.5.jpg"> <!--[if IE 9]></video><![endif]--> <img class="image content-media__image" itemprop="contentUrl" alt="Doriva confia na reação do elenco pontepretano (Foto: Carlos Velardi / EPTV)" title="Doriva confia na reação do elenco pontepretano (Foto: Carlos Velardi / EPTV)" data-src="https://s2.glbimg.com/9TWb87rd7yqS4vCQAiYbHPDAj5s=/0x0:1046x584/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/C/v/kkMQSqR22OSdM7JE1RdA/doriva.5.jpg"> </source></source></source></source></source></picture> 
+ 
+ 
+ 
+
+_<svg xmlns="http://www.w3.org/2000/svg" width="13.5px" height="11.25px" viewbox="0 0 13 12"> <ellipse id="Oval" cx="6.5" cy="6.7826087" rx="2" ry="2.08695652"></ellipse> <path d="M4.625,0.260869565 L3.48125,1.56521739 L1.5,1.56521739 C0.8125,1.56521739 0.25,2.15217391 0.25,2.86956522 L0.25,10.6956522 C0.25,11.4130435 0.8125,12 1.5,12 L11.5,12 C12.1875,12 12.75,11.4130435 12.75,10.6956522 L12.75,2.86956522 C12.75,2.15217391 12.1875,1.56521739 11.5,1.56521739 L9.51875,1.56521739 L8.375,0.260869565 L4.625,0.260869565 L4.625,0.260869565 Z M6.5,10.0434783 C4.775,10.0434783 3.375,8.5826087 3.375,6.7826087 C3.375,4.9826087 4.775,3.52173913 6.5,3.52173913 C8.225,3.52173913 9.625,4.9826087 9.625,6.7826087 C9.625,8.5826087 8.225,10.0434783 6.5,10.0434783 L6.5,10.0434783 Z" id="Shape"></path> </svg>_ Doriva confia na reação do elenco pontepretano (Foto: Carlos Velardi / EPTV)
+
+ 
+ 
+ 
+ 
+ 
+
+Com duas vitórias, um empate e três derrotas no Campeonato Brasileiro, a Ponte fecha a sétima rodada sabendo todos os resultados e, portanto, com a possibilidade de crescer na tabela de classificação sem depender dos concorrentes. A aposta está no rendimento como visitante.
+
+ 
+ 
+ 
+
+Longe do Moisés Lucarelli, a Ponte venceu Criciúma e Guarani, além de empatar sem gols com o Vila Nova. Os resultados compensam as três derrotas como mandante, para Paysandu, Londrina e Atlético-GO. A próxima chance de manter o desempenho positivo é na capital maranhense.
+
+ 
+ 
+ 
+
+[+ CLIQUE AQUI para ler mais notícias da Ponte Preta](http://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/)
+
+ 
+ 
+ 
+
+– Tem feito uma campanha muito equilibrada fora e em casa tem deixado a desejar. Convidei todos a fazer uma reflexão sobre isso, porque a gente precisa ser um pouco mais contundente. Com certeza na próxima (partida em casa) a gente vai ser. Antes disso a gente tem esse jogo difícil fora. Espero que a gente possa manter a regularidade.
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+O **GloboEsporte.com** faz a cobertura em Tempo Real da partida no Castelão a partir das 19h30, com vídeos exclusivos.
+
+ 
+ 
+ 
