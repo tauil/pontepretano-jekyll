@@ -1,0 +1,128 @@
+---
+layout: post
+title: "Guarani invicto e Ponte em crise: rivais vivem momentos opostos após o dérbi"
+date: 2018-05-30T11:02:17+00:00
+external_link: "https://globoesporte.globo.com/sp/campinas-e-regiao/futebol/brasileirao-serie-b/noticia/guarani-invicto-e-ponte-em-crise-rivais-vivem-momentos-opostos-apos-o-derbi.ghtml"
+categories: news globo.com
+---
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+O apito final do árbitro gaúcho Leandro Pedro Vuaden causou um impacto enorme no Brinco de Ouro. Era 5 de maio, e a Ponte Preta acabara de vencer o dérbi contra o Guarani, em um estádio cheio de torcedores rivais. Naquela altura, a Macaca parecia dar um passo firme para embalar na temporada, enquanto a frustração dos jogadores indicava um futuro complicado para o Bugre.
+
+ 
+ 
+ 
+ 
+
+Mas futebol nem sempre funciona assim.
+
+ 
+ 
+ 
+
+Passados 25 dias do maior clássico do interior do Brasil, Guarani e Ponte vivem momentos opostos – entre eles e também em comparação àquela noite. O Bugre de Umberto Louzer estancou o sangramento, como o técnico gosta de dizer, e nunca mais perdeu. Já a Macaca mergulhou em uma crise cujo ato mais recente foi a demissão de Doriva, tão exaltado depois do triunfo no dérbi.
+
+ 
+ 
+ 
+
+**Veja abaixo como cada clube reagiu desde o confronto:**
+
+ 
+ 
+ 
+
+> VOLTA POR CIMA DO GUARANI 
+ 
+ 
+
+Existia uma expectativa gigantesca para o dérbi por parte de diretoria, torcida, comissão técnica e jogadores bugrinos – basta lembrar da entrevista de Umberto logo após o jogo. A derrota no clássico, depois de sair em vantagem no placar, foi um tombo do tamanho da ansiedade criada por tantos e tantos anos sem enfrentar o maior rival.
+
+ 
+ 
+ 
+
+Só que a recuperação não demorou para acontecer. Três dias depois, o Guarani voltava a campo para vencer o Criciúma, ainda sem muita confiança. Depois disso, empatou com o Goiás, em jogo que poderia ter vencido (levou o gol do 1 a 1 nos acréscimos), e derrotou o CRB. Os sete pontos em nove jogos pós-dérbi dimensionam a reação da equipe.
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+  ![Umberto orienta elenco bugrino após derrota no dérbi (Foto: Letícia Martins / Guarani Press)](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgARCAARABkDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAIDBQYHBP/EABgBAAMBAQAAAAAAAAAAAAAAAAIDBAEG/9oADAMBAAIQAxAAAAHNWLszGGeru0hWu2SQcmXFAAzf/8QAHhAAAQUAAgMAAAAAAAAAAAAABAABAgMFEjEUFTP/2gAIAQEAAQUCzQq63ID5VMExC9PNSGnXZs51h6kHMPM8rdQvzforpf/EABwRAAEDBQAAAAAAAAAAAAAAAAIAAREQEyJCUf/aAAgBAwEBPwHAoDVlbAZnr0Zf/8QAHREBAAEDBQAAAAAAAAAAAAAAAQIAAxASEyEysf/aAAgBAgEBPwGBaHcZctGhO3mf/8QAKRAAAgECBAILAAAAAAAAAAAAAQIDAAQQERITQWEhIjEyMzRCUXGBlP/aAAgBAQAGPwJ9aFpFUMVy7oNS3baRCsgViOFPtdYBSw5gYXskCBHn0BOnh6l+627VVhsiPAV+1/c0qxoiXeeTSZ8/mvNQfnGBp8P/xAAfEAEAAgICAgMAAAAAAAAAAAABESEAMVFhEHEgQdH/2gAIAQEAAT8hsahy1A/vGOE5QhqD7rHLK7X0Oc9WOcIgICWdQwZBFYELoeq3knVtkilJpZBEeDdXv4Jf/9oADAMBAAIAAwAAABAGOML/xAAbEQEAAgMBAQAAAAAAAAAAAAABACERMUFxgf/aAAgBAwEBPxByNQZ9azrtv2PgA2UNcYTSf//EABsRAQACAwEBAAAAAAAAAAAAAAEAIRExQVGh/9oACAECAQE/EHIWpujzGaBfm5iHDQ09ctLOwnZ//8QAIBABAQACAQUAAwAAAAAAAAAAAREAITEQQaGxwYHw8f/aAAgBAQABPxAl2oqqp2F5TOFTeMUt+E73GhjIptLjBeJwhWcmDg/Gs/Z/caZoEQgV1Ia2uk3SybSgVZpGTRoTblYXW4H02Q+zq9+hnlPZngH3PS+dP//Z "Umberto orienta elenco bugrino após derrota no dérbi (Foto: Letícia Martins / Guarani Press)") <picture itemscope itemtype="http://schema.org/ImageObject"> <!--[if IE 9]><video style="display: none;"><![endif]--> <source media="(max-width: 1024px)" data-src="https://s2.glbimg.com/7uISDEF6-B_V7A1W9iNkvXkqxT4=/0x0:2000x1333/600x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/05/15/40944112714_7cf6508de4_k_jHP00A0.jpg 1x, https://s2.glbimg.com/Id5x0v_3-mFFAK2M6mgg5vS2wVs=/0x0:2000x1333/1200x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/05/15/40944112714_7cf6508de4_k_jHP00A0.jpg 2x"> <source media="(max-width: 1280px)" data-src="https://s2.glbimg.com/ltYAKWyU5hk5nh1l-jUuSljyCkU=/0x0:2000x1333/640x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/05/15/40944112714_7cf6508de4_k_jHP00A0.jpg 1x, https://s2.glbimg.com/WMcPU03lnBVPY9GbL5_tFGH8Zi8=/0x0:2000x1333/1280x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/05/15/40944112714_7cf6508de4_k_jHP00A0.jpg 2x"> <source media="(max-width: 1360px)" data-src="https://s2.glbimg.com/J7fNXtdOemTFKrlv-5TpYoV5j6k=/0x0:2000x1333/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/05/15/40944112714_7cf6508de4_k_jHP00A0.jpg 1x, https://s2.glbimg.com/Asb2PeNMWoM9FqlAtUhulv_9tIQ=/0x0:2000x1333/1968x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/05/15/40944112714_7cf6508de4_k_jHP00A0.jpg 2x"> <source media="(min-width: 1361px)" data-src="https://s2.glbimg.com/OEpkWC2pT5-bB5R0ji2n_IMdSSk=/0x0:2000x1333/1000x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/05/15/40944112714_7cf6508de4_k_jHP00A0.jpg 1x, https://s2.glbimg.com/Q68bGX7RK9YYVTyodgCzAKnFIXo=/0x0:2000x1333/2000x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/05/15/40944112714_7cf6508de4_k_jHP00A0.jpg 2x"> <source data-src="https://s2.glbimg.com/J7fNXtdOemTFKrlv-5TpYoV5j6k=/0x0:2000x1333/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/05/15/40944112714_7cf6508de4_k_jHP00A0.jpg"> <!--[if IE 9]></video><![endif]--> <img class="image content-media__image" itemprop="contentUrl" alt="Umberto orienta elenco bugrino após derrota no dérbi (Foto: Letícia Martins / Guarani Press)" title="Umberto orienta elenco bugrino após derrota no dérbi (Foto: Letícia Martins / Guarani Press)" data-src="https://s2.glbimg.com/J7fNXtdOemTFKrlv-5TpYoV5j6k=/0x0:2000x1333/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/05/15/40944112714_7cf6508de4_k_jHP00A0.jpg"> </source></source></source></source></source></picture> 
+ 
+ 
+ 
+
+_<svg xmlns="http://www.w3.org/2000/svg" width="13.5px" height="11.25px" viewbox="0 0 13 12"> <ellipse id="Oval" cx="6.5" cy="6.7826087" rx="2" ry="2.08695652"></ellipse> <path d="M4.625,0.260869565 L3.48125,1.56521739 L1.5,1.56521739 C0.8125,1.56521739 0.25,2.15217391 0.25,2.86956522 L0.25,10.6956522 C0.25,11.4130435 0.8125,12 1.5,12 L11.5,12 C12.1875,12 12.75,11.4130435 12.75,10.6956522 L12.75,2.86956522 C12.75,2.15217391 12.1875,1.56521739 11.5,1.56521739 L9.51875,1.56521739 L8.375,0.260869565 L4.625,0.260869565 L4.625,0.260869565 Z M6.5,10.0434783 C4.775,10.0434783 3.375,8.5826087 3.375,6.7826087 C3.375,4.9826087 4.775,3.52173913 6.5,3.52173913 C8.225,3.52173913 9.625,4.9826087 9.625,6.7826087 C9.625,8.5826087 8.225,10.0434783 6.5,10.0434783 L6.5,10.0434783 Z" id="Shape"></path> </svg>_ Umberto orienta elenco bugrino após derrota no dérbi (Foto: Letícia Martins / Guarani Press)
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+> PONTE PRETA E O JEJUM INCÔMODO 
+ 
+ 
+
+A Macaca fez um jogo a mais que o rival (quatro) no período. Em momento algum o time mostrou o mesmo nível de futebol do dérbi. A melhor atuação foi justamente no jogo seguinte ao clássico, quando empatou com o Flamengo no Rio vendeu caro a vaga nas quartas de final da Copa do Brasil. Felippe Cardoso chegou a chutar uma bola na trave.
+
+ 
+ 
+ 
+
+Desde então, o desempenho piorou junto com os resultados. Empate com o Vila Nova em Goiânia foi visto com bons olhos, mas, somado às derrotas para Atlético-GO e Sampaio Corrêa, acabou esquecido. A sequência, além de custar o emprego de Doriva e o cargo de Ronaldão, deixa a Ponte a um ponto da zona de rebaixamento.
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+  ![Doriva deixa a Macaca; Brigatti assume interinamente (Foto: Carlos Velardi / EPTV)](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgARCAAOABkDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAcIBQb/xAAXAQADAQAAAAAAAAAAAAAAAAABAwQF/9oADAMBAAIQAxAAAAFdD0nzGfGl86nyVH//xAAdEAACAgEFAAAAAAAAAAAAAAADBAAFAgESExQV/9oACAEBAAEFAh1/NhZKgWXYpCEnjuRsWTIAUZFUBdvSbsp//8QAGBEAAwEBAAAAAAAAAAAAAAAAAAECAxH/2gAIAQMBAT8Bea6TnJ//xAAbEQABBAMAAAAAAAAAAAAAAAACAAEFEQMhsf/aAAgBAgEBPwHBJs4VXUUsY6YV/8QAJxAAAQMDAgQHAAAAAAAAAAAAAQACAxESEwQhFDEyM0FCUWFicdH/2gAIAQEABj8CjZLeHl1m9BtRZtMeIEkmKsnh7in0qtda4+W07rtSJ8YIa5wpd6KPSRthwsdcLnEnlT9Qy4bfhVdLV//EACAQAQACAgEEAwAAAAAAAAAAAAEAESExQVFhkfGx0eH/2gAIAQEAAT8hQ+OzWC2MS8+s0rk4BvLfERS8sAz4ntz7itg9YpseGP0PrpdlY5vylnJJTt7bnuPyf//aAAwDAQACAAMAAAAQZ2//xAAcEQABBAMBAAAAAAAAAAAAAAABABEhcTGBkeH/2gAIAQMBAT8QaC5ipvqyi+/F/8QAGxEBAAICAwAAAAAAAAAAAAAAAQARQVGBocH/2gAIAQIBAT8QQkjeXk2HVbjYajS+lz//xAAdEAEBAAICAwEAAAAAAAAAAAABESExAFEQQXFh/9oACAEBAAE/EM1ooFipQNEr0DWcn9BYkgETAtSsVwhy2WxWbqGnp++OZOUbGwEWQoj+a4qZCd0RMiGenHHPXcYBsNsJu4+TxV//2Q== "Doriva deixa a Macaca; Brigatti assume interinamente (Foto: Carlos Velardi / EPTV)") <picture itemscope itemtype="http://schema.org/ImageObject"> <!--[if IE 9]><video style="display: none;"><![endif]--> <source media="(max-width: 1024px)" data-src="https://s2.glbimg.com/9mYeEeFDLtGkNltVZVgOdLPPPlM=/0x0:1051x587/600x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/U/g/VueIT4ShulFArFRc2XQA/doriva.2.jpg 1x, https://s2.glbimg.com/yKDlqlhaiNpSwebJmXBy7JAQFdk=/0x0:1051x587/1200x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/U/g/VueIT4ShulFArFRc2XQA/doriva.2.jpg 2x"> <source media="(max-width: 1280px)" data-src="https://s2.glbimg.com/hcxV5k-dsBMYiVEWNNZN7laHN14=/0x0:1051x587/640x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/U/g/VueIT4ShulFArFRc2XQA/doriva.2.jpg 1x, https://s2.glbimg.com/ZWZnwIoyxBB4kkkfmVR1NGoeysA=/0x0:1051x587/1280x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/U/g/VueIT4ShulFArFRc2XQA/doriva.2.jpg 2x"> <source media="(max-width: 1360px)" data-src="https://s2.glbimg.com/GWjPBxuZRy2wSebf626i5WEVndg=/0x0:1051x587/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/U/g/VueIT4ShulFArFRc2XQA/doriva.2.jpg 1x, https://s2.glbimg.com/eztm45fVv6yIBvQEbr6CWJph9LU=/0x0:1051x587/1968x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/U/g/VueIT4ShulFArFRc2XQA/doriva.2.jpg 2x"> <source media="(min-width: 1361px)" data-src="https://s2.glbimg.com/LYG9Di8h-ZeWNj1k4EfL9H8pYQU=/0x0:1051x587/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/U/g/VueIT4ShulFArFRc2XQA/doriva.2.jpg 1x, https://s2.glbimg.com/QWs5_EQKQxHgJkzm-PuoJWblPn0=/0x0:1051x587/2000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/U/g/VueIT4ShulFArFRc2XQA/doriva.2.jpg 2x"> <source data-src="https://s2.glbimg.com/GWjPBxuZRy2wSebf626i5WEVndg=/0x0:1051x587/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/U/g/VueIT4ShulFArFRc2XQA/doriva.2.jpg"> <!--[if IE 9]></video><![endif]--> <img class="image content-media__image" itemprop="contentUrl" alt="Doriva deixa a Macaca; Brigatti assume interinamente (Foto: Carlos Velardi / EPTV)" title="Doriva deixa a Macaca; Brigatti assume interinamente (Foto: Carlos Velardi / EPTV)" data-src="https://s2.glbimg.com/GWjPBxuZRy2wSebf626i5WEVndg=/0x0:1051x587/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/U/g/VueIT4ShulFArFRc2XQA/doriva.2.jpg"> </source></source></source></source></source></picture> 
+ 
+ 
+ 
+
+_<svg xmlns="http://www.w3.org/2000/svg" width="13.5px" height="11.25px" viewbox="0 0 13 12"> <ellipse id="Oval" cx="6.5" cy="6.7826087" rx="2" ry="2.08695652"></ellipse> <path d="M4.625,0.260869565 L3.48125,1.56521739 L1.5,1.56521739 C0.8125,1.56521739 0.25,2.15217391 0.25,2.86956522 L0.25,10.6956522 C0.25,11.4130435 0.8125,12 1.5,12 L11.5,12 C12.1875,12 12.75,11.4130435 12.75,10.6956522 L12.75,2.86956522 C12.75,2.15217391 12.1875,1.56521739 11.5,1.56521739 L9.51875,1.56521739 L8.375,0.260869565 L4.625,0.260869565 L4.625,0.260869565 Z M6.5,10.0434783 C4.775,10.0434783 3.375,8.5826087 3.375,6.7826087 C3.375,4.9826087 4.775,3.52173913 6.5,3.52173913 C8.225,3.52173913 9.625,4.9826087 9.625,6.7826087 C9.625,8.5826087 8.225,10.0434783 6.5,10.0434783 L6.5,10.0434783 Z" id="Shape"></path> </svg>_ Doriva deixa a Macaca; Brigatti assume interinamente (Foto: Carlos Velardi / EPTV)
+
+ 
+ 
+ 
+ 
+ 
+
+[+ CLIQUE AQUI para ler mais notícias do Guarani](http://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/guarani/)
+
+ 
+ 
+ 
+
+[+ CLIQUE AQUI e leia tudo sobre a Ponte Preta](http://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/)
+
+ 
+ 
+ 
+ 
+ 
+
+Os dois voltam a campo daqui alguns dias, pela oitava rodada da Série B. O Guarani joga primeiro, contra o Juventude, na sexta-feira, às 19h15, em Caxias do Sul. Já a Ponte Preta encara o Oeste no sábado, às 19h, em Campinas.
+
+ 
+ 
+ 
