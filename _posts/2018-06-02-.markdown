@@ -1,0 +1,7 @@
+---
+layout: post
+title: ""
+date: 2018-06-02T22:00:12+00:00
+external_link: "https://globoesporte.globo.com/sp/campinas-e-regiao/futebol/brasileirao-serie-b/jogo/02-06-2018/ponte-preta-oeste.ghtml"
+categories: news globo.com
+---
