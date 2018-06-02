@@ -1,0 +1,58 @@
+---
+layout: post
+title: "Inter rescinde contrato e libera lateral Ruan para acertar com a Ponte Preta"
+date: 2018-06-02T19:09:48+00:00
+external_link: "https://globoesporte.globo.com/rs/futebol/noticia/inter-rescinde-contrato-e-libera-lateral-ruan-para-acertar-com-a-ponte-preta.ghtml"
+categories: news globo.com
+---
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+Mobilizado para chegar à quarta vitória consecutiva no Brasileirão contra o Sport neste sábado, no Beira-Rio, pela 9ª rodada, o Inter se despediu de Ruan. O lateral-direito rescindiu seu contrato com o Colorado e está livre para acertar com um novo clube. Seu destino será a Ponte Preta.
+
+ 
+ 
+ 
+ 
+
+A rescisão foi realizada sem custos aos cofres colorados. O jogador estava no Inter desde o início do ano, após ter sido emprestado pelo Barra da Tijuca, do Rio de Janeiro. Seu vínculo ia até o fim de 2018, com opção de compra.
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+  ![Ruan disputou apenas sete partidas pelo Inter (Foto: Ricardo Duarte/Divulgação Internacional)](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgARCAARABkDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABQAGBAf/xAAZAQACAwEAAAAAAAAAAAAAAAADBAECBQb/2gAMAwEAAhADEAAAAfI97v20CgNhpjZCVrn8HgzFWn//xAAdEAACAgMAAwAAAAAAAAAAAAADBAAFAQIWEzIz/9oACAEBAAEFAs13i2od2GLsQVi2XNLxcQYJ3bVitNmqx05Yr84x6T//xAAeEQACAQMFAAAAAAAAAAAAAAABAgMABAUQEiKh8P/aAAgBAwEBPwGK+dEKn3VQ5DYOROv/xAAeEQABBAEFAAAAAAAAAAAAAAAAAgMEIQERIkFR8P/aAAgBAgEBPwHMlhW6692KlNa0ciT/xAApEAACAQEGAwkAAAAAAAAAAAABAgMABBAREiGREzFBFCIyM1FxkrHh/9oACAEBAAY/ArMVQq5iDldeevWoLNwkiLpg4zEEY9ffCux5GMCIWAkBwza6bfVeBdv2k7p+VLK0geZVCghQMNOVTPxSZ5pjaJPTMa847C9rv//EACIQAAICAAQHAAAAAAAAAAAAAAERADEQIUHxUXGBobHB8P/aAAgBAQABPyFnszRuz0FTJXBAA3YUYQ/ADUL4almHGN5waAKRk26xJ2Z3tuqEiaoEVCEAdACfM+L9SjlBQnbYf//aAAwDAQACAAMAAAAQbu9h/8QAHhEBAAAFBQAAAAAAAAAAAAAAAQAQESFBMVFhkbH/2gAIAQMBAT8QvuDpRp3lbFoBRC8p5SNpf//EABwRAQABBAMAAAAAAAAAAAAAAAEAESEx8GFx0f/aAAgBAgEBPxARDRwNb1H2WhbB7GMJ/8QAHhABAQEAAgEFAAAAAAAAAAAAAREhAKFREDFhcbH/2gAIAQEAAT8QIYJEC2lEBCRhNeOaw48aY4AghUE1jUMcREtKQYsiPvyfBIYAYyjfjlUElLEMb9pQzzQwhsHdJmjyqtScidN+c6LzuvT/2Q== "Ruan disputou apenas sete partidas pelo Inter (Foto: Ricardo Duarte/Divulgação Internacional)") <picture itemscope itemtype="http://schema.org/ImageObject"> <!--[if IE 9]><video style="display: none;"><![endif]--> <source media="(max-width: 1024px)" data-src="https://s2.glbimg.com/XxQGGUz38Nv5YbOF4KYsoJ2mXuQ=/0x0:2000x1330/600x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/02/18/foto_20180218173320_ZH2ds2e.jpg 1x, https://s2.glbimg.com/vAvA2z1mTsbiMz7tlPuSqejJIkI=/0x0:2000x1330/1200x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/02/18/foto_20180218173320_ZH2ds2e.jpg 2x"> <source media="(max-width: 1280px)" data-src="https://s2.glbimg.com/zlIbPkYZeHbysCPHzOoyA0qDhfc=/0x0:2000x1330/640x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/02/18/foto_20180218173320_ZH2ds2e.jpg 1x, https://s2.glbimg.com/skgctI_abNseE_9GpV8qN4sOH-M=/0x0:2000x1330/1280x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/02/18/foto_20180218173320_ZH2ds2e.jpg 2x"> <source media="(max-width: 1360px)" data-src="https://s2.glbimg.com/px6LtAv0bsvZnpkhLZcYgR58sq8=/0x0:2000x1330/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/02/18/foto_20180218173320_ZH2ds2e.jpg 1x, https://s2.glbimg.com/QWGgbHL9qNvbYdHXYkjplluflb4=/0x0:2000x1330/1968x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/02/18/foto_20180218173320_ZH2ds2e.jpg 2x"> <source media="(min-width: 1361px)" data-src="https://s2.glbimg.com/Eo5SWQiBkBvqPNRkNHARFAQJ5w4=/0x0:2000x1330/1000x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/02/18/foto_20180218173320_ZH2ds2e.jpg 1x, https://s2.glbimg.com/KoMXe03ohKb3VRhvP3qKlzdCd6g=/0x0:2000x1330/2000x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/02/18/foto_20180218173320_ZH2ds2e.jpg 2x"> <source data-src="https://s2.glbimg.com/px6LtAv0bsvZnpkhLZcYgR58sq8=/0x0:2000x1330/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/02/18/foto_20180218173320_ZH2ds2e.jpg"> <!--[if IE 9]></video><![endif]--> <img class="image content-media__image" itemprop="contentUrl" alt="Ruan disputou apenas sete partidas pelo Inter (Foto: Ricardo Duarte/Divulgação Internacional)" title="Ruan disputou apenas sete partidas pelo Inter (Foto: Ricardo Duarte/Divulgação Internacional)" data-src="https://s2.glbimg.com/px6LtAv0bsvZnpkhLZcYgR58sq8=/0x0:2000x1330/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/02/18/foto_20180218173320_ZH2ds2e.jpg"> </source></source></source></source></source></picture> 
+ 
+ 
+ 
+
+_<svg xmlns="http://www.w3.org/2000/svg" width="13.5px" height="11.25px" viewbox="0 0 13 12"> <ellipse id="Oval" cx="6.5" cy="6.7826087" rx="2" ry="2.08695652"></ellipse> <path d="M4.625,0.260869565 L3.48125,1.56521739 L1.5,1.56521739 C0.8125,1.56521739 0.25,2.15217391 0.25,2.86956522 L0.25,10.6956522 C0.25,11.4130435 0.8125,12 1.5,12 L11.5,12 C12.1875,12 12.75,11.4130435 12.75,10.6956522 L12.75,2.86956522 C12.75,2.15217391 12.1875,1.56521739 11.5,1.56521739 L9.51875,1.56521739 L8.375,0.260869565 L4.625,0.260869565 L4.625,0.260869565 Z M6.5,10.0434783 C4.775,10.0434783 3.375,8.5826087 3.375,6.7826087 C3.375,4.9826087 4.775,3.52173913 6.5,3.52173913 C8.225,3.52173913 9.625,4.9826087 9.625,6.7826087 C9.625,8.5826087 8.225,10.0434783 6.5,10.0434783 L6.5,10.0434783 Z" id="Shape"></path> </svg>_ Ruan disputou apenas sete partidas pelo Inter (Foto: Ricardo Duarte/Divulgação Internacional)
+
+ 
+ 
+ 
+ 
+ 
+
+Ruan foi o primeiro dos quatro laterais-direitos contratados pelo Inter para solucionar uma carência histórica no setor. Após se destacar pelo Boa Esporte, o jovem chegou como aposta da diretoria, que buscou ainda Dudu, Fabiano e Zeca para a posição. Com a concorrência, o jogador logo perdeu espaço e sequer era relacionado por Odair Hellmann.
+
+ 
+ 
+ 
+ 
+ 
+
+O lateral deixa o Inter com apenas sete jogos disputados na temporada. Ruan não atua desde 14 de março, quando esteve em campo na vitória por 2 a 0 sobre o Cianorte, pela Copa do Brasil.
+
+ 
+ 
+ 
