@@ -1,0 +1,92 @@
+---
+layout: post
+title: "Brigati garante volta de Orinho na Ponte e espera por André Luis contra o Goiás"
+date: 2018-06-03T15:40:27+00:00
+external_link: "https://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/noticia/brigatti-garante-volta-de-orinho-na-ponte-e-espera-por-andre-luis-contra-o-goias.ghtml"
+categories: news globo.com
+---
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+Com pouco tempo para preparar a Ponte Preta, João Brigatti espera contar com dois reforços contra o Goiás, nesta terça-feira, às 21h30, no Majestoso. Segundo o interino da Macaca, Orinho tem retorno garantido, e André Luis depende de uma reavaliação do departamento médico.
+
+ 
+ 
+ 
+ 
+
+Orinho perdeu os cinco últimos jogos devido a um problema muscular na coxa esquerda, passou a semana em transição física e voltará a ficar à disposição após quase um mês - esteve em campo pela última vez contra o Guarani, em 5 de maio.
+
+ 
+ 
+ 
+
+Já André Luis ficou fora do empate por 1 a 1 com o Oeste, no último sábado, por conta de um pisão no pé que levou no treino de sexta-feira. Eles foram dois dos principais destaques no dérbi campineiro e são considerados titulares absolutos da Ponte.
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+  ![Brigatti conta com Orinho para duelo contra o Goiás, nesta terça-feira (Foto: Gustavo Biano/ EPTV)](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgARCAAOABkDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYAAgMH/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIDBf/aAAwDAQACEAMQAAABPc5yascpdSsSX//EAB4QAAEDBAMAAAAAAAAAAAAAAAIBBAUAAwYUEhMV/9oACAEBAAEFAsplwCGaRpSDbzL1tdE6fN9+mnBMZS4Yp2rX/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAECEf/aAAgBAwEBPwGcpMw//8QAGxEAAQQDAAAAAAAAAAAAAAAAAwABAiEEBVH/2gAIAQIBAT8BHkFkOpWm2B+Mv//EACcQAAIBAgUBCQAAAAAAAAAAAAECAwAREiIxQVETBBAhJDJxgZLR/9oACAEBAAY/ApZoWnjlthBMmlGTtZZp72YYr+1+aI6HTXkFTXpm+qftYTK6KdVDeBHFPk83EbK+xzb/ABVmOfcjTu//xAAdEAEAAgIDAQEAAAAAAAAAAAABESEAMUFhcRCR/9oACAEBAAE/ISVwS+1R1veR0ucKgQ8Lm95CHdQ/BDwZB1SV6YjUW3NmlipQVxgmUDgp8z2/c//aAAwDAQACAAMAAAAQyN//xAAcEQABBQADAAAAAAAAAAAAAAABABEhMVFBkaH/2gAIAQMBAT8QdBgx1y5vNREmvV//xAAbEQADAAIDAAAAAAAAAAAAAAABESEAMVGR0f/aAAgBAgEBPxCEiNoKS0hObMACPWfc/8QAHxABAQEAAQMFAAAAAAAAAAAAAREhADFBgRBRYdHw/9oACAEBAAE/EESx8s20Idb6MnbmRSFiulkMCQmXYCvE0dN9iTPr0GjUrKOiSZRFPhinFyW2MxY2AMWT4xD017iiWHnn7Pn/2Q== "Brigatti conta com Orinho para duelo contra o Goiás, nesta terça-feira (Foto: Gustavo Biano/ EPTV)") <picture itemscope itemtype="http://schema.org/ImageObject"> <!--[if IE 9]><video style="display: none;"><![endif]--> <source media="(max-width: 1024px)" data-src="https://s2.glbimg.com/HINBKAk1EIokRKNFakzmkxsiDoI=/0x0:1032x581/600x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/Y/c/nCAQLkRHur09jiq7EWvw/orinho.jpg 1x, https://s2.glbimg.com/dpNn7Bx5JsQELr5jc49P_h_1gC8=/0x0:1032x581/1200x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/Y/c/nCAQLkRHur09jiq7EWvw/orinho.jpg 2x"> <source media="(max-width: 1280px)" data-src="https://s2.glbimg.com/LPnjMxUcySNSfH2s4jJaczTU5ts=/0x0:1032x581/640x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/Y/c/nCAQLkRHur09jiq7EWvw/orinho.jpg 1x, https://s2.glbimg.com/eylrx0kPKuaHpA9x7anCsgjLLdA=/0x0:1032x581/1280x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/Y/c/nCAQLkRHur09jiq7EWvw/orinho.jpg 2x"> <source media="(max-width: 1360px)" data-src="https://s2.glbimg.com/godnHNlX3U68JP-w_gKzjPXK7KU=/0x0:1032x581/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/Y/c/nCAQLkRHur09jiq7EWvw/orinho.jpg 1x, https://s2.glbimg.com/MP7Mtj5tzYmSERFRT1TpLMZ2jbY=/0x0:1032x581/1968x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/Y/c/nCAQLkRHur09jiq7EWvw/orinho.jpg 2x"> <source media="(min-width: 1361px)" data-src="https://s2.glbimg.com/L22SUH0aSYHqijYogV_5W45A1FY=/0x0:1032x581/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/Y/c/nCAQLkRHur09jiq7EWvw/orinho.jpg 1x, https://s2.glbimg.com/NG308YU66FADRYJt_o8-vWrpWaY=/0x0:1032x581/2000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/Y/c/nCAQLkRHur09jiq7EWvw/orinho.jpg 2x"> <source data-src="https://s2.glbimg.com/godnHNlX3U68JP-w_gKzjPXK7KU=/0x0:1032x581/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/Y/c/nCAQLkRHur09jiq7EWvw/orinho.jpg"> <!--[if IE 9]></video><![endif]--> <img class="image content-media__image" itemprop="contentUrl" alt="Brigatti conta com Orinho para duelo contra o Goiás, nesta terça-feira (Foto: Gustavo Biano/ EPTV)" title="Brigatti conta com Orinho para duelo contra o Goiás, nesta terça-feira (Foto: Gustavo Biano/ EPTV)" data-src="https://s2.glbimg.com/godnHNlX3U68JP-w_gKzjPXK7KU=/0x0:1032x581/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/Y/c/nCAQLkRHur09jiq7EWvw/orinho.jpg"> </source></source></source></source></source></picture> 
+ 
+ 
+ 
+
+_<svg xmlns="http://www.w3.org/2000/svg" width="13.5px" height="11.25px" viewbox="0 0 13 12"> <ellipse id="Oval" cx="6.5" cy="6.7826087" rx="2" ry="2.08695652"></ellipse> <path d="M4.625,0.260869565 L3.48125,1.56521739 L1.5,1.56521739 C0.8125,1.56521739 0.25,2.15217391 0.25,2.86956522 L0.25,10.6956522 C0.25,11.4130435 0.8125,12 1.5,12 L11.5,12 C12.1875,12 12.75,11.4130435 12.75,10.6956522 L12.75,2.86956522 C12.75,2.15217391 12.1875,1.56521739 11.5,1.56521739 L9.51875,1.56521739 L8.375,0.260869565 L4.625,0.260869565 L4.625,0.260869565 Z M6.5,10.0434783 C4.775,10.0434783 3.375,8.5826087 3.375,6.7826087 C3.375,4.9826087 4.775,3.52173913 6.5,3.52173913 C8.225,3.52173913 9.625,4.9826087 9.625,6.7826087 C9.625,8.5826087 8.225,10.0434783 6.5,10.0434783 L6.5,10.0434783 Z" id="Shape"></path> </svg>_ Brigatti conta com Orinho para duelo contra o Goiás, nesta terça-feira (Foto: Gustavo Biano/ EPTV)
+
+ 
+ 
+ 
+ 
+ 
+
+- O Orinho e o André Luis são peças muito importantes. O André estava escalado, mas foi tirado por causa do pisão. Vamos ver se recupera. O Orinho volta com certeza. Com mais opções, nós vamos em busca de um jogo melhor já na terça-feira - disse Brigatti.
+
+ 
+ 
+ 
+
+Com Orinho, a tendência é que Danilo Barcelos seja adiantado, e Felipe Saraiva saia do time. Se André Luis for liberado, disputará vaga com Roberto e Júnior Santos. Também existe a possibilidade de Murilo, autor do gol contra o Oeste, entrar no meio para fazer o papel de armador da equipe.
+
+ 
+ 
+ 
+
+Além das alternativas que já estão no grupo, Brigatti espera contar em breve com novos reforços. As prioridades da diretoria são um lateral-esquerdo, um meia e um atacante de referência.
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+[**+ CLIQUE AQUI e leia mais sobre a Ponte**](http://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/)
+
+ 
+ 
+ 
+
+- Esse cmapeonato é muito difícil. Requer jogadores de força. Nós precisamos nos qualificar um pouco mais até para ter mais opções no elenco. Trabalhamos com a diretoria, mas faltam nomes no mercado. Vamos qualificar o time.
+
+ 
+ 
+ 
+ 
+ 
+
+Com oito pontos, a Ponte aparece à beira da zona de rebaixamento, na 16ª colocação. A distância para o CRB, que abre a degola, é de apenas um ponto. Ainda sem vencer como mandante na Série B (três derrotas e um empate), a Macaca tenta colocar fim ao jejum para aliviar a pressão na tabela.
+
+ 
+ 
+ 
