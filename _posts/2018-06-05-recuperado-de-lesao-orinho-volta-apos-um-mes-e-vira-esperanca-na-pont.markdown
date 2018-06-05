@@ -1,0 +1,102 @@
+---
+layout: post
+title: "Recuperado de lesão, Orinho volta após um mês e vira esperança na Ponte"
+date: 2018-06-05T00:00:27+00:00
+external_link: "https://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/noticia/recuperado-de-lesao-orinho-volta-apos-um-mes-e-vira-esperanca-na-ponte.ghtml"
+categories: news globo.com
+---
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+Sem vencer há um mês, a Ponte Preta terá um retorno importante na partida desta terça-feira, contra o Goiás, pela Série B do Campeonato Brasileiro. Recuperado de estiramento no músculo posterior da coxa esquerda, o lateral-esquerdo Orinho é a esperança por dias melhores para o técnico João Brigatti no jogo marcado para as 21h30, no Moisés Lucarelli.
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  ![Recuperado de lesão, Orinho retorna ao time da Ponte (Foto: Ponte Press)](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgARCAASABkDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUGBwIDBP/EABgBAAMBAQAAAAAAAAAAAAAAAAECAwAF/9oADAMBAAIQAxAAAAGaM40ljO03NQqMZJ3BwE3YAG//xAAcEAABBQEBAQAAAAAAAAAAAAACAAEDBAUVERL/2gAIAQEAAQUCknf5DRsMh1yqj3KiByWkV+a7o149Z+HRUboRZOvV/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAEQMf/aAAgBAwEBPwFGCn//xAAaEQACAgMAAAAAAAAAAAAAAAABAwAEEBRB/9oACAECAQE/ARbUZtJPc//EACcQAAEDAgQFBQAAAAAAAAAAAAIBAxEAEgQQEzEhIiMyQTM0gZKT/9oACAEBAAY/Al05KaaFEcK4o37UjepccRLijqHFe+a/RKSWk+DWhdwwimlEtkUqSebaw5Ok4gtJbypv4r1cT9RymOOf/8QAHxAAAgIBBAMAAAAAAAAAAAAAAREAITEQQVHBYXHw/9oACAEBAAE/ISLoiO9w4DjYGMi3hCUpKGx50eDLH1O5bBkwVNiaDSt4hXcqbBDdg1c+h6hCMmKUNRKhRuTP/9oADAMBAAIAAwAAABDLv8D/xAAYEQADAQEAAAAAAAAAAAAAAAAAAREhMf/aAAgBAwEBPxBLdFMNnDH0/8QAGxEBAAAHAAAAAAAAAAAAAAAAAQAQESExcYH/2gAIAQIBAT8QXCqbjIs4z//EAB8QAQEAAgIBBQAAAAAAAAAAAAERACExQVEQocHw8f/aAAgBAQABPxAJWwQAEWk0gt31cT93IIEwYOl7N5fKPACTSy2+2fR/nNQEQhp4nLHUBrtOAi0jaSXZw1bLiXqcSPiHPpQ3xpxXCsGkIqGwXxVxAIpn72f/2Q== "Recuperado de lesão, Orinho retorna ao time da Ponte (Foto: Ponte Press)") <picture itemscope itemtype="http://schema.org/ImageObject"> <!--[if IE 9]><video style="display: none;"><![endif]--> <source media="(max-width: 1024px)" data-src="https://s2.glbimg.com/NydtT8C_Sn96NSZCZVBcvqvrJBs=/0x0:630x464/600x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/03/28/orinho.jpg 1x, https://s2.glbimg.com/Sij4mWl0VP9JDeJ8R9MT5jHwRP8=/0x0:630x464/1200x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/03/28/orinho.jpg 2x"> <source media="(max-width: 1280px)" data-src="https://s2.glbimg.com/tdIedfu8tCxNQGp8dx4SC6fUvV0=/0x0:630x464/640x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/03/28/orinho.jpg 1x, https://s2.glbimg.com/FNGoHR5Ujtaa8wqT47Gryl2zyEY=/0x0:630x464/1280x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/03/28/orinho.jpg 2x"> <source media="(max-width: 1360px)" data-src="https://s2.glbimg.com/GGIvsq0dYPDj5BcmfIh9iaqJhtE=/0x0:630x464/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/03/28/orinho.jpg 1x, https://s2.glbimg.com/i2Io86vEnF7IiongNuk1epUi528=/0x0:630x464/1968x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/03/28/orinho.jpg 2x"> <source media="(min-width: 1361px)" data-src="https://s2.glbimg.com/ukCSUcTE2fz90SetVY8NRAQZvjY=/0x0:630x464/1000x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/03/28/orinho.jpg 1x, https://s2.glbimg.com/3AgNo1h0lytBWJyMOoZ4Ne9vPVY=/0x0:630x464/2000x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/03/28/orinho.jpg 2x"> <source data-src="https://s2.glbimg.com/GGIvsq0dYPDj5BcmfIh9iaqJhtE=/0x0:630x464/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/03/28/orinho.jpg"> <!--[if IE 9]></video><![endif]--> <img class="image content-media__image" itemprop="contentUrl" alt="Recuperado de lesão, Orinho retorna ao time da Ponte (Foto: Ponte Press)" title="Recuperado de lesão, Orinho retorna ao time da Ponte (Foto: Ponte Press)" data-src="https://s2.glbimg.com/GGIvsq0dYPDj5BcmfIh9iaqJhtE=/0x0:630x464/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/03/28/orinho.jpg"> </source></source></source></source></source></picture> 
+ 
+ 
+ 
+
+_<svg xmlns="http://www.w3.org/2000/svg" width="13.5px" height="11.25px" viewbox="0 0 13 12"> <ellipse id="Oval" cx="6.5" cy="6.7826087" rx="2" ry="2.08695652"></ellipse> <path d="M4.625,0.260869565 L3.48125,1.56521739 L1.5,1.56521739 C0.8125,1.56521739 0.25,2.15217391 0.25,2.86956522 L0.25,10.6956522 C0.25,11.4130435 0.8125,12 1.5,12 L11.5,12 C12.1875,12 12.75,11.4130435 12.75,10.6956522 L12.75,2.86956522 C12.75,2.15217391 12.1875,1.56521739 11.5,1.56521739 L9.51875,1.56521739 L8.375,0.260869565 L4.625,0.260869565 L4.625,0.260869565 Z M6.5,10.0434783 C4.775,10.0434783 3.375,8.5826087 3.375,6.7826087 C3.375,4.9826087 4.775,3.52173913 6.5,3.52173913 C8.225,3.52173913 9.625,4.9826087 9.625,6.7826087 C9.625,8.5826087 8.225,10.0434783 6.5,10.0434783 L6.5,10.0434783 Z" id="Shape"></path> </svg>_ Recuperado de lesão, Orinho retorna ao time da Ponte (Foto: Ponte Press)
+
+ 
+ 
+ 
+ 
+ 
+
+Recuperado, ele entrou no [**clima de mistério do clube**](https://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/noticia/com-voltas-de-orinho-e-renan-fonseca-ponte-adota-misterio-para-enfrentar-goias.ghtml), desconversou sobre a possibilidade de começar entre os titulares e preferiu comemorar a recuperação da lesão. A tendência, porém, é que o jogador de 22 anos apareça entre os titulares da Macaca.
+
+ 
+ 
+ 
+
+– Graças a Deus estou de volta, tenho trabalhado forte para ajudar a equipe. É uma satisfação voltar e ajudar o professor. Acho que não importa se começo jogando ou no banco, mas estou feliz por voltar.
+
+ 
+ 
+ 
+
+O retorno de Orinho enche o torcedor de esperança por vitória. Isto porque ele saiu de campo como um dos principais destaques no último triunfo do time campineiro na Série B, contra o Guarani, por 3 a 2, em jogo válido quarta rodada, há um mês.
+
+ 
+ 
+ 
+
+Desde o dérbi, a Ponte conquistou apenas dois pontos, nos empates contra Vila Nova e Oeste, e ficou perto da zona de rebaixamento, com oito pontos, em 16º lugar. A proximidade da degola preocupa, mas o lateral confia no potencial do elenco para reverter a situação.
+
+ 
+ 
+ 
+
+– É meio complicado, mas a gente tem que trabalhar, não pode preocupar com zona de rebaixamento. A gente está trabalhando forte, o professor João Brigatti está colocando na nossa cabeça que tem que lutar e ganhar os jogos. A responsabilidade é muito grande, mas a gente tem time para conseguir a reabilitação.
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+[**+ MAIS NOTÍCIAS DA PONTE PRETA**](http://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/)
+
+ 
+ 
+ 
+
+Com a volta de Renan Fonseca à zaga, o provável time da Macaca tem: **Ivan; Igor, Renan Fonseca, Reginaldo e Orinho; André Castro, Paulinho e Danilo Barcelos; Felipe Saraiva, Roberto e Júnior Santos.**
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  ![Lateral retorna após participação decisiva no dérbi (Foto: Marcos Ribolli)](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgARCAARABkDASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAMEBQYBAgf/xAAaAQABBQEAAAAAAAAAAAAAAAACAAEDBAUG/9oADAMBAAIQAxAAAAHnU6u+w2oDK/TBx3xcOAq50AV//8QAIBAAAAYBBQEAAAAAAAAAAAAAAAECAwQFBhESFBYxQf/aAAgBAQABBQJuuN5VXccCLIbbSegiYo62JmMrfOFQ7k9ThggXnwf/xAAZEQACAwEAAAAAAAAAAAAAAAABAgADEDH/2gAIAQMBAT8BFiDkZlG//8QAHREAAQQCAwAAAAAAAAAAAAAAAgABAwQRcQVRof/aAAgBAgEBPwGe5TlJ2cusb2i5CtG+CLxGmX//xAApEAACAQEGAwkAAAAAAAAAAAABAwIABBAREiEiEzNiIzFBUXGBkaHh/9oACAEBAAY/AsiTnnGO8dXlT0WgRmrA9nLX1GFbWAxJ2dQujOT58XiZzl+6ayDWhi+WJHRmn7VjjaVEqECe/csnw9q5rPi43//EAB8QAAICAgIDAQAAAAAAAAAAAAERACExURBBYYHxwf/aAAgBAQABPyFLRJJ6WmylEvMGUMt0KPdG4Tkwv2esbiwLRMppg7bSmPkXgBfIxZD15hbXMFs4o/E+OnTiHh//2gAMAwEAAgADAAAAEMZvIv/EABoRAAIDAQEAAAAAAAAAAAAAAAExABEhEKH/2gAIAQMBAT8QNgNt2jaXsJDYOf/EAB0RAQEAAgEFAAAAAAAAAAAAAAERAEExIVGBkaH/2gAIAQIBAT8QkkBcCwQXy+KdS5WP2dzV7bzlnDP/xAAhEAEBAAIBAgcAAAAAAAAAAAABEQAhMRBBUWFxkaGxwf/aAAgBAQABPxAwtuBBVfdLQIWVcBiv38SYYzlGDFuiEFRYlXudNpFQN5557GA4AShjbVULFRbi0njIRUB1UaF8CMbJg0yRVyNKKaRqjkn1Z8j8zh9Dp//Z "Lateral retorna após participação decisiva no dérbi (Foto: Marcos Ribolli)") <picture itemscope itemtype="http://schema.org/ImageObject"> <!--[if IE 9]><video style="display: none;"><![endif]--> <source media="(max-width: 1024px)" data-src="https://s2.glbimg.com/pIZJx1SkosXg67zcruA6fI3u4UU=/0x0:2000x1372/600x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/05/05/rib0858a_Mj3VrV8.jpg 1x, https://s2.glbimg.com/9MqjDS06AGh-GtGtFVHyGeEPaKE=/0x0:2000x1372/1200x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/05/05/rib0858a_Mj3VrV8.jpg 2x"> <source media="(max-width: 1280px)" data-src="https://s2.glbimg.com/Qk-utWQRusSf3Y78KzmI5xM1MU0=/0x0:2000x1372/640x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/05/05/rib0858a_Mj3VrV8.jpg 1x, https://s2.glbimg.com/1fQYznqL4csXUfp99xJH6Ytpepo=/0x0:2000x1372/1280x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/05/05/rib0858a_Mj3VrV8.jpg 2x"> <source media="(max-width: 1360px)" data-src="https://s2.glbimg.com/A9oX-5fpBILmH7FNeGVmfsCEWvU=/0x0:2000x1372/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/05/05/rib0858a_Mj3VrV8.jpg 1x, https://s2.glbimg.com/aPQQZI236-A7Q5gDR9dIF9Iup5E=/0x0:2000x1372/1968x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/05/05/rib0858a_Mj3VrV8.jpg 2x"> <source media="(min-width: 1361px)" data-src="https://s2.glbimg.com/zHoxy8eVesHjoCGQkA3nZ88kTMc=/0x0:2000x1372/1000x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/05/05/rib0858a_Mj3VrV8.jpg 1x, https://s2.glbimg.com/mmN89vUZ1XoDmBH9e0R8q61ueZ0=/0x0:2000x1372/2000x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/05/05/rib0858a_Mj3VrV8.jpg 2x"> <source data-src="https://s2.glbimg.com/A9oX-5fpBILmH7FNeGVmfsCEWvU=/0x0:2000x1372/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/05/05/rib0858a_Mj3VrV8.jpg"> <!--[if IE 9]></video><![endif]--> <img class="image content-media__image" itemprop="contentUrl" alt="Lateral retorna após participação decisiva no dérbi (Foto: Marcos Ribolli)" title="Lateral retorna após participação decisiva no dérbi (Foto: Marcos Ribolli)" data-src="https://s2.glbimg.com/A9oX-5fpBILmH7FNeGVmfsCEWvU=/0x0:2000x1372/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/05/05/rib0858a_Mj3VrV8.jpg"> </source></source></source></source></source></picture> 
+ 
+ 
+ 
+
+_<svg xmlns="http://www.w3.org/2000/svg" width="13.5px" height="11.25px" viewbox="0 0 13 12"> <ellipse id="Oval" cx="6.5" cy="6.7826087" rx="2" ry="2.08695652"></ellipse> <path d="M4.625,0.260869565 L3.48125,1.56521739 L1.5,1.56521739 C0.8125,1.56521739 0.25,2.15217391 0.25,2.86956522 L0.25,10.6956522 C0.25,11.4130435 0.8125,12 1.5,12 L11.5,12 C12.1875,12 12.75,11.4130435 12.75,10.6956522 L12.75,2.86956522 C12.75,2.15217391 12.1875,1.56521739 11.5,1.56521739 L9.51875,1.56521739 L8.375,0.260869565 L4.625,0.260869565 L4.625,0.260869565 Z M6.5,10.0434783 C4.775,10.0434783 3.375,8.5826087 3.375,6.7826087 C3.375,4.9826087 4.775,3.52173913 6.5,3.52173913 C8.225,3.52173913 9.625,4.9826087 9.625,6.7826087 C9.625,8.5826087 8.225,10.0434783 6.5,10.0434783 L6.5,10.0434783 Z" id="Shape"></path> </svg>_ Lateral retorna após participação decisiva no dérbi (Foto: Marcos Ribolli)
+
+ 
+ 
+ 
+ 
+ 
