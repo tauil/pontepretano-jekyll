@@ -1,0 +1,7 @@
+---
+layout: post
+title: "ALELUIA!"
+date: 2018-06-06T02:30:16+00:00
+external_link: "https://globoesporte.globo.com/sp/campinas-e-regiao/futebol/brasileirao-serie-b/jogo/05-06-2018/ponte-preta-goias.ghtml"
+categories: news globo.com
+---
